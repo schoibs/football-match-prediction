@@ -1,0 +1,954 @@
+Date,Comp,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,team
+2018-08-12,Premier League,Home,L,0,2,Manchester City,0.5,1.7,42.0,arsenal
+2018-08-18,Premier League,Away,L,2,3,Chelsea,2.4,1.6,38.0,arsenal
+2018-08-25,Premier League,Home,W,3,1,West Ham,1.8,1.1,61.0,arsenal
+2018-09-02,Premier League,Away,W,3,2,Cardiff City,1.7,1.0,72.0,arsenal
+2018-09-15,Premier League,Away,W,2,1,Newcastle Utd,1.0,0.4,63.0,arsenal
+2018-09-20,Europa Lg,Home,W,4,2,ua Vorskla Poltava,2.7,0.5,68.0,arsenal
+2018-09-23,Premier League,Home,W,2,0,Everton,0.8,0.8,62.0,arsenal
+2018-09-26,EFL Cup,Home,W,3,1,Brentford,,,51.0,arsenal
+2018-09-29,Premier League,Home,W,2,0,Watford,1.4,2.8,63.0,arsenal
+2018-10-04,Europa Lg,Away,W,3,0,az Qarabağ Ağdam,2.5,1.0,52.0,arsenal
+2018-10-07,Premier League,Away,W,5,1,Fulham,1.1,1.4,52.0,arsenal
+2018-10-22,Premier League,Home,W,3,1,Leicester City,2.7,0.5,68.0,arsenal
+2018-10-25,Europa Lg,Away,W,1,0,pt Sporting CP,1.6,0.5,66.0,arsenal
+2018-10-28,Premier League,Away,D,2,2,Crystal Palace,0.9,2.3,57.0,arsenal
+2018-10-31,EFL Cup,Home,W,2,1,Blackpool,,,63.0,arsenal
+2018-11-03,Premier League,Home,D,1,1,Liverpool,1.4,1.3,61.0,arsenal
+2018-11-08,Europa Lg,Home,D,0,0,pt Sporting CP,1.3,0.2,70.0,arsenal
+2018-11-11,Premier League,Home,D,1,1,Wolves,0.9,1.9,71.0,arsenal
+2018-11-25,Premier League,Away,W,2,1,Bournemouth,1.6,0.6,58.0,arsenal
+2018-11-29,Europa Lg,Away,W,3,0,ua Vorskla Poltava,2.2,0.8,56.0,arsenal
+2018-12-02,Premier League,Home,W,4,2,Tottenham,2.7,1.2,59.0,arsenal
+2018-12-05,Premier League,Away,D,2,2,Manchester Utd,1.1,1.1,55.0,arsenal
+2018-12-08,Premier League,Home,W,1,0,Huddersfield,1.4,0.3,62.0,arsenal
+2018-12-13,Europa Lg,Home,W,1,0,az Qarabağ Ağdam,1.0,0.1,66.0,arsenal
+2018-12-16,Premier League,Away,L,2,3,Southampton,1.9,1.3,66.0,arsenal
+2018-12-19,EFL Cup,Home,L,0,2,Tottenham,,,54.0,arsenal
+2018-12-22,Premier League,Home,W,3,1,Burnley,1.6,1.2,60.0,arsenal
+2018-12-26,Premier League,Away,D,1,1,Brighton,0.8,1.1,67.0,arsenal
+2018-12-29,Premier League,Away,L,1,5,Liverpool,1.0,3.8,52.0,arsenal
+2019-01-01,Premier League,Home,W,4,1,Fulham,4.5,1.4,60.0,arsenal
+2019-01-05,FA Cup,Away,W,3,0,Blackpool,,,58.0,arsenal
+2019-01-12,Premier League,Away,L,0,1,West Ham,0.7,0.6,58.0,arsenal
+2019-01-19,Premier League,Home,W,2,0,Chelsea,1.5,0.9,36.0,arsenal
+2019-01-25,FA Cup,Home,L,1,3,Manchester Utd,,,63.0,arsenal
+2019-01-29,Premier League,Home,W,2,1,Cardiff City,2.6,0.8,70.0,arsenal
+2019-02-03,Premier League,Away,L,1,3,Manchester City,0.7,2.7,41.0,arsenal
+2019-02-09,Premier League,Away,W,2,1,Huddersfield,1.4,1.6,45.0,arsenal
+2019-02-14,Europa Lg,Away,L,0,1,by BATE Borisov,1.8,0.7,76.0,arsenal
+2019-02-21,Europa Lg,Home,W,3,0,by BATE Borisov,2.2,0.6,68.0,arsenal
+2019-02-24,Premier League,Home,W,2,0,Southampton,2.1,0.8,62.0,arsenal
+2019-02-27,Premier League,Home,W,5,1,Bournemouth,2.5,0.9,64.0,arsenal
+2019-03-02,Premier League,Away,D,1,1,Tottenham,2.6,1.6,40.0,arsenal
+2019-03-07,Europa Lg,Away,L,1,3,fr Rennes,0.7,1.6,49.0,arsenal
+2019-03-10,Premier League,Home,W,2,0,Manchester Utd,1.7,2.3,46.0,arsenal
+2019-03-14,Europa Lg,Home,W,3,0,fr Rennes,3.2,0.5,53.0,arsenal
+2019-04-01,Premier League,Home,W,2,0,Newcastle Utd,0.8,0.1,70.0,arsenal
+2019-04-07,Premier League,Away,L,0,1,Everton,0.3,2.4,57.0,arsenal
+2019-04-11,Europa Lg,Home,W,2,0,it Napoli,2.0,0.8,42.0,arsenal
+2019-04-15,Premier League,Away,W,1,0,Watford,2.3,1.0,65.0,arsenal
+2019-04-18,Europa Lg,Away,W,1,0,it Napoli,0.7,1.4,31.0,arsenal
+2019-04-21,Premier League,Home,L,2,3,Crystal Palace,1.2,1.6,72.0,arsenal
+2019-04-24,Premier League,Away,L,1,3,Wolves,0.8,1.2,70.0,arsenal
+2019-04-28,Premier League,Away,L,0,3,Leicester City,0.6,3.3,34.0,arsenal
+2019-05-02,Europa Lg,Home,W,3,1,es Valencia,2.3,2.6,57.0,arsenal
+2019-05-05,Premier League,Home,D,1,1,Brighton,2.4,1.9,70.0,arsenal
+2019-05-09,Europa Lg,Away,W,4,2,es Valencia,0.7,2.5,44.0,arsenal
+2019-05-12,Premier League,Away,W,3,1,Burnley,2.7,1.7,60.0,arsenal
+2019-05-29,Europa Lg,Away,L,1,4,eng Chelsea,1.4,1.9,50.0,arsenal
+2018-08-11,Premier League,Home,W,2,0,Cardiff City,2.2,1.4,63.0,bournemouth
+2018-08-18,Premier League,Away,W,2,1,West Ham,1.3,1.2,39.0,bournemouth
+2018-08-25,Premier League,Home,D,2,2,Everton,2.2,0.6,50.0,bournemouth
+2018-08-28,EFL Cup,Home,W,3,0,MK Dons,,,56.0,bournemouth
+2018-09-01,Premier League,Away,L,0,2,Chelsea,0.9,1.1,28.0,bournemouth
+2018-09-15,Premier League,Home,W,4,2,Leicester City,2.3,2.3,47.0,bournemouth
+2018-09-22,Premier League,Away,L,0,4,Burnley,1.0,2.1,62.0,bournemouth
+2018-09-25,EFL Cup,Home,W,3,2,Blackburn,,,58.0,bournemouth
+2018-10-01,Premier League,Home,W,2,1,Crystal Palace,1.8,0.4,45.0,bournemouth
+2018-10-06,Premier League,Away,W,4,0,Watford,3.2,1.0,52.0,bournemouth
+2018-10-20,Premier League,Home,D,0,0,Southampton,0.9,0.5,58.0,bournemouth
+2018-10-27,Premier League,Away,W,3,0,Fulham,2.0,0.5,49.0,bournemouth
+2018-10-30,EFL Cup,Home,W,2,1,Norwich City,,,41.0,bournemouth
+2018-11-03,Premier League,Home,L,1,2,Manchester Utd,1.6,3.0,49.0,bournemouth
+2018-11-10,Premier League,Away,L,1,2,Newcastle Utd,1.6,2.2,60.0,bournemouth
+2018-11-25,Premier League,Home,L,1,2,Arsenal,0.6,1.6,42.0,bournemouth
+2018-12-01,Premier League,Away,L,1,3,Manchester City,0.6,2.6,28.0,bournemouth
+2018-12-04,Premier League,Home,W,2,1,Huddersfield,0.9,1.8,33.0,bournemouth
+2018-12-08,Premier League,Home,L,0,4,Liverpool,0.3,1.6,41.0,bournemouth
+2018-12-15,Premier League,Away,L,0,2,Wolves,0.6,1.8,62.0,bournemouth
+2018-12-19,EFL Cup,Away,L,0,1,Chelsea,,,27.0,bournemouth
+2018-12-22,Premier League,Home,W,2,0,Brighton,0.8,0.8,57.0,bournemouth
+2018-12-26,Premier League,Away,L,0,5,Tottenham,1.1,1.7,44.0,bournemouth
+2018-12-30,Premier League,Away,L,1,4,Manchester Utd,0.5,2.9,35.0,bournemouth
+2019-01-02,Premier League,Home,D,3,3,Watford,2.2,0.9,57.0,bournemouth
+2019-01-05,FA Cup,Home,L,1,3,Brighton,,,49.0,bournemouth
+2019-01-13,Premier League,Away,L,0,2,Everton,1.9,1.0,49.0,bournemouth
+2019-01-19,Premier League,Home,W,2,0,West Ham,1.1,1.1,39.0,bournemouth
+2019-01-30,Premier League,Home,W,4,0,Chelsea,2.0,0.7,32.0,bournemouth
+2019-02-02,Premier League,Away,L,0,2,Cardiff City,0.5,2.1,73.0,bournemouth
+2019-02-09,Premier League,Away,L,0,3,Liverpool,0.4,2.0,35.0,bournemouth
+2019-02-23,Premier League,Home,D,1,1,Wolves,2.4,1.5,45.0,bournemouth
+2019-02-27,Premier League,Away,L,1,5,Arsenal,0.9,2.5,36.0,bournemouth
+2019-03-02,Premier League,Home,L,0,1,Manchester City,0.0,1.2,19.0,bournemouth
+2019-03-09,Premier League,Away,W,2,0,Huddersfield,1.9,0.3,43.0,bournemouth
+2019-03-16,Premier League,Home,D,2,2,Newcastle Utd,1.3,1.1,49.0,bournemouth
+2019-03-30,Premier League,Away,L,0,2,Leicester City,0.8,1.3,42.0,bournemouth
+2019-04-06,Premier League,Home,L,1,3,Burnley,1.1,1.2,59.0,bournemouth
+2019-04-13,Premier League,Away,W,5,0,Brighton,2.5,0.3,49.0,bournemouth
+2019-04-20,Premier League,Home,L,0,1,Fulham,2.2,2.5,49.0,bournemouth
+2019-04-27,Premier League,Away,D,3,3,Southampton,2.3,2.5,56.0,bournemouth
+2019-05-04,Premier League,Home,W,1,0,Tottenham,1.7,0.7,53.0,bournemouth
+2019-05-12,Premier League,Away,L,3,5,Crystal Palace,1.6,2.8,54.0,bournemouth
+2018-08-11,Premier League,Away,L,0,2,Watford,0.3,1.2,47.0,brighton
+2018-08-19,Premier League,Home,W,3,2,Manchester Utd,1.7,1.4,34.0,brighton
+2018-08-25,Premier League,Away,L,0,1,Liverpool,0.6,1.6,31.0,brighton
+2018-08-28,EFL Cup,Home,L,0,1,Southampton,,,48.0,brighton
+2018-09-01,Premier League,Home,D,2,2,Fulham,2.8,1.6,42.0,brighton
+2018-09-17,Premier League,Away,D,2,2,Southampton,1.4,2.0,49.0,brighton
+2018-09-22,Premier League,Home,L,1,2,Tottenham,0.8,1.9,30.0,brighton
+2018-09-29,Premier League,Away,L,0,2,Manchester City,0.2,2.7,21.0,brighton
+2018-10-05,Premier League,Home,W,1,0,West Ham,1.2,1.4,36.0,brighton
+2018-10-20,Premier League,Away,W,1,0,Newcastle Utd,0.8,1.8,33.0,brighton
+2018-10-27,Premier League,Home,W,1,0,Wolves,0.9,1.4,40.0,brighton
+2018-11-03,Premier League,Away,L,1,3,Everton,0.5,2.0,39.0,brighton
+2018-11-10,Premier League,Away,L,1,2,Cardiff City,0.5,2.1,40.0,brighton
+2018-11-24,Premier League,Home,D,1,1,Leicester City,1.0,1.2,54.0,brighton
+2018-12-01,Premier League,Away,W,2,1,Huddersfield,1.2,0.6,67.0,brighton
+2018-12-04,Premier League,Home,W,3,1,Crystal Palace,1.3,1.7,32.0,brighton
+2018-12-08,Premier League,Away,L,0,1,Burnley,1.0,1.4,62.0,brighton
+2018-12-16,Premier League,Home,L,1,2,Chelsea,0.4,1.2,43.0,brighton
+2018-12-22,Premier League,Away,L,0,2,Bournemouth,0.8,0.8,43.0,brighton
+2018-12-26,Premier League,Home,D,1,1,Arsenal,1.1,0.8,33.0,brighton
+2018-12-29,Premier League,Home,W,1,0,Everton,1.1,0.7,46.0,brighton
+2019-01-02,Premier League,Away,D,2,2,West Ham,0.7,0.8,45.0,brighton
+2019-01-05,FA Cup,Away,W,3,1,Bournemouth,,,51.0,brighton
+2019-01-12,Premier League,Home,L,0,1,Liverpool,0.4,2.0,30.0,brighton
+2019-01-19,Premier League,Away,L,1,2,Manchester Utd,0.8,2.4,44.0,brighton
+2019-01-26,FA Cup,Home,D,0,0,West Brom,,,56.0,brighton
+2019-01-29,Premier League,Away,L,2,4,Fulham,2.2,3.3,39.0,brighton
+2019-02-02,Premier League,Home,D,0,0,Watford,1.6,0.3,55.0,brighton
+2019-02-06,FA Cup,Away,W,3,1,West Brom,,,52.0,brighton
+2019-02-09,Premier League,Home,L,1,3,Burnley,1.1,2.1,68.0,brighton
+2019-02-16,FA Cup,Home,W,2,1,Derby County,,,47.0,brighton
+2019-02-26,Premier League,Away,L,1,2,Leicester City,1.2,1.8,51.0,brighton
+2019-03-02,Premier League,Home,W,1,0,Huddersfield,1.2,0.2,54.0,brighton
+2019-03-09,Premier League,Away,W,2,1,Crystal Palace,0.2,1.5,38.0,brighton
+2019-03-17,FA Cup,Away,D,2 (5),2 (4),Millwall,,,66.0,brighton
+2019-03-30,Premier League,Home,L,0,1,Southampton,0.7,0.7,60.0,brighton
+2019-04-03,Premier League,Away,L,0,3,Chelsea,0.4,2.7,32.0,brighton
+2019-04-06,FA Cup,Away,L,0,1,Manchester City,,,30.0,brighton
+2019-04-13,Premier League,Home,L,0,5,Bournemouth,0.3,2.5,51.0,brighton
+2019-04-16,Premier League,Home,L,0,2,Cardiff City,0.6,0.9,64.0,brighton
+2019-04-20,Premier League,Away,D,0,0,Wolves,0.2,2.7,32.0,brighton
+2019-04-23,Premier League,Away,L,0,1,Tottenham,0.3,1.3,23.0,brighton
+2019-04-27,Premier League,Home,D,1,1,Newcastle Utd,1.3,0.4,50.0,brighton
+2019-05-05,Premier League,Away,D,1,1,Arsenal,1.9,2.4,30.0,brighton
+2019-05-12,Premier League,Home,L,1,4,Manchester City,0.5,1.6,25.0,brighton
+2018-07-26,Europa Lg,Away,D,1,1,sct Aberdeen,,,,burnley
+2018-08-02,Europa Lg,Home,W,3,1,sct Aberdeen,,,,burnley
+2018-08-09,Europa Lg,Away,D,0,0,tr Başakşehir,,,,burnley
+2018-08-12,Premier League,Away,D,0,0,Southampton,1.4,1.1,52.0,burnley
+2018-08-16,Europa Lg,Home,W,1,0,tr Başakşehir,,,,burnley
+2018-08-19,Premier League,Home,L,1,3,Watford,0.6,1.5,58.0,burnley
+2018-08-23,Europa Lg,Away,L,1,3,gr Olympiacos,,,,burnley
+2018-08-26,Premier League,Away,L,2,4,Fulham,1.5,1.3,37.0,burnley
+2018-08-30,Europa Lg,Home,D,1,1,gr Olympiacos,,,,burnley
+2018-09-02,Premier League,Home,L,0,2,Manchester Utd,0.8,2.5,47.0,burnley
+2018-09-16,Premier League,Away,L,0,1,Wolves,0.3,2.6,41.0,burnley
+2018-09-22,Premier League,Home,W,4,0,Bournemouth,2.1,1.0,38.0,burnley
+2018-09-25,EFL Cup,Away,L,1,2,Burton Albion,,,54.0,burnley
+2018-09-30,Premier League,Away,W,2,1,Cardiff City,0.3,1.7,46.0,burnley
+2018-10-06,Premier League,Home,D,1,1,Huddersfield,0.4,1.0,33.0,burnley
+2018-10-20,Premier League,Away,L,0,5,Manchester City,0.4,4.0,31.0,burnley
+2018-10-28,Premier League,Home,L,0,4,Chelsea,0.4,2.6,31.0,burnley
+2018-11-03,Premier League,Away,L,2,4,West Ham,1.1,2.4,37.0,burnley
+2018-11-10,Premier League,Away,D,0,0,Leicester City,0.4,1.8,38.0,burnley
+2018-11-26,Premier League,Home,L,1,2,Newcastle Utd,1.8,1.6,57.0,burnley
+2018-12-01,Premier League,Away,L,0,2,Crystal Palace,0.7,1.6,42.0,burnley
+2018-12-05,Premier League,Home,L,1,3,Liverpool,0.9,2.4,27.0,burnley
+2018-12-08,Premier League,Home,W,1,0,Brighton,1.4,1.0,38.0,burnley
+2018-12-15,Premier League,Away,L,0,1,Tottenham,0.5,1.7,30.0,burnley
+2018-12-22,Premier League,Away,L,1,3,Arsenal,1.2,1.6,40.0,burnley
+2018-12-26,Premier League,Home,L,1,5,Everton,2.0,1.5,49.0,burnley
+2018-12-30,Premier League,Home,W,2,0,West Ham,2.7,0.8,43.0,burnley
+2019-01-02,Premier League,Away,W,2,1,Huddersfield,2.4,0.9,57.0,burnley
+2019-01-05,FA Cup,Home,W,1,0,Barnsley,,,48.0,burnley
+2019-01-12,Premier League,Home,W,2,1,Fulham,0.8,0.8,42.0,burnley
+2019-01-19,Premier League,Away,D,0,0,Watford,1.8,1.3,46.0,burnley
+2019-01-26,FA Cup,Away,L,0,5,Manchester City,,,25.0,burnley
+2019-01-29,Premier League,Away,D,2,2,Manchester Utd,0.8,3.1,27.0,burnley
+2019-02-02,Premier League,Home,D,1,1,Southampton,2.4,0.7,55.0,burnley
+2019-02-09,Premier League,Away,W,3,1,Brighton,2.1,1.1,32.0,burnley
+2019-02-23,Premier League,Home,W,2,1,Tottenham,1.2,0.9,32.0,burnley
+2019-02-26,Premier League,Away,L,0,2,Newcastle Utd,1.6,1.4,46.0,burnley
+2019-03-02,Premier League,Home,L,1,3,Crystal Palace,2.1,0.5,57.0,burnley
+2019-03-10,Premier League,Away,L,2,4,Liverpool,0.4,4.0,33.0,burnley
+2019-03-16,Premier League,Home,L,1,2,Leicester City,1.0,0.9,62.0,burnley
+2019-03-30,Premier League,Home,W,2,0,Wolves,0.5,0.5,38.0,burnley
+2019-04-06,Premier League,Away,W,3,1,Bournemouth,1.2,1.1,41.0,burnley
+2019-04-13,Premier League,Home,W,2,0,Cardiff City,2.6,0.9,47.0,burnley
+2019-04-22,Premier League,Away,D,2,2,Chelsea,0.7,1.3,25.0,burnley
+2019-04-28,Premier League,Home,L,0,1,Manchester City,0.1,2.5,31.0,burnley
+2019-05-03,Premier League,Away,L,0,2,Everton,0.3,1.7,41.0,burnley
+2019-05-12,Premier League,Home,L,1,3,Arsenal,1.7,2.7,40.0,burnley
+2018-08-11,Premier League,Away,L,0,2,Bournemouth,1.4,2.2,37.0,cardiff
+2018-08-18,Premier League,Home,D,0,0,Newcastle Utd,0.9,1.6,51.0,cardiff
+2018-08-25,Premier League,Away,D,0,0,Huddersfield,0.9,0.2,43.0,cardiff
+2018-08-28,EFL Cup,Home,L,1,3,Norwich City,,,51.0,cardiff
+2018-09-02,Premier League,Home,L,2,3,Arsenal,1.0,1.7,28.0,cardiff
+2018-09-15,Premier League,Away,L,1,4,Chelsea,0.7,2.6,24.0,cardiff
+2018-09-22,Premier League,Home,L,0,5,Manchester City,0.1,2.5,22.0,cardiff
+2018-09-30,Premier League,Home,L,1,2,Burnley,1.7,0.3,54.0,cardiff
+2018-10-06,Premier League,Away,L,0,1,Tottenham,1.2,2.0,25.0,cardiff
+2018-10-20,Premier League,Home,W,4,2,Fulham,1.5,0.7,41.0,cardiff
+2018-10-27,Premier League,Away,L,1,4,Liverpool,0.8,2.4,22.0,cardiff
+2018-11-03,Premier League,Home,L,0,1,Leicester City,0.9,2.1,41.0,cardiff
+2018-11-10,Premier League,Home,W,2,1,Brighton,2.1,0.5,60.0,cardiff
+2018-11-24,Premier League,Away,L,0,1,Everton,1.0,2.1,30.0,cardiff
+2018-11-30,Premier League,Home,W,2,1,Wolves,1.0,0.8,48.0,cardiff
+2018-12-04,Premier League,Away,L,1,3,West Ham,2.1,1.7,40.0,cardiff
+2018-12-08,Premier League,Home,W,1,0,Southampton,1.5,0.7,37.0,cardiff
+2018-12-15,Premier League,Away,L,2,3,Watford,0.9,1.4,29.0,cardiff
+2018-12-22,Premier League,Home,L,1,5,Manchester Utd,1.4,2.8,27.0,cardiff
+2018-12-26,Premier League,Away,D,0,0,Crystal Palace,0.9,2.1,38.0,cardiff
+2018-12-29,Premier League,Away,W,1,0,Leicester City,0.6,1.8,38.0,cardiff
+2019-01-01,Premier League,Home,L,0,3,Tottenham,0.9,1.1,28.0,cardiff
+2019-01-05,FA Cup,Away,L,0,1,Gillingham,,,58.0,cardiff
+2019-01-12,Premier League,Home,D,0,0,Huddersfield,0.1,0.5,39.0,cardiff
+2019-01-19,Premier League,Away,L,0,3,Newcastle Utd,0.3,2.0,46.0,cardiff
+2019-01-29,Premier League,Away,L,1,2,Arsenal,0.8,2.6,30.0,cardiff
+2019-02-02,Premier League,Home,W,2,0,Bournemouth,2.1,0.5,27.0,cardiff
+2019-02-09,Premier League,Away,W,2,1,Southampton,0.8,1.5,34.0,cardiff
+2019-02-22,Premier League,Home,L,1,5,Watford,2.0,2.1,37.0,cardiff
+2019-02-26,Premier League,Home,L,0,3,Everton,0.3,1.0,34.0,cardiff
+2019-03-02,Premier League,Away,L,0,2,Wolves,0.6,2.8,44.0,cardiff
+2019-03-09,Premier League,Home,W,2,0,West Ham,3.5,0.3,30.0,cardiff
+2019-03-31,Premier League,Home,L,1,2,Chelsea,0.5,1.8,30.0,cardiff
+2019-04-03,Premier League,Away,L,0,2,Manchester City,0.1,3.2,21.0,cardiff
+2019-04-13,Premier League,Away,L,0,2,Burnley,0.9,2.6,53.0,cardiff
+2019-04-16,Premier League,Away,W,2,0,Brighton,0.9,0.6,36.0,cardiff
+2019-04-21,Premier League,Home,L,0,2,Liverpool,1.1,3.0,25.0,cardiff
+2019-04-27,Premier League,Away,L,0,1,Fulham,1.1,0.5,29.0,cardiff
+2019-05-04,Premier League,Home,L,2,3,Crystal Palace,1.9,1.6,40.0,cardiff
+2019-05-12,Premier League,Away,W,2,0,Manchester Utd,1.6,1.5,27.0,cardiff
+2018-08-05,Community Shield,Neutral,L,0,2,Manchester City,,,47.0,chelsea
+2018-08-11,Premier League,Away,W,3,0,Huddersfield,1.9,0.3,62.0,chelsea
+2018-08-18,Premier League,Home,W,3,2,Arsenal,1.6,2.4,62.0,chelsea
+2018-08-26,Premier League,Away,W,2,1,Newcastle Utd,1.5,0.2,80.0,chelsea
+2018-09-01,Premier League,Home,W,2,0,Bournemouth,1.1,0.9,72.0,chelsea
+2018-09-15,Premier League,Home,W,4,1,Cardiff City,2.6,0.7,76.0,chelsea
+2018-09-20,Europa Lg,Away,W,1,0,gr PAOK,2.6,0.1,68.0,chelsea
+2018-09-23,Premier League,Away,D,0,0,West Ham,1.5,1.0,71.0,chelsea
+2018-09-26,EFL Cup,Away,W,2,1,Liverpool,,,54.0,chelsea
+2018-09-29,Premier League,Home,D,1,1,Liverpool,1.1,1.6,47.0,chelsea
+2018-10-04,Europa Lg,Home,W,1,0,hu Vidi,3.5,0.5,75.0,chelsea
+2018-10-07,Premier League,Away,W,3,0,Southampton,2.9,1.6,65.0,chelsea
+2018-10-20,Premier League,Home,D,2,2,Manchester Utd,1.8,0.8,62.0,chelsea
+2018-10-25,Europa Lg,Home,W,3,1,by BATE Borisov,3.1,0.8,69.0,chelsea
+2018-10-28,Premier League,Away,W,4,0,Burnley,2.6,0.4,69.0,chelsea
+2018-10-31,EFL Cup,Home,W,3,2,Derby County,,,70.0,chelsea
+2018-11-04,Premier League,Home,W,3,1,Crystal Palace,1.7,0.4,73.0,chelsea
+2018-11-08,Europa Lg,Away,W,1,0,by BATE Borisov,1.0,1.1,73.0,chelsea
+2018-11-11,Premier League,Home,D,0,0,Everton,1.2,0.3,68.0,chelsea
+2018-11-24,Premier League,Away,L,1,3,Tottenham,1.0,3.1,60.0,chelsea
+2018-11-29,Europa Lg,Home,W,4,0,gr PAOK,2.1,0.3,63.0,chelsea
+2018-12-02,Premier League,Home,W,2,0,Fulham,2.1,0.4,65.0,chelsea
+2018-12-05,Premier League,Away,L,1,2,Wolves,1.3,0.7,70.0,chelsea
+2018-12-08,Premier League,Home,W,2,0,Manchester City,0.6,0.9,39.0,chelsea
+2018-12-13,Europa Lg,Away,D,2,2,hu Vidi,1.4,0.6,75.0,chelsea
+2018-12-16,Premier League,Away,W,2,1,Brighton,1.2,0.4,57.0,chelsea
+2018-12-19,EFL Cup,Home,W,1,0,Bournemouth,,,73.0,chelsea
+2018-12-22,Premier League,Home,L,0,1,Leicester City,2.4,0.5,72.0,chelsea
+2018-12-26,Premier League,Away,W,2,1,Watford,1.9,1.2,65.0,chelsea
+2018-12-30,Premier League,Away,W,1,0,Crystal Palace,0.9,0.2,65.0,chelsea
+2019-01-02,Premier League,Home,D,0,0,Southampton,0.9,0.2,71.0,chelsea
+2019-01-05,FA Cup,Home,W,2,0,Nott'ham Forest,,,62.0,chelsea
+2019-01-08,EFL Cup,Away,L,0,1,Tottenham,,,58.0,chelsea
+2019-01-12,Premier League,Home,W,2,1,Newcastle Utd,1.3,0.5,65.0,chelsea
+2019-01-19,Premier League,Away,L,0,2,Arsenal,0.9,1.5,64.0,chelsea
+2019-01-24,EFL Cup,Home,W,2 (4),1 (2),Tottenham,,,54.0,chelsea
+2019-01-27,FA Cup,Home,W,3,0,Sheffield Weds,,,79.0,chelsea
+2019-01-30,Premier League,Away,L,0,4,Bournemouth,0.7,2.0,68.0,chelsea
+2019-02-02,Premier League,Home,W,5,0,Huddersfield,2.6,0.3,65.0,chelsea
+2019-02-10,Premier League,Away,L,0,6,Manchester City,0.9,3.0,44.0,chelsea
+2019-02-14,Europa Lg,Away,W,2,1,se Malmö,2.3,1.1,73.0,chelsea
+2019-02-18,FA Cup,Home,L,0,2,Manchester Utd,,,67.0,chelsea
+2019-02-21,Europa Lg,Home,W,3,0,se Malmö,1.9,0.3,71.0,chelsea
+2019-02-24,EFL Cup,Home,D,0 (3),0 (4),Manchester City,,,39.0,chelsea
+2019-02-27,Premier League,Home,W,2,0,Tottenham,0.6,0.6,46.0,chelsea
+2019-03-03,Premier League,Away,W,2,1,Fulham,1.2,0.8,63.0,chelsea
+2019-03-07,Europa Lg,Home,W,3,0,ua Dynamo Kyiv,3.0,0.4,60.0,chelsea
+2019-03-10,Premier League,Home,D,1,1,Wolves,1.1,0.5,76.0,chelsea
+2019-03-14,Europa Lg,Away,W,5,0,ua Dynamo Kyiv,3.3,0.9,62.0,chelsea
+2019-03-17,Premier League,Away,L,0,2,Everton,1.4,2.3,67.0,chelsea
+2019-03-31,Premier League,Away,W,2,1,Cardiff City,1.8,0.5,70.0,chelsea
+2019-04-03,Premier League,Home,W,3,0,Brighton,2.7,0.4,68.0,chelsea
+2019-04-08,Premier League,Home,W,2,0,West Ham,1.9,0.6,53.0,chelsea
+2019-04-11,Europa Lg,Away,W,1,0,cz Slavia Prague,0.6,0.6,56.0,chelsea
+2019-04-14,Premier League,Away,L,0,2,Liverpool,0.7,1.2,38.0,chelsea
+2019-04-18,Europa Lg,Home,W,4,3,cz Slavia Prague,2.8,0.7,55.0,chelsea
+2019-04-22,Premier League,Home,D,2,2,Burnley,1.3,0.7,75.0,chelsea
+2019-04-28,Premier League,Away,D,1,1,Manchester Utd,1.7,1.1,48.0,chelsea
+2019-05-02,Europa Lg,Away,D,1,1,de Eint Frankfurt,1.3,0.6,67.0,chelsea
+2019-05-05,Premier League,Home,W,3,0,Watford,2.3,1.7,58.0,chelsea
+2019-05-09,Europa Lg,Home,D,1 (4),1 (3),de Eint Frankfurt,0.8,1.6,60.0,chelsea
+2019-05-12,Premier League,Away,D,0,0,Leicester City,1.5,0.4,53.0,chelsea
+2019-05-29,Europa Lg,Home,W,4,1,eng Arsenal,1.9,1.4,50.0,chelsea
+2018-08-05,Community Shield,Neutral,W,2,0,Chelsea,,,53.0,city
+2018-08-12,Premier League,Away,W,2,0,Arsenal,1.7,0.5,58.0,city
+2018-08-19,Premier League,Home,W,6,1,Huddersfield,4.2,0.7,76.0,city
+2018-08-25,Premier League,Away,D,1,1,Wolves,1.6,1.0,71.0,city
+2018-09-01,Premier League,Home,W,2,1,Newcastle Utd,2.0,0.5,78.0,city
+2018-09-15,Premier League,Home,W,3,0,Fulham,4.8,0.4,64.0,city
+2018-09-19,Champions Lg,Home,L,1,2,fr Lyon,1.2,0.8,69.0,city
+2018-09-22,Premier League,Away,W,5,0,Cardiff City,2.5,0.1,78.0,city
+2018-09-25,EFL Cup,Away,W,3,0,Oxford United,,,71.0,city
+2018-09-29,Premier League,Home,W,2,0,Brighton,2.7,0.2,79.0,city
+2018-10-02,Champions Lg,Away,W,2,1,de Hoffenheim,2.2,0.6,66.0,city
+2018-10-07,Premier League,Away,D,0,0,Liverpool,1.0,0.4,51.0,city
+2018-10-20,Premier League,Home,W,5,0,Burnley,4.0,0.4,69.0,city
+2018-10-23,Champions Lg,Away,W,3,0,ua Shakhtar,2.6,1.1,52.0,city
+2018-10-29,Premier League,Away,W,1,0,Tottenham,1.6,0.4,51.0,city
+2018-11-01,EFL Cup,Home,W,2,0,Fulham,,,65.0,city
+2018-11-04,Premier League,Home,W,6,1,Southampton,2.2,2.0,66.0,city
+2018-11-07,Champions Lg,Home,W,6,0,ua Shakhtar,3.4,0.4,62.0,city
+2018-11-11,Premier League,Home,W,3,1,Manchester Utd,1.9,1.1,65.0,city
+2018-11-24,Premier League,Away,W,4,0,West Ham,2.7,0.9,69.0,city
+2018-11-27,Champions Lg,Away,D,2,2,fr Lyon,1.0,2.3,59.0,city
+2018-12-01,Premier League,Home,W,3,1,Bournemouth,2.6,0.6,72.0,city
+2018-12-04,Premier League,Away,W,2,1,Watford,2.5,1.8,70.0,city
+2018-12-08,Premier League,Away,L,0,2,Chelsea,0.9,0.6,61.0,city
+2018-12-12,Champions Lg,Home,W,2,1,de Hoffenheim,3.4,1.4,61.0,city
+2018-12-15,Premier League,Home,W,3,1,Everton,1.7,1.5,67.0,city
+2018-12-18,EFL Cup,Away,D,1 (3),1 (1),Leicester City,,,66.0,city
+2018-12-22,Premier League,Home,L,2,3,Crystal Palace,1.5,0.9,78.0,city
+2018-12-26,Premier League,Away,L,1,2,Leicester City,1.4,1.3,66.0,city
+2018-12-30,Premier League,Away,W,3,1,Southampton,2.5,0.2,76.0,city
+2019-01-03,Premier League,Home,W,2,1,Liverpool,1.1,1.5,49.0,city
+2019-01-06,FA Cup,Home,W,7,0,Rotherham Utd,,,70.0,city
+2019-01-09,EFL Cup,Home,W,9,0,Burton Albion,,,74.0,city
+2019-01-14,Premier League,Home,W,3,0,Wolves,2.8,0.1,76.0,city
+2019-01-20,Premier League,Away,W,3,0,Huddersfield,2.0,0.9,67.0,city
+2019-01-23,EFL Cup,Away,W,1,0,Burton Albion,,,70.0,city
+2019-01-26,FA Cup,Home,W,5,0,Burnley,,,75.0,city
+2019-01-29,Premier League,Away,L,1,2,Newcastle Utd,1.4,1.1,75.0,city
+2019-02-03,Premier League,Home,W,3,1,Arsenal,2.7,0.7,59.0,city
+2019-02-06,Premier League,Away,W,2,0,Everton,2.2,0.1,61.0,city
+2019-02-10,Premier League,Home,W,6,0,Chelsea,3.0,0.9,56.0,city
+2019-02-16,FA Cup,Away,W,4,1,Newport County,,,77.0,city
+2019-02-20,Champions Lg,Away,W,3,2,de Schalke 04,1.6,1.8,66.0,city
+2019-02-24,EFL Cup,Away,D,0 (4),0 (3),Chelsea,,,61.0,city
+2019-02-27,Premier League,Home,W,1,0,West Ham,3.5,0.4,75.0,city
+2019-03-02,Premier League,Away,W,1,0,Bournemouth,1.2,0.0,81.0,city
+2019-03-09,Premier League,Home,W,3,1,Watford,3.4,0.2,71.0,city
+2019-03-12,Champions Lg,Home,W,7,0,de Schalke 04,3.7,0.1,72.0,city
+2019-03-16,FA Cup,Away,W,3,2,Swansea City,,,69.0,city
+2019-03-30,Premier League,Away,W,2,0,Fulham,1.8,0.5,65.0,city
+2019-04-03,Premier League,Home,W,2,0,Cardiff City,3.2,0.1,79.0,city
+2019-04-06,FA Cup,Home,W,1,0,Brighton,,,70.0,city
+2019-04-09,Champions Lg,Away,L,0,1,eng Tottenham,1.3,0.9,58.0,city
+2019-04-14,Premier League,Away,W,3,1,Crystal Palace,2.5,0.4,73.0,city
+2019-04-17,Champions Lg,Home,W,4,3,eng Tottenham,2.5,0.7,65.0,city
+2019-04-20,Premier League,Home,W,1,0,Tottenham,1.9,1.0,61.0,city
+2019-04-24,Premier League,Away,W,2,0,Manchester Utd,0.5,0.5,63.0,city
+2019-04-28,Premier League,Away,W,1,0,Burnley,2.5,0.1,69.0,city
+2019-05-06,Premier League,Home,W,1,0,Leicester City,1.0,0.5,61.0,city
+2019-05-12,Premier League,Away,W,4,1,Brighton,1.6,0.5,75.0,city
+2019-05-18,FA Cup,Home,W,6,0,Watford,,,70.0,city
+2018-08-11,Premier League,Away,D,2,2,Wolves,1.0,1.0,42.0,everton
+2018-08-18,Premier League,Home,W,2,1,Southampton,1.5,1.7,57.0,everton
+2018-08-25,Premier League,Away,D,2,2,Bournemouth,0.6,2.2,50.0,everton
+2018-08-29,EFL Cup,Home,W,3,1,Rotherham Utd,,,53.0,everton
+2018-09-01,Premier League,Home,D,1,1,Huddersfield,0.8,0.4,57.0,everton
+2018-09-16,Premier League,Home,L,1,3,West Ham,1.4,1.2,56.0,everton
+2018-09-23,Premier League,Away,L,0,2,Arsenal,0.8,0.8,38.0,everton
+2018-09-29,Premier League,Home,W,3,0,Fulham,2.3,0.5,51.0,everton
+2018-10-02,EFL Cup,Home,D,1 (3),1 (4),Southampton,,,52.0,everton
+2018-10-06,Premier League,Away,W,2,1,Leicester City,1.3,0.9,48.0,everton
+2018-10-21,Premier League,Home,W,2,0,Crystal Palace,1.8,1.3,59.0,everton
+2018-10-28,Premier League,Away,L,1,2,Manchester Utd,1.8,2.3,46.0,everton
+2018-11-03,Premier League,Home,W,3,1,Brighton,2.0,0.5,61.0,everton
+2018-11-11,Premier League,Away,D,0,0,Chelsea,0.3,1.2,32.0,everton
+2018-11-24,Premier League,Home,W,1,0,Cardiff City,2.1,1.0,70.0,everton
+2018-12-02,Premier League,Away,L,0,1,Liverpool,1.1,2.9,42.0,everton
+2018-12-05,Premier League,Home,D,1,1,Newcastle Utd,1.8,1.5,75.0,everton
+2018-12-10,Premier League,Home,D,2,2,Watford,1.7,1.7,56.0,everton
+2018-12-15,Premier League,Away,L,1,3,Manchester City,1.5,1.7,33.0,everton
+2018-12-23,Premier League,Home,L,2,6,Tottenham,0.9,2.0,42.0,everton
+2018-12-26,Premier League,Away,W,5,1,Burnley,1.5,2.0,51.0,everton
+2018-12-29,Premier League,Away,L,0,1,Brighton,0.7,1.1,54.0,everton
+2019-01-01,Premier League,Home,L,0,1,Leicester City,1.0,0.6,59.0,everton
+2019-01-05,FA Cup,Home,W,2,1,Lincoln City,,,75.0,everton
+2019-01-13,Premier League,Home,W,2,0,Bournemouth,1.0,1.9,51.0,everton
+2019-01-19,Premier League,Away,L,1,2,Southampton,0.9,0.7,61.0,everton
+2019-01-26,FA Cup,Away,L,2,3,Millwall,,,64.0,everton
+2019-01-29,Premier League,Away,W,1,0,Huddersfield,1.1,0.7,42.0,everton
+2019-02-02,Premier League,Home,L,1,3,Wolves,1.2,1.4,64.0,everton
+2019-02-06,Premier League,Home,L,0,2,Manchester City,0.1,2.2,39.0,everton
+2019-02-09,Premier League,Away,L,0,1,Watford,0.7,1.3,56.0,everton
+2019-02-26,Premier League,Away,W,3,0,Cardiff City,1.0,0.3,66.0,everton
+2019-03-03,Premier League,Home,D,0,0,Liverpool,0.3,1.1,43.0,everton
+2019-03-09,Premier League,Away,L,2,3,Newcastle Utd,1.1,2.4,55.0,everton
+2019-03-17,Premier League,Home,W,2,0,Chelsea,2.3,1.4,33.0,everton
+2019-03-30,Premier League,Away,W,2,0,West Ham,1.8,0.1,51.0,everton
+2019-04-07,Premier League,Home,W,1,0,Arsenal,2.4,0.3,43.0,everton
+2019-04-13,Premier League,Away,L,0,2,Fulham,1.1,1.5,59.0,everton
+2019-04-21,Premier League,Home,W,4,0,Manchester Utd,1.6,0.3,48.0,everton
+2019-04-27,Premier League,Away,D,0,0,Crystal Palace,1.5,0.3,63.0,everton
+2019-05-03,Premier League,Home,W,2,0,Burnley,1.7,0.3,59.0,everton
+2019-05-12,Premier League,Away,D,2,2,Tottenham,2.0,0.6,45.0,everton
+2018-08-11,Premier League,Home,L,0,2,Crystal Palace,0.7,1.0,65.0,fulham
+2018-08-18,Premier League,Away,L,1,3,Tottenham,1.6,2.9,40.0,fulham
+2018-08-26,Premier League,Home,W,4,2,Burnley,1.3,1.5,63.0,fulham
+2018-08-28,EFL Cup,Home,W,2,0,Exeter City,,,57.0,fulham
+2018-09-01,Premier League,Away,D,2,2,Brighton,1.6,2.8,58.0,fulham
+2018-09-15,Premier League,Away,L,0,3,Manchester City,0.4,4.8,36.0,fulham
+2018-09-22,Premier League,Home,D,1,1,Watford,1.7,1.4,60.0,fulham
+2018-09-25,EFL Cup,Away,W,3,1,Millwall,,,60.0,fulham
+2018-09-29,Premier League,Away,L,0,3,Everton,0.5,2.3,49.0,fulham
+2018-10-07,Premier League,Home,L,1,5,Arsenal,1.4,1.1,48.0,fulham
+2018-10-20,Premier League,Away,L,2,4,Cardiff City,0.7,1.5,59.0,fulham
+2018-10-27,Premier League,Home,L,0,3,Bournemouth,0.5,2.0,51.0,fulham
+2018-11-01,EFL Cup,Away,L,0,2,Manchester City,,,35.0,fulham
+2018-11-05,Premier League,Away,L,0,1,Huddersfield,0.4,0.6,56.0,fulham
+2018-11-11,Premier League,Away,L,0,2,Liverpool,0.5,1.8,29.0,fulham
+2018-11-24,Premier League,Home,W,3,2,Southampton,1.3,1.3,38.0,fulham
+2018-12-02,Premier League,Away,L,0,2,Chelsea,0.4,2.1,35.0,fulham
+2018-12-05,Premier League,Home,D,1,1,Leicester City,1.4,1.2,46.0,fulham
+2018-12-08,Premier League,Away,L,1,4,Manchester Utd,1.2,2.3,38.0,fulham
+2018-12-15,Premier League,Home,L,0,2,West Ham,1.3,0.8,56.0,fulham
+2018-12-22,Premier League,Away,D,0,0,Newcastle Utd,0.2,0.4,47.0,fulham
+2018-12-26,Premier League,Home,D,1,1,Wolves,1.2,1.4,30.0,fulham
+2018-12-29,Premier League,Home,W,1,0,Huddersfield,1.8,0.4,44.0,fulham
+2019-01-01,Premier League,Away,L,1,4,Arsenal,1.4,4.5,40.0,fulham
+2019-01-06,FA Cup,Home,L,1,2,Oldham Athletic,,,59.0,fulham
+2019-01-12,Premier League,Away,L,1,2,Burnley,0.8,0.8,58.0,fulham
+2019-01-20,Premier League,Home,L,1,2,Tottenham,0.9,1.7,28.0,fulham
+2019-01-29,Premier League,Home,W,4,2,Brighton,3.3,2.2,61.0,fulham
+2019-02-02,Premier League,Away,L,0,2,Crystal Palace,0.6,2.2,62.0,fulham
+2019-02-09,Premier League,Home,L,0,3,Manchester Utd,2.2,1.9,51.0,fulham
+2019-02-22,Premier League,Away,L,1,3,West Ham,1.3,2.4,45.0,fulham
+2019-02-27,Premier League,Away,L,0,2,Southampton,0.8,1.3,59.0,fulham
+2019-03-03,Premier League,Home,L,1,2,Chelsea,0.8,1.2,37.0,fulham
+2019-03-09,Premier League,Away,L,1,3,Leicester City,0.2,2.0,48.0,fulham
+2019-03-17,Premier League,Home,L,1,2,Liverpool,1.1,2.6,38.0,fulham
+2019-03-30,Premier League,Home,L,0,2,Manchester City,0.5,1.8,35.0,fulham
+2019-04-02,Premier League,Away,L,1,4,Watford,1.6,1.2,53.0,fulham
+2019-04-13,Premier League,Home,W,2,0,Everton,1.5,1.1,41.0,fulham
+2019-04-20,Premier League,Away,W,1,0,Bournemouth,2.5,2.2,51.0,fulham
+2019-04-27,Premier League,Home,W,1,0,Cardiff City,0.5,1.1,71.0,fulham
+2019-05-04,Premier League,Away,L,0,1,Wolves,0.5,2.0,60.0,fulham
+2019-05-12,Premier League,Home,L,0,4,Newcastle Utd,0.7,2.1,67.0,fulham
+2018-08-11,Premier League,Home,L,0,3,Chelsea,0.3,1.9,38.0,huddersfield
+2018-08-19,Premier League,Away,L,1,6,Manchester City,0.7,4.2,24.0,huddersfield
+2018-08-25,Premier League,Home,D,0,0,Cardiff City,0.2,0.9,57.0,huddersfield
+2018-08-28,EFL Cup,Away,L,0,2,Stoke City,,,54.0,huddersfield
+2018-09-01,Premier League,Away,D,1,1,Everton,0.4,0.8,43.0,huddersfield
+2018-09-15,Premier League,Home,L,0,1,Crystal Palace,0.9,0.7,59.0,huddersfield
+2018-09-22,Premier League,Away,L,1,3,Leicester City,0.7,1.7,39.0,huddersfield
+2018-09-29,Premier League,Home,L,0,2,Tottenham,0.4,2.1,53.0,huddersfield
+2018-10-06,Premier League,Away,D,1,1,Burnley,1.0,0.4,67.0,huddersfield
+2018-10-20,Premier League,Home,L,0,1,Liverpool,0.7,0.6,48.0,huddersfield
+2018-10-27,Premier League,Away,L,0,3,Watford,0.5,2.0,52.0,huddersfield
+2018-11-05,Premier League,Home,W,1,0,Fulham,0.6,0.4,44.0,huddersfield
+2018-11-10,Premier League,Home,D,1,1,West Ham,1.1,1.7,44.0,huddersfield
+2018-11-25,Premier League,Away,W,2,0,Wolves,0.7,0.8,54.0,huddersfield
+2018-12-01,Premier League,Home,L,1,2,Brighton,0.6,1.2,33.0,huddersfield
+2018-12-04,Premier League,Away,L,1,2,Bournemouth,1.8,0.9,67.0,huddersfield
+2018-12-08,Premier League,Away,L,0,1,Arsenal,0.3,1.4,38.0,huddersfield
+2018-12-15,Premier League,Home,L,0,1,Newcastle Utd,0.8,0.6,72.0,huddersfield
+2018-12-22,Premier League,Home,L,1,3,Southampton,0.8,2.5,62.0,huddersfield
+2018-12-26,Premier League,Away,L,1,3,Manchester Utd,1.1,1.5,36.0,huddersfield
+2018-12-29,Premier League,Away,L,0,1,Fulham,0.4,1.8,56.0,huddersfield
+2019-01-02,Premier League,Home,L,1,2,Burnley,0.9,2.4,43.0,huddersfield
+2019-01-05,FA Cup,Away,L,0,1,Bristol City,,,49.0,huddersfield
+2019-01-12,Premier League,Away,D,0,0,Cardiff City,0.5,0.1,61.0,huddersfield
+2019-01-20,Premier League,Home,L,0,3,Manchester City,0.9,2.0,33.0,huddersfield
+2019-01-29,Premier League,Home,L,0,1,Everton,0.7,1.1,58.0,huddersfield
+2019-02-02,Premier League,Away,L,0,5,Chelsea,0.3,2.6,35.0,huddersfield
+2019-02-09,Premier League,Home,L,1,2,Arsenal,1.6,1.4,55.0,huddersfield
+2019-02-23,Premier League,Away,L,0,2,Newcastle Utd,0.2,2.8,46.0,huddersfield
+2019-02-26,Premier League,Home,W,1,0,Wolves,1.6,0.6,50.0,huddersfield
+2019-03-02,Premier League,Away,L,0,1,Brighton,0.2,1.2,46.0,huddersfield
+2019-03-09,Premier League,Home,L,0,2,Bournemouth,0.3,1.9,57.0,huddersfield
+2019-03-16,Premier League,Away,L,3,4,West Ham,1.0,1.7,36.0,huddersfield
+2019-03-30,Premier League,Away,L,0,2,Crystal Palace,1.1,2.7,51.0,huddersfield
+2019-04-06,Premier League,Home,L,1,4,Leicester City,1.7,3.5,45.0,huddersfield
+2019-04-13,Premier League,Away,L,0,4,Tottenham,0.8,2.5,31.0,huddersfield
+2019-04-20,Premier League,Home,L,1,2,Watford,1.0,0.9,46.0,huddersfield
+2019-04-26,Premier League,Away,L,0,5,Liverpool,0.2,3.1,31.0,huddersfield
+2019-05-05,Premier League,Home,D,1,1,Manchester Utd,1.0,1.8,36.0,huddersfield
+2019-05-12,Premier League,Away,D,1,1,Southampton,0.7,0.6,47.0,huddersfield
+2018-08-10,Premier League,Away,L,1,2,Manchester Utd,1.8,1.5,53.0,leicester
+2018-08-18,Premier League,Home,W,2,0,Wolves,0.2,1.1,43.0,leicester
+2018-08-25,Premier League,Away,W,2,1,Southampton,0.6,0.5,48.0,leicester
+2018-08-28,EFL Cup,Home,W,4,0,Fleetwood Town,,,69.0,leicester
+2018-09-01,Premier League,Home,L,1,2,Liverpool,1.0,1.0,51.0,leicester
+2018-09-15,Premier League,Away,L,2,4,Bournemouth,2.3,2.3,53.0,leicester
+2018-09-22,Premier League,Home,W,3,1,Huddersfield,1.7,0.7,61.0,leicester
+2018-09-25,EFL Cup,Away,D,0 (3),0 (1),Wolves,,,44.0,leicester
+2018-09-29,Premier League,Away,W,2,0,Newcastle Utd,1.3,0.4,59.0,leicester
+2018-10-06,Premier League,Home,L,1,2,Everton,0.9,1.3,52.0,leicester
+2018-10-22,Premier League,Away,L,1,3,Arsenal,0.5,2.7,32.0,leicester
+2018-10-27,Premier League,Home,D,1,1,West Ham,1.7,1.4,64.0,leicester
+2018-11-03,Premier League,Away,W,1,0,Cardiff City,2.1,0.9,59.0,leicester
+2018-11-10,Premier League,Home,D,0,0,Burnley,1.8,0.4,62.0,leicester
+2018-11-24,Premier League,Away,D,1,1,Brighton,1.2,1.0,46.0,leicester
+2018-11-27,EFL Cup,Home,D,0 (6),0 (5),Southampton,,,43.0,leicester
+2018-12-01,Premier League,Home,W,2,0,Watford,1.3,1.2,38.0,leicester
+2018-12-05,Premier League,Away,D,1,1,Fulham,1.2,1.4,54.0,leicester
+2018-12-08,Premier League,Home,L,0,2,Tottenham,0.4,0.9,43.0,leicester
+2018-12-15,Premier League,Away,L,0,1,Crystal Palace,1.0,0.5,56.0,leicester
+2018-12-18,EFL Cup,Home,D,1 (1),1 (3),Manchester City,,,34.0,leicester
+2018-12-22,Premier League,Away,W,1,0,Chelsea,0.5,2.4,28.0,leicester
+2018-12-26,Premier League,Home,W,2,1,Manchester City,1.3,1.4,34.0,leicester
+2018-12-29,Premier League,Home,L,0,1,Cardiff City,1.8,0.6,62.0,leicester
+2019-01-01,Premier League,Away,W,1,0,Everton,0.6,1.0,41.0,leicester
+2019-01-06,FA Cup,Away,L,1,2,Newport County,,,70.0,leicester
+2019-01-12,Premier League,Home,L,1,2,Southampton,1.7,1.5,71.0,leicester
+2019-01-19,Premier League,Away,L,3,4,Wolves,1.9,1.9,54.0,leicester
+2019-01-30,Premier League,Away,D,1,1,Liverpool,1.1,0.6,28.0,leicester
+2019-02-03,Premier League,Home,L,0,1,Manchester Utd,1.5,1.3,45.0,leicester
+2019-02-10,Premier League,Away,L,1,3,Tottenham,3.3,1.1,47.0,leicester
+2019-02-23,Premier League,Home,L,1,4,Crystal Palace,1.2,1.7,64.0,leicester
+2019-02-26,Premier League,Home,W,2,1,Brighton,1.8,1.2,49.0,leicester
+2019-03-03,Premier League,Away,L,1,2,Watford,0.9,0.8,61.0,leicester
+2019-03-09,Premier League,Home,W,3,1,Fulham,2.0,0.2,52.0,leicester
+2019-03-16,Premier League,Away,W,2,1,Burnley,0.9,1.0,38.0,leicester
+2019-03-30,Premier League,Home,W,2,0,Bournemouth,1.3,0.8,58.0,leicester
+2019-04-06,Premier League,Away,W,4,1,Huddersfield,3.5,1.7,55.0,leicester
+2019-04-12,Premier League,Home,L,0,1,Newcastle Utd,1.0,1.1,71.0,leicester
+2019-04-20,Premier League,Away,D,2,2,West Ham,0.9,1.2,51.0,leicester
+2019-04-28,Premier League,Home,W,3,0,Arsenal,3.3,0.6,66.0,leicester
+2019-05-06,Premier League,Away,L,0,1,Manchester City,0.5,1.0,39.0,leicester
+2019-05-12,Premier League,Home,D,0,0,Chelsea,0.4,1.5,47.0,leicester
+2018-08-12,Premier League,Home,W,4,0,West Ham,4.0,0.7,64.0,liverpool
+2018-08-20,Premier League,Away,W,2,0,Crystal Palace,2.6,0.4,63.0,liverpool
+2018-08-25,Premier League,Home,W,1,0,Brighton,1.6,0.6,69.0,liverpool
+2018-09-01,Premier League,Away,W,2,1,Leicester City,1.0,1.0,49.0,liverpool
+2018-09-15,Premier League,Away,W,2,1,Tottenham,2.6,1.0,40.0,liverpool
+2018-09-18,Champions Lg,Home,W,3,2,fr Paris S-G,2.3,0.8,53.0,liverpool
+2018-09-22,Premier League,Home,W,3,0,Southampton,1.7,0.3,61.0,liverpool
+2018-09-26,EFL Cup,Home,L,1,2,Chelsea,,,46.0,liverpool
+2018-09-29,Premier League,Away,D,1,1,Chelsea,1.6,1.1,53.0,liverpool
+2018-10-03,Champions Lg,Away,L,0,1,it Napoli,0.1,1.9,43.0,liverpool
+2018-10-07,Premier League,Home,D,0,0,Manchester City,0.4,1.0,49.0,liverpool
+2018-10-20,Premier League,Away,W,1,0,Huddersfield,0.6,0.7,52.0,liverpool
+2018-10-24,Champions Lg,Home,W,4,0,rs Red Star,5.0,0.5,65.0,liverpool
+2018-10-27,Premier League,Home,W,4,1,Cardiff City,2.4,0.8,78.0,liverpool
+2018-11-03,Premier League,Away,D,1,1,Arsenal,1.3,1.4,39.0,liverpool
+2018-11-06,Champions Lg,Away,L,0,2,rs Red Star,2.2,0.7,72.0,liverpool
+2018-11-11,Premier League,Home,W,2,0,Fulham,1.8,0.5,71.0,liverpool
+2018-11-24,Premier League,Away,W,3,0,Watford,1.2,0.4,63.0,liverpool
+2018-11-28,Champions Lg,Away,L,1,2,fr Paris S-G,1.3,1.5,56.0,liverpool
+2018-12-02,Premier League,Home,W,1,0,Everton,2.9,1.1,58.0,liverpool
+2018-12-05,Premier League,Away,W,3,1,Burnley,2.4,0.9,73.0,liverpool
+2018-12-08,Premier League,Away,W,4,0,Bournemouth,1.6,0.3,59.0,liverpool
+2018-12-11,Champions Lg,Home,W,1,0,it Napoli,3.0,1.2,48.0,liverpool
+2018-12-16,Premier League,Home,W,3,1,Manchester Utd,2.5,0.7,64.0,liverpool
+2018-12-21,Premier League,Away,W,2,0,Wolves,1.9,0.9,61.0,liverpool
+2018-12-26,Premier League,Home,W,4,0,Newcastle Utd,2.9,0.5,74.0,liverpool
+2018-12-29,Premier League,Home,W,5,1,Arsenal,3.8,1.0,48.0,liverpool
+2019-01-03,Premier League,Away,L,1,2,Manchester City,1.5,1.1,51.0,liverpool
+2019-01-07,FA Cup,Away,L,1,2,Wolves,,,61.0,liverpool
+2019-01-12,Premier League,Away,W,1,0,Brighton,2.0,0.4,70.0,liverpool
+2019-01-19,Premier League,Home,W,4,3,Crystal Palace,2.6,0.7,70.0,liverpool
+2019-01-30,Premier League,Home,D,1,1,Leicester City,0.6,1.1,72.0,liverpool
+2019-02-04,Premier League,Away,D,1,1,West Ham,1.1,0.8,73.0,liverpool
+2019-02-09,Premier League,Home,W,3,0,Bournemouth,2.0,0.4,65.0,liverpool
+2019-02-19,Champions Lg,Home,D,0,0,de Bayern Munich,2.1,0.4,49.0,liverpool
+2019-02-24,Premier League,Away,D,0,0,Manchester Utd,0.5,0.3,64.0,liverpool
+2019-02-27,Premier League,Home,W,5,0,Watford,1.9,0.3,62.0,liverpool
+2019-03-03,Premier League,Away,D,0,0,Everton,1.1,0.3,57.0,liverpool
+2019-03-10,Premier League,Home,W,4,2,Burnley,4.0,0.4,67.0,liverpool
+2019-03-13,Champions Lg,Away,W,3,1,de Bayern Munich,1.1,0.3,42.0,liverpool
+2019-03-17,Premier League,Away,W,2,1,Fulham,2.6,1.1,62.0,liverpool
+2019-03-31,Premier League,Home,W,2,1,Tottenham,1.0,0.7,48.0,liverpool
+2019-04-05,Premier League,Away,W,3,1,Southampton,1.9,0.9,67.0,liverpool
+2019-04-09,Champions Lg,Home,W,2,0,pt Porto,2.3,0.8,64.0,liverpool
+2019-04-14,Premier League,Home,W,2,0,Chelsea,1.2,0.7,62.0,liverpool
+2019-04-17,Champions Lg,Away,W,4,1,pt Porto,3.5,1.0,49.0,liverpool
+2019-04-21,Premier League,Away,W,2,0,Cardiff City,3.0,1.1,75.0,liverpool
+2019-04-26,Premier League,Home,W,5,0,Huddersfield,3.1,0.2,69.0,liverpool
+2019-05-01,Champions Lg,Away,L,0,3,es Barcelona,1.8,2.4,52.0,liverpool
+2019-05-04,Premier League,Away,W,3,2,Newcastle Utd,1.2,1.4,69.0,liverpool
+2019-05-07,Champions Lg,Home,W,4,0,es Barcelona,2.3,1.4,42.0,liverpool
+2019-05-12,Premier League,Home,W,2,0,Wolves,1.6,1.3,59.0,liverpool
+2019-06-01,Champions Lg,Away,W,2,0,eng Tottenham,1.3,0.8,36.0,liverpool
+2018-08-11,Premier League,Home,L,1,2,Tottenham,1.0,2.0,42.0,newcastle
+2018-08-18,Premier League,Away,D,0,0,Cardiff City,1.6,0.9,49.0,newcastle
+2018-08-26,Premier League,Home,L,1,2,Chelsea,0.2,1.5,20.0,newcastle
+2018-08-29,EFL Cup,Away,L,1,3,Nott'ham Forest,,,54.0,newcastle
+2018-09-01,Premier League,Away,L,1,2,Manchester City,0.5,2.0,22.0,newcastle
+2018-09-15,Premier League,Home,L,1,2,Arsenal,0.4,1.0,37.0,newcastle
+2018-09-22,Premier League,Away,D,0,0,Crystal Palace,0.2,0.9,39.0,newcastle
+2018-09-29,Premier League,Home,L,0,2,Leicester City,0.4,1.3,41.0,newcastle
+2018-10-06,Premier League,Away,L,2,3,Manchester Utd,1.6,1.9,28.0,newcastle
+2018-10-20,Premier League,Home,L,0,1,Brighton,1.8,0.8,67.0,newcastle
+2018-10-27,Premier League,Away,D,0,0,Southampton,0.4,1.1,50.0,newcastle
+2018-11-03,Premier League,Home,W,1,0,Watford,0.5,2.0,42.0,newcastle
+2018-11-10,Premier League,Home,W,2,1,Bournemouth,2.2,1.6,40.0,newcastle
+2018-11-26,Premier League,Away,W,2,1,Burnley,1.6,1.8,43.0,newcastle
+2018-12-01,Premier League,Home,L,0,3,West Ham,1.0,2.5,59.0,newcastle
+2018-12-05,Premier League,Away,D,1,1,Everton,1.5,1.8,25.0,newcastle
+2018-12-09,Premier League,Home,L,1,2,Wolves,0.6,1.8,51.0,newcastle
+2018-12-15,Premier League,Away,W,1,0,Huddersfield,0.6,0.8,28.0,newcastle
+2018-12-22,Premier League,Home,D,0,0,Fulham,0.4,0.2,53.0,newcastle
+2018-12-26,Premier League,Away,L,0,4,Liverpool,0.5,2.9,26.0,newcastle
+2018-12-29,Premier League,Away,D,1,1,Watford,0.7,1.3,37.0,newcastle
+2019-01-02,Premier League,Home,L,0,2,Manchester Utd,0.7,2.6,36.0,newcastle
+2019-01-05,FA Cup,Home,D,1,1,Blackburn,,,54.0,newcastle
+2019-01-12,Premier League,Away,L,1,2,Chelsea,0.5,1.3,35.0,newcastle
+2019-01-15,FA Cup,Away,W,4,2,Blackburn,,,45.0,newcastle
+2019-01-19,Premier League,Home,W,3,0,Cardiff City,2.0,0.3,54.0,newcastle
+2019-01-26,FA Cup,Home,L,0,2,Watford,,,47.0,newcastle
+2019-01-29,Premier League,Home,W,2,1,Manchester City,1.1,1.4,25.0,newcastle
+2019-02-02,Premier League,Away,L,0,1,Tottenham,0.4,2.2,29.0,newcastle
+2019-02-11,Premier League,Away,D,1,1,Wolves,0.4,2.3,41.0,newcastle
+2019-02-23,Premier League,Home,W,2,0,Huddersfield,2.8,0.2,54.0,newcastle
+2019-02-26,Premier League,Home,W,2,0,Burnley,1.4,1.6,54.0,newcastle
+2019-03-02,Premier League,Away,L,0,2,West Ham,1.1,2.0,44.0,newcastle
+2019-03-09,Premier League,Home,W,3,2,Everton,2.4,1.1,45.0,newcastle
+2019-03-16,Premier League,Away,D,2,2,Bournemouth,1.1,1.3,51.0,newcastle
+2019-04-01,Premier League,Away,L,0,2,Arsenal,0.1,0.8,30.0,newcastle
+2019-04-06,Premier League,Home,L,0,1,Crystal Palace,0.9,0.9,53.0,newcastle
+2019-04-12,Premier League,Away,W,1,0,Leicester City,1.1,1.0,29.0,newcastle
+2019-04-20,Premier League,Home,W,3,1,Southampton,1.4,1.2,44.0,newcastle
+2019-04-27,Premier League,Away,D,1,1,Brighton,0.4,1.3,50.0,newcastle
+2019-05-04,Premier League,Home,L,2,3,Liverpool,1.4,1.2,31.0,newcastle
+2019-05-12,Premier League,Away,W,4,0,Fulham,2.1,0.7,33.0,newcastle
+2018-08-11,Premier League,Away,W,2,0,Fulham,1.0,0.7,35.0,palace
+2018-08-20,Premier League,Home,L,0,2,Liverpool,0.4,2.6,37.0,palace
+2018-08-26,Premier League,Away,L,1,2,Watford,1.0,1.2,57.0,palace
+2018-08-28,EFL Cup,Away,W,1,0,Swansea City,,,50.0,palace
+2018-09-01,Premier League,Home,L,0,2,Southampton,2.4,2.7,50.0,palace
+2018-09-15,Premier League,Away,W,1,0,Huddersfield,0.7,0.9,41.0,palace
+2018-09-22,Premier League,Home,D,0,0,Newcastle Utd,0.9,0.2,61.0,palace
+2018-09-25,EFL Cup,Away,W,3,0,West Brom,,,55.0,palace
+2018-10-01,Premier League,Away,L,1,2,Bournemouth,0.4,1.8,55.0,palace
+2018-10-06,Premier League,Home,L,0,1,Wolves,1.4,0.7,67.0,palace
+2018-10-21,Premier League,Away,L,0,2,Everton,1.3,1.8,41.0,palace
+2018-10-28,Premier League,Home,D,2,2,Arsenal,2.3,0.9,43.0,palace
+2018-10-31,EFL Cup,Away,L,0,1,Middlesbrough,,,57.0,palace
+2018-11-04,Premier League,Away,L,1,3,Chelsea,0.4,1.7,27.0,palace
+2018-11-10,Premier League,Home,L,0,1,Tottenham,0.8,1.2,36.0,palace
+2018-11-24,Premier League,Away,D,0,0,Manchester Utd,1.2,0.9,41.0,palace
+2018-12-01,Premier League,Home,W,2,0,Burnley,1.6,0.7,58.0,palace
+2018-12-04,Premier League,Away,L,1,3,Brighton,1.7,1.3,68.0,palace
+2018-12-08,Premier League,Away,L,2,3,West Ham,0.7,1.2,51.0,palace
+2018-12-15,Premier League,Home,W,1,0,Leicester City,0.5,1.0,44.0,palace
+2018-12-22,Premier League,Away,W,3,2,Manchester City,0.9,1.5,22.0,palace
+2018-12-26,Premier League,Home,D,0,0,Cardiff City,2.1,0.9,62.0,palace
+2018-12-30,Premier League,Home,L,0,1,Chelsea,0.2,0.9,35.0,palace
+2019-01-02,Premier League,Away,W,2,0,Wolves,1.9,0.5,48.0,palace
+2019-01-05,FA Cup,Home,W,1,0,Grimsby Town,,,61.0,palace
+2019-01-12,Premier League,Home,L,1,2,Watford,1.3,1.6,55.0,palace
+2019-01-19,Premier League,Away,L,3,4,Liverpool,0.7,2.6,30.0,palace
+2019-01-27,FA Cup,Home,W,2,0,Tottenham,,,28.0,palace
+2019-01-30,Premier League,Away,D,1,1,Southampton,1.1,1.2,42.0,palace
+2019-02-02,Premier League,Home,W,2,0,Fulham,2.2,0.6,38.0,palace
+2019-02-09,Premier League,Home,D,1,1,West Ham,2.6,1.7,58.0,palace
+2019-02-17,FA Cup,Away,W,2,0,Doncaster,,,52.0,palace
+2019-02-23,Premier League,Away,W,4,1,Leicester City,1.7,1.2,36.0,palace
+2019-02-27,Premier League,Home,L,1,3,Manchester Utd,1.7,1.0,46.0,palace
+2019-03-02,Premier League,Away,W,3,1,Burnley,0.5,2.1,43.0,palace
+2019-03-09,Premier League,Home,L,1,2,Brighton,1.5,0.2,62.0,palace
+2019-03-16,FA Cup,Away,L,1,2,Watford,,,57.0,palace
+2019-03-30,Premier League,Home,W,2,0,Huddersfield,2.7,1.1,49.0,palace
+2019-04-03,Premier League,Away,L,0,2,Tottenham,0.3,2.1,35.0,palace
+2019-04-06,Premier League,Away,W,1,0,Newcastle Utd,0.9,0.9,47.0,palace
+2019-04-14,Premier League,Home,L,1,3,Manchester City,0.4,2.5,27.0,palace
+2019-04-21,Premier League,Away,W,3,2,Arsenal,1.6,1.2,28.0,palace
+2019-04-27,Premier League,Home,D,0,0,Everton,0.3,1.5,37.0,palace
+2019-05-04,Premier League,Away,W,3,2,Cardiff City,1.6,1.9,60.0,palace
+2019-05-12,Premier League,Home,W,5,3,Bournemouth,2.8,1.6,46.0,palace
+2018-08-12,Premier League,Home,D,0,0,Burnley,1.1,1.4,48.0,southampton
+2018-08-18,Premier League,Away,L,1,2,Everton,1.7,1.5,43.0,southampton
+2018-08-25,Premier League,Home,L,1,2,Leicester City,0.5,0.6,52.0,southampton
+2018-08-28,EFL Cup,Away,W,1,0,Brighton,,,52.0,southampton
+2018-09-01,Premier League,Away,W,2,0,Crystal Palace,2.7,2.4,50.0,southampton
+2018-09-17,Premier League,Home,D,2,2,Brighton,2.0,1.4,51.0,southampton
+2018-09-22,Premier League,Away,L,0,3,Liverpool,0.3,1.7,39.0,southampton
+2018-09-29,Premier League,Away,L,0,2,Wolves,0.8,1.6,51.0,southampton
+2018-10-02,EFL Cup,Away,D,1 (4),1 (3),Everton,,,48.0,southampton
+2018-10-07,Premier League,Home,L,0,3,Chelsea,1.6,2.9,35.0,southampton
+2018-10-20,Premier League,Away,D,0,0,Bournemouth,0.5,0.9,42.0,southampton
+2018-10-27,Premier League,Home,D,0,0,Newcastle Utd,1.1,0.4,50.0,southampton
+2018-11-04,Premier League,Away,L,1,6,Manchester City,2.0,2.2,34.0,southampton
+2018-11-10,Premier League,Home,D,1,1,Watford,1.1,1.2,42.0,southampton
+2018-11-24,Premier League,Away,L,2,3,Fulham,1.3,1.3,62.0,southampton
+2018-11-27,EFL Cup,Away,D,0 (5),0 (6),Leicester City,,,57.0,southampton
+2018-12-01,Premier League,Home,D,2,2,Manchester Utd,0.7,1.1,40.0,southampton
+2018-12-05,Premier League,Away,L,1,3,Tottenham,1.7,1.6,48.0,southampton
+2018-12-08,Premier League,Away,L,0,1,Cardiff City,0.7,1.5,63.0,southampton
+2018-12-16,Premier League,Home,W,3,2,Arsenal,1.3,1.9,34.0,southampton
+2018-12-22,Premier League,Away,W,3,1,Huddersfield,2.5,0.8,38.0,southampton
+2018-12-27,Premier League,Home,L,1,2,West Ham,1.2,1.2,46.0,southampton
+2018-12-30,Premier League,Home,L,1,3,Manchester City,0.2,2.5,24.0,southampton
+2019-01-02,Premier League,Away,D,0,0,Chelsea,0.2,0.9,29.0,southampton
+2019-01-05,FA Cup,Away,D,2,2,Derby County,,,50.0,southampton
+2019-01-12,Premier League,Away,W,2,1,Leicester City,1.5,1.7,29.0,southampton
+2019-01-16,FA Cup,Home,D,2 (3),2 (5),Derby County,,,47.0,southampton
+2019-01-19,Premier League,Home,W,2,1,Everton,0.7,0.9,39.0,southampton
+2019-01-30,Premier League,Home,D,1,1,Crystal Palace,1.2,1.1,58.0,southampton
+2019-02-02,Premier League,Away,D,1,1,Burnley,0.7,2.4,45.0,southampton
+2019-02-09,Premier League,Home,L,1,2,Cardiff City,1.5,0.8,66.0,southampton
+2019-02-24,Premier League,Away,L,0,2,Arsenal,0.8,2.1,38.0,southampton
+2019-02-27,Premier League,Home,W,2,0,Fulham,1.3,0.8,41.0,southampton
+2019-03-02,Premier League,Away,L,2,3,Manchester Utd,0.4,2.2,36.0,southampton
+2019-03-09,Premier League,Home,W,2,1,Tottenham,2.1,1.3,37.0,southampton
+2019-03-30,Premier League,Away,W,1,0,Brighton,0.7,0.7,40.0,southampton
+2019-04-05,Premier League,Home,L,1,3,Liverpool,0.9,1.9,33.0,southampton
+2019-04-13,Premier League,Home,W,3,1,Wolves,2.9,0.8,31.0,southampton
+2019-04-20,Premier League,Away,L,1,3,Newcastle Utd,1.2,1.4,56.0,southampton
+2019-04-23,Premier League,Away,D,1,1,Watford,2.0,1.3,38.0,southampton
+2019-04-27,Premier League,Home,D,3,3,Bournemouth,2.5,2.3,44.0,southampton
+2019-05-04,Premier League,Away,L,0,3,West Ham,0.5,1.9,44.0,southampton
+2019-05-12,Premier League,Home,D,1,1,Huddersfield,0.6,0.7,53.0,southampton
+2018-08-11,Premier League,Away,W,2,1,Newcastle Utd,2.0,1.0,58.0,tottenham
+2018-08-18,Premier League,Home,W,3,1,Fulham,2.9,1.6,60.0,tottenham
+2018-08-27,Premier League,Away,W,3,0,Manchester Utd,1.2,1.5,43.0,tottenham
+2018-09-02,Premier League,Away,L,1,2,Watford,0.6,0.4,66.0,tottenham
+2018-09-15,Premier League,Home,L,1,2,Liverpool,1.0,2.6,60.0,tottenham
+2018-09-18,Champions Lg,Away,L,1,2,it Inter,0.8,1.2,54.0,tottenham
+2018-09-22,Premier League,Away,W,2,1,Brighton,1.9,0.8,70.0,tottenham
+2018-09-26,EFL Cup,Home,D,2 (4),2 (2),Watford,,,52.0,tottenham
+2018-09-29,Premier League,Away,W,2,0,Huddersfield,2.1,0.4,47.0,tottenham
+2018-10-03,Champions Lg,Home,L,2,4,es Barcelona,0.5,1.4,39.0,tottenham
+2018-10-06,Premier League,Home,W,1,0,Cardiff City,2.0,1.2,75.0,tottenham
+2018-10-20,Premier League,Away,W,1,0,West Ham,0.9,0.8,56.0,tottenham
+2018-10-24,Champions Lg,Away,D,2,2,nl PSV Eindhoven,2.0,0.9,70.0,tottenham
+2018-10-29,Premier League,Home,L,0,1,Manchester City,0.4,1.6,49.0,tottenham
+2018-10-31,EFL Cup,Away,W,3,1,West Ham,,,50.0,tottenham
+2018-11-03,Premier League,Away,W,3,2,Wolves,1.4,2.7,51.0,tottenham
+2018-11-06,Champions Lg,Home,W,2,1,nl PSV Eindhoven,3.5,0.6,75.0,tottenham
+2018-11-10,Premier League,Away,W,1,0,Crystal Palace,1.2,0.8,64.0,tottenham
+2018-11-24,Premier League,Home,W,3,1,Chelsea,3.1,1.0,40.0,tottenham
+2018-11-28,Champions Lg,Home,W,1,0,it Inter,1.3,1.0,52.0,tottenham
+2018-12-02,Premier League,Away,L,2,4,Arsenal,1.2,2.7,41.0,tottenham
+2018-12-05,Premier League,Home,W,3,1,Southampton,1.6,1.7,52.0,tottenham
+2018-12-08,Premier League,Away,W,2,0,Leicester City,0.9,0.4,57.0,tottenham
+2018-12-11,Champions Lg,Away,D,1,1,es Barcelona,2.4,1.3,51.0,tottenham
+2018-12-15,Premier League,Home,W,1,0,Burnley,1.7,0.5,70.0,tottenham
+2018-12-19,EFL Cup,Away,W,2,0,Arsenal,,,46.0,tottenham
+2018-12-23,Premier League,Away,W,6,2,Everton,2.0,0.9,58.0,tottenham
+2018-12-26,Premier League,Home,W,5,0,Bournemouth,1.7,1.1,56.0,tottenham
+2018-12-29,Premier League,Home,L,1,3,Wolves,0.3,0.9,60.0,tottenham
+2019-01-01,Premier League,Away,W,3,0,Cardiff City,1.1,0.9,72.0,tottenham
+2019-01-04,FA Cup,Away,W,7,0,Tranmere Rovers,,,74.0,tottenham
+2019-01-08,EFL Cup,Home,W,1,0,Chelsea,,,42.0,tottenham
+2019-01-13,Premier League,Home,L,0,1,Manchester Utd,1.8,0.8,61.0,tottenham
+2019-01-20,Premier League,Away,W,2,1,Fulham,1.7,0.9,72.0,tottenham
+2019-01-24,EFL Cup,Away,L,1 (2),2 (4),Chelsea,,,46.0,tottenham
+2019-01-27,FA Cup,Away,L,0,2,Crystal Palace,,,72.0,tottenham
+2019-01-30,Premier League,Home,W,2,1,Watford,1.7,0.5,68.0,tottenham
+2019-02-02,Premier League,Home,W,1,0,Newcastle Utd,2.2,0.4,71.0,tottenham
+2019-02-10,Premier League,Home,W,3,1,Leicester City,1.1,3.3,53.0,tottenham
+2019-02-13,Champions Lg,Home,W,3,0,de Dortmund,1.8,0.3,53.0,tottenham
+2019-02-23,Premier League,Away,L,1,2,Burnley,0.9,1.2,68.0,tottenham
+2019-02-27,Premier League,Away,L,0,2,Chelsea,0.6,0.6,54.0,tottenham
+2019-03-02,Premier League,Home,D,1,1,Arsenal,1.6,2.6,60.0,tottenham
+2019-03-05,Champions Lg,Away,W,1,0,de Dortmund,1.0,1.4,36.0,tottenham
+2019-03-09,Premier League,Away,L,1,2,Southampton,1.3,2.1,63.0,tottenham
+2019-03-31,Premier League,Away,L,1,2,Liverpool,0.7,1.0,52.0,tottenham
+2019-04-03,Premier League,Home,W,2,0,Crystal Palace,2.1,0.3,65.0,tottenham
+2019-04-09,Champions Lg,Home,W,1,0,eng Manchester City,0.9,1.3,42.0,tottenham
+2019-04-13,Premier League,Home,W,4,0,Huddersfield,2.5,0.8,69.0,tottenham
+2019-04-17,Champions Lg,Away,L,3,4,eng Manchester City,0.7,2.5,35.0,tottenham
+2019-04-20,Premier League,Away,L,0,1,Manchester City,1.0,1.9,39.0,tottenham
+2019-04-23,Premier League,Home,W,1,0,Brighton,1.3,0.3,77.0,tottenham
+2019-04-27,Premier League,Home,L,0,1,West Ham,1.6,1.1,62.0,tottenham
+2019-04-30,Champions Lg,Home,L,0,1,nl Ajax,0.6,1.3,51.0,tottenham
+2019-05-04,Premier League,Away,L,0,1,Bournemouth,0.7,1.7,47.0,tottenham
+2019-05-08,Champions Lg,Away,W,3,2,nl Ajax,4.2,1.6,60.0,tottenham
+2019-05-12,Premier League,Home,D,2,2,Everton,0.6,2.0,55.0,tottenham
+2019-06-01,Champions Lg,Home,L,0,2,eng Liverpool,0.8,1.3,64.0,tottenham
+2018-08-10,Premier League,Home,W,2,1,Leicester City,1.5,1.8,47.0,united
+2018-08-19,Premier League,Away,L,2,3,Brighton,1.4,1.7,66.0,united
+2018-08-27,Premier League,Home,L,0,3,Tottenham,1.5,1.2,57.0,united
+2018-09-02,Premier League,Away,W,2,0,Burnley,2.5,0.8,53.0,united
+2018-09-15,Premier League,Away,W,2,1,Watford,1.9,1.3,57.0,united
+2018-09-19,Champions Lg,Away,W,3,0,ch Young Boys,2.0,1.7,56.0,united
+2018-09-22,Premier League,Home,D,1,1,Wolves,0.6,1.0,64.0,united
+2018-09-25,EFL Cup,Home,D,2 (7),2 (8),Derby County,,,48.0,united
+2018-09-29,Premier League,Away,L,1,3,West Ham,0.7,1.4,52.0,united
+2018-10-02,Champions Lg,Home,D,0,0,es Valencia,0.9,0.4,52.0,united
+2018-10-06,Premier League,Home,W,3,2,Newcastle Utd,1.9,1.6,72.0,united
+2018-10-20,Premier League,Away,D,2,2,Chelsea,0.8,1.8,38.0,united
+2018-10-23,Champions Lg,Home,L,0,1,it Juventus,0.3,1.3,40.0,united
+2018-10-28,Premier League,Home,W,2,1,Everton,2.3,1.8,54.0,united
+2018-11-03,Premier League,Away,W,2,1,Bournemouth,3.0,1.6,51.0,united
+2018-11-07,Champions Lg,Away,W,2,1,it Juventus,0.8,1.9,45.0,united
+2018-11-11,Premier League,Away,L,1,3,Manchester City,1.1,1.9,35.0,united
+2018-11-24,Premier League,Home,D,0,0,Crystal Palace,0.9,1.2,59.0,united
+2018-11-27,Champions Lg,Home,W,1,0,ch Young Boys,1.3,0.6,66.0,united
+2018-12-01,Premier League,Away,D,2,2,Southampton,1.1,0.7,60.0,united
+2018-12-05,Premier League,Home,D,2,2,Arsenal,1.1,1.1,45.0,united
+2018-12-08,Premier League,Home,W,4,1,Fulham,2.3,1.2,62.0,united
+2018-12-12,Champions Lg,Away,L,1,2,es Valencia,1.8,1.4,54.0,united
+2018-12-16,Premier League,Away,L,1,3,Liverpool,0.7,2.5,36.0,united
+2018-12-22,Premier League,Away,W,5,1,Cardiff City,2.8,1.4,73.0,united
+2018-12-26,Premier League,Home,W,3,1,Huddersfield,1.5,1.1,64.0,united
+2018-12-30,Premier League,Home,W,4,1,Bournemouth,2.9,0.5,65.0,united
+2019-01-02,Premier League,Away,W,2,0,Newcastle Utd,2.6,0.7,64.0,united
+2019-01-05,FA Cup,Home,W,2,0,Reading,,,41.0,united
+2019-01-13,Premier League,Away,W,1,0,Tottenham,0.8,1.8,39.0,united
+2019-01-19,Premier League,Home,W,2,1,Brighton,2.4,0.8,56.0,united
+2019-01-25,FA Cup,Away,W,3,1,Arsenal,,,37.0,united
+2019-01-29,Premier League,Home,D,2,2,Burnley,3.1,0.8,73.0,united
+2019-02-03,Premier League,Away,W,1,0,Leicester City,1.3,1.5,55.0,united
+2019-02-09,Premier League,Away,W,3,0,Fulham,1.9,2.2,49.0,united
+2019-02-12,Champions Lg,Home,L,0,2,fr Paris S-G,0.4,2.5,45.0,united
+2019-02-18,FA Cup,Away,W,2,0,Chelsea,,,33.0,united
+2019-02-24,Premier League,Home,D,0,0,Liverpool,0.3,0.5,36.0,united
+2019-02-27,Premier League,Away,W,3,1,Crystal Palace,1.0,1.7,54.0,united
+2019-03-02,Premier League,Home,W,3,2,Southampton,2.2,0.4,64.0,united
+2019-03-06,Champions Lg,Away,W,3,1,fr Paris S-G,2.1,1.4,29.0,united
+2019-03-10,Premier League,Away,L,0,2,Arsenal,2.3,1.7,54.0,united
+2019-03-16,FA Cup,Away,L,1,2,Wolves,,,61.0,united
+2019-03-30,Premier League,Home,W,2,1,Watford,1.6,1.5,52.0,united
+2019-04-02,Premier League,Away,L,1,2,Wolves,1.8,1.8,51.0,united
+2019-04-10,Champions Lg,Home,L,0,1,es Barcelona,0.5,1.1,34.0,united
+2019-04-13,Premier League,Home,W,2,1,West Ham,2.5,1.4,43.0,united
+2019-04-16,Champions Lg,Away,L,0,3,es Barcelona,0.4,1.4,35.0,united
+2019-04-21,Premier League,Away,L,0,4,Everton,0.3,1.6,52.0,united
+2019-04-24,Premier League,Home,L,0,2,Manchester City,0.5,0.5,37.0,united
+2019-04-28,Premier League,Home,D,1,1,Chelsea,1.1,1.7,52.0,united
+2019-05-05,Premier League,Away,D,1,1,Huddersfield,1.8,1.0,64.0,united
+2019-05-12,Premier League,Home,L,0,2,Cardiff City,1.5,1.6,73.0,united
+2018-08-11,Premier League,Home,W,2,0,Brighton,1.2,0.3,53.0,watford
+2018-08-19,Premier League,Away,W,3,1,Burnley,1.5,0.6,42.0,watford
+2018-08-26,Premier League,Home,W,2,1,Crystal Palace,1.2,1.0,43.0,watford
+2018-08-29,EFL Cup,Away,W,2,0,Reading,,,55.0,watford
+2018-09-02,Premier League,Home,W,2,1,Tottenham,0.4,0.6,34.0,watford
+2018-09-15,Premier League,Home,L,1,2,Manchester Utd,1.3,1.9,43.0,watford
+2018-09-22,Premier League,Away,D,1,1,Fulham,1.4,1.7,40.0,watford
+2018-09-26,EFL Cup,Away,D,2 (2),2 (4),Tottenham,,,48.0,watford
+2018-09-29,Premier League,Away,L,0,2,Arsenal,2.8,1.4,37.0,watford
+2018-10-06,Premier League,Home,L,0,4,Bournemouth,1.0,3.2,48.0,watford
+2018-10-20,Premier League,Away,W,2,0,Wolves,1.1,0.7,55.0,watford
+2018-10-27,Premier League,Home,W,3,0,Huddersfield,2.0,0.5,48.0,watford
+2018-11-03,Premier League,Away,L,0,1,Newcastle Utd,2.0,0.5,58.0,watford
+2018-11-10,Premier League,Away,D,1,1,Southampton,1.2,1.1,58.0,watford
+2018-11-24,Premier League,Home,L,0,3,Liverpool,0.4,1.2,37.0,watford
+2018-12-01,Premier League,Away,L,0,2,Leicester City,1.2,1.3,62.0,watford
+2018-12-04,Premier League,Home,L,1,2,Manchester City,1.8,2.5,30.0,watford
+2018-12-10,Premier League,Away,D,2,2,Everton,1.7,1.7,44.0,watford
+2018-12-15,Premier League,Home,W,3,2,Cardiff City,1.4,0.9,71.0,watford
+2018-12-22,Premier League,Away,W,2,0,West Ham,2.3,2.0,48.0,watford
+2018-12-26,Premier League,Home,L,1,2,Chelsea,1.2,1.9,35.0,watford
+2018-12-29,Premier League,Home,D,1,1,Newcastle Utd,1.3,0.7,63.0,watford
+2019-01-02,Premier League,Away,D,3,3,Bournemouth,0.9,2.2,43.0,watford
+2019-01-06,FA Cup,Away,W,2,0,Woking,,,70.0,watford
+2019-01-12,Premier League,Away,W,2,1,Crystal Palace,1.6,1.3,45.0,watford
+2019-01-19,Premier League,Home,D,0,0,Burnley,1.3,1.8,54.0,watford
+2019-01-26,FA Cup,Away,W,2,0,Newcastle Utd,,,53.0,watford
+2019-01-30,Premier League,Away,L,1,2,Tottenham,0.5,1.7,32.0,watford
+2019-02-02,Premier League,Away,D,0,0,Brighton,0.3,1.6,45.0,watford
+2019-02-09,Premier League,Home,W,1,0,Everton,1.3,0.7,44.0,watford
+2019-02-15,FA Cup,Away,W,1,0,QPR,,,58.0,watford
+2019-02-22,Premier League,Away,W,5,1,Cardiff City,2.1,2.0,63.0,watford
+2019-02-27,Premier League,Away,L,0,5,Liverpool,0.3,1.9,38.0,watford
+2019-03-03,Premier League,Home,W,2,1,Leicester City,0.8,0.9,39.0,watford
+2019-03-09,Premier League,Away,L,1,3,Manchester City,0.2,3.4,29.0,watford
+2019-03-16,FA Cup,Home,W,2,1,Crystal Palace,,,43.0,watford
+2019-03-30,Premier League,Away,L,1,2,Manchester Utd,1.5,1.6,48.0,watford
+2019-04-02,Premier League,Home,W,4,1,Fulham,1.2,1.6,47.0,watford
+2019-04-07,FA Cup,Home,W,3,2,Wolves,,,58.0,watford
+2019-04-15,Premier League,Home,L,0,1,Arsenal,1.0,2.3,35.0,watford
+2019-04-20,Premier League,Away,W,2,1,Huddersfield,0.9,1.0,54.0,watford
+2019-04-23,Premier League,Home,D,1,1,Southampton,1.3,2.0,62.0,watford
+2019-04-27,Premier League,Home,L,1,2,Wolves,0.8,2.0,56.0,watford
+2019-05-05,Premier League,Away,L,0,3,Chelsea,1.7,2.3,42.0,watford
+2019-05-12,Premier League,Home,L,1,4,West Ham,2.2,3.1,49.0,watford
+2019-05-18,FA Cup,Away,L,0,6,Manchester City,,,30.0,watford
+2018-08-12,Premier League,Away,L,0,4,Liverpool,0.7,4.0,36.0,west-ham
+2018-08-18,Premier League,Home,L,1,2,Bournemouth,1.2,1.3,61.0,west-ham
+2018-08-25,Premier League,Away,L,1,3,Arsenal,1.1,1.8,39.0,west-ham
+2018-08-28,EFL Cup,Away,W,3,1,AFC Wimbledon,,,81.0,west-ham
+2018-09-01,Premier League,Home,L,0,1,Wolves,1.1,1.0,48.0,west-ham
+2018-09-16,Premier League,Away,W,3,1,Everton,1.2,1.4,44.0,west-ham
+2018-09-23,Premier League,Home,D,0,0,Chelsea,1.0,1.5,29.0,west-ham
+2018-09-26,EFL Cup,Home,W,8,0,Macclesfield,,,76.0,west-ham
+2018-09-29,Premier League,Home,W,3,1,Manchester Utd,1.4,0.7,48.0,west-ham
+2018-10-05,Premier League,Away,L,0,1,Brighton,1.4,1.2,64.0,west-ham
+2018-10-20,Premier League,Home,L,0,1,Tottenham,0.8,0.9,44.0,west-ham
+2018-10-27,Premier League,Away,D,1,1,Leicester City,1.4,1.7,36.0,west-ham
+2018-10-31,EFL Cup,Home,L,1,3,Tottenham,,,50.0,west-ham
+2018-11-03,Premier League,Home,W,4,2,Burnley,2.4,1.1,63.0,west-ham
+2018-11-10,Premier League,Away,D,1,1,Huddersfield,1.7,1.1,56.0,west-ham
+2018-11-24,Premier League,Home,L,0,4,Manchester City,0.9,2.7,31.0,west-ham
+2018-12-01,Premier League,Away,W,3,0,Newcastle Utd,2.5,1.0,41.0,west-ham
+2018-12-04,Premier League,Home,W,3,1,Cardiff City,1.7,2.1,60.0,west-ham
+2018-12-08,Premier League,Home,W,3,2,Crystal Palace,1.2,0.7,49.0,west-ham
+2018-12-15,Premier League,Away,W,2,0,Fulham,0.8,1.3,44.0,west-ham
+2018-12-22,Premier League,Home,L,0,2,Watford,2.0,2.3,52.0,west-ham
+2018-12-27,Premier League,Away,W,2,1,Southampton,1.2,1.2,54.0,west-ham
+2018-12-30,Premier League,Away,L,0,2,Burnley,0.8,2.7,57.0,west-ham
+2019-01-02,Premier League,Home,D,2,2,Brighton,0.8,0.7,55.0,west-ham
+2019-01-05,FA Cup,Home,W,2,0,Birmingham City,,,73.0,west-ham
+2019-01-12,Premier League,Home,W,1,0,Arsenal,0.6,0.7,42.0,west-ham
+2019-01-19,Premier League,Away,L,0,2,Bournemouth,1.1,1.1,61.0,west-ham
+2019-01-26,FA Cup,Away,L,2,4,AFC Wimbledon,,,67.0,west-ham
+2019-01-29,Premier League,Away,L,0,3,Wolves,0.2,2.2,45.0,west-ham
+2019-02-04,Premier League,Home,D,1,1,Liverpool,0.8,1.1,27.0,west-ham
+2019-02-09,Premier League,Away,D,1,1,Crystal Palace,1.7,2.6,42.0,west-ham
+2019-02-22,Premier League,Home,W,3,1,Fulham,2.4,1.3,55.0,west-ham
+2019-02-27,Premier League,Away,L,0,1,Manchester City,0.4,3.5,25.0,west-ham
+2019-03-02,Premier League,Home,W,2,0,Newcastle Utd,2.0,1.1,56.0,west-ham
+2019-03-09,Premier League,Away,L,0,2,Cardiff City,0.3,3.5,70.0,west-ham
+2019-03-16,Premier League,Home,W,4,3,Huddersfield,1.7,1.0,64.0,west-ham
+2019-03-30,Premier League,Home,L,0,2,Everton,0.1,1.8,49.0,west-ham
+2019-04-08,Premier League,Away,L,0,2,Chelsea,0.6,1.9,47.0,west-ham
+2019-04-13,Premier League,Away,L,1,2,Manchester Utd,1.4,2.5,57.0,west-ham
+2019-04-20,Premier League,Home,D,2,2,Leicester City,1.2,0.9,49.0,west-ham
+2019-04-27,Premier League,Away,W,1,0,Tottenham,1.1,1.6,38.0,west-ham
+2019-05-04,Premier League,Home,W,3,0,Southampton,1.9,0.5,56.0,west-ham
+2019-05-12,Premier League,Away,W,4,1,Watford,3.1,2.2,51.0,west-ham
+2018-08-11,Premier League,Home,D,2,2,Everton,1.0,1.0,58.0,wolves
+2018-08-18,Premier League,Away,L,0,2,Leicester City,1.1,0.2,57.0,wolves
+2018-08-25,Premier League,Home,D,1,1,Manchester City,1.0,1.6,29.0,wolves
+2018-08-28,EFL Cup,Away,W,2,0,Sheffield Weds,,,55.0,wolves
+2018-09-01,Premier League,Away,W,1,0,West Ham,1.0,1.1,52.0,wolves
+2018-09-16,Premier League,Home,W,1,0,Burnley,2.6,0.3,59.0,wolves
+2018-09-22,Premier League,Away,D,1,1,Manchester Utd,1.0,0.6,36.0,wolves
+2018-09-25,EFL Cup,Home,D,0 (1),0 (3),Leicester City,,,56.0,wolves
+2018-09-29,Premier League,Home,W,2,0,Southampton,1.6,0.8,49.0,wolves
+2018-10-06,Premier League,Away,W,1,0,Crystal Palace,0.7,1.4,33.0,wolves
+2018-10-20,Premier League,Home,L,0,2,Watford,0.7,1.1,45.0,wolves
+2018-10-27,Premier League,Away,L,0,1,Brighton,1.4,0.9,60.0,wolves
+2018-11-03,Premier League,Home,L,2,3,Tottenham,2.7,1.4,49.0,wolves
+2018-11-11,Premier League,Away,D,1,1,Arsenal,1.9,0.9,29.0,wolves
+2018-11-25,Premier League,Home,L,0,2,Huddersfield,0.8,0.7,46.0,wolves
+2018-11-30,Premier League,Away,L,1,2,Cardiff City,0.8,1.0,52.0,wolves
+2018-12-05,Premier League,Home,W,2,1,Chelsea,0.7,1.3,30.0,wolves
+2018-12-09,Premier League,Away,W,2,1,Newcastle Utd,1.8,0.6,49.0,wolves
+2018-12-15,Premier League,Home,W,2,0,Bournemouth,1.8,0.6,38.0,wolves
+2018-12-21,Premier League,Home,L,0,2,Liverpool,0.9,1.9,39.0,wolves
+2018-12-26,Premier League,Away,D,1,1,Fulham,1.4,1.2,70.0,wolves
+2018-12-29,Premier League,Away,W,3,1,Tottenham,0.9,0.3,40.0,wolves
+2019-01-02,Premier League,Home,L,0,2,Crystal Palace,0.5,1.9,52.0,wolves
+2019-01-07,FA Cup,Home,W,2,1,Liverpool,,,39.0,wolves
+2019-01-14,Premier League,Away,L,0,3,Manchester City,0.1,2.8,24.0,wolves
+2019-01-19,Premier League,Home,W,4,3,Leicester City,1.9,1.9,46.0,wolves
+2019-01-26,FA Cup,Away,D,2,2,Shrewsbury,,,66.0,wolves
+2019-01-29,Premier League,Home,W,3,0,West Ham,2.2,0.2,55.0,wolves
+2019-02-02,Premier League,Away,W,3,1,Everton,1.4,1.2,36.0,wolves
+2019-02-05,FA Cup,Home,W,3,2,Shrewsbury,,,67.0,wolves
+2019-02-11,Premier League,Home,D,1,1,Newcastle Utd,2.3,0.4,59.0,wolves
+2019-02-17,FA Cup,Away,W,1,0,Bristol City,,,48.0,wolves
+2019-02-23,Premier League,Away,D,1,1,Bournemouth,1.5,2.4,55.0,wolves
+2019-02-26,Premier League,Away,L,0,1,Huddersfield,0.6,1.6,50.0,wolves
+2019-03-02,Premier League,Home,W,2,0,Cardiff City,2.8,0.6,56.0,wolves
+2019-03-10,Premier League,Away,D,1,1,Chelsea,0.5,1.1,24.0,wolves
+2019-03-16,FA Cup,Home,W,2,1,Manchester Utd,,,39.0,wolves
+2019-03-30,Premier League,Away,L,0,2,Burnley,0.5,0.5,62.0,wolves
+2019-04-02,Premier League,Home,W,2,1,Manchester Utd,1.8,1.8,49.0,wolves
+2019-04-07,FA Cup,Away,L,2,3,Watford,,,42.0,wolves
+2019-04-13,Premier League,Away,L,1,3,Southampton,0.8,2.9,69.0,wolves
+2019-04-20,Premier League,Home,D,0,0,Brighton,2.7,0.2,68.0,wolves
+2019-04-24,Premier League,Home,W,3,1,Arsenal,1.2,0.8,30.0,wolves
+2019-04-27,Premier League,Away,W,2,1,Watford,2.0,0.8,44.0,wolves
+2019-05-04,Premier League,Home,W,1,0,Fulham,2.0,0.5,40.0,wolves
+2019-05-12,Premier League,Away,L,0,2,Liverpool,1.3,1.6,41.0,wolves
