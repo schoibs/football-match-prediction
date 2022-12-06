@@ -1,0 +1,64 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Referee,Match Report,Notes
+2015-08-09,16:00 (23:00),Premier League,Matchweek 1,Sun,Away,W,1,0,Stoke City,53,27654,Jordan Henderson,4-2-3-1,Anthony Taylor,Match Report,
+2015-08-17,20:00 (03:00),Premier League,Matchweek 2,Mon,Home,W,1,0,Bournemouth,55,44102,Jordan Henderson,4-2-3-1,Craig Pawson,Match Report,
+2015-08-24,20:00 (03:00),Premier League,Matchweek 3,Mon,Away,D,0,0,Arsenal,34,60080,James Milner,4-3-3,Michael Oliver,Match Report,
+2015-08-29,15:00 (22:00),Premier League,Matchweek 4,Sat,Home,L,0,3,West Ham,63,43680,James Milner,4-3-3,Kevin Friend,Match Report,
+2015-09-12,17:30 (00:30),Premier League,Matchweek 5,Sat,Away,L,1,3,Manchester Utd,44,75347,James Milner,4-3-3,Michael Oliver,Match Report,
+2015-09-17,19:00 (01:00),Europa Lg,Group stage,Thu,Away,D,1,1,fr Bordeaux,51,35328,Mamadou Sakho,3-4-3,Alberto Undiano,Match Report,
+2015-09-20,16:00 (23:00),Premier League,Matchweek 6,Sun,Home,D,1,1,Norwich City,59,44072,James Milner,3-4-1-2,Anthony Taylor,Match Report,
+2015-09-23,20:00 (03:00),League Cup,Third round,Wed,Home,D,1 (3),1 (2),Carlisle United,,42518,,,Andy Madley,Match Report,Liverpool won on penalty kicks following extra time
+2015-09-26,15:00 (22:00),Premier League,Matchweek 7,Sat,Home,W,3,2,Aston Villa,62,44228,James Milner,3-4-1-2,Jonathan Moss,Match Report,
+2015-10-01,20:05 (03:05),Europa Lg,Group stage,Thu,Home,D,1,1,ch Sion,61,37252,Kolo Touré,3-4-1-2,Slavko Vinčič,Match Report,
+2015-10-04,13:30 (20:30),Premier League,Matchweek 8,Sun,Away,D,1,1,Everton,49,39598,James Milner,3-5-2,Martin Atkinson,Match Report,
+2015-10-17,12:45 (19:45),Premier League,Matchweek 9,Sat,Away,D,0,0,Tottenham,52,35926,James Milner,4-2-3-1,Craig Pawson,Match Report,
+2015-10-22,20:05 (03:05),Europa Lg,Group stage,Thu,Home,D,1,1,ru Rubin Kazan,67,42951,James Milner,4-3-3,Robert Schörgenhofer,Match Report,
+2015-10-25,16:15 (00:15),Premier League,Matchweek 10,Sun,Home,D,1,1,Southampton,60,44171,James Milner,4-3-2-1,Andre Marriner,Match Report,
+2015-10-28,19:45 (03:45),League Cup,Fourth round,Wed,Home,W,1,0,Bournemouth,,41948,,4-2-3-1,Mike Jones,Match Report,
+2015-10-31,12:45 (20:45),Premier League,Matchweek 11,Sat,Away,W,3,1,Chelsea,57,41577,James Milner,4-3-2-1,Mark Clattenburg,Match Report,
+2015-11-05,21:00 (02:00),Europa Lg,Group stage,Thu,Away,W,1,0,ru Rubin Kazan,64,41585,James Milner,4-2-3-1,Kevin Blom,Match Report,
+2015-11-08,16:00 (00:00),Premier League,Matchweek 12,Sun,Home,L,1,2,Crystal Palace,64,44115,Lucas Leiva,4-2-3-1,Niel Swarbrick,Match Report,
+2015-11-21,17:30 (01:30),Premier League,Matchweek 13,Sat,Away,W,4,1,Manchester City,42,54444,James Milner,4-3-3,Jonathan Moss,Match Report,
+2015-11-26,20:05 (04:05),Europa Lg,Group stage,Thu,Home,W,2,1,fr Bordeaux,47,42525,James Milner,4-3-3,Alon Yefet,Match Report,
+2015-11-29,16:15 (00:15),Premier League,Matchweek 14,Sun,Home,W,1,0,Swansea City,54,43905,James Milner,4-3-3,Anthony Taylor,Match Report,
+2015-12-02,19:45 (03:45),League Cup,Quarter-finals,Wed,Away,W,6,1,Southampton,,31592,,4-3-1-2,Robert Madley,Match Report,
+2015-12-06,16:00 (00:00),Premier League,Matchweek 15,Sun,Away,L,0,2,Newcastle Utd,60,51273,James Milner,4-2-3-1,Andre Marriner,Match Report,
+2015-12-10,19:00 (02:00),Europa Lg,Group stage,Thu,Away,D,0,0,ch Sion,61,10000,Jordan Henderson,4-3-3,Michael Koukoulakis,Match Report,
+2015-12-13,16:00 (00:00),Premier League,Matchweek 16,Sun,Home,D,2,2,West Brom,70,44147,Jordan Henderson,4-3-3,Craig Pawson,Match Report,
+2015-12-20,13:30 (21:30),Premier League,Matchweek 17,Sun,Away,L,0,3,Watford,65,20707,Jordan Henderson,4-3-3,Mark Clattenburg,Match Report,
+2015-12-26,15:00 (23:00),Premier League,Matchweek 18,Sat,Home,W,1,0,Leicester City,65,44123,Jordan Henderson,4-2-3-1,Martin Atkinson,Match Report,
+2015-12-30,19:45 (03:45),Premier League,Matchweek 19,Wed,Away,W,1,0,Sunderland,58,45765,Jordan Henderson,4-2-3-1,Kevin Friend,Match Report,
+2016-01-02,12:45 (20:45),Premier League,Matchweek 20,Sat,Away,L,0,2,West Ham,64,34977,Dejan Lovren,4-2-3-1,Robert Madley,Match Report,
+2016-01-05,20:00 (04:00),League Cup,Semi-finals,Tue,Away,W,1,0,Stoke City,,27369,,4-3-3,Anthony Taylor,Match Report,Leg 1 of 2
+2016-01-08,19:55 (03:55),FA Cup,Third round,Fri,Away,D,2,2,Exeter City,,8298,,,Stuart Attwell,Match Report,
+2016-01-13,20:00 (04:00),Premier League,Matchweek 21,Wed,Home,D,3,3,Arsenal,60,44109,Jordan Henderson,4-3-3,Mike Jones,Match Report,
+2016-01-17,14:05 (22:05),Premier League,Matchweek 22,Sun,Home,L,0,1,Manchester Utd,53,43865,Jordan Henderson,4-3-3,Mark Clattenburg,Match Report,
+2016-01-20,20:00 (04:00),FA Cup,Third round,Wed,Home,W,3,0,Exeter City,,43292,,,Niel Swarbrick,Match Report,
+2016-01-23,12:45 (20:45),Premier League,Matchweek 23,Sat,Away,W,5,4,Norwich City,52,27108,Jordan Henderson,4-3-3,Lee Mason,Match Report,
+2016-01-26,19:45 (03:45),League Cup,Semi-finals,Tue,Home,D,0 (6),1 (5),Stoke City,,43091,,4-3-3,Jonathan Moss,Match Report,Leg 2 of 2; Liverpool won; Liverpool won on penalty kicks following extra time
+2016-01-30,17:30 (01:30),FA Cup,Fourth round,Sat,Home,D,0,0,West Ham,,44006,,,Martin Atkinson,Match Report,
+2016-02-02,19:45 (03:45),Premier League,Matchweek 24,Tue,Away,L,0,2,Leicester City,64,32121,Jordan Henderson,4-2-3-1,Andre Marriner,Match Report,
+2016-02-06,15:00 (23:00),Premier League,Matchweek 25,Sat,Home,D,2,2,Sunderland,71,44179,Jordan Henderson,4-2-3-1,Robert Madley,Match Report,
+2016-02-09,19:45 (03:45),FA Cup,Fourth round,Tue,Away,L,1,2,West Ham,,34433,,,Roger East,Match Report,Required Extra Time
+2016-02-14,14:05 (22:05),Premier League,Matchweek 26,Sun,Away,W,6,0,Aston Villa,61,35798,Jordan Henderson,4-4-2,Niel Swarbrick,Match Report,
+2016-02-18,21:05 (04:05),Europa Lg,Round of 32,Thu,Away,D,0,0,de Augsburg,52,25000,Jordan Henderson,4-4-1-1,David Fernández,Match Report,Leg 1 of 2
+2016-02-25,18:00 (02:00),Europa Lg,Round of 32,Thu,Home,W,1,0,de Augsburg,57,43081,Jordan Henderson,4-4-1-1,Clément Turpin,Match Report,Leg 2 of 2; Liverpool won
+2016-02-28,16:30 (00:30),League Cup,Final,Sun,Home,D,1 (1),1 (3),Manchester City,,86206,,4-4-1-1,Michael Oliver,Match Report,Manchester City won on penalty kicks following extra time
+2016-03-02,20:00 (04:00),Premier League,Matchweek 28,Wed,Home,W,3,0,Manchester City,50,43597,Jordan Henderson,4-4-1-1,Martin Atkinson,Match Report,
+2016-03-06,13:30 (21:30),Premier League,Matchweek 29,Sun,Away,W,2,1,Crystal Palace,62,24709,Jordan Henderson,4-4-1-1,Andre Marriner,Match Report,
+2016-03-10,20:05 (04:05),Europa Lg,Round of 16,Thu,Home,W,2,0,eng Manchester Utd,60,43228,Jordan Henderson,4-4-1-1,Carlos Velasco,Match Report,Leg 1 of 2
+2016-03-17,20:05 (04:05),Europa Lg,Round of 16,Thu,Away,D,1,1,eng Manchester Utd,42,75180,Jordan Henderson,4-4-1-1,Milorad Mažić,Match Report,Leg 2 of 2; Liverpool won
+2016-03-20,13:30 (21:30),Premier League,Matchweek 31,Sun,Away,L,2,3,Southampton,51,31596,Jon Flanagan,4-4-2,Roger East,Match Report,
+2016-04-02,17:30 (00:30),Premier League,Matchweek 32,Sat,Home,D,1,1,Tottenham,42,44062,Jordan Henderson,4-2-3-1,Jonathan Moss,Match Report,
+2016-04-07,21:05 (03:05),Europa Lg,Quarter-finals,Thu,Away,D,1,1,de Dortmund,41,65848,Jordan Henderson,4-3-3,Carlos Velasco,Match Report,Leg 1 of 2
+2016-04-10,16:00 (23:00),Premier League,Matchweek 33,Sun,Home,W,4,1,Stoke City,53,43688,James Milner,4-4-1-1,Mark Clattenburg,Match Report,
+2016-04-14,20:05 (03:05),Europa Lg,Quarter-finals,Thu,Home,W,4,3,de Dortmund,59,42954,James Milner,4-2-3-1,Cüneyt Çakιr,Match Report,Leg 2 of 2; Liverpool won
+2016-04-17,13:30 (20:30),Premier League,Matchweek 34,Sun,Away,W,2,1,Bournemouth,49,11386,Lucas Leiva,4-4-1-1,Mike Jones,Match Report,
+2016-04-20,20:00 (03:00),Premier League,Matchweek 27,Wed,Home,W,4,0,Everton,67,43854,James Milner,4-2-3-1,Robert Madley,Match Report,
+2016-04-23,15:00 (22:00),Premier League,Matchweek 35,Sat,Home,D,2,2,Newcastle Utd,67,43837,James Milner,4-1-2-1-2◆,Andre Marriner,Match Report,
+2016-04-28,21:05 (03:05),Europa Lg,Semi-finals,Thu,Away,L,0,1,es Villarreal,48,21606,James Milner,4-3-3,Damir Skomina,Match Report,Leg 1 of 2
+2016-05-01,12:00 (19:00),Premier League,Matchweek 36,Sun,Away,L,1,3,Swansea City,52,20972,Martin Škrtel,4-4-1-1,Roger East,Match Report,
+2016-05-05,20:05 (03:05),Europa Lg,Semi-finals,Thu,Home,W,3,0,es Villarreal,57,43074,James Milner,4-4-1-1,Viktor Kassai,Match Report,Leg 2 of 2; Liverpool won
+2016-05-08,16:00 (23:00),Premier League,Matchweek 37,Sun,Home,W,2,0,Watford,66,43341,Lucas Leiva,4-2-3-1,Lee Mason,Match Report,
+2016-05-11,20:00 (03:00),Premier League,Matchweek 30,Wed,Home,D,1,1,Chelsea,55,43210,James Milner,4-4-1-1,Michael Oliver,Match Report,
+2016-05-15,15:00 (22:00),Premier League,Matchweek 38,Sun,Away,D,1,1,West Brom,67,26196,Lucas Leiva,4-3-3,Robert Madley,Match Report,
+2016-05-18,20:45 (02:45),Europa Lg,Final,Wed,Home,L,1,3,es Sevilla,54,34429,James Milner,4-2-3-1,Jonas Eriksson,Match Report,
