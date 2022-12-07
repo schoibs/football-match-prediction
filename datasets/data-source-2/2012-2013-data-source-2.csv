@@ -1,0 +1,836 @@
+Date,Comp,Venue,Result,GF,GA,Opponent,Poss,team
+2012-08-18,Premier League,Home,D,0,0,Sunderland,,arsenal
+2012-08-26,Premier League,Away,D,0,0,Stoke City,,arsenal
+2012-09-02,Premier League,Away,W,2,0,Liverpool,,arsenal
+2012-09-15,Premier League,Home,W,6,1,Southampton,,arsenal
+2012-09-18,Champions Lg,Away,W,2,1,fr Montpellier,,arsenal
+2012-09-23,Premier League,Away,D,1,1,Manchester City,,arsenal
+2012-09-29,Premier League,Home,L,1,2,Chelsea,,arsenal
+2012-10-03,Champions Lg,Home,W,3,1,gr Olympiacos,,arsenal
+2012-10-06,Premier League,Away,W,3,1,West Ham,,arsenal
+2012-10-20,Premier League,Away,L,0,1,Norwich City,,arsenal
+2012-10-24,Champions Lg,Home,L,0,2,de Schalke 04,,arsenal
+2012-10-27,Premier League,Home,W,1,0,QPR,,arsenal
+2012-11-03,Premier League,Away,L,1,2,Manchester Utd,,arsenal
+2012-11-06,Champions Lg,Away,D,2,2,de Schalke 04,,arsenal
+2012-11-10,Premier League,Home,D,3,3,Fulham,,arsenal
+2012-11-17,Premier League,Home,W,5,2,Tottenham,,arsenal
+2012-11-21,Champions Lg,Home,W,2,0,fr Montpellier,,arsenal
+2012-11-24,Premier League,Away,D,0,0,Aston Villa,,arsenal
+2012-11-28,Premier League,Away,D,1,1,Everton,,arsenal
+2012-12-01,Premier League,Home,L,0,2,Swansea City,,arsenal
+2012-12-04,Champions Lg,Away,L,1,2,gr Olympiacos,,arsenal
+2012-12-08,Premier League,Home,W,2,0,West Brom,,arsenal
+2012-12-17,Premier League,Away,W,5,2,Reading,,arsenal
+2012-12-22,Premier League,Away,W,1,0,Wigan Athletic,,arsenal
+2012-12-29,Premier League,Home,W,7,3,Newcastle Utd,,arsenal
+2013-01-01,Premier League,Away,D,1,1,Southampton,,arsenal
+2013-01-13,Premier League,Home,L,0,2,Manchester City,,arsenal
+2013-01-20,Premier League,Away,L,1,2,Chelsea,,arsenal
+2013-01-23,Premier League,Home,W,5,1,West Ham,,arsenal
+2013-01-30,Premier League,Home,D,2,2,Liverpool,,arsenal
+2013-02-02,Premier League,Home,W,1,0,Stoke City,,arsenal
+2013-02-09,Premier League,Away,W,1,0,Sunderland,,arsenal
+2013-02-19,Champions Lg,Home,L,1,3,de Bayern Munich,,arsenal
+2013-02-23,Premier League,Home,W,2,1,Aston Villa,,arsenal
+2013-03-03,Premier League,Away,L,1,2,Tottenham,,arsenal
+2013-03-13,Champions Lg,Away,W,2,0,de Bayern Munich,,arsenal
+2013-03-16,Premier League,Away,W,2,0,Swansea City,,arsenal
+2013-03-30,Premier League,Home,W,4,1,Reading,,arsenal
+2013-04-06,Premier League,Away,W,2,1,West Brom,,arsenal
+2013-04-13,Premier League,Home,W,3,1,Norwich City,,arsenal
+2013-04-16,Premier League,Home,D,0,0,Everton,,arsenal
+2013-04-20,Premier League,Away,W,1,0,Fulham,,arsenal
+2013-04-28,Premier League,Home,D,1,1,Manchester Utd,,arsenal
+2013-05-04,Premier League,Away,W,1,0,QPR,,arsenal
+2013-05-14,Premier League,Home,W,4,1,Wigan Athletic,,arsenal
+2013-05-19,Premier League,Away,W,1,0,Newcastle Utd,,arsenal
+2012-08-18,Premier League,Away,L,0,1,West Ham,,aston-villa
+2012-08-25,Premier League,Home,L,1,3,Everton,,aston-villa
+2012-09-02,Premier League,Away,D,1,1,Newcastle Utd,,aston-villa
+2012-09-15,Premier League,Home,W,2,0,Swansea City,,aston-villa
+2012-09-22,Premier League,Away,L,1,4,Southampton,,aston-villa
+2012-09-30,Premier League,Home,D,1,1,West Brom,,aston-villa
+2012-10-07,Premier League,Away,L,0,2,Tottenham,,aston-villa
+2012-10-20,Premier League,Away,L,0,1,Fulham,,aston-villa
+2012-10-27,Premier League,Home,D,1,1,Norwich City,,aston-villa
+2012-11-03,Premier League,Away,W,1,0,Sunderland,,aston-villa
+2012-11-10,Premier League,Home,L,2,3,Manchester Utd,,aston-villa
+2012-11-17,Premier League,Away,L,0,5,Manchester City,,aston-villa
+2012-11-24,Premier League,Home,D,0,0,Arsenal,,aston-villa
+2012-11-27,Premier League,Home,W,1,0,Reading,,aston-villa
+2012-12-01,Premier League,Away,D,1,1,QPR,,aston-villa
+2012-12-08,Premier League,Home,D,0,0,Stoke City,,aston-villa
+2012-12-15,Premier League,Away,W,3,1,Liverpool,,aston-villa
+2012-12-23,Premier League,Away,L,0,8,Chelsea,,aston-villa
+2012-12-26,Premier League,Home,L,0,4,Tottenham,,aston-villa
+2012-12-29,Premier League,Home,L,0,3,Wigan Athletic,,aston-villa
+2013-01-01,Premier League,Away,D,2,2,Swansea City,,aston-villa
+2013-01-12,Premier League,Home,L,0,1,Southampton,,aston-villa
+2013-01-19,Premier League,Away,D,2,2,West Brom,,aston-villa
+2013-01-29,Premier League,Home,L,1,2,Newcastle Utd,,aston-villa
+2013-02-02,Premier League,Away,D,3,3,Everton,,aston-villa
+2013-02-10,Premier League,Home,W,2,1,West Ham,,aston-villa
+2013-02-23,Premier League,Away,L,1,2,Arsenal,,aston-villa
+2013-03-04,Premier League,Home,L,0,1,Manchester City,,aston-villa
+2013-03-09,Premier League,Away,W,2,1,Reading,,aston-villa
+2013-03-16,Premier League,Home,W,3,2,QPR,,aston-villa
+2013-03-31,Premier League,Home,L,1,2,Liverpool,,aston-villa
+2013-04-06,Premier League,Away,W,3,1,Stoke City,,aston-villa
+2013-04-13,Premier League,Home,D,1,1,Fulham,,aston-villa
+2013-04-22,Premier League,Away,L,0,3,Manchester Utd,,aston-villa
+2013-04-29,Premier League,Home,W,6,1,Sunderland,,aston-villa
+2013-05-04,Premier League,Away,W,2,1,Norwich City,,aston-villa
+2013-05-11,Premier League,Home,L,1,2,Chelsea,,aston-villa
+2013-05-19,Premier League,Away,D,2,2,Wigan Athletic,,aston-villa
+2012-08-19,Premier League,Away,W,2,0,Wigan Athletic,,chelsea
+2012-08-22,Premier League,Home,W,4,2,Reading,,chelsea
+2012-08-25,Premier League,Home,W,2,0,Newcastle Utd,,chelsea
+2012-09-15,Premier League,Away,D,0,0,QPR,,chelsea
+2012-09-19,Champions Lg,Home,D,2,2,it Juventus,,chelsea
+2012-09-22,Premier League,Home,W,1,0,Stoke City,,chelsea
+2012-09-29,Premier League,Away,W,2,1,Arsenal,,chelsea
+2012-10-02,Champions Lg,Away,W,4,0,dk Nordsjælland,,chelsea
+2012-10-06,Premier League,Home,W,4,1,Norwich City,,chelsea
+2012-10-20,Premier League,Away,W,4,2,Tottenham,,chelsea
+2012-10-23,Champions Lg,Away,L,1,2,ua Shakhtar,,chelsea
+2012-10-28,Premier League,Home,L,2,3,Manchester Utd,,chelsea
+2012-11-03,Premier League,Away,D,1,1,Swansea City,,chelsea
+2012-11-07,Champions Lg,Home,W,3,2,ua Shakhtar,,chelsea
+2012-11-11,Premier League,Home,D,1,1,Liverpool,,chelsea
+2012-11-17,Premier League,Away,L,1,2,West Brom,,chelsea
+2012-11-20,Champions Lg,Away,L,0,3,it Juventus,,chelsea
+2012-11-25,Premier League,Home,D,0,0,Manchester City,,chelsea
+2012-11-28,Premier League,Home,D,0,0,Fulham,,chelsea
+2012-12-01,Premier League,Away,L,1,3,West Ham,,chelsea
+2012-12-05,Champions Lg,Home,W,6,1,dk Nordsjælland,,chelsea
+2012-12-08,Premier League,Away,W,3,1,Sunderland,,chelsea
+2012-12-23,Premier League,Home,W,8,0,Aston Villa,,chelsea
+2012-12-26,Premier League,Away,W,1,0,Norwich City,,chelsea
+2012-12-30,Premier League,Away,W,2,1,Everton,,chelsea
+2013-01-02,Premier League,Home,L,0,1,QPR,,chelsea
+2013-01-12,Premier League,Away,W,4,0,Stoke City,,chelsea
+2013-01-16,Premier League,Home,D,2,2,Southampton,,chelsea
+2013-01-20,Premier League,Home,W,2,1,Arsenal,,chelsea
+2013-01-30,Premier League,Away,D,2,2,Reading,,chelsea
+2013-02-02,Premier League,Away,L,2,3,Newcastle Utd,,chelsea
+2013-02-09,Premier League,Home,W,4,1,Wigan Athletic,,chelsea
+2013-02-14,Europa Lg,Away,W,1,0,cz Sparta Prague,,chelsea
+2013-02-21,Europa Lg,Home,D,1,1,cz Sparta Prague,,chelsea
+2013-02-24,Premier League,Away,L,0,2,Manchester City,,chelsea
+2013-03-02,Premier League,Home,W,1,0,West Brom,,chelsea
+2013-03-07,Europa Lg,Away,L,0,1,ro Steaua,,chelsea
+2013-03-14,Europa Lg,Home,W,3,1,ro Steaua,,chelsea
+2013-03-17,Premier League,Home,W,2,0,West Ham,,chelsea
+2013-03-30,Premier League,Away,L,1,2,Southampton,,chelsea
+2013-04-04,Europa Lg,Home,W,3,1,ru Rubin Kazan,,chelsea
+2013-04-07,Premier League,Home,W,2,1,Sunderland,,chelsea
+2013-04-11,Europa Lg,Away,L,2,3,ru Rubin Kazan,,chelsea
+2013-04-17,Premier League,Away,W,3,0,Fulham,,chelsea
+2013-04-21,Premier League,Away,D,2,2,Liverpool,,chelsea
+2013-04-25,Europa Lg,Away,W,2,1,ch Basel,,chelsea
+2013-04-28,Premier League,Home,W,2,0,Swansea City,,chelsea
+2013-05-02,Europa Lg,Home,W,3,1,ch Basel,,chelsea
+2013-05-05,Premier League,Away,W,1,0,Manchester Utd,,chelsea
+2013-05-08,Premier League,Home,D,2,2,Tottenham,,chelsea
+2013-05-11,Premier League,Away,W,2,1,Aston Villa,,chelsea
+2013-05-15,Europa Lg,Neutral,W,2,1,pt Benfica,,chelsea
+2013-05-19,Premier League,Home,W,2,1,Everton,,chelsea
+2012-08-19,Premier League,Home,W,3,2,Southampton,,city
+2012-08-26,Premier League,Away,D,2,2,Liverpool,,city
+2012-09-01,Premier League,Home,W,3,1,QPR,,city
+2012-09-15,Premier League,Away,D,1,1,Stoke City,,city
+2012-09-18,Champions Lg,Away,L,2,3,es Real Madrid,,city
+2012-09-23,Premier League,Home,D,1,1,Arsenal,,city
+2012-09-29,Premier League,Away,W,2,1,Fulham,,city
+2012-10-03,Champions Lg,Home,D,1,1,de Dortmund,,city
+2012-10-06,Premier League,Home,W,3,0,Sunderland,,city
+2012-10-20,Premier League,Away,W,2,1,West Brom,,city
+2012-10-24,Champions Lg,Away,L,1,3,nl Ajax,,city
+2012-10-27,Premier League,Home,W,1,0,Swansea City,,city
+2012-11-03,Premier League,Away,D,0,0,West Ham,,city
+2012-11-06,Champions Lg,Home,D,2,2,nl Ajax,,city
+2012-11-11,Premier League,Home,W,2,1,Tottenham,,city
+2012-11-17,Premier League,Home,W,5,0,Aston Villa,,city
+2012-11-21,Champions Lg,Home,D,1,1,es Real Madrid,,city
+2012-11-25,Premier League,Away,D,0,0,Chelsea,,city
+2012-11-28,Premier League,Away,W,2,0,Wigan Athletic,,city
+2012-12-01,Premier League,Home,D,1,1,Everton,,city
+2012-12-04,Champions Lg,Away,L,0,1,de Dortmund,,city
+2012-12-09,Premier League,Home,L,2,3,Manchester Utd,,city
+2012-12-15,Premier League,Away,W,3,1,Newcastle Utd,,city
+2012-12-22,Premier League,Home,W,1,0,Reading,,city
+2012-12-26,Premier League,Away,L,0,1,Sunderland,,city
+2012-12-29,Premier League,Away,W,4,3,Norwich City,,city
+2013-01-01,Premier League,Home,W,3,0,Stoke City,,city
+2013-01-13,Premier League,Away,W,2,0,Arsenal,,city
+2013-01-19,Premier League,Home,W,2,0,Fulham,,city
+2013-01-29,Premier League,Away,D,0,0,QPR,,city
+2013-02-03,Premier League,Home,D,2,2,Liverpool,,city
+2013-02-09,Premier League,Away,L,1,3,Southampton,,city
+2013-02-24,Premier League,Home,W,2,0,Chelsea,,city
+2013-03-04,Premier League,Away,W,1,0,Aston Villa,,city
+2013-03-16,Premier League,Away,L,0,2,Everton,,city
+2013-03-30,Premier League,Home,W,4,0,Newcastle Utd,,city
+2013-04-08,Premier League,Away,W,2,1,Manchester Utd,,city
+2013-04-17,Premier League,Home,W,1,0,Wigan Athletic,,city
+2013-04-21,Premier League,Away,L,1,3,Tottenham,,city
+2013-04-27,Premier League,Home,W,2,1,West Ham,,city
+2013-05-04,Premier League,Away,D,0,0,Swansea City,,city
+2013-05-07,Premier League,Home,W,1,0,West Brom,,city
+2013-05-14,Premier League,Away,W,2,0,Reading,,city
+2013-05-19,Premier League,Home,L,2,3,Norwich City,,city
+2012-08-20,Premier League,Home,W,1,0,Manchester Utd,,everton
+2012-08-25,Premier League,Away,W,3,1,Aston Villa,,everton
+2012-09-01,Premier League,Away,L,0,2,West Brom,,everton
+2012-09-17,Premier League,Home,D,2,2,Newcastle Utd,,everton
+2012-09-22,Premier League,Away,W,3,0,Swansea City,,everton
+2012-09-29,Premier League,Home,W,3,1,Southampton,,everton
+2012-10-06,Premier League,Away,D,2,2,Wigan Athletic,,everton
+2012-10-21,Premier League,Away,D,1,1,QPR,,everton
+2012-10-28,Premier League,Home,D,2,2,Liverpool,,everton
+2012-11-03,Premier League,Away,D,2,2,Fulham,,everton
+2012-11-10,Premier League,Home,W,2,1,Sunderland,,everton
+2012-11-17,Premier League,Away,L,1,2,Reading,,everton
+2012-11-24,Premier League,Home,D,1,1,Norwich City,,everton
+2012-11-28,Premier League,Home,D,1,1,Arsenal,,everton
+2012-12-01,Premier League,Away,D,1,1,Manchester City,,everton
+2012-12-09,Premier League,Home,W,2,1,Tottenham,,everton
+2012-12-15,Premier League,Away,D,1,1,Stoke City,,everton
+2012-12-22,Premier League,Away,W,2,1,West Ham,,everton
+2012-12-26,Premier League,Home,W,2,1,Wigan Athletic,,everton
+2012-12-30,Premier League,Home,L,1,2,Chelsea,,everton
+2013-01-02,Premier League,Away,W,2,1,Newcastle Utd,,everton
+2013-01-12,Premier League,Home,D,0,0,Swansea City,,everton
+2013-01-21,Premier League,Away,D,0,0,Southampton,,everton
+2013-01-30,Premier League,Home,W,2,1,West Brom,,everton
+2013-02-02,Premier League,Home,D,3,3,Aston Villa,,everton
+2013-02-10,Premier League,Away,L,0,2,Manchester Utd,,everton
+2013-02-23,Premier League,Away,L,1,2,Norwich City,,everton
+2013-03-02,Premier League,Home,W,3,1,Reading,,everton
+2013-03-16,Premier League,Home,W,2,0,Manchester City,,everton
+2013-03-30,Premier League,Home,W,1,0,Stoke City,,everton
+2013-04-07,Premier League,Away,D,2,2,Tottenham,,everton
+2013-04-13,Premier League,Home,W,2,0,QPR,,everton
+2013-04-16,Premier League,Away,D,0,0,Arsenal,,everton
+2013-04-20,Premier League,Away,L,0,1,Sunderland,,everton
+2013-04-27,Premier League,Home,W,1,0,Fulham,,everton
+2013-05-05,Premier League,Away,D,0,0,Liverpool,,everton
+2013-05-12,Premier League,Home,W,2,0,West Ham,,everton
+2013-05-19,Premier League,Away,L,1,2,Chelsea,,everton
+2012-08-18,Premier League,Home,W,5,0,Norwich City,,fulham
+2012-08-25,Premier League,Away,L,2,3,Manchester Utd,,fulham
+2012-09-01,Premier League,Away,L,0,3,West Ham,,fulham
+2012-09-15,Premier League,Home,W,3,0,West Brom,,fulham
+2012-09-22,Premier League,Away,W,2,1,Wigan Athletic,,fulham
+2012-09-29,Premier League,Home,L,1,2,Manchester City,,fulham
+2012-10-07,Premier League,Away,D,2,2,Southampton,,fulham
+2012-10-20,Premier League,Home,W,1,0,Aston Villa,,fulham
+2012-10-27,Premier League,Away,D,3,3,Reading,,fulham
+2012-11-03,Premier League,Home,D,2,2,Everton,,fulham
+2012-11-10,Premier League,Away,D,3,3,Arsenal,,fulham
+2012-11-18,Premier League,Home,L,1,3,Sunderland,,fulham
+2012-11-24,Premier League,Away,L,0,1,Stoke City,,fulham
+2012-11-28,Premier League,Away,D,0,0,Chelsea,,fulham
+2012-12-01,Premier League,Home,L,0,3,Tottenham,,fulham
+2012-12-10,Premier League,Home,W,2,1,Newcastle Utd,,fulham
+2012-12-15,Premier League,Away,L,1,2,QPR,,fulham
+2012-12-22,Premier League,Away,L,0,4,Liverpool,,fulham
+2012-12-26,Premier League,Home,D,1,1,Southampton,,fulham
+2012-12-29,Premier League,Home,L,1,2,Swansea City,,fulham
+2013-01-01,Premier League,Away,W,2,1,West Brom,,fulham
+2013-01-12,Premier League,Home,D,1,1,Wigan Athletic,,fulham
+2013-01-19,Premier League,Away,L,0,2,Manchester City,,fulham
+2013-01-30,Premier League,Home,W,3,1,West Ham,,fulham
+2013-02-02,Premier League,Home,L,0,1,Manchester Utd,,fulham
+2013-02-09,Premier League,Away,D,0,0,Norwich City,,fulham
+2013-02-23,Premier League,Home,W,1,0,Stoke City,,fulham
+2013-03-02,Premier League,Away,D,2,2,Sunderland,,fulham
+2013-03-17,Premier League,Away,W,1,0,Tottenham,,fulham
+2013-04-01,Premier League,Home,W,3,2,QPR,,fulham
+2013-04-07,Premier League,Away,L,0,1,Newcastle Utd,,fulham
+2013-04-13,Premier League,Away,D,1,1,Aston Villa,,fulham
+2013-04-17,Premier League,Home,L,0,3,Chelsea,,fulham
+2013-04-20,Premier League,Home,L,0,1,Arsenal,,fulham
+2013-04-27,Premier League,Away,L,0,1,Everton,,fulham
+2013-05-04,Premier League,Home,L,2,4,Reading,,fulham
+2013-05-12,Premier League,Home,L,1,3,Liverpool,,fulham
+2013-05-19,Premier League,Away,W,3,0,Swansea City,,fulham
+2012-08-02,Europa Lg,Away,W,1,0,by FC Gomel,,liverpool
+2012-08-09,Europa Lg,Home,W,3,0,by FC Gomel,,liverpool
+2012-08-18,Premier League,Away,L,0,3,West Brom,,liverpool
+2012-08-23,Europa Lg,Away,W,1,0,sct Hearts,,liverpool
+2012-08-26,Premier League,Home,D,2,2,Manchester City,,liverpool
+2012-08-30,Europa Lg,Home,D,1,1,sct Hearts,,liverpool
+2012-09-02,Premier League,Home,L,0,2,Arsenal,,liverpool
+2012-09-15,Premier League,Away,D,1,1,Sunderland,,liverpool
+2012-09-20,Europa Lg,Away,W,5,3,ch Young Boys,,liverpool
+2012-09-23,Premier League,Home,L,1,2,Manchester Utd,,liverpool
+2012-09-29,Premier League,Away,W,5,2,Norwich City,,liverpool
+2012-10-04,Europa Lg,Home,L,2,3,it Udinese,,liverpool
+2012-10-07,Premier League,Home,D,0,0,Stoke City,,liverpool
+2012-10-20,Premier League,Home,W,1,0,Reading,,liverpool
+2012-10-25,Europa Lg,Home,W,1,0,ru Anzhi,,liverpool
+2012-10-28,Premier League,Away,D,2,2,Everton,,liverpool
+2012-11-04,Premier League,Home,D,1,1,Newcastle Utd,,liverpool
+2012-11-08,Europa Lg,Away,L,0,1,ru Anzhi,,liverpool
+2012-11-11,Premier League,Away,D,1,1,Chelsea,,liverpool
+2012-11-17,Premier League,Home,W,3,0,Wigan Athletic,,liverpool
+2012-11-22,Europa Lg,Home,D,2,2,ch Young Boys,,liverpool
+2012-11-25,Premier League,Away,D,0,0,Swansea City,,liverpool
+2012-11-28,Premier League,Away,L,1,2,Tottenham,,liverpool
+2012-12-01,Premier League,Home,W,1,0,Southampton,,liverpool
+2012-12-06,Europa Lg,Away,W,1,0,it Udinese,,liverpool
+2012-12-09,Premier League,Away,W,3,2,West Ham,,liverpool
+2012-12-15,Premier League,Home,L,1,3,Aston Villa,,liverpool
+2012-12-22,Premier League,Home,W,4,0,Fulham,,liverpool
+2012-12-26,Premier League,Away,L,1,3,Stoke City,,liverpool
+2012-12-30,Premier League,Away,W,3,0,QPR,,liverpool
+2013-01-02,Premier League,Home,W,3,0,Sunderland,,liverpool
+2013-01-13,Premier League,Away,L,1,2,Manchester Utd,,liverpool
+2013-01-19,Premier League,Home,W,5,0,Norwich City,,liverpool
+2013-01-30,Premier League,Away,D,2,2,Arsenal,,liverpool
+2013-02-03,Premier League,Away,D,2,2,Manchester City,,liverpool
+2013-02-11,Premier League,Home,L,0,2,West Brom,,liverpool
+2013-02-14,Europa Lg,Away,L,0,2,ru Zenit,,liverpool
+2013-02-17,Premier League,Home,W,5,0,Swansea City,,liverpool
+2013-02-21,Europa Lg,Home,W,3,1,ru Zenit,,liverpool
+2013-03-02,Premier League,Away,W,4,0,Wigan Athletic,,liverpool
+2013-03-10,Premier League,Home,W,3,2,Tottenham,,liverpool
+2013-03-16,Premier League,Away,L,1,3,Southampton,,liverpool
+2013-03-31,Premier League,Away,W,2,1,Aston Villa,,liverpool
+2013-04-07,Premier League,Home,D,0,0,West Ham,,liverpool
+2013-04-13,Premier League,Away,D,0,0,Reading,,liverpool
+2013-04-21,Premier League,Home,D,2,2,Chelsea,,liverpool
+2013-04-27,Premier League,Away,W,6,0,Newcastle Utd,,liverpool
+2013-05-05,Premier League,Home,D,0,0,Everton,,liverpool
+2013-05-12,Premier League,Away,W,3,1,Fulham,,liverpool
+2013-05-19,Premier League,Home,W,1,0,QPR,,liverpool
+2012-08-18,Premier League,Home,W,2,1,Tottenham,,newcastle
+2012-08-23,Europa Lg,Away,D,1,1,gr Atromitos,,newcastle
+2012-08-25,Premier League,Away,L,0,2,Chelsea,,newcastle
+2012-08-30,Europa Lg,Home,W,1,0,gr Atromitos,,newcastle
+2012-09-02,Premier League,Home,D,1,1,Aston Villa,,newcastle
+2012-09-17,Premier League,Away,D,2,2,Everton,,newcastle
+2012-09-20,Europa Lg,Away,D,0,0,pt Marítimo,,newcastle
+2012-09-23,Premier League,Home,W,1,0,Norwich City,,newcastle
+2012-09-29,Premier League,Away,D,2,2,Reading,,newcastle
+2012-10-04,Europa Lg,Home,W,3,0,fr Bordeaux,,newcastle
+2012-10-07,Premier League,Home,L,0,3,Manchester Utd,,newcastle
+2012-10-21,Premier League,Away,D,1,1,Sunderland,,newcastle
+2012-10-25,Europa Lg,Home,W,1,0,be Club Brugge,,newcastle
+2012-10-28,Premier League,Home,W,2,1,West Brom,,newcastle
+2012-11-04,Premier League,Away,D,1,1,Liverpool,,newcastle
+2012-11-08,Europa Lg,Away,D,2,2,be Club Brugge,,newcastle
+2012-11-11,Premier League,Home,L,0,1,West Ham,,newcastle
+2012-11-17,Premier League,Home,L,1,2,Swansea City,,newcastle
+2012-11-22,Europa Lg,Home,D,1,1,pt Marítimo,,newcastle
+2012-11-25,Premier League,Away,L,0,2,Southampton,,newcastle
+2012-11-28,Premier League,Away,L,1,2,Stoke City,,newcastle
+2012-12-03,Premier League,Home,W,3,0,Wigan Athletic,,newcastle
+2012-12-06,Europa Lg,Away,L,0,2,fr Bordeaux,,newcastle
+2012-12-10,Premier League,Away,L,1,2,Fulham,,newcastle
+2012-12-15,Premier League,Home,L,1,3,Manchester City,,newcastle
+2012-12-22,Premier League,Home,W,1,0,QPR,,newcastle
+2012-12-26,Premier League,Away,L,3,4,Manchester Utd,,newcastle
+2012-12-29,Premier League,Away,L,3,7,Arsenal,,newcastle
+2013-01-02,Premier League,Home,L,1,2,Everton,,newcastle
+2013-01-12,Premier League,Away,D,0,0,Norwich City,,newcastle
+2013-01-19,Premier League,Home,L,1,2,Reading,,newcastle
+2013-01-29,Premier League,Away,W,2,1,Aston Villa,,newcastle
+2013-02-02,Premier League,Home,W,3,2,Chelsea,,newcastle
+2013-02-09,Premier League,Away,L,1,2,Tottenham,,newcastle
+2013-02-14,Europa Lg,Home,D,0,0,ua Metalist Kharkiv,,newcastle
+2013-02-21,Europa Lg,Away,W,1,0,ua Metalist Kharkiv,,newcastle
+2013-02-24,Premier League,Home,W,4,2,Southampton,,newcastle
+2013-03-02,Premier League,Away,L,0,1,Swansea City,,newcastle
+2013-03-07,Europa Lg,Away,D,0,0,ru Anzhi,,newcastle
+2013-03-10,Premier League,Home,W,2,1,Stoke City,,newcastle
+2013-03-14,Europa Lg,Home,W,1,0,ru Anzhi,,newcastle
+2013-03-17,Premier League,Away,L,1,2,Wigan Athletic,,newcastle
+2013-03-30,Premier League,Away,L,0,4,Manchester City,,newcastle
+2013-04-04,Europa Lg,Away,L,1,3,pt Benfica,,newcastle
+2013-04-07,Premier League,Home,W,1,0,Fulham,,newcastle
+2013-04-11,Europa Lg,Home,D,1,1,pt Benfica,,newcastle
+2013-04-14,Premier League,Home,L,0,3,Sunderland,,newcastle
+2013-04-20,Premier League,Away,D,1,1,West Brom,,newcastle
+2013-04-27,Premier League,Home,L,0,6,Liverpool,,newcastle
+2013-05-04,Premier League,Away,D,0,0,West Ham,,newcastle
+2013-05-12,Premier League,Away,W,2,1,QPR,,newcastle
+2013-05-19,Premier League,Home,L,0,1,Arsenal,,newcastle
+2012-08-18,Premier League,Away,L,0,5,Fulham,,norwich
+2012-08-25,Premier League,Home,D,1,1,QPR,,norwich
+2012-09-01,Premier League,Away,D,1,1,Tottenham,,norwich
+2012-09-15,Premier League,Home,D,0,0,West Ham,,norwich
+2012-09-23,Premier League,Away,L,0,1,Newcastle Utd,,norwich
+2012-09-29,Premier League,Home,L,2,5,Liverpool,,norwich
+2012-10-06,Premier League,Away,L,1,4,Chelsea,,norwich
+2012-10-20,Premier League,Home,W,1,0,Arsenal,,norwich
+2012-10-27,Premier League,Away,D,1,1,Aston Villa,,norwich
+2012-11-03,Premier League,Home,W,1,0,Stoke City,,norwich
+2012-11-10,Premier League,Away,D,0,0,Reading,,norwich
+2012-11-17,Premier League,Home,W,1,0,Manchester Utd,,norwich
+2012-11-24,Premier League,Away,D,1,1,Everton,,norwich
+2012-11-28,Premier League,Away,D,1,1,Southampton,,norwich
+2012-12-02,Premier League,Home,W,2,1,Sunderland,,norwich
+2012-12-08,Premier League,Away,W,4,3,Swansea City,,norwich
+2012-12-15,Premier League,Home,W,2,1,Wigan Athletic,,norwich
+2012-12-22,Premier League,Away,L,1,2,West Brom,,norwich
+2012-12-26,Premier League,Home,L,0,1,Chelsea,,norwich
+2012-12-29,Premier League,Home,L,3,4,Manchester City,,norwich
+2013-01-01,Premier League,Away,L,1,2,West Ham,,norwich
+2013-01-12,Premier League,Home,D,0,0,Newcastle Utd,,norwich
+2013-01-19,Premier League,Away,L,0,5,Liverpool,,norwich
+2013-01-30,Premier League,Home,D,1,1,Tottenham,,norwich
+2013-02-02,Premier League,Away,D,0,0,QPR,,norwich
+2013-02-09,Premier League,Home,D,0,0,Fulham,,norwich
+2013-02-23,Premier League,Home,W,2,1,Everton,,norwich
+2013-03-02,Premier League,Away,L,0,4,Manchester Utd,,norwich
+2013-03-09,Premier League,Home,D,0,0,Southampton,,norwich
+2013-03-17,Premier League,Away,D,1,1,Sunderland,,norwich
+2013-03-30,Premier League,Away,L,0,1,Wigan Athletic,,norwich
+2013-04-06,Premier League,Home,D,2,2,Swansea City,,norwich
+2013-04-13,Premier League,Away,L,1,3,Arsenal,,norwich
+2013-04-20,Premier League,Home,W,2,1,Reading,,norwich
+2013-04-27,Premier League,Away,L,0,1,Stoke City,,norwich
+2013-05-04,Premier League,Home,L,1,2,Aston Villa,,norwich
+2013-05-12,Premier League,Home,W,4,0,West Brom,,norwich
+2013-05-19,Premier League,Away,W,3,2,Manchester City,,norwich
+2012-08-18,Premier League,Home,L,0,5,Swansea City,,qpr
+2012-08-25,Premier League,Away,D,1,1,Norwich City,,qpr
+2012-09-01,Premier League,Away,L,1,3,Manchester City,,qpr
+2012-09-15,Premier League,Home,D,0,0,Chelsea,,qpr
+2012-09-23,Premier League,Away,L,1,2,Tottenham,,qpr
+2012-10-01,Premier League,Home,L,1,2,West Ham,,qpr
+2012-10-06,Premier League,Away,L,2,3,West Brom,,qpr
+2012-10-21,Premier League,Home,D,1,1,Everton,,qpr
+2012-10-27,Premier League,Away,L,0,1,Arsenal,,qpr
+2012-11-04,Premier League,Home,D,1,1,Reading,,qpr
+2012-11-10,Premier League,Away,L,0,1,Stoke City,,qpr
+2012-11-17,Premier League,Home,L,1,3,Southampton,,qpr
+2012-11-24,Premier League,Away,L,1,3,Manchester Utd,,qpr
+2012-11-27,Premier League,Away,D,0,0,Sunderland,,qpr
+2012-12-01,Premier League,Home,D,1,1,Aston Villa,,qpr
+2012-12-08,Premier League,Away,D,2,2,Wigan Athletic,,qpr
+2012-12-15,Premier League,Home,W,2,1,Fulham,,qpr
+2012-12-22,Premier League,Away,L,0,1,Newcastle Utd,,qpr
+2012-12-26,Premier League,Home,L,1,2,West Brom,,qpr
+2012-12-30,Premier League,Home,L,0,3,Liverpool,,qpr
+2013-01-02,Premier League,Away,W,1,0,Chelsea,,qpr
+2013-01-12,Premier League,Home,D,0,0,Tottenham,,qpr
+2013-01-19,Premier League,Away,D,1,1,West Ham,,qpr
+2013-01-29,Premier League,Home,D,0,0,Manchester City,,qpr
+2013-02-02,Premier League,Home,D,0,0,Norwich City,,qpr
+2013-02-09,Premier League,Away,L,1,4,Swansea City,,qpr
+2013-02-23,Premier League,Home,L,0,2,Manchester Utd,,qpr
+2013-03-02,Premier League,Away,W,2,1,Southampton,,qpr
+2013-03-09,Premier League,Home,W,3,1,Sunderland,,qpr
+2013-03-16,Premier League,Away,L,2,3,Aston Villa,,qpr
+2013-04-01,Premier League,Away,L,2,3,Fulham,,qpr
+2013-04-07,Premier League,Home,D,1,1,Wigan Athletic,,qpr
+2013-04-13,Premier League,Away,L,0,2,Everton,,qpr
+2013-04-20,Premier League,Home,L,0,2,Stoke City,,qpr
+2013-04-28,Premier League,Away,D,0,0,Reading,,qpr
+2013-05-04,Premier League,Home,L,0,1,Arsenal,,qpr
+2013-05-12,Premier League,Home,L,1,2,Newcastle Utd,,qpr
+2013-05-19,Premier League,Away,L,0,1,Liverpool,,qpr
+2012-08-18,Premier League,Home,D,1,1,Stoke City,,reading
+2012-08-22,Premier League,Away,L,2,4,Chelsea,,reading
+2012-09-16,Premier League,Home,L,1,3,Tottenham,,reading
+2012-09-22,Premier League,Away,L,0,1,West Brom,,reading
+2012-09-29,Premier League,Home,D,2,2,Newcastle Utd,,reading
+2012-10-06,Premier League,Away,D,2,2,Swansea City,,reading
+2012-10-20,Premier League,Away,L,0,1,Liverpool,,reading
+2012-10-27,Premier League,Home,D,3,3,Fulham,,reading
+2012-11-04,Premier League,Away,D,1,1,QPR,,reading
+2012-11-10,Premier League,Home,D,0,0,Norwich City,,reading
+2012-11-17,Premier League,Home,W,2,1,Everton,,reading
+2012-11-24,Premier League,Away,L,2,3,Wigan Athletic,,reading
+2012-11-27,Premier League,Away,L,0,1,Aston Villa,,reading
+2012-12-01,Premier League,Home,L,3,4,Manchester Utd,,reading
+2012-12-08,Premier League,Away,L,0,1,Southampton,,reading
+2012-12-11,Premier League,Away,L,0,3,Sunderland,,reading
+2012-12-17,Premier League,Home,L,2,5,Arsenal,,reading
+2012-12-22,Premier League,Away,L,0,1,Manchester City,,reading
+2012-12-26,Premier League,Home,D,0,0,Swansea City,,reading
+2012-12-29,Premier League,Home,W,1,0,West Ham,,reading
+2013-01-01,Premier League,Away,L,1,3,Tottenham,,reading
+2013-01-12,Premier League,Home,W,3,2,West Brom,,reading
+2013-01-19,Premier League,Away,W,2,1,Newcastle Utd,,reading
+2013-01-30,Premier League,Home,D,2,2,Chelsea,,reading
+2013-02-02,Premier League,Home,W,2,1,Sunderland,,reading
+2013-02-09,Premier League,Away,L,1,2,Stoke City,,reading
+2013-02-23,Premier League,Home,L,0,3,Wigan Athletic,,reading
+2013-03-02,Premier League,Away,L,1,3,Everton,,reading
+2013-03-09,Premier League,Home,L,1,2,Aston Villa,,reading
+2013-03-16,Premier League,Away,L,0,1,Manchester Utd,,reading
+2013-03-30,Premier League,Away,L,1,4,Arsenal,,reading
+2013-04-06,Premier League,Home,L,0,2,Southampton,,reading
+2013-04-13,Premier League,Home,D,0,0,Liverpool,,reading
+2013-04-20,Premier League,Away,L,1,2,Norwich City,,reading
+2013-04-28,Premier League,Home,D,0,0,QPR,,reading
+2013-05-04,Premier League,Away,W,4,2,Fulham,,reading
+2013-05-14,Premier League,Home,L,0,2,Manchester City,,reading
+2013-05-19,Premier League,Away,L,2,4,West Ham,,reading
+2012-08-19,Premier League,Away,L,2,3,Manchester City,,southampton
+2012-08-25,Premier League,Home,L,0,2,Wigan Athletic,,southampton
+2012-09-02,Premier League,Home,L,2,3,Manchester Utd,,southampton
+2012-09-15,Premier League,Away,L,1,6,Arsenal,,southampton
+2012-09-22,Premier League,Home,W,4,1,Aston Villa,,southampton
+2012-09-29,Premier League,Away,L,1,3,Everton,,southampton
+2012-10-07,Premier League,Home,D,2,2,Fulham,,southampton
+2012-10-20,Premier League,Away,L,1,4,West Ham,,southampton
+2012-10-28,Premier League,Home,L,1,2,Tottenham,,southampton
+2012-11-05,Premier League,Away,L,0,2,West Brom,,southampton
+2012-11-10,Premier League,Home,D,1,1,Swansea City,,southampton
+2012-11-17,Premier League,Away,W,3,1,QPR,,southampton
+2012-11-25,Premier League,Home,W,2,0,Newcastle Utd,,southampton
+2012-11-28,Premier League,Home,D,1,1,Norwich City,,southampton
+2012-12-01,Premier League,Away,L,0,1,Liverpool,,southampton
+2012-12-08,Premier League,Home,W,1,0,Reading,,southampton
+2012-12-22,Premier League,Home,L,0,1,Sunderland,,southampton
+2012-12-26,Premier League,Away,D,1,1,Fulham,,southampton
+2012-12-29,Premier League,Away,D,3,3,Stoke City,,southampton
+2013-01-01,Premier League,Home,D,1,1,Arsenal,,southampton
+2013-01-12,Premier League,Away,W,1,0,Aston Villa,,southampton
+2013-01-16,Premier League,Away,D,2,2,Chelsea,,southampton
+2013-01-21,Premier League,Home,D,0,0,Everton,,southampton
+2013-01-30,Premier League,Away,L,1,2,Manchester Utd,,southampton
+2013-02-02,Premier League,Away,D,2,2,Wigan Athletic,,southampton
+2013-02-09,Premier League,Home,W,3,1,Manchester City,,southampton
+2013-02-24,Premier League,Away,L,2,4,Newcastle Utd,,southampton
+2013-03-02,Premier League,Home,L,1,2,QPR,,southampton
+2013-03-09,Premier League,Away,D,0,0,Norwich City,,southampton
+2013-03-16,Premier League,Home,W,3,1,Liverpool,,southampton
+2013-03-30,Premier League,Home,W,2,1,Chelsea,,southampton
+2013-04-06,Premier League,Away,W,2,0,Reading,,southampton
+2013-04-13,Premier League,Home,D,1,1,West Ham,,southampton
+2013-04-20,Premier League,Away,D,0,0,Swansea City,,southampton
+2013-04-27,Premier League,Home,L,0,3,West Brom,,southampton
+2013-05-04,Premier League,Away,L,0,1,Tottenham,,southampton
+2013-05-12,Premier League,Away,D,1,1,Sunderland,,southampton
+2013-05-19,Premier League,Home,D,1,1,Stoke City,,southampton
+2012-08-18,Premier League,Away,D,1,1,Reading,,stoke
+2012-08-26,Premier League,Home,D,0,0,Arsenal,,stoke
+2012-09-01,Premier League,Away,D,2,2,Wigan Athletic,,stoke
+2012-09-15,Premier League,Home,D,1,1,Manchester City,,stoke
+2012-09-22,Premier League,Away,L,0,1,Chelsea,,stoke
+2012-09-29,Premier League,Home,W,2,0,Swansea City,,stoke
+2012-10-07,Premier League,Away,D,0,0,Liverpool,,stoke
+2012-10-20,Premier League,Away,L,2,4,Manchester Utd,,stoke
+2012-10-27,Premier League,Home,D,0,0,Sunderland,,stoke
+2012-11-03,Premier League,Away,L,0,1,Norwich City,,stoke
+2012-11-10,Premier League,Home,W,1,0,QPR,,stoke
+2012-11-19,Premier League,Away,D,1,1,West Ham,,stoke
+2012-11-24,Premier League,Home,W,1,0,Fulham,,stoke
+2012-11-28,Premier League,Home,W,2,1,Newcastle Utd,,stoke
+2012-12-01,Premier League,Away,W,1,0,West Brom,,stoke
+2012-12-08,Premier League,Away,D,0,0,Aston Villa,,stoke
+2012-12-15,Premier League,Home,D,1,1,Everton,,stoke
+2012-12-22,Premier League,Away,D,0,0,Tottenham,,stoke
+2012-12-26,Premier League,Home,W,3,1,Liverpool,,stoke
+2012-12-29,Premier League,Home,D,3,3,Southampton,,stoke
+2013-01-01,Premier League,Away,L,0,3,Manchester City,,stoke
+2013-01-12,Premier League,Home,L,0,4,Chelsea,,stoke
+2013-01-19,Premier League,Away,L,1,3,Swansea City,,stoke
+2013-01-29,Premier League,Home,D,2,2,Wigan Athletic,,stoke
+2013-02-02,Premier League,Away,L,0,1,Arsenal,,stoke
+2013-02-09,Premier League,Home,W,2,1,Reading,,stoke
+2013-02-23,Premier League,Away,L,0,1,Fulham,,stoke
+2013-03-02,Premier League,Home,L,0,1,West Ham,,stoke
+2013-03-10,Premier League,Away,L,1,2,Newcastle Utd,,stoke
+2013-03-16,Premier League,Home,D,0,0,West Brom,,stoke
+2013-03-30,Premier League,Away,L,0,1,Everton,,stoke
+2013-04-06,Premier League,Home,L,1,3,Aston Villa,,stoke
+2013-04-14,Premier League,Home,L,0,2,Manchester Utd,,stoke
+2013-04-20,Premier League,Away,W,2,0,QPR,,stoke
+2013-04-27,Premier League,Home,W,1,0,Norwich City,,stoke
+2013-05-06,Premier League,Away,D,1,1,Sunderland,,stoke
+2013-05-12,Premier League,Home,L,1,2,Tottenham,,stoke
+2013-05-19,Premier League,Away,D,1,1,Southampton,,stoke
+2012-08-18,Premier League,Away,D,0,0,Arsenal,,sunderland
+2012-09-01,Premier League,Away,D,2,2,Swansea City,,sunderland
+2012-09-15,Premier League,Home,D,1,1,Liverpool,,sunderland
+2012-09-22,Premier League,Away,D,1,1,West Ham,,sunderland
+2012-09-29,Premier League,Home,W,1,0,Wigan Athletic,,sunderland
+2012-10-06,Premier League,Away,L,0,3,Manchester City,,sunderland
+2012-10-21,Premier League,Home,D,1,1,Newcastle Utd,,sunderland
+2012-10-27,Premier League,Away,D,0,0,Stoke City,,sunderland
+2012-11-03,Premier League,Home,L,0,1,Aston Villa,,sunderland
+2012-11-10,Premier League,Away,L,1,2,Everton,,sunderland
+2012-11-18,Premier League,Away,W,3,1,Fulham,,sunderland
+2012-11-24,Premier League,Home,L,2,4,West Brom,,sunderland
+2012-11-27,Premier League,Home,D,0,0,QPR,,sunderland
+2012-12-02,Premier League,Away,L,1,2,Norwich City,,sunderland
+2012-12-08,Premier League,Home,L,1,3,Chelsea,,sunderland
+2012-12-11,Premier League,Home,W,3,0,Reading,,sunderland
+2012-12-15,Premier League,Away,L,1,3,Manchester Utd,,sunderland
+2012-12-22,Premier League,Away,W,1,0,Southampton,,sunderland
+2012-12-26,Premier League,Home,W,1,0,Manchester City,,sunderland
+2012-12-29,Premier League,Home,L,1,2,Tottenham,,sunderland
+2013-01-02,Premier League,Away,L,0,3,Liverpool,,sunderland
+2013-01-12,Premier League,Home,W,3,0,West Ham,,sunderland
+2013-01-19,Premier League,Away,W,3,2,Wigan Athletic,,sunderland
+2013-01-29,Premier League,Home,D,0,0,Swansea City,,sunderland
+2013-02-02,Premier League,Away,L,1,2,Reading,,sunderland
+2013-02-09,Premier League,Home,L,0,1,Arsenal,,sunderland
+2013-02-23,Premier League,Away,L,1,2,West Brom,,sunderland
+2013-03-02,Premier League,Home,D,2,2,Fulham,,sunderland
+2013-03-09,Premier League,Away,L,1,3,QPR,,sunderland
+2013-03-17,Premier League,Home,D,1,1,Norwich City,,sunderland
+2013-03-30,Premier League,Home,L,0,1,Manchester Utd,,sunderland
+2013-04-07,Premier League,Away,L,1,2,Chelsea,,sunderland
+2013-04-14,Premier League,Away,W,3,0,Newcastle Utd,,sunderland
+2013-04-20,Premier League,Home,W,1,0,Everton,,sunderland
+2013-04-29,Premier League,Away,L,1,6,Aston Villa,,sunderland
+2013-05-06,Premier League,Home,D,1,1,Stoke City,,sunderland
+2013-05-12,Premier League,Home,D,1,1,Southampton,,sunderland
+2013-05-19,Premier League,Away,L,0,1,Tottenham,,sunderland
+2012-08-18,Premier League,Away,W,5,0,QPR,,swansea
+2012-08-25,Premier League,Home,W,3,0,West Ham,,swansea
+2012-09-01,Premier League,Home,D,2,2,Sunderland,,swansea
+2012-09-15,Premier League,Away,L,0,2,Aston Villa,,swansea
+2012-09-22,Premier League,Home,L,0,3,Everton,,swansea
+2012-09-29,Premier League,Away,L,0,2,Stoke City,,swansea
+2012-10-06,Premier League,Home,D,2,2,Reading,,swansea
+2012-10-20,Premier League,Home,W,2,1,Wigan Athletic,,swansea
+2012-10-27,Premier League,Away,L,0,1,Manchester City,,swansea
+2012-11-03,Premier League,Home,D,1,1,Chelsea,,swansea
+2012-11-10,Premier League,Away,D,1,1,Southampton,,swansea
+2012-11-17,Premier League,Away,W,2,1,Newcastle Utd,,swansea
+2012-11-25,Premier League,Home,D,0,0,Liverpool,,swansea
+2012-11-28,Premier League,Home,W,3,1,West Brom,,swansea
+2012-12-01,Premier League,Away,W,2,0,Arsenal,,swansea
+2012-12-08,Premier League,Home,L,3,4,Norwich City,,swansea
+2012-12-16,Premier League,Away,L,0,1,Tottenham,,swansea
+2012-12-23,Premier League,Home,D,1,1,Manchester Utd,,swansea
+2012-12-26,Premier League,Away,D,0,0,Reading,,swansea
+2012-12-29,Premier League,Away,W,2,1,Fulham,,swansea
+2013-01-01,Premier League,Home,D,2,2,Aston Villa,,swansea
+2013-01-12,Premier League,Away,D,0,0,Everton,,swansea
+2013-01-19,Premier League,Home,W,3,1,Stoke City,,swansea
+2013-01-29,Premier League,Away,D,0,0,Sunderland,,swansea
+2013-02-02,Premier League,Away,L,0,1,West Ham,,swansea
+2013-02-09,Premier League,Home,W,4,1,QPR,,swansea
+2013-02-17,Premier League,Away,L,0,5,Liverpool,,swansea
+2013-03-02,Premier League,Home,W,1,0,Newcastle Utd,,swansea
+2013-03-09,Premier League,Away,L,1,2,West Brom,,swansea
+2013-03-16,Premier League,Home,L,0,2,Arsenal,,swansea
+2013-03-30,Premier League,Home,L,1,2,Tottenham,,swansea
+2013-04-06,Premier League,Away,D,2,2,Norwich City,,swansea
+2013-04-20,Premier League,Home,D,0,0,Southampton,,swansea
+2013-04-28,Premier League,Away,L,0,2,Chelsea,,swansea
+2013-05-04,Premier League,Home,D,0,0,Manchester City,,swansea
+2013-05-07,Premier League,Away,W,3,2,Wigan Athletic,,swansea
+2013-05-12,Premier League,Away,L,1,2,Manchester Utd,,swansea
+2013-05-19,Premier League,Home,L,0,3,Fulham,,swansea
+2012-08-18,Premier League,Away,L,1,2,Newcastle Utd,,tottenham
+2012-08-25,Premier League,Home,D,1,1,West Brom,,tottenham
+2012-09-01,Premier League,Home,D,1,1,Norwich City,,tottenham
+2012-09-16,Premier League,Away,W,3,1,Reading,,tottenham
+2012-09-20,Europa Lg,Home,D,0,0,it Lazio,,tottenham
+2012-09-23,Premier League,Home,W,2,1,QPR,,tottenham
+2012-09-29,Premier League,Away,W,3,2,Manchester Utd,,tottenham
+2012-10-04,Europa Lg,Away,D,1,1,gr Panathinaikos,,tottenham
+2012-10-07,Premier League,Home,W,2,0,Aston Villa,,tottenham
+2012-10-20,Premier League,Home,L,2,4,Chelsea,,tottenham
+2012-10-25,Europa Lg,Away,D,1,1,si NK Maribor,,tottenham
+2012-10-28,Premier League,Away,W,2,1,Southampton,,tottenham
+2012-11-03,Premier League,Home,L,0,1,Wigan Athletic,,tottenham
+2012-11-08,Europa Lg,Home,W,3,1,si NK Maribor,,tottenham
+2012-11-11,Premier League,Away,L,1,2,Manchester City,,tottenham
+2012-11-17,Premier League,Away,L,2,5,Arsenal,,tottenham
+2012-11-22,Europa Lg,Away,D,0,0,it Lazio,,tottenham
+2012-11-25,Premier League,Home,W,3,1,West Ham,,tottenham
+2012-11-28,Premier League,Home,W,2,1,Liverpool,,tottenham
+2012-12-01,Premier League,Away,W,3,0,Fulham,,tottenham
+2012-12-06,Europa Lg,Home,W,3,1,gr Panathinaikos,,tottenham
+2012-12-09,Premier League,Away,L,1,2,Everton,,tottenham
+2012-12-16,Premier League,Home,W,1,0,Swansea City,,tottenham
+2012-12-22,Premier League,Home,D,0,0,Stoke City,,tottenham
+2012-12-26,Premier League,Away,W,4,0,Aston Villa,,tottenham
+2012-12-29,Premier League,Away,W,2,1,Sunderland,,tottenham
+2013-01-01,Premier League,Home,W,3,1,Reading,,tottenham
+2013-01-12,Premier League,Away,D,0,0,QPR,,tottenham
+2013-01-20,Premier League,Home,D,1,1,Manchester Utd,,tottenham
+2013-01-30,Premier League,Away,D,1,1,Norwich City,,tottenham
+2013-02-03,Premier League,Away,W,1,0,West Brom,,tottenham
+2013-02-09,Premier League,Home,W,2,1,Newcastle Utd,,tottenham
+2013-02-14,Europa Lg,Home,W,2,1,fr Lyon,,tottenham
+2013-02-21,Europa Lg,Away,D,1,1,fr Lyon,,tottenham
+2013-02-25,Premier League,Away,W,3,2,West Ham,,tottenham
+2013-03-03,Premier League,Home,W,2,1,Arsenal,,tottenham
+2013-03-07,Europa Lg,Home,W,3,0,it Inter,,tottenham
+2013-03-10,Premier League,Away,L,2,3,Liverpool,,tottenham
+2013-03-14,Europa Lg,Away,L,1,4,it Inter,,tottenham
+2013-03-17,Premier League,Home,L,0,1,Fulham,,tottenham
+2013-03-30,Premier League,Away,W,2,1,Swansea City,,tottenham
+2013-04-04,Europa Lg,Home,D,2,2,ch Basel,,tottenham
+2013-04-07,Premier League,Home,D,2,2,Everton,,tottenham
+2013-04-11,Europa Lg,Away,D,2,2,ch Basel,,tottenham
+2013-04-21,Premier League,Home,W,3,1,Manchester City,,tottenham
+2013-04-27,Premier League,Away,D,2,2,Wigan Athletic,,tottenham
+2013-05-04,Premier League,Home,W,1,0,Southampton,,tottenham
+2013-05-08,Premier League,Away,D,2,2,Chelsea,,tottenham
+2013-05-12,Premier League,Away,W,2,1,Stoke City,,tottenham
+2013-05-19,Premier League,Home,W,1,0,Sunderland,,tottenham
+2012-08-20,Premier League,Away,L,0,1,Everton,,united
+2012-08-25,Premier League,Home,W,3,2,Fulham,,united
+2012-09-02,Premier League,Away,W,3,2,Southampton,,united
+2012-09-15,Premier League,Home,W,4,0,Wigan Athletic,,united
+2012-09-19,Champions Lg,Home,W,1,0,tr Galatasaray,,united
+2012-09-23,Premier League,Away,W,2,1,Liverpool,,united
+2012-09-29,Premier League,Home,L,2,3,Tottenham,,united
+2012-10-02,Champions Lg,Away,W,2,1,ro CFR Cluj,,united
+2012-10-07,Premier League,Away,W,3,0,Newcastle Utd,,united
+2012-10-20,Premier League,Home,W,4,2,Stoke City,,united
+2012-10-23,Champions Lg,Home,W,3,2,pt Braga,,united
+2012-10-28,Premier League,Away,W,3,2,Chelsea,,united
+2012-11-03,Premier League,Home,W,2,1,Arsenal,,united
+2012-11-07,Champions Lg,Away,W,3,1,pt Braga,,united
+2012-11-10,Premier League,Away,W,3,2,Aston Villa,,united
+2012-11-17,Premier League,Away,L,0,1,Norwich City,,united
+2012-11-20,Champions Lg,Away,L,0,1,tr Galatasaray,,united
+2012-11-24,Premier League,Home,W,3,1,QPR,,united
+2012-11-28,Premier League,Home,W,1,0,West Ham,,united
+2012-12-01,Premier League,Away,W,4,3,Reading,,united
+2012-12-05,Champions Lg,Home,L,0,1,ro CFR Cluj,,united
+2012-12-09,Premier League,Away,W,3,2,Manchester City,,united
+2012-12-15,Premier League,Home,W,3,1,Sunderland,,united
+2012-12-23,Premier League,Away,D,1,1,Swansea City,,united
+2012-12-26,Premier League,Home,W,4,3,Newcastle Utd,,united
+2012-12-29,Premier League,Home,W,2,0,West Brom,,united
+2013-01-01,Premier League,Away,W,4,0,Wigan Athletic,,united
+2013-01-13,Premier League,Home,W,2,1,Liverpool,,united
+2013-01-20,Premier League,Away,D,1,1,Tottenham,,united
+2013-01-30,Premier League,Home,W,2,1,Southampton,,united
+2013-02-02,Premier League,Away,W,1,0,Fulham,,united
+2013-02-10,Premier League,Home,W,2,0,Everton,,united
+2013-02-13,Champions Lg,Away,D,1,1,es Real Madrid,,united
+2013-02-23,Premier League,Away,W,2,0,QPR,,united
+2013-03-02,Premier League,Home,W,4,0,Norwich City,,united
+2013-03-05,Champions Lg,Home,L,1,2,es Real Madrid,,united
+2013-03-16,Premier League,Home,W,1,0,Reading,,united
+2013-03-30,Premier League,Away,W,1,0,Sunderland,,united
+2013-04-08,Premier League,Home,L,1,2,Manchester City,,united
+2013-04-14,Premier League,Away,W,2,0,Stoke City,,united
+2013-04-17,Premier League,Away,D,2,2,West Ham,,united
+2013-04-22,Premier League,Home,W,3,0,Aston Villa,,united
+2013-04-28,Premier League,Away,D,1,1,Arsenal,,united
+2013-05-05,Premier League,Home,L,0,1,Chelsea,,united
+2013-05-12,Premier League,Home,W,2,1,Swansea City,,united
+2013-05-19,Premier League,Away,D,5,5,West Brom,,united
+2012-08-18,Premier League,Home,W,3,0,Liverpool,,west-brom
+2012-08-25,Premier League,Away,D,1,1,Tottenham,,west-brom
+2012-09-01,Premier League,Home,W,2,0,Everton,,west-brom
+2012-09-15,Premier League,Away,L,0,3,Fulham,,west-brom
+2012-09-22,Premier League,Home,W,1,0,Reading,,west-brom
+2012-09-30,Premier League,Away,D,1,1,Aston Villa,,west-brom
+2012-10-06,Premier League,Home,W,3,2,QPR,,west-brom
+2012-10-20,Premier League,Home,L,1,2,Manchester City,,west-brom
+2012-10-28,Premier League,Away,L,1,2,Newcastle Utd,,west-brom
+2012-11-05,Premier League,Home,W,2,0,Southampton,,west-brom
+2012-11-10,Premier League,Away,W,2,1,Wigan Athletic,,west-brom
+2012-11-17,Premier League,Home,W,2,1,Chelsea,,west-brom
+2012-11-24,Premier League,Away,W,4,2,Sunderland,,west-brom
+2012-11-28,Premier League,Away,L,1,3,Swansea City,,west-brom
+2012-12-01,Premier League,Home,L,0,1,Stoke City,,west-brom
+2012-12-08,Premier League,Away,L,0,2,Arsenal,,west-brom
+2012-12-16,Premier League,Home,D,0,0,West Ham,,west-brom
+2012-12-22,Premier League,Home,W,2,1,Norwich City,,west-brom
+2012-12-26,Premier League,Away,W,2,1,QPR,,west-brom
+2012-12-29,Premier League,Away,L,0,2,Manchester Utd,,west-brom
+2013-01-01,Premier League,Home,L,1,2,Fulham,,west-brom
+2013-01-12,Premier League,Away,L,2,3,Reading,,west-brom
+2013-01-19,Premier League,Home,D,2,2,Aston Villa,,west-brom
+2013-01-30,Premier League,Away,L,1,2,Everton,,west-brom
+2013-02-03,Premier League,Home,L,0,1,Tottenham,,west-brom
+2013-02-11,Premier League,Away,W,2,0,Liverpool,,west-brom
+2013-02-23,Premier League,Home,W,2,1,Sunderland,,west-brom
+2013-03-02,Premier League,Away,L,0,1,Chelsea,,west-brom
+2013-03-09,Premier League,Home,W,2,1,Swansea City,,west-brom
+2013-03-16,Premier League,Away,D,0,0,Stoke City,,west-brom
+2013-03-30,Premier League,Away,L,1,3,West Ham,,west-brom
+2013-04-06,Premier League,Home,L,1,2,Arsenal,,west-brom
+2013-04-20,Premier League,Home,D,1,1,Newcastle Utd,,west-brom
+2013-04-27,Premier League,Away,W,3,0,Southampton,,west-brom
+2013-05-04,Premier League,Home,L,2,3,Wigan Athletic,,west-brom
+2013-05-07,Premier League,Away,L,0,1,Manchester City,,west-brom
+2013-05-12,Premier League,Away,L,0,4,Norwich City,,west-brom
+2013-05-19,Premier League,Home,D,5,5,Manchester Utd,,west-brom
+2012-08-18,Premier League,Home,W,1,0,Aston Villa,,west-ham
+2012-08-25,Premier League,Away,L,0,3,Swansea City,,west-ham
+2012-09-01,Premier League,Home,W,3,0,Fulham,,west-ham
+2012-09-15,Premier League,Away,D,0,0,Norwich City,,west-ham
+2012-09-22,Premier League,Home,D,1,1,Sunderland,,west-ham
+2012-10-01,Premier League,Away,W,2,1,QPR,,west-ham
+2012-10-06,Premier League,Home,L,1,3,Arsenal,,west-ham
+2012-10-20,Premier League,Home,W,4,1,Southampton,,west-ham
+2012-10-27,Premier League,Away,L,1,2,Wigan Athletic,,west-ham
+2012-11-03,Premier League,Home,D,0,0,Manchester City,,west-ham
+2012-11-11,Premier League,Away,W,1,0,Newcastle Utd,,west-ham
+2012-11-19,Premier League,Home,D,1,1,Stoke City,,west-ham
+2012-11-25,Premier League,Away,L,1,3,Tottenham,,west-ham
+2012-11-28,Premier League,Away,L,0,1,Manchester Utd,,west-ham
+2012-12-01,Premier League,Home,W,3,1,Chelsea,,west-ham
+2012-12-09,Premier League,Home,L,2,3,Liverpool,,west-ham
+2012-12-16,Premier League,Away,D,0,0,West Brom,,west-ham
+2012-12-22,Premier League,Home,L,1,2,Everton,,west-ham
+2012-12-29,Premier League,Away,L,0,1,Reading,,west-ham
+2013-01-01,Premier League,Home,W,2,1,Norwich City,,west-ham
+2013-01-12,Premier League,Away,L,0,3,Sunderland,,west-ham
+2013-01-19,Premier League,Home,D,1,1,QPR,,west-ham
+2013-01-23,Premier League,Away,L,1,5,Arsenal,,west-ham
+2013-01-30,Premier League,Away,L,1,3,Fulham,,west-ham
+2013-02-02,Premier League,Home,W,1,0,Swansea City,,west-ham
+2013-02-10,Premier League,Away,L,1,2,Aston Villa,,west-ham
+2013-02-25,Premier League,Home,L,2,3,Tottenham,,west-ham
+2013-03-02,Premier League,Away,W,1,0,Stoke City,,west-ham
+2013-03-17,Premier League,Away,L,0,2,Chelsea,,west-ham
+2013-03-30,Premier League,Home,W,3,1,West Brom,,west-ham
+2013-04-07,Premier League,Away,D,0,0,Liverpool,,west-ham
+2013-04-13,Premier League,Away,D,1,1,Southampton,,west-ham
+2013-04-17,Premier League,Home,D,2,2,Manchester Utd,,west-ham
+2013-04-20,Premier League,Home,W,2,0,Wigan Athletic,,west-ham
+2013-04-27,Premier League,Away,L,1,2,Manchester City,,west-ham
+2013-05-04,Premier League,Home,D,0,0,Newcastle Utd,,west-ham
+2013-05-12,Premier League,Away,L,0,2,Everton,,west-ham
+2013-05-19,Premier League,Home,W,4,2,Reading,,west-ham
+2012-08-19,Premier League,Home,L,0,2,Chelsea,,wigan
+2012-08-25,Premier League,Away,W,2,0,Southampton,,wigan
+2012-09-01,Premier League,Home,D,2,2,Stoke City,,wigan
+2012-09-15,Premier League,Away,L,0,4,Manchester Utd,,wigan
+2012-09-22,Premier League,Home,L,1,2,Fulham,,wigan
+2012-09-29,Premier League,Away,L,0,1,Sunderland,,wigan
+2012-10-06,Premier League,Home,D,2,2,Everton,,wigan
+2012-10-20,Premier League,Away,L,1,2,Swansea City,,wigan
+2012-10-27,Premier League,Home,W,2,1,West Ham,,wigan
+2012-11-03,Premier League,Away,W,1,0,Tottenham,,wigan
+2012-11-10,Premier League,Home,L,1,2,West Brom,,wigan
+2012-11-17,Premier League,Away,L,0,3,Liverpool,,wigan
+2012-11-24,Premier League,Home,W,3,2,Reading,,wigan
+2012-11-28,Premier League,Home,L,0,2,Manchester City,,wigan
+2012-12-03,Premier League,Away,L,0,3,Newcastle Utd,,wigan
+2012-12-08,Premier League,Home,D,2,2,QPR,,wigan
+2012-12-15,Premier League,Away,L,1,2,Norwich City,,wigan
+2012-12-22,Premier League,Home,L,0,1,Arsenal,,wigan
+2012-12-26,Premier League,Away,L,1,2,Everton,,wigan
+2012-12-29,Premier League,Away,W,3,0,Aston Villa,,wigan
+2013-01-01,Premier League,Home,L,0,4,Manchester Utd,,wigan
+2013-01-12,Premier League,Away,D,1,1,Fulham,,wigan
+2013-01-19,Premier League,Home,L,2,3,Sunderland,,wigan
+2013-01-29,Premier League,Away,D,2,2,Stoke City,,wigan
+2013-02-02,Premier League,Home,D,2,2,Southampton,,wigan
+2013-02-09,Premier League,Away,L,1,4,Chelsea,,wigan
+2013-02-23,Premier League,Away,W,3,0,Reading,,wigan
+2013-03-02,Premier League,Home,L,0,4,Liverpool,,wigan
+2013-03-17,Premier League,Home,W,2,1,Newcastle Utd,,wigan
+2013-03-30,Premier League,Home,W,1,0,Norwich City,,wigan
+2013-04-07,Premier League,Away,D,1,1,QPR,,wigan
+2013-04-17,Premier League,Away,L,0,1,Manchester City,,wigan
+2013-04-20,Premier League,Away,L,0,2,West Ham,,wigan
+2013-04-27,Premier League,Home,D,2,2,Tottenham,,wigan
+2013-05-04,Premier League,Away,W,3,2,West Brom,,wigan
+2013-05-07,Premier League,Home,L,2,3,Swansea City,,wigan
+2013-05-14,Premier League,Away,L,1,4,Arsenal,,wigan
+2013-05-19,Premier League,Home,D,2,2,Aston Villa,,wigan

@@ -1,0 +1,932 @@
+Date,Comp,Venue,Result,GF,GA,Opponent,Poss,team
+2014-08-16,Premier League,Home,W,2,1,Crystal Palace,76.0,arsenal
+2014-08-19,Champions Lg,Away,D,0,0,tr Beşiktaş,46.0,arsenal
+2014-08-23,Premier League,Away,D,2,2,Everton,54.0,arsenal
+2014-08-27,Champions Lg,Home,W,1,0,tr Beşiktaş,47.0,arsenal
+2014-08-31,Premier League,Away,D,1,1,Leicester City,68.0,arsenal
+2014-09-13,Premier League,Home,D,2,2,Manchester City,45.0,arsenal
+2014-09-16,Champions Lg,Away,L,0,2,de Dortmund,53.0,arsenal
+2014-09-20,Premier League,Away,W,3,0,Aston Villa,71.0,arsenal
+2014-09-23,League Cup,Home,L,1,2,Southampton,,arsenal
+2014-09-27,Premier League,Home,D,1,1,Tottenham,69.0,arsenal
+2014-10-01,Champions Lg,Home,W,4,1,tr Galatasaray,52.0,arsenal
+2014-10-05,Premier League,Away,L,0,2,Chelsea,53.0,arsenal
+2014-10-18,Premier League,Home,D,2,2,Hull City,66.0,arsenal
+2014-10-22,Champions Lg,Away,W,2,1,be Anderlecht,58.0,arsenal
+2014-10-25,Premier League,Away,W,2,0,Sunderland,57.0,arsenal
+2014-11-01,Premier League,Home,W,3,0,Burnley,68.0,arsenal
+2014-11-04,Champions Lg,Home,D,3,3,be Anderlecht,62.0,arsenal
+2014-11-09,Premier League,Away,L,1,2,Swansea City,52.0,arsenal
+2014-11-22,Premier League,Home,L,1,2,Manchester Utd,61.0,arsenal
+2014-11-26,Champions Lg,Home,W,2,0,de Dortmund,47.0,arsenal
+2014-11-29,Premier League,Away,W,1,0,West Brom,52.0,arsenal
+2014-12-03,Premier League,Home,W,1,0,Southampton,59.0,arsenal
+2014-12-06,Premier League,Away,L,2,3,Stoke City,58.0,arsenal
+2014-12-09,Champions Lg,Away,W,4,1,tr Galatasaray,45.0,arsenal
+2014-12-13,Premier League,Home,W,4,1,Newcastle Utd,51.0,arsenal
+2014-12-21,Premier League,Away,D,2,2,Liverpool,37.0,arsenal
+2014-12-26,Premier League,Home,W,2,1,QPR,56.0,arsenal
+2014-12-28,Premier League,Away,W,2,1,West Ham,42.0,arsenal
+2015-01-01,Premier League,Away,L,0,2,Southampton,59.0,arsenal
+2015-01-04,FA Cup,Home,W,2,0,Hull City,,arsenal
+2015-01-11,Premier League,Home,W,3,0,Stoke City,54.0,arsenal
+2015-01-18,Premier League,Away,W,2,0,Manchester City,35.0,arsenal
+2015-01-25,FA Cup,Away,W,3,2,Brighton,,arsenal
+2015-02-01,Premier League,Home,W,5,0,Aston Villa,48.0,arsenal
+2015-02-07,Premier League,Away,L,1,2,Tottenham,44.0,arsenal
+2015-02-10,Premier League,Home,W,2,1,Leicester City,57.0,arsenal
+2015-02-15,FA Cup,Home,W,2,0,Middlesbrough,,arsenal
+2015-02-21,Premier League,Away,W,2,1,Crystal Palace,47.0,arsenal
+2015-02-25,Champions Lg,Home,L,1,3,fr Monaco,55.0,arsenal
+2015-03-01,Premier League,Home,W,2,0,Everton,47.0,arsenal
+2015-03-04,Premier League,Away,W,2,1,QPR,57.0,arsenal
+2015-03-09,FA Cup,Away,W,2,1,Manchester Utd,,arsenal
+2015-03-14,Premier League,Home,W,3,0,West Ham,68.0,arsenal
+2015-03-17,Champions Lg,Away,W,2,0,fr Monaco,62.0,arsenal
+2015-03-21,Premier League,Away,W,2,1,Newcastle Utd,49.0,arsenal
+2015-04-04,Premier League,Home,W,4,1,Liverpool,49.0,arsenal
+2015-04-11,Premier League,Away,W,1,0,Burnley,68.0,arsenal
+2015-04-18,FA Cup,Away,W,2,1,Reading,,arsenal
+2015-04-26,Premier League,Home,D,0,0,Chelsea,57.0,arsenal
+2015-05-04,Premier League,Away,W,3,1,Hull City,68.0,arsenal
+2015-05-11,Premier League,Home,L,0,1,Swansea City,68.0,arsenal
+2015-05-17,Premier League,Away,D,1,1,Manchester Utd,43.0,arsenal
+2015-05-20,Premier League,Home,D,0,0,Sunderland,75.0,arsenal
+2015-05-24,Premier League,Home,W,4,1,West Brom,64.0,arsenal
+2015-05-30,FA Cup,Home,W,4,0,Aston Villa,,arsenal
+2014-08-16,Premier League,Away,W,1,0,Stoke City,37.0,aston-villa
+2014-08-23,Premier League,Home,D,0,0,Newcastle Utd,40.0,aston-villa
+2014-08-27,League Cup,Home,L,0,1,Leyton Orient,,aston-villa
+2014-08-31,Premier League,Home,W,2,1,Hull City,45.0,aston-villa
+2014-09-13,Premier League,Away,W,1,0,Liverpool,25.0,aston-villa
+2014-09-20,Premier League,Home,L,0,3,Arsenal,29.0,aston-villa
+2014-09-27,Premier League,Away,L,0,3,Chelsea,38.0,aston-villa
+2014-10-04,Premier League,Home,L,0,2,Manchester City,32.0,aston-villa
+2014-10-18,Premier League,Away,L,0,3,Everton,39.0,aston-villa
+2014-10-27,Premier League,Away,L,0,2,QPR,65.0,aston-villa
+2014-11-02,Premier League,Home,L,1,2,Tottenham,40.0,aston-villa
+2014-11-08,Premier League,Away,D,0,0,West Ham,42.0,aston-villa
+2014-11-24,Premier League,Home,D,1,1,Southampton,36.0,aston-villa
+2014-11-29,Premier League,Away,D,1,1,Burnley,53.0,aston-villa
+2014-12-02,Premier League,Away,W,1,0,Crystal Palace,54.0,aston-villa
+2014-12-07,Premier League,Home,W,2,1,Leicester City,65.0,aston-villa
+2014-12-13,Premier League,Away,L,0,1,West Brom,51.0,aston-villa
+2014-12-20,Premier League,Home,D,1,1,Manchester Utd,35.0,aston-villa
+2014-12-26,Premier League,Away,L,0,1,Swansea City,57.0,aston-villa
+2014-12-28,Premier League,Home,D,0,0,Sunderland,48.0,aston-villa
+2015-01-01,Premier League,Home,D,0,0,Crystal Palace,69.0,aston-villa
+2015-01-04,FA Cup,Home,W,1,0,Blackpool,,aston-villa
+2015-01-10,Premier League,Away,L,0,1,Leicester City,62.0,aston-villa
+2015-01-17,Premier League,Home,L,0,2,Liverpool,49.0,aston-villa
+2015-01-25,FA Cup,Home,W,2,1,Bournemouth,,aston-villa
+2015-02-01,Premier League,Away,L,0,5,Arsenal,52.0,aston-villa
+2015-02-07,Premier League,Home,L,1,2,Chelsea,51.0,aston-villa
+2015-02-10,Premier League,Away,L,0,2,Hull City,62.0,aston-villa
+2015-02-15,FA Cup,Home,W,2,1,Leicester City,,aston-villa
+2015-02-21,Premier League,Home,L,1,2,Stoke City,52.0,aston-villa
+2015-02-28,Premier League,Away,L,0,1,Newcastle Utd,51.0,aston-villa
+2015-03-03,Premier League,Home,W,2,1,West Brom,58.0,aston-villa
+2015-03-07,FA Cup,Home,W,2,0,West Brom,,aston-villa
+2015-03-14,Premier League,Away,W,4,0,Sunderland,60.0,aston-villa
+2015-03-21,Premier League,Home,L,0,1,Swansea City,43.0,aston-villa
+2015-04-04,Premier League,Away,L,1,3,Manchester Utd,24.0,aston-villa
+2015-04-07,Premier League,Home,D,3,3,QPR,64.0,aston-villa
+2015-04-11,Premier League,Away,W,1,0,Tottenham,43.0,aston-villa
+2015-04-19,FA Cup,Home,W,2,1,Liverpool,,aston-villa
+2015-04-25,Premier League,Away,L,2,3,Manchester City,55.0,aston-villa
+2015-05-02,Premier League,Home,W,3,2,Everton,50.0,aston-villa
+2015-05-09,Premier League,Home,W,1,0,West Ham,58.0,aston-villa
+2015-05-16,Premier League,Away,L,1,6,Southampton,64.0,aston-villa
+2015-05-24,Premier League,Home,L,0,1,Burnley,63.0,aston-villa
+2015-05-30,FA Cup,Away,L,0,4,Arsenal,,aston-villa
+2014-08-18,Premier League,Home,L,1,3,Chelsea,39.0,burnley
+2014-08-23,Premier League,Away,L,0,1,Swansea City,45.0,burnley
+2014-08-26,League Cup,Home,L,0,1,Sheffield Weds,,burnley
+2014-08-30,Premier League,Home,D,0,0,Manchester Utd,36.0,burnley
+2014-09-13,Premier League,Away,D,0,0,Crystal Palace,55.0,burnley
+2014-09-20,Premier League,Home,D,0,0,Sunderland,44.0,burnley
+2014-09-28,Premier League,Away,L,0,4,West Brom,37.0,burnley
+2014-10-04,Premier League,Away,D,2,2,Leicester City,47.0,burnley
+2014-10-18,Premier League,Home,L,1,3,West Ham,47.0,burnley
+2014-10-26,Premier League,Home,L,1,3,Everton,38.0,burnley
+2014-11-01,Premier League,Away,L,0,3,Arsenal,32.0,burnley
+2014-11-08,Premier League,Home,W,1,0,Hull City,47.0,burnley
+2014-11-22,Premier League,Away,W,2,1,Stoke City,27.0,burnley
+2014-11-29,Premier League,Home,D,1,1,Aston Villa,47.0,burnley
+2014-12-02,Premier League,Home,D,1,1,Newcastle Utd,42.0,burnley
+2014-12-06,Premier League,Away,L,0,2,QPR,49.0,burnley
+2014-12-13,Premier League,Home,W,1,0,Southampton,40.0,burnley
+2014-12-20,Premier League,Away,L,1,2,Tottenham,35.0,burnley
+2014-12-26,Premier League,Home,L,0,1,Liverpool,48.0,burnley
+2014-12-28,Premier League,Away,D,2,2,Manchester City,38.0,burnley
+2015-01-01,Premier League,Away,D,3,3,Newcastle Utd,49.0,burnley
+2015-01-05,FA Cup,Home,D,1,1,Tottenham,,burnley
+2015-01-10,Premier League,Home,W,2,1,QPR,45.0,burnley
+2015-01-14,FA Cup,Away,L,2,4,Tottenham,,burnley
+2015-01-17,Premier League,Home,L,2,3,Crystal Palace,51.0,burnley
+2015-01-31,Premier League,Away,L,0,2,Sunderland,50.0,burnley
+2015-02-08,Premier League,Home,D,2,2,West Brom,56.0,burnley
+2015-02-11,Premier League,Away,L,1,3,Manchester Utd,43.0,burnley
+2015-02-21,Premier League,Away,D,1,1,Chelsea,39.0,burnley
+2015-02-28,Premier League,Home,L,0,1,Swansea City,47.0,burnley
+2015-03-04,Premier League,Away,L,0,2,Liverpool,37.0,burnley
+2015-03-14,Premier League,Home,W,1,0,Manchester City,30.0,burnley
+2015-03-21,Premier League,Away,L,0,2,Southampton,40.0,burnley
+2015-04-05,Premier League,Home,D,0,0,Tottenham,40.0,burnley
+2015-04-11,Premier League,Home,L,0,1,Arsenal,32.0,burnley
+2015-04-18,Premier League,Away,L,0,1,Everton,34.0,burnley
+2015-04-25,Premier League,Home,L,0,1,Leicester City,60.0,burnley
+2015-05-02,Premier League,Away,L,0,1,West Ham,40.0,burnley
+2015-05-09,Premier League,Away,W,1,0,Hull City,46.0,burnley
+2015-05-16,Premier League,Home,D,0,0,Stoke City,46.0,burnley
+2015-05-24,Premier League,Away,W,1,0,Aston Villa,37.0,burnley
+2014-08-18,Premier League,Away,W,3,1,Burnley,61.0,chelsea
+2014-08-23,Premier League,Home,W,2,0,Leicester City,63.0,chelsea
+2014-08-30,Premier League,Away,W,6,3,Everton,39.0,chelsea
+2014-09-13,Premier League,Home,W,4,2,Swansea City,55.0,chelsea
+2014-09-17,Champions Lg,Home,D,1,1,de Schalke 04,50.0,chelsea
+2014-09-21,Premier League,Away,D,1,1,Manchester City,42.0,chelsea
+2014-09-24,League Cup,Home,W,2,1,Bolton,,chelsea
+2014-09-27,Premier League,Home,W,3,0,Aston Villa,63.0,chelsea
+2014-09-30,Champions Lg,Away,W,1,0,pt Sporting CP,53.0,chelsea
+2014-10-05,Premier League,Home,W,2,0,Arsenal,47.0,chelsea
+2014-10-18,Premier League,Away,W,2,1,Crystal Palace,72.0,chelsea
+2014-10-21,Champions Lg,Home,W,6,0,si NK Maribor,58.0,chelsea
+2014-10-26,Premier League,Away,D,1,1,Manchester Utd,48.0,chelsea
+2014-10-28,League Cup,Away,W,2,1,Shrewsbury,,chelsea
+2014-11-01,Premier League,Home,W,2,1,QPR,65.0,chelsea
+2014-11-05,Champions Lg,Away,D,1,1,si NK Maribor,59.0,chelsea
+2014-11-08,Premier League,Away,W,2,1,Liverpool,42.0,chelsea
+2014-11-22,Premier League,Home,W,2,0,West Brom,74.0,chelsea
+2014-11-25,Champions Lg,Away,W,5,0,de Schalke 04,58.0,chelsea
+2014-11-29,Premier League,Away,D,0,0,Sunderland,66.0,chelsea
+2014-12-03,Premier League,Home,W,3,0,Tottenham,39.0,chelsea
+2014-12-06,Premier League,Away,L,1,2,Newcastle Utd,67.0,chelsea
+2014-12-10,Champions Lg,Home,W,3,1,pt Sporting CP,55.0,chelsea
+2014-12-13,Premier League,Home,W,2,0,Hull City,60.0,chelsea
+2014-12-16,League Cup,Away,W,3,1,Derby County,,chelsea
+2014-12-22,Premier League,Away,W,2,0,Stoke City,49.0,chelsea
+2014-12-26,Premier League,Home,W,2,0,West Ham,65.0,chelsea
+2014-12-28,Premier League,Away,D,1,1,Southampton,61.0,chelsea
+2015-01-01,Premier League,Away,L,3,5,Tottenham,54.0,chelsea
+2015-01-04,FA Cup,Home,W,3,0,Watford,,chelsea
+2015-01-10,Premier League,Home,W,2,0,Newcastle Utd,63.0,chelsea
+2015-01-17,Premier League,Away,W,5,0,Swansea City,55.0,chelsea
+2015-01-20,League Cup,Away,D,1,1,Liverpool,,chelsea
+2015-01-24,FA Cup,Home,L,2,4,Bradford City,,chelsea
+2015-01-27,League Cup,Home,W,1,0,Liverpool,,chelsea
+2015-01-31,Premier League,Home,D,1,1,Manchester City,43.0,chelsea
+2015-02-07,Premier League,Away,W,2,1,Aston Villa,49.0,chelsea
+2015-02-11,Premier League,Home,W,1,0,Everton,56.0,chelsea
+2015-02-17,Champions Lg,Away,D,1,1,fr Paris S-G,46.0,chelsea
+2015-02-21,Premier League,Home,D,1,1,Burnley,61.0,chelsea
+2015-03-01,League Cup,Home,W,2,0,Tottenham,,chelsea
+2015-03-04,Premier League,Away,W,1,0,West Ham,55.0,chelsea
+2015-03-11,Champions Lg,Home,D,2,2,fr Paris S-G,51.0,chelsea
+2015-03-15,Premier League,Home,D,1,1,Southampton,61.0,chelsea
+2015-03-22,Premier League,Away,W,3,2,Hull City,57.0,chelsea
+2015-04-04,Premier League,Home,W,2,1,Stoke City,61.0,chelsea
+2015-04-12,Premier League,Away,W,1,0,QPR,60.0,chelsea
+2015-04-18,Premier League,Home,W,1,0,Manchester Utd,30.0,chelsea
+2015-04-26,Premier League,Away,D,0,0,Arsenal,43.0,chelsea
+2015-04-29,Premier League,Away,W,3,1,Leicester City,63.0,chelsea
+2015-05-03,Premier League,Home,W,1,0,Crystal Palace,62.0,chelsea
+2015-05-10,Premier League,Home,D,1,1,Liverpool,48.0,chelsea
+2015-05-18,Premier League,Away,L,0,3,West Brom,60.0,chelsea
+2015-05-24,Premier League,Home,W,3,1,Sunderland,65.0,chelsea
+2014-08-17,Premier League,Away,W,2,0,Newcastle Utd,56.0,city
+2014-08-25,Premier League,Home,W,3,1,Liverpool,53.0,city
+2014-08-30,Premier League,Home,L,0,1,Stoke City,72.0,city
+2014-09-13,Premier League,Away,D,2,2,Arsenal,55.0,city
+2014-09-17,Champions Lg,Away,L,0,1,de Bayern Munich,42.0,city
+2014-09-21,Premier League,Home,D,1,1,Chelsea,59.0,city
+2014-09-24,League Cup,Home,W,7,0,Sheffield Weds,,city
+2014-09-27,Premier League,Away,W,4,2,Hull City,60.0,city
+2014-09-30,Champions Lg,Home,D,1,1,it Roma,65.0,city
+2014-10-04,Premier League,Away,W,2,0,Aston Villa,68.0,city
+2014-10-18,Premier League,Home,W,4,1,Tottenham,62.0,city
+2014-10-21,Champions Lg,Away,D,2,2,ru CSKA Moscow,55.0,city
+2014-10-25,Premier League,Away,L,1,2,West Ham,70.0,city
+2014-10-29,League Cup,Home,L,0,2,Newcastle Utd,,city
+2014-11-02,Premier League,Home,W,1,0,Manchester Utd,52.0,city
+2014-11-05,Champions Lg,Home,L,1,2,ru CSKA Moscow,62.0,city
+2014-11-08,Premier League,Away,D,2,2,QPR,59.0,city
+2014-11-22,Premier League,Home,W,2,1,Swansea City,59.0,city
+2014-11-25,Champions Lg,Home,W,3,2,de Bayern Munich,49.0,city
+2014-11-30,Premier League,Away,W,3,0,Southampton,48.0,city
+2014-12-03,Premier League,Away,W,4,1,Sunderland,65.0,city
+2014-12-06,Premier League,Home,W,1,0,Everton,51.0,city
+2014-12-10,Champions Lg,Away,W,2,0,it Roma,46.0,city
+2014-12-13,Premier League,Away,W,1,0,Leicester City,57.0,city
+2014-12-20,Premier League,Home,W,3,0,Crystal Palace,73.0,city
+2014-12-26,Premier League,Away,W,3,1,West Brom,52.0,city
+2014-12-28,Premier League,Home,D,2,2,Burnley,62.0,city
+2015-01-01,Premier League,Home,W,3,2,Sunderland,64.0,city
+2015-01-04,FA Cup,Home,W,2,1,Sheffield Weds,,city
+2015-01-10,Premier League,Away,D,1,1,Everton,62.0,city
+2015-01-18,Premier League,Home,L,0,2,Arsenal,65.0,city
+2015-01-24,FA Cup,Home,L,0,2,Middlesbrough,,city
+2015-01-31,Premier League,Away,D,1,1,Chelsea,57.0,city
+2015-02-07,Premier League,Home,D,1,1,Hull City,74.0,city
+2015-02-11,Premier League,Away,W,4,1,Stoke City,49.0,city
+2015-02-21,Premier League,Home,W,5,0,Newcastle Utd,57.0,city
+2015-02-24,Champions Lg,Home,L,1,2,es Barcelona,38.0,city
+2015-03-01,Premier League,Away,L,1,2,Liverpool,52.0,city
+2015-03-04,Premier League,Home,W,2,0,Leicester City,70.0,city
+2015-03-14,Premier League,Away,L,0,1,Burnley,70.0,city
+2015-03-18,Champions Lg,Away,L,0,1,es Barcelona,41.0,city
+2015-03-21,Premier League,Home,W,3,0,West Brom,78.0,city
+2015-04-06,Premier League,Away,L,1,2,Crystal Palace,74.0,city
+2015-04-12,Premier League,Away,L,2,4,Manchester Utd,41.0,city
+2015-04-19,Premier League,Home,W,2,0,West Ham,67.0,city
+2015-04-25,Premier League,Home,W,3,2,Aston Villa,45.0,city
+2015-05-03,Premier League,Away,W,1,0,Tottenham,45.0,city
+2015-05-10,Premier League,Home,W,6,0,QPR,60.0,city
+2015-05-17,Premier League,Away,W,4,2,Swansea City,53.0,city
+2015-05-24,Premier League,Home,W,2,0,Southampton,55.0,city
+2014-08-16,Premier League,Away,D,2,2,Leicester City,63.0,everton
+2014-08-23,Premier League,Home,D,2,2,Arsenal,46.0,everton
+2014-08-30,Premier League,Home,L,3,6,Chelsea,61.0,everton
+2014-09-13,Premier League,Away,W,2,0,West Brom,55.0,everton
+2014-09-18,Europa Lg,Home,W,4,1,de Wolfsburg,49.0,everton
+2014-09-21,Premier League,Home,L,2,3,Crystal Palace,75.0,everton
+2014-09-23,League Cup,Away,L,0,3,Swansea City,,everton
+2014-09-27,Premier League,Away,D,1,1,Liverpool,54.0,everton
+2014-10-02,Europa Lg,Away,D,1,1,ru Krasnodar,54.0,everton
+2014-10-05,Premier League,Away,L,1,2,Manchester Utd,51.0,everton
+2014-10-18,Premier League,Home,W,3,0,Aston Villa,61.0,everton
+2014-10-23,Europa Lg,Away,D,0,0,fr Lille,56.0,everton
+2014-10-26,Premier League,Away,W,3,1,Burnley,62.0,everton
+2014-11-01,Premier League,Home,D,0,0,Swansea City,67.0,everton
+2014-11-06,Europa Lg,Home,W,3,0,fr Lille,63.0,everton
+2014-11-09,Premier League,Away,D,1,1,Sunderland,58.0,everton
+2014-11-22,Premier League,Home,W,2,1,West Ham,56.0,everton
+2014-11-27,Europa Lg,Away,W,2,0,de Wolfsburg,42.0,everton
+2014-11-30,Premier League,Away,L,1,2,Tottenham,61.0,everton
+2014-12-03,Premier League,Home,D,1,1,Hull City,58.0,everton
+2014-12-06,Premier League,Away,L,0,1,Manchester City,49.0,everton
+2014-12-11,Europa Lg,Home,L,0,1,ru Krasnodar,48.0,everton
+2014-12-15,Premier League,Home,W,3,1,QPR,54.0,everton
+2014-12-20,Premier League,Away,L,0,3,Southampton,56.0,everton
+2014-12-26,Premier League,Home,L,0,1,Stoke City,62.0,everton
+2014-12-28,Premier League,Away,L,2,3,Newcastle Utd,47.0,everton
+2015-01-01,Premier League,Away,L,0,2,Hull City,56.0,everton
+2015-01-06,FA Cup,Home,D,1,1,West Ham,,everton
+2015-01-10,Premier League,Home,D,1,1,Manchester City,38.0,everton
+2015-01-13,FA Cup,Away,D,2 (8),2 (9),West Ham,,everton
+2015-01-19,Premier League,Home,D,0,0,West Brom,69.0,everton
+2015-01-31,Premier League,Away,W,1,0,Crystal Palace,46.0,everton
+2015-02-07,Premier League,Home,D,0,0,Liverpool,46.0,everton
+2015-02-11,Premier League,Away,L,0,1,Chelsea,44.0,everton
+2015-02-19,Europa Lg,Away,W,4,1,ch Young Boys,53.0,everton
+2015-02-22,Premier League,Home,D,2,2,Leicester City,58.0,everton
+2015-02-26,Europa Lg,Home,W,3,1,ch Young Boys,51.0,everton
+2015-03-01,Premier League,Away,L,0,2,Arsenal,53.0,everton
+2015-03-04,Premier League,Away,L,0,2,Stoke City,56.0,everton
+2015-03-12,Europa Lg,Home,W,2,1,ua Dynamo Kyiv,56.0,everton
+2015-03-15,Premier League,Home,W,3,0,Newcastle Utd,54.0,everton
+2015-03-19,Europa Lg,Away,L,2,5,ua Dynamo Kyiv,46.0,everton
+2015-03-22,Premier League,Away,W,2,1,QPR,48.0,everton
+2015-04-04,Premier League,Home,W,1,0,Southampton,45.0,everton
+2015-04-11,Premier League,Away,D,1,1,Swansea City,49.0,everton
+2015-04-18,Premier League,Home,W,1,0,Burnley,66.0,everton
+2015-04-26,Premier League,Home,W,3,0,Manchester Utd,35.0,everton
+2015-05-02,Premier League,Away,L,2,3,Aston Villa,50.0,everton
+2015-05-09,Premier League,Home,L,0,2,Sunderland,73.0,everton
+2015-05-16,Premier League,Away,W,2,1,West Ham,55.0,everton
+2015-05-24,Premier League,Home,L,0,1,Tottenham,40.0,everton
+2014-07-31,Europa Lg,Away,D,0,0,sk FK AS Trenčín,,hull
+2014-08-07,Europa Lg,Home,W,2,1,sk FK AS Trenčín,,hull
+2014-08-16,Premier League,Away,W,1,0,QPR,49.0,hull
+2014-08-21,Europa Lg,Away,L,0,1,be Lokeren,,hull
+2014-08-24,Premier League,Home,D,1,1,Stoke City,43.0,hull
+2014-08-28,Europa Lg,Home,W,2,1,be Lokeren,,hull
+2014-08-31,Premier League,Away,L,1,2,Aston Villa,55.0,hull
+2014-09-15,Premier League,Home,D,2,2,West Ham,41.0,hull
+2014-09-20,Premier League,Away,D,2,2,Newcastle Utd,37.0,hull
+2014-09-24,League Cup,Away,L,2,3,West Brom,,hull
+2014-09-27,Premier League,Home,L,2,4,Manchester City,40.0,hull
+2014-10-04,Premier League,Home,W,2,0,Crystal Palace,59.0,hull
+2014-10-18,Premier League,Away,D,2,2,Arsenal,34.0,hull
+2014-10-25,Premier League,Away,D,0,0,Liverpool,34.0,hull
+2014-11-01,Premier League,Home,L,0,1,Southampton,47.0,hull
+2014-11-08,Premier League,Away,L,0,1,Burnley,53.0,hull
+2014-11-23,Premier League,Home,L,1,2,Tottenham,27.0,hull
+2014-11-29,Premier League,Away,L,0,3,Manchester Utd,24.0,hull
+2014-12-03,Premier League,Away,D,1,1,Everton,43.0,hull
+2014-12-06,Premier League,Home,D,0,0,West Brom,49.0,hull
+2014-12-13,Premier League,Away,L,0,2,Chelsea,40.0,hull
+2014-12-20,Premier League,Home,L,0,1,Swansea City,57.0,hull
+2014-12-26,Premier League,Away,W,3,1,Sunderland,52.0,hull
+2014-12-28,Premier League,Home,L,0,1,Leicester City,62.0,hull
+2015-01-01,Premier League,Home,W,2,0,Everton,45.0,hull
+2015-01-04,FA Cup,Away,L,0,2,Arsenal,,hull
+2015-01-10,Premier League,Away,L,0,1,West Brom,49.0,hull
+2015-01-18,Premier League,Away,L,0,3,West Ham,46.0,hull
+2015-01-31,Premier League,Home,L,0,3,Newcastle Utd,53.0,hull
+2015-02-07,Premier League,Away,D,1,1,Manchester City,26.0,hull
+2015-02-10,Premier League,Home,W,2,0,Aston Villa,38.0,hull
+2015-02-21,Premier League,Home,W,2,1,QPR,54.0,hull
+2015-02-28,Premier League,Away,L,0,1,Stoke City,42.0,hull
+2015-03-03,Premier League,Home,D,1,1,Sunderland,42.0,hull
+2015-03-14,Premier League,Away,D,0,0,Leicester City,49.0,hull
+2015-03-22,Premier League,Home,L,2,3,Chelsea,43.0,hull
+2015-04-04,Premier League,Away,L,1,3,Swansea City,42.0,hull
+2015-04-11,Premier League,Away,L,0,2,Southampton,46.0,hull
+2015-04-25,Premier League,Away,W,2,0,Crystal Palace,54.0,hull
+2015-04-28,Premier League,Home,W,1,0,Liverpool,31.0,hull
+2015-05-04,Premier League,Home,L,1,3,Arsenal,32.0,hull
+2015-05-09,Premier League,Home,L,0,1,Burnley,55.0,hull
+2015-05-16,Premier League,Away,L,0,2,Tottenham,44.0,hull
+2015-05-24,Premier League,Home,D,0,0,Manchester Utd,41.0,hull
+2014-08-16,Premier League,Home,D,2,2,Everton,37.0,leicester
+2014-08-23,Premier League,Away,L,0,2,Chelsea,37.0,leicester
+2014-08-26,League Cup,Home,L,0,1,Shrewsbury,,leicester
+2014-08-31,Premier League,Home,D,1,1,Arsenal,32.0,leicester
+2014-09-13,Premier League,Away,W,1,0,Stoke City,41.0,leicester
+2014-09-21,Premier League,Home,W,5,3,Manchester Utd,43.0,leicester
+2014-09-27,Premier League,Away,L,0,2,Crystal Palace,60.0,leicester
+2014-10-04,Premier League,Home,D,2,2,Burnley,54.0,leicester
+2014-10-18,Premier League,Away,L,0,1,Newcastle Utd,50.0,leicester
+2014-10-25,Premier League,Away,L,0,2,Swansea City,51.0,leicester
+2014-11-01,Premier League,Home,L,0,1,West Brom,56.0,leicester
+2014-11-08,Premier League,Away,L,0,2,Southampton,36.0,leicester
+2014-11-22,Premier League,Home,D,0,0,Sunderland,40.0,leicester
+2014-11-29,Premier League,Away,L,2,3,QPR,41.0,leicester
+2014-12-02,Premier League,Home,L,1,3,Liverpool,47.0,leicester
+2014-12-07,Premier League,Away,L,1,2,Aston Villa,35.0,leicester
+2014-12-13,Premier League,Home,L,0,1,Manchester City,43.0,leicester
+2014-12-20,Premier League,Away,L,0,2,West Ham,52.0,leicester
+2014-12-26,Premier League,Home,L,1,2,Tottenham,50.0,leicester
+2014-12-28,Premier League,Away,W,1,0,Hull City,38.0,leicester
+2015-01-01,Premier League,Away,D,2,2,Liverpool,41.0,leicester
+2015-01-03,FA Cup,Home,W,1,0,Newcastle Utd,,leicester
+2015-01-10,Premier League,Home,W,1,0,Aston Villa,38.0,leicester
+2015-01-17,Premier League,Home,L,0,1,Stoke City,43.0,leicester
+2015-01-24,FA Cup,Away,W,2,1,Tottenham,,leicester
+2015-01-31,Premier League,Away,L,1,3,Manchester Utd,29.0,leicester
+2015-02-07,Premier League,Home,L,0,1,Crystal Palace,62.0,leicester
+2015-02-10,Premier League,Away,L,1,2,Arsenal,43.0,leicester
+2015-02-15,FA Cup,Away,L,1,2,Aston Villa,,leicester
+2015-02-22,Premier League,Away,D,2,2,Everton,42.0,leicester
+2015-03-04,Premier League,Away,L,0,2,Manchester City,31.0,leicester
+2015-03-14,Premier League,Home,D,0,0,Hull City,51.0,leicester
+2015-03-21,Premier League,Away,L,3,4,Tottenham,34.0,leicester
+2015-04-04,Premier League,Home,W,2,1,West Ham,50.0,leicester
+2015-04-11,Premier League,Away,W,3,2,West Brom,54.0,leicester
+2015-04-18,Premier League,Home,W,2,0,Swansea City,41.0,leicester
+2015-04-25,Premier League,Away,W,1,0,Burnley,40.0,leicester
+2015-04-29,Premier League,Home,L,1,3,Chelsea,37.0,leicester
+2015-05-02,Premier League,Home,W,3,0,Newcastle Utd,48.0,leicester
+2015-05-09,Premier League,Home,W,2,0,Southampton,31.0,leicester
+2015-05-16,Premier League,Away,D,0,0,Sunderland,49.0,leicester
+2015-05-24,Premier League,Home,W,5,1,QPR,46.0,leicester
+2014-08-17,Premier League,Home,W,2,1,Southampton,56.0,liverpool
+2014-08-25,Premier League,Away,L,1,3,Manchester City,47.0,liverpool
+2014-08-31,Premier League,Away,W,3,0,Tottenham,40.0,liverpool
+2014-09-13,Premier League,Home,L,0,1,Aston Villa,75.0,liverpool
+2014-09-16,Champions Lg,Home,W,2,1,bg Ludogorets,58.0,liverpool
+2014-09-20,Premier League,Away,L,1,3,West Ham,62.0,liverpool
+2014-09-23,League Cup,Home,D,2 (14),2 (13),Middlesbrough,,liverpool
+2014-09-27,Premier League,Home,D,1,1,Everton,46.0,liverpool
+2014-10-01,Champions Lg,Away,L,0,1,ch Basel,45.0,liverpool
+2014-10-04,Premier League,Home,W,2,1,West Brom,54.0,liverpool
+2014-10-19,Premier League,Away,W,3,2,QPR,57.0,liverpool
+2014-10-22,Champions Lg,Home,L,0,3,es Real Madrid,47.0,liverpool
+2014-10-25,Premier League,Home,D,0,0,Hull City,66.0,liverpool
+2014-10-28,League Cup,Home,W,2,1,Swansea City,,liverpool
+2014-11-01,Premier League,Away,L,0,1,Newcastle Utd,65.0,liverpool
+2014-11-04,Champions Lg,Away,L,0,1,es Real Madrid,43.0,liverpool
+2014-11-08,Premier League,Home,L,1,2,Chelsea,58.0,liverpool
+2014-11-23,Premier League,Away,L,1,3,Crystal Palace,64.0,liverpool
+2014-11-26,Champions Lg,Away,D,2,2,bg Ludogorets,44.0,liverpool
+2014-11-29,Premier League,Home,W,1,0,Stoke City,48.0,liverpool
+2014-12-02,Premier League,Away,W,3,1,Leicester City,53.0,liverpool
+2014-12-06,Premier League,Home,D,0,0,Sunderland,53.0,liverpool
+2014-12-09,Champions Lg,Home,D,1,1,ch Basel,58.0,liverpool
+2014-12-14,Premier League,Away,L,0,3,Manchester Utd,45.0,liverpool
+2014-12-17,League Cup,Away,W,3,1,Bournemouth,,liverpool
+2014-12-21,Premier League,Home,D,2,2,Arsenal,64.0,liverpool
+2014-12-26,Premier League,Away,W,1,0,Burnley,52.0,liverpool
+2014-12-29,Premier League,Home,W,4,1,Swansea City,44.0,liverpool
+2015-01-01,Premier League,Home,D,2,2,Leicester City,59.0,liverpool
+2015-01-05,FA Cup,Away,W,2,1,AFC Wimbledon,,liverpool
+2015-01-10,Premier League,Away,W,1,0,Sunderland,53.0,liverpool
+2015-01-17,Premier League,Away,W,2,0,Aston Villa,52.0,liverpool
+2015-01-20,League Cup,Home,D,1,1,Chelsea,,liverpool
+2015-01-24,FA Cup,Home,D,0,0,Bolton,,liverpool
+2015-01-27,League Cup,Away,L,0,1,Chelsea,,liverpool
+2015-01-31,Premier League,Home,W,2,0,West Ham,66.0,liverpool
+2015-02-04,FA Cup,Away,W,2,1,Bolton,,liverpool
+2015-02-07,Premier League,Away,D,0,0,Everton,54.0,liverpool
+2015-02-10,Premier League,Home,W,3,2,Tottenham,49.0,liverpool
+2015-02-14,FA Cup,Away,W,2,1,Crystal Palace,,liverpool
+2015-02-19,Europa Lg,Home,W,1,0,tr Beşiktaş,59.0,liverpool
+2015-02-22,Premier League,Away,W,2,0,Southampton,40.0,liverpool
+2015-02-26,Europa Lg,Away,L,0 (4),1 (5),tr Beşiktaş,45.0,liverpool
+2015-03-01,Premier League,Home,W,2,1,Manchester City,48.0,liverpool
+2015-03-04,Premier League,Home,W,2,0,Burnley,63.0,liverpool
+2015-03-08,FA Cup,Home,D,0,0,Blackburn,,liverpool
+2015-03-16,Premier League,Away,W,1,0,Swansea City,54.0,liverpool
+2015-03-22,Premier League,Home,L,1,2,Manchester Utd,42.0,liverpool
+2015-04-04,Premier League,Away,L,1,4,Arsenal,51.0,liverpool
+2015-04-08,FA Cup,Away,W,1,0,Blackburn,,liverpool
+2015-04-13,Premier League,Home,W,2,0,Newcastle Utd,62.0,liverpool
+2015-04-19,FA Cup,Away,L,1,2,Aston Villa,,liverpool
+2015-04-25,Premier League,Away,D,0,0,West Brom,73.0,liverpool
+2015-04-28,Premier League,Away,L,0,1,Hull City,69.0,liverpool
+2015-05-02,Premier League,Home,W,2,1,QPR,62.0,liverpool
+2015-05-10,Premier League,Away,D,1,1,Chelsea,52.0,liverpool
+2015-05-16,Premier League,Home,L,1,3,Crystal Palace,66.0,liverpool
+2015-05-24,Premier League,Away,L,1,6,Stoke City,55.0,liverpool
+2014-08-17,Premier League,Home,L,0,2,Manchester City,44.0,newcastle
+2014-08-23,Premier League,Away,D,0,0,Aston Villa,60.0,newcastle
+2014-08-26,League Cup,Away,W,1,0,Gillingham,,newcastle
+2014-08-30,Premier League,Home,D,3,3,Crystal Palace,64.0,newcastle
+2014-09-13,Premier League,Away,L,0,4,Southampton,50.0,newcastle
+2014-09-20,Premier League,Home,D,2,2,Hull City,63.0,newcastle
+2014-09-24,League Cup,Away,W,3,2,Crystal Palace,,newcastle
+2014-09-29,Premier League,Away,L,0,1,Stoke City,56.0,newcastle
+2014-10-04,Premier League,Away,D,2,2,Swansea City,37.0,newcastle
+2014-10-18,Premier League,Home,W,1,0,Leicester City,51.0,newcastle
+2014-10-26,Premier League,Away,W,2,1,Tottenham,33.0,newcastle
+2014-10-29,League Cup,Away,W,2,0,Manchester City,,newcastle
+2014-11-01,Premier League,Home,W,1,0,Liverpool,36.0,newcastle
+2014-11-09,Premier League,Away,W,2,0,West Brom,42.0,newcastle
+2014-11-22,Premier League,Home,W,1,0,QPR,54.0,newcastle
+2014-11-29,Premier League,Away,L,0,1,West Ham,53.0,newcastle
+2014-12-02,Premier League,Away,D,1,1,Burnley,58.0,newcastle
+2014-12-06,Premier League,Home,W,2,1,Chelsea,34.0,newcastle
+2014-12-13,Premier League,Away,L,1,4,Arsenal,49.0,newcastle
+2014-12-17,League Cup,Away,L,0,4,Tottenham,,newcastle
+2014-12-21,Premier League,Home,L,0,1,Sunderland,52.0,newcastle
+2014-12-26,Premier League,Away,L,1,3,Manchester Utd,38.0,newcastle
+2014-12-28,Premier League,Home,W,3,2,Everton,53.0,newcastle
+2015-01-01,Premier League,Home,D,3,3,Burnley,52.0,newcastle
+2015-01-03,FA Cup,Away,L,0,1,Leicester City,,newcastle
+2015-01-10,Premier League,Away,L,0,2,Chelsea,37.0,newcastle
+2015-01-17,Premier League,Home,L,1,2,Southampton,58.0,newcastle
+2015-01-31,Premier League,Away,W,3,0,Hull City,47.0,newcastle
+2015-02-08,Premier League,Home,D,1,1,Stoke City,42.0,newcastle
+2015-02-11,Premier League,Away,D,1,1,Crystal Palace,47.0,newcastle
+2015-02-21,Premier League,Away,L,0,5,Manchester City,43.0,newcastle
+2015-02-28,Premier League,Home,W,1,0,Aston Villa,50.0,newcastle
+2015-03-04,Premier League,Home,L,0,1,Manchester Utd,32.0,newcastle
+2015-03-15,Premier League,Away,L,0,3,Everton,46.0,newcastle
+2015-03-21,Premier League,Home,L,1,2,Arsenal,51.0,newcastle
+2015-04-05,Premier League,Away,L,0,1,Sunderland,47.0,newcastle
+2015-04-13,Premier League,Away,L,0,2,Liverpool,38.0,newcastle
+2015-04-19,Premier League,Home,L,1,3,Tottenham,39.0,newcastle
+2015-04-25,Premier League,Home,L,2,3,Swansea City,48.0,newcastle
+2015-05-02,Premier League,Away,L,0,3,Leicester City,52.0,newcastle
+2015-05-09,Premier League,Home,D,1,1,West Brom,61.0,newcastle
+2015-05-16,Premier League,Away,L,1,2,QPR,53.0,newcastle
+2015-05-24,Premier League,Home,W,2,0,West Ham,41.0,newcastle
+2014-08-16,Premier League,Away,L,1,2,Arsenal,24.0,palace
+2014-08-23,Premier League,Home,L,1,3,West Ham,46.0,palace
+2014-08-26,League Cup,Away,W,3,0,Walsall,,palace
+2014-08-30,Premier League,Away,D,3,3,Newcastle Utd,36.0,palace
+2014-09-13,Premier League,Home,D,0,0,Burnley,45.0,palace
+2014-09-21,Premier League,Away,W,3,2,Everton,25.0,palace
+2014-09-24,League Cup,Home,L,2,3,Newcastle Utd,,palace
+2014-09-27,Premier League,Home,W,2,0,Leicester City,40.0,palace
+2014-10-04,Premier League,Away,L,0,2,Hull City,41.0,palace
+2014-10-18,Premier League,Home,L,1,2,Chelsea,29.0,palace
+2014-10-25,Premier League,Away,D,2,2,West Brom,31.0,palace
+2014-11-03,Premier League,Home,L,1,3,Sunderland,54.0,palace
+2014-11-08,Premier League,Away,L,0,1,Manchester Utd,29.0,palace
+2014-11-23,Premier League,Home,W,3,1,Liverpool,36.0,palace
+2014-11-29,Premier League,Away,D,1,1,Swansea City,36.0,palace
+2014-12-02,Premier League,Home,L,0,1,Aston Villa,46.0,palace
+2014-12-06,Premier League,Away,D,0,0,Tottenham,32.0,palace
+2014-12-13,Premier League,Home,D,1,1,Stoke City,44.0,palace
+2014-12-20,Premier League,Away,L,0,3,Manchester City,28.0,palace
+2014-12-26,Premier League,Home,L,1,3,Southampton,43.0,palace
+2014-12-28,Premier League,Away,D,0,0,QPR,46.0,palace
+2015-01-01,Premier League,Away,D,0,0,Aston Villa,31.0,palace
+2015-01-04,FA Cup,Away,W,4,0,Dover Athletic,,palace
+2015-01-10,Premier League,Home,W,2,1,Tottenham,42.0,palace
+2015-01-17,Premier League,Away,W,3,2,Burnley,49.0,palace
+2015-01-24,FA Cup,Away,W,3,2,Southampton,,palace
+2015-01-31,Premier League,Home,L,0,1,Everton,54.0,palace
+2015-02-07,Premier League,Away,W,1,0,Leicester City,38.0,palace
+2015-02-11,Premier League,Home,D,1,1,Newcastle Utd,54.0,palace
+2015-02-14,FA Cup,Home,L,1,2,Liverpool,,palace
+2015-02-21,Premier League,Home,L,1,2,Arsenal,53.0,palace
+2015-02-28,Premier League,Away,W,3,1,West Ham,34.0,palace
+2015-03-03,Premier League,Away,L,0,1,Southampton,38.0,palace
+2015-03-14,Premier League,Home,W,3,1,QPR,44.0,palace
+2015-03-21,Premier League,Away,W,2,1,Stoke City,43.0,palace
+2015-04-06,Premier League,Home,W,2,1,Manchester City,26.0,palace
+2015-04-11,Premier League,Away,W,4,1,Sunderland,46.0,palace
+2015-04-18,Premier League,Home,L,0,2,West Brom,68.0,palace
+2015-04-25,Premier League,Home,L,0,2,Hull City,47.0,palace
+2015-05-03,Premier League,Away,L,0,1,Chelsea,38.0,palace
+2015-05-09,Premier League,Home,L,1,2,Manchester Utd,38.0,palace
+2015-05-16,Premier League,Away,W,3,1,Liverpool,34.0,palace
+2015-05-24,Premier League,Home,W,1,0,Swansea City,47.0,palace
+2014-08-16,Premier League,Home,L,0,1,Hull City,51.0,qpr
+2014-08-24,Premier League,Away,L,0,4,Tottenham,35.0,qpr
+2014-08-27,League Cup,Away,L,0,1,Burton Albion,,qpr
+2014-08-30,Premier League,Home,W,1,0,Sunderland,40.0,qpr
+2014-09-14,Premier League,Away,L,0,4,Manchester Utd,32.0,qpr
+2014-09-20,Premier League,Home,D,2,2,Stoke City,53.0,qpr
+2014-09-27,Premier League,Away,L,1,2,Southampton,45.0,qpr
+2014-10-05,Premier League,Away,L,0,2,West Ham,52.0,qpr
+2014-10-19,Premier League,Home,L,2,3,Liverpool,44.0,qpr
+2014-10-27,Premier League,Home,W,2,0,Aston Villa,35.0,qpr
+2014-11-01,Premier League,Away,L,1,2,Chelsea,36.0,qpr
+2014-11-08,Premier League,Home,D,2,2,Manchester City,41.0,qpr
+2014-11-22,Premier League,Away,L,0,1,Newcastle Utd,46.0,qpr
+2014-11-29,Premier League,Home,W,3,2,Leicester City,59.0,qpr
+2014-12-02,Premier League,Away,L,0,2,Swansea City,41.0,qpr
+2014-12-06,Premier League,Home,W,2,0,Burnley,51.0,qpr
+2014-12-15,Premier League,Away,L,1,3,Everton,47.0,qpr
+2014-12-20,Premier League,Home,W,3,2,West Brom,43.0,qpr
+2014-12-26,Premier League,Away,L,1,2,Arsenal,44.0,qpr
+2014-12-28,Premier League,Home,D,0,0,Crystal Palace,54.0,qpr
+2015-01-01,Premier League,Home,D,1,1,Swansea City,41.0,qpr
+2015-01-04,FA Cup,Home,L,0,3,Sheffield Utd,,qpr
+2015-01-10,Premier League,Away,L,1,2,Burnley,55.0,qpr
+2015-01-17,Premier League,Home,L,0,2,Manchester Utd,38.0,qpr
+2015-01-31,Premier League,Away,L,1,3,Stoke City,49.0,qpr
+2015-02-07,Premier League,Home,L,0,1,Southampton,46.0,qpr
+2015-02-10,Premier League,Away,W,2,0,Sunderland,47.0,qpr
+2015-02-21,Premier League,Away,L,1,2,Hull City,46.0,qpr
+2015-03-04,Premier League,Home,L,1,2,Arsenal,43.0,qpr
+2015-03-07,Premier League,Home,L,1,2,Tottenham,38.0,qpr
+2015-03-14,Premier League,Away,L,1,3,Crystal Palace,57.0,qpr
+2015-03-22,Premier League,Home,L,1,2,Everton,52.0,qpr
+2015-04-04,Premier League,Away,W,4,1,West Brom,45.0,qpr
+2015-04-07,Premier League,Away,D,3,3,Aston Villa,36.0,qpr
+2015-04-12,Premier League,Home,L,0,1,Chelsea,40.0,qpr
+2015-04-25,Premier League,Home,D,0,0,West Ham,54.0,qpr
+2015-05-02,Premier League,Away,L,1,2,Liverpool,38.0,qpr
+2015-05-10,Premier League,Away,L,0,6,Manchester City,41.0,qpr
+2015-05-16,Premier League,Home,W,2,1,Newcastle Utd,48.0,qpr
+2015-05-24,Premier League,Away,L,1,5,Leicester City,54.0,qpr
+2014-08-17,Premier League,Away,L,1,2,Liverpool,44.0,southampton
+2014-08-23,Premier League,Home,D,0,0,West Brom,58.0,southampton
+2014-08-26,League Cup,Away,W,2,0,Millwall,,southampton
+2014-08-30,Premier League,Away,W,3,1,West Ham,64.0,southampton
+2014-09-13,Premier League,Home,W,4,0,Newcastle Utd,50.0,southampton
+2014-09-20,Premier League,Away,W,1,0,Swansea City,56.0,southampton
+2014-09-23,League Cup,Away,W,2,1,Arsenal,,southampton
+2014-09-27,Premier League,Home,W,2,1,QPR,55.0,southampton
+2014-10-05,Premier League,Away,L,0,1,Tottenham,54.0,southampton
+2014-10-18,Premier League,Home,W,8,0,Sunderland,53.0,southampton
+2014-10-25,Premier League,Home,W,1,0,Stoke City,61.0,southampton
+2014-10-29,League Cup,Away,W,3,2,Stoke City,,southampton
+2014-11-01,Premier League,Away,W,1,0,Hull City,53.0,southampton
+2014-11-08,Premier League,Home,W,2,0,Leicester City,64.0,southampton
+2014-11-24,Premier League,Away,D,1,1,Aston Villa,64.0,southampton
+2014-11-30,Premier League,Home,L,0,3,Manchester City,52.0,southampton
+2014-12-03,Premier League,Away,L,0,1,Arsenal,41.0,southampton
+2014-12-08,Premier League,Home,L,1,2,Manchester Utd,52.0,southampton
+2014-12-13,Premier League,Away,L,0,1,Burnley,60.0,southampton
+2014-12-16,League Cup,Away,L,0,1,Sheffield Utd,,southampton
+2014-12-20,Premier League,Home,W,3,0,Everton,44.0,southampton
+2014-12-26,Premier League,Away,W,3,1,Crystal Palace,57.0,southampton
+2014-12-28,Premier League,Home,D,1,1,Chelsea,39.0,southampton
+2015-01-01,Premier League,Home,W,2,0,Arsenal,42.0,southampton
+2015-01-04,FA Cup,Home,D,1,1,Ipswich Town,,southampton
+2015-01-11,Premier League,Away,W,1,0,Manchester Utd,40.0,southampton
+2015-01-14,FA Cup,Away,W,1,0,Ipswich Town,,southampton
+2015-01-17,Premier League,Away,W,2,1,Newcastle Utd,42.0,southampton
+2015-01-24,FA Cup,Home,L,2,3,Crystal Palace,,southampton
+2015-02-01,Premier League,Home,L,0,1,Swansea City,63.0,southampton
+2015-02-07,Premier League,Away,W,1,0,QPR,54.0,southampton
+2015-02-11,Premier League,Home,D,0,0,West Ham,67.0,southampton
+2015-02-22,Premier League,Home,L,0,2,Liverpool,60.0,southampton
+2015-02-28,Premier League,Away,L,0,1,West Brom,64.0,southampton
+2015-03-03,Premier League,Home,W,1,0,Crystal Palace,62.0,southampton
+2015-03-15,Premier League,Away,D,1,1,Chelsea,39.0,southampton
+2015-03-21,Premier League,Home,W,2,0,Burnley,60.0,southampton
+2015-04-04,Premier League,Away,L,0,1,Everton,55.0,southampton
+2015-04-11,Premier League,Home,W,2,0,Hull City,54.0,southampton
+2015-04-18,Premier League,Away,L,1,2,Stoke City,52.0,southampton
+2015-04-25,Premier League,Home,D,2,2,Tottenham,36.0,southampton
+2015-05-02,Premier League,Away,L,1,2,Sunderland,56.0,southampton
+2015-05-09,Premier League,Away,L,0,2,Leicester City,69.0,southampton
+2015-05-16,Premier League,Home,W,6,1,Aston Villa,36.0,southampton
+2015-05-24,Premier League,Away,L,0,2,Manchester City,46.0,southampton
+2014-08-16,Premier League,Home,L,0,1,Aston Villa,63.0,stoke
+2014-08-24,Premier League,Away,D,1,1,Hull City,57.0,stoke
+2014-08-27,League Cup,Home,W,3,0,Portsmouth,,stoke
+2014-08-30,Premier League,Away,W,1,0,Manchester City,28.0,stoke
+2014-09-13,Premier League,Home,L,0,1,Leicester City,59.0,stoke
+2014-09-20,Premier League,Away,D,2,2,QPR,48.0,stoke
+2014-09-23,League Cup,Away,W,2,1,Sunderland,,stoke
+2014-09-29,Premier League,Home,W,1,0,Newcastle Utd,44.0,stoke
+2014-10-04,Premier League,Away,L,1,3,Sunderland,61.0,stoke
+2014-10-19,Premier League,Home,W,2,1,Swansea City,43.0,stoke
+2014-10-25,Premier League,Away,L,0,1,Southampton,39.0,stoke
+2014-10-29,League Cup,Home,L,2,3,Southampton,,stoke
+2014-11-01,Premier League,Home,D,2,2,West Ham,60.0,stoke
+2014-11-09,Premier League,Away,W,2,1,Tottenham,40.0,stoke
+2014-11-22,Premier League,Home,L,1,2,Burnley,73.0,stoke
+2014-11-29,Premier League,Away,L,0,1,Liverpool,52.0,stoke
+2014-12-02,Premier League,Away,L,1,2,Manchester Utd,36.0,stoke
+2014-12-06,Premier League,Home,W,3,2,Arsenal,43.0,stoke
+2014-12-13,Premier League,Away,D,1,1,Crystal Palace,56.0,stoke
+2014-12-22,Premier League,Home,L,0,2,Chelsea,51.0,stoke
+2014-12-26,Premier League,Away,W,1,0,Everton,38.0,stoke
+2014-12-28,Premier League,Home,W,2,0,West Brom,51.0,stoke
+2015-01-01,Premier League,Home,D,1,1,Manchester Utd,34.0,stoke
+2015-01-04,FA Cup,Home,W,3,1,Wrexham,,stoke
+2015-01-11,Premier League,Away,L,0,3,Arsenal,46.0,stoke
+2015-01-17,Premier League,Away,W,1,0,Leicester City,57.0,stoke
+2015-01-26,FA Cup,Away,W,4,1,Rochdale,,stoke
+2015-01-31,Premier League,Home,W,3,1,QPR,52.0,stoke
+2015-02-08,Premier League,Away,D,1,1,Newcastle Utd,58.0,stoke
+2015-02-11,Premier League,Home,L,1,4,Manchester City,51.0,stoke
+2015-02-14,FA Cup,Away,L,1,4,Blackburn,,stoke
+2015-02-21,Premier League,Away,W,2,1,Aston Villa,48.0,stoke
+2015-02-28,Premier League,Home,W,1,0,Hull City,58.0,stoke
+2015-03-04,Premier League,Home,W,2,0,Everton,44.0,stoke
+2015-03-14,Premier League,Away,L,0,1,West Brom,57.0,stoke
+2015-03-21,Premier League,Home,L,1,2,Crystal Palace,57.0,stoke
+2015-04-04,Premier League,Away,L,1,2,Chelsea,40.0,stoke
+2015-04-11,Premier League,Away,D,1,1,West Ham,65.0,stoke
+2015-04-18,Premier League,Home,W,2,1,Southampton,48.0,stoke
+2015-04-25,Premier League,Home,D,1,1,Sunderland,61.0,stoke
+2015-05-02,Premier League,Away,L,0,2,Swansea City,53.0,stoke
+2015-05-09,Premier League,Home,W,3,0,Tottenham,45.0,stoke
+2015-05-16,Premier League,Away,D,0,0,Burnley,54.0,stoke
+2015-05-24,Premier League,Home,W,6,1,Liverpool,46.0,stoke
+2014-08-16,Premier League,Away,D,2,2,West Brom,42.0,sunderland
+2014-08-24,Premier League,Home,D,1,1,Manchester Utd,45.0,sunderland
+2014-08-27,League Cup,Away,W,3,0,Birmingham City,,sunderland
+2014-08-30,Premier League,Away,L,0,1,QPR,60.0,sunderland
+2014-09-13,Premier League,Home,D,2,2,Tottenham,38.0,sunderland
+2014-09-20,Premier League,Away,D,0,0,Burnley,56.0,sunderland
+2014-09-23,League Cup,Home,L,1,2,Stoke City,,sunderland
+2014-09-27,Premier League,Home,D,0,0,Swansea City,50.0,sunderland
+2014-10-04,Premier League,Home,W,3,1,Stoke City,40.0,sunderland
+2014-10-18,Premier League,Away,L,0,8,Southampton,47.0,sunderland
+2014-10-25,Premier League,Home,L,0,2,Arsenal,43.0,sunderland
+2014-11-03,Premier League,Away,W,3,1,Crystal Palace,47.0,sunderland
+2014-11-09,Premier League,Home,D,1,1,Everton,42.0,sunderland
+2014-11-22,Premier League,Away,D,0,0,Leicester City,60.0,sunderland
+2014-11-29,Premier League,Home,D,0,0,Chelsea,34.0,sunderland
+2014-12-03,Premier League,Home,L,1,4,Manchester City,36.0,sunderland
+2014-12-06,Premier League,Away,D,0,0,Liverpool,47.0,sunderland
+2014-12-13,Premier League,Home,D,1,1,West Ham,57.0,sunderland
+2014-12-21,Premier League,Away,W,1,0,Newcastle Utd,48.0,sunderland
+2014-12-26,Premier League,Home,L,1,3,Hull City,48.0,sunderland
+2014-12-28,Premier League,Away,D,0,0,Aston Villa,52.0,sunderland
+2015-01-01,Premier League,Away,L,2,3,Manchester City,36.0,sunderland
+2015-01-04,FA Cup,Home,W,1,0,Leeds United,,sunderland
+2015-01-10,Premier League,Home,L,0,1,Liverpool,47.0,sunderland
+2015-01-17,Premier League,Away,L,1,2,Tottenham,35.0,sunderland
+2015-01-24,FA Cup,Home,D,0,0,Fulham,,sunderland
+2015-01-31,Premier League,Home,W,2,0,Burnley,50.0,sunderland
+2015-02-03,FA Cup,Away,W,3,1,Fulham,,sunderland
+2015-02-07,Premier League,Away,D,1,1,Swansea City,40.0,sunderland
+2015-02-10,Premier League,Home,L,0,2,QPR,53.0,sunderland
+2015-02-15,FA Cup,Away,L,0,2,Bradford City,,sunderland
+2015-02-21,Premier League,Home,D,0,0,West Brom,62.0,sunderland
+2015-02-28,Premier League,Away,L,0,2,Manchester Utd,27.0,sunderland
+2015-03-03,Premier League,Away,D,1,1,Hull City,59.0,sunderland
+2015-03-14,Premier League,Home,L,0,4,Aston Villa,40.0,sunderland
+2015-03-21,Premier League,Away,L,0,1,West Ham,46.0,sunderland
+2015-04-05,Premier League,Home,W,1,0,Newcastle Utd,53.0,sunderland
+2015-04-11,Premier League,Home,L,1,4,Crystal Palace,54.0,sunderland
+2015-04-25,Premier League,Away,D,1,1,Stoke City,40.0,sunderland
+2015-05-02,Premier League,Home,W,2,1,Southampton,44.0,sunderland
+2015-05-09,Premier League,Away,W,2,0,Everton,27.0,sunderland
+2015-05-16,Premier League,Home,D,0,0,Leicester City,51.0,sunderland
+2015-05-20,Premier League,Away,D,0,0,Arsenal,25.0,sunderland
+2015-05-24,Premier League,Away,L,1,3,Chelsea,35.0,sunderland
+2014-08-16,Premier League,Away,W,2,1,Manchester Utd,40.0,swansea
+2014-08-23,Premier League,Home,W,1,0,Burnley,55.0,swansea
+2014-08-26,League Cup,Home,W,1,0,Rotherham Utd,,swansea
+2014-08-30,Premier League,Home,W,3,0,West Brom,56.0,swansea
+2014-09-13,Premier League,Away,L,2,4,Chelsea,45.0,swansea
+2014-09-20,Premier League,Home,L,0,1,Southampton,44.0,swansea
+2014-09-23,League Cup,Home,W,3,0,Everton,,swansea
+2014-09-27,Premier League,Away,D,0,0,Sunderland,51.0,swansea
+2014-10-04,Premier League,Home,D,2,2,Newcastle Utd,63.0,swansea
+2014-10-19,Premier League,Away,L,1,2,Stoke City,57.0,swansea
+2014-10-25,Premier League,Home,W,2,0,Leicester City,50.0,swansea
+2014-10-28,League Cup,Away,L,1,2,Liverpool,,swansea
+2014-11-01,Premier League,Away,D,0,0,Everton,33.0,swansea
+2014-11-09,Premier League,Home,W,2,1,Arsenal,48.0,swansea
+2014-11-22,Premier League,Away,L,1,2,Manchester City,41.0,swansea
+2014-11-29,Premier League,Home,D,1,1,Crystal Palace,64.0,swansea
+2014-12-02,Premier League,Home,W,2,0,QPR,59.0,swansea
+2014-12-07,Premier League,Away,L,1,3,West Ham,44.0,swansea
+2014-12-14,Premier League,Home,L,1,2,Tottenham,54.0,swansea
+2014-12-20,Premier League,Away,W,1,0,Hull City,43.0,swansea
+2014-12-26,Premier League,Home,W,1,0,Aston Villa,43.0,swansea
+2014-12-29,Premier League,Away,L,1,4,Liverpool,57.0,swansea
+2015-01-01,Premier League,Away,D,1,1,QPR,59.0,swansea
+2015-01-03,FA Cup,Away,W,6,2,Tranmere Rovers,,swansea
+2015-01-10,Premier League,Home,D,1,1,West Ham,61.0,swansea
+2015-01-17,Premier League,Home,L,0,5,Chelsea,45.0,swansea
+2015-01-24,FA Cup,Away,L,1,3,Blackburn,,swansea
+2015-02-01,Premier League,Away,W,1,0,Southampton,37.0,swansea
+2015-02-07,Premier League,Home,D,1,1,Sunderland,60.0,swansea
+2015-02-11,Premier League,Away,L,0,2,West Brom,64.0,swansea
+2015-02-21,Premier League,Home,W,2,1,Manchester Utd,36.0,swansea
+2015-02-28,Premier League,Away,W,1,0,Burnley,54.0,swansea
+2015-03-04,Premier League,Away,L,2,3,Tottenham,39.0,swansea
+2015-03-16,Premier League,Home,L,0,1,Liverpool,46.0,swansea
+2015-03-21,Premier League,Away,W,1,0,Aston Villa,57.0,swansea
+2015-04-04,Premier League,Home,W,3,1,Hull City,58.0,swansea
+2015-04-11,Premier League,Home,D,1,1,Everton,51.0,swansea
+2015-04-18,Premier League,Away,L,0,2,Leicester City,59.0,swansea
+2015-04-25,Premier League,Away,W,3,2,Newcastle Utd,52.0,swansea
+2015-05-02,Premier League,Home,W,2,0,Stoke City,47.0,swansea
+2015-05-11,Premier League,Away,W,1,0,Arsenal,32.0,swansea
+2015-05-17,Premier League,Home,L,2,4,Manchester City,47.0,swansea
+2015-05-24,Premier League,Away,L,0,1,Crystal Palace,53.0,swansea
+2014-08-16,Premier League,Away,W,1,0,West Ham,53.0,tottenham
+2014-08-21,Europa Lg,Away,W,2,1,cy AEL Limassol,,tottenham
+2014-08-24,Premier League,Home,W,4,0,QPR,66.0,tottenham
+2014-08-28,Europa Lg,Home,W,3,0,cy AEL Limassol,,tottenham
+2014-08-31,Premier League,Home,L,0,3,Liverpool,60.0,tottenham
+2014-09-13,Premier League,Away,D,2,2,Sunderland,62.0,tottenham
+2014-09-18,Europa Lg,Away,D,0,0,rs Partizan,61.0,tottenham
+2014-09-21,Premier League,Home,L,0,1,West Brom,62.0,tottenham
+2014-09-24,League Cup,Home,W,3,1,Nott'ham Forest,,tottenham
+2014-09-27,Premier League,Away,D,1,1,Arsenal,31.0,tottenham
+2014-10-02,Europa Lg,Home,D,1,1,tr Beşiktaş,48.0,tottenham
+2014-10-05,Premier League,Home,W,1,0,Southampton,46.0,tottenham
+2014-10-18,Premier League,Away,L,1,4,Manchester City,38.0,tottenham
+2014-10-23,Europa Lg,Home,W,5,1,gr Asteras Tripoli,57.0,tottenham
+2014-10-26,Premier League,Home,L,1,2,Newcastle Utd,67.0,tottenham
+2014-10-29,League Cup,Home,W,2,0,Brighton,,tottenham
+2014-11-02,Premier League,Away,W,2,1,Aston Villa,60.0,tottenham
+2014-11-06,Europa Lg,Away,W,2,1,gr Asteras Tripoli,64.0,tottenham
+2014-11-09,Premier League,Home,L,1,2,Stoke City,61.0,tottenham
+2014-11-23,Premier League,Away,W,2,1,Hull City,73.0,tottenham
+2014-11-27,Europa Lg,Home,W,1,0,rs Partizan,63.0,tottenham
+2014-11-30,Premier League,Home,W,2,1,Everton,39.0,tottenham
+2014-12-03,Premier League,Away,L,0,3,Chelsea,61.0,tottenham
+2014-12-06,Premier League,Home,D,0,0,Crystal Palace,68.0,tottenham
+2014-12-11,Europa Lg,Away,L,0,1,tr Beşiktaş,62.0,tottenham
+2014-12-14,Premier League,Away,W,2,1,Swansea City,47.0,tottenham
+2014-12-17,League Cup,Home,W,4,0,Newcastle Utd,,tottenham
+2014-12-20,Premier League,Home,W,2,1,Burnley,65.0,tottenham
+2014-12-26,Premier League,Away,W,2,1,Leicester City,50.0,tottenham
+2014-12-28,Premier League,Home,D,0,0,Manchester Utd,48.0,tottenham
+2015-01-01,Premier League,Home,W,5,3,Chelsea,46.0,tottenham
+2015-01-05,FA Cup,Away,D,1,1,Burnley,,tottenham
+2015-01-10,Premier League,Away,L,1,2,Crystal Palace,58.0,tottenham
+2015-01-14,FA Cup,Home,W,4,2,Burnley,,tottenham
+2015-01-17,Premier League,Home,W,2,1,Sunderland,65.0,tottenham
+2015-01-21,League Cup,Home,W,1,0,Sheffield Utd,,tottenham
+2015-01-24,FA Cup,Home,L,1,2,Leicester City,,tottenham
+2015-01-28,League Cup,Away,D,2,2,Sheffield Utd,,tottenham
+2015-01-31,Premier League,Away,W,3,0,West Brom,63.0,tottenham
+2015-02-07,Premier League,Home,W,2,1,Arsenal,56.0,tottenham
+2015-02-10,Premier League,Away,L,2,3,Liverpool,51.0,tottenham
+2015-02-19,Europa Lg,Home,D,1,1,it Fiorentina,56.0,tottenham
+2015-02-22,Premier League,Home,D,2,2,West Ham,65.0,tottenham
+2015-02-26,Europa Lg,Away,L,0,2,it Fiorentina,61.0,tottenham
+2015-03-01,League Cup,Away,L,0,2,Chelsea,,tottenham
+2015-03-04,Premier League,Home,W,3,2,Swansea City,61.0,tottenham
+2015-03-07,Premier League,Away,W,2,1,QPR,63.0,tottenham
+2015-03-15,Premier League,Away,L,0,3,Manchester Utd,48.0,tottenham
+2015-03-21,Premier League,Home,W,4,3,Leicester City,66.0,tottenham
+2015-04-05,Premier League,Away,D,0,0,Burnley,60.0,tottenham
+2015-04-11,Premier League,Home,L,0,1,Aston Villa,57.0,tottenham
+2015-04-19,Premier League,Away,W,3,1,Newcastle Utd,61.0,tottenham
+2015-04-25,Premier League,Away,D,2,2,Southampton,64.0,tottenham
+2015-05-03,Premier League,Home,L,0,1,Manchester City,55.0,tottenham
+2015-05-09,Premier League,Away,L,0,3,Stoke City,55.0,tottenham
+2015-05-16,Premier League,Home,W,2,0,Hull City,56.0,tottenham
+2015-05-24,Premier League,Away,W,1,0,Everton,60.0,tottenham
+2014-08-16,Premier League,Home,L,1,2,Swansea City,60.0,united
+2014-08-24,Premier League,Away,D,1,1,Sunderland,55.0,united
+2014-08-26,League Cup,Away,L,0,4,MK Dons,,united
+2014-08-30,Premier League,Away,D,0,0,Burnley,64.0,united
+2014-09-14,Premier League,Home,W,4,0,QPR,69.0,united
+2014-09-21,Premier League,Away,L,3,5,Leicester City,57.0,united
+2014-09-27,Premier League,Home,W,2,1,West Ham,57.0,united
+2014-10-05,Premier League,Home,W,2,1,Everton,49.0,united
+2014-10-20,Premier League,Away,D,2,2,West Brom,63.0,united
+2014-10-26,Premier League,Home,D,1,1,Chelsea,52.0,united
+2014-11-02,Premier League,Away,L,0,1,Manchester City,48.0,united
+2014-11-08,Premier League,Home,W,1,0,Crystal Palace,71.0,united
+2014-11-22,Premier League,Away,W,2,1,Arsenal,39.0,united
+2014-11-29,Premier League,Home,W,3,0,Hull City,76.0,united
+2014-12-02,Premier League,Home,W,2,1,Stoke City,64.0,united
+2014-12-08,Premier League,Away,W,2,1,Southampton,48.0,united
+2014-12-14,Premier League,Home,W,3,0,Liverpool,55.0,united
+2014-12-20,Premier League,Away,D,1,1,Aston Villa,65.0,united
+2014-12-26,Premier League,Home,W,3,1,Newcastle Utd,62.0,united
+2014-12-28,Premier League,Away,D,0,0,Tottenham,52.0,united
+2015-01-01,Premier League,Away,D,1,1,Stoke City,66.0,united
+2015-01-04,FA Cup,Away,W,2,0,Yeovil Town,,united
+2015-01-11,Premier League,Home,L,0,1,Southampton,61.0,united
+2015-01-17,Premier League,Away,W,2,0,QPR,62.0,united
+2015-01-23,FA Cup,Away,D,0,0,Cambridge Utd,,united
+2015-01-31,Premier League,Home,W,3,1,Leicester City,71.0,united
+2015-02-03,FA Cup,Home,W,3,0,Cambridge Utd,,united
+2015-02-08,Premier League,Away,D,1,1,West Ham,59.0,united
+2015-02-11,Premier League,Home,W,3,1,Burnley,57.0,united
+2015-02-16,FA Cup,Away,W,3,1,Preston,,united
+2015-02-21,Premier League,Away,L,1,2,Swansea City,64.0,united
+2015-02-28,Premier League,Home,W,2,0,Sunderland,73.0,united
+2015-03-04,Premier League,Away,W,1,0,Newcastle Utd,68.0,united
+2015-03-09,FA Cup,Home,L,1,2,Arsenal,,united
+2015-03-15,Premier League,Home,W,3,0,Tottenham,52.0,united
+2015-03-22,Premier League,Away,W,2,1,Liverpool,58.0,united
+2015-04-04,Premier League,Home,W,3,1,Aston Villa,76.0,united
+2015-04-12,Premier League,Home,W,4,2,Manchester City,59.0,united
+2015-04-18,Premier League,Away,L,0,1,Chelsea,70.0,united
+2015-04-26,Premier League,Away,L,0,3,Everton,65.0,united
+2015-05-02,Premier League,Home,L,0,1,West Brom,80.0,united
+2015-05-09,Premier League,Away,W,2,1,Crystal Palace,63.0,united
+2015-05-17,Premier League,Home,D,1,1,Arsenal,57.0,united
+2015-05-24,Premier League,Away,D,0,0,Hull City,59.0,united
+2014-08-16,Premier League,Home,D,2,2,Sunderland,58.0,west-brom
+2014-08-23,Premier League,Away,D,0,0,Southampton,42.0,west-brom
+2014-08-26,League Cup,Home,D,1 (7),1 (6),Oxford United,,west-brom
+2014-08-30,Premier League,Away,L,0,3,Swansea City,44.0,west-brom
+2014-09-13,Premier League,Home,L,0,2,Everton,46.0,west-brom
+2014-09-21,Premier League,Away,W,1,0,Tottenham,38.0,west-brom
+2014-09-24,League Cup,Home,W,3,2,Hull City,,west-brom
+2014-09-28,Premier League,Home,W,4,0,Burnley,63.0,west-brom
+2014-10-04,Premier League,Away,L,1,2,Liverpool,46.0,west-brom
+2014-10-20,Premier League,Home,D,2,2,Manchester Utd,37.0,west-brom
+2014-10-25,Premier League,Home,D,2,2,Crystal Palace,69.0,west-brom
+2014-10-28,League Cup,Away,L,1,2,Bournemouth,,west-brom
+2014-11-01,Premier League,Away,W,1,0,Leicester City,44.0,west-brom
+2014-11-09,Premier League,Home,L,0,2,Newcastle Utd,58.0,west-brom
+2014-11-22,Premier League,Away,L,0,2,Chelsea,26.0,west-brom
+2014-11-29,Premier League,Home,L,0,1,Arsenal,48.0,west-brom
+2014-12-02,Premier League,Home,L,1,2,West Ham,58.0,west-brom
+2014-12-06,Premier League,Away,D,0,0,Hull City,51.0,west-brom
+2014-12-13,Premier League,Home,W,1,0,Aston Villa,49.0,west-brom
+2014-12-20,Premier League,Away,L,2,3,QPR,57.0,west-brom
+2014-12-26,Premier League,Home,L,1,3,Manchester City,48.0,west-brom
+2014-12-28,Premier League,Away,L,0,2,Stoke City,49.0,west-brom
+2015-01-01,Premier League,Away,D,1,1,West Ham,54.0,west-brom
+2015-01-03,FA Cup,Home,W,7,0,Gateshead,,west-brom
+2015-01-10,Premier League,Home,W,1,0,Hull City,52.0,west-brom
+2015-01-19,Premier League,Away,D,0,0,Everton,31.0,west-brom
+2015-01-24,FA Cup,Away,W,2,1,Birmingham City,,west-brom
+2015-01-31,Premier League,Home,L,0,3,Tottenham,37.0,west-brom
+2015-02-08,Premier League,Away,D,2,2,Burnley,44.0,west-brom
+2015-02-11,Premier League,Home,W,2,0,Swansea City,36.0,west-brom
+2015-02-14,FA Cup,Home,W,4,0,West Ham,,west-brom
+2015-02-21,Premier League,Away,D,0,0,Sunderland,38.0,west-brom
+2015-02-28,Premier League,Home,W,1,0,Southampton,36.0,west-brom
+2015-03-03,Premier League,Away,L,1,2,Aston Villa,42.0,west-brom
+2015-03-07,FA Cup,Away,L,0,2,Aston Villa,,west-brom
+2015-03-14,Premier League,Home,W,1,0,Stoke City,43.0,west-brom
+2015-03-21,Premier League,Away,L,0,3,Manchester City,22.0,west-brom
+2015-04-04,Premier League,Home,L,1,4,QPR,55.0,west-brom
+2015-04-11,Premier League,Home,L,2,3,Leicester City,46.0,west-brom
+2015-04-18,Premier League,Away,W,2,0,Crystal Palace,32.0,west-brom
+2015-04-25,Premier League,Home,D,0,0,Liverpool,27.0,west-brom
+2015-05-02,Premier League,Away,W,1,0,Manchester Utd,20.0,west-brom
+2015-05-09,Premier League,Away,D,1,1,Newcastle Utd,39.0,west-brom
+2015-05-18,Premier League,Home,W,3,0,Chelsea,41.0,west-brom
+2015-05-24,Premier League,Away,L,1,4,Arsenal,36.0,west-brom
+2014-08-16,Premier League,Home,L,0,1,Tottenham,47.0,west-ham
+2014-08-23,Premier League,Away,W,3,1,Crystal Palace,54.0,west-ham
+2014-08-26,League Cup,Home,D,1 (4),1 (5),Sheffield Utd,,west-ham
+2014-08-30,Premier League,Home,L,1,3,Southampton,36.0,west-ham
+2014-09-15,Premier League,Away,D,2,2,Hull City,59.0,west-ham
+2014-09-20,Premier League,Home,W,3,1,Liverpool,38.0,west-ham
+2014-09-27,Premier League,Away,L,1,2,Manchester Utd,43.0,west-ham
+2014-10-05,Premier League,Home,W,2,0,QPR,49.0,west-ham
+2014-10-18,Premier League,Away,W,3,1,Burnley,53.0,west-ham
+2014-10-25,Premier League,Home,W,2,1,Manchester City,31.0,west-ham
+2014-11-01,Premier League,Away,D,2,2,Stoke City,41.0,west-ham
+2014-11-08,Premier League,Home,D,0,0,Aston Villa,58.0,west-ham
+2014-11-22,Premier League,Away,L,1,2,Everton,44.0,west-ham
+2014-11-29,Premier League,Home,W,1,0,Newcastle Utd,48.0,west-ham
+2014-12-02,Premier League,Away,W,2,1,West Brom,42.0,west-ham
+2014-12-07,Premier League,Home,W,3,1,Swansea City,56.0,west-ham
+2014-12-13,Premier League,Away,D,1,1,Sunderland,43.0,west-ham
+2014-12-20,Premier League,Home,W,2,0,Leicester City,48.0,west-ham
+2014-12-26,Premier League,Away,L,0,2,Chelsea,35.0,west-ham
+2014-12-28,Premier League,Home,L,1,2,Arsenal,58.0,west-ham
+2015-01-01,Premier League,Home,D,1,1,West Brom,46.0,west-ham
+2015-01-06,FA Cup,Away,D,1,1,Everton,,west-ham
+2015-01-10,Premier League,Away,D,1,1,Swansea City,39.0,west-ham
+2015-01-13,FA Cup,Home,D,2 (9),2 (8),Everton,,west-ham
+2015-01-18,Premier League,Home,W,3,0,Hull City,54.0,west-ham
+2015-01-25,FA Cup,Away,W,1,0,Bristol City,,west-ham
+2015-01-31,Premier League,Away,L,0,2,Liverpool,34.0,west-ham
+2015-02-08,Premier League,Home,D,1,1,Manchester Utd,41.0,west-ham
+2015-02-11,Premier League,Away,D,0,0,Southampton,33.0,west-ham
+2015-02-14,FA Cup,Away,L,0,4,West Brom,,west-ham
+2015-02-22,Premier League,Away,D,2,2,Tottenham,35.0,west-ham
+2015-02-28,Premier League,Home,L,1,3,Crystal Palace,66.0,west-ham
+2015-03-04,Premier League,Home,L,0,1,Chelsea,45.0,west-ham
+2015-03-14,Premier League,Away,L,0,3,Arsenal,32.0,west-ham
+2015-03-21,Premier League,Home,W,1,0,Sunderland,54.0,west-ham
+2015-04-04,Premier League,Away,L,1,2,Leicester City,50.0,west-ham
+2015-04-11,Premier League,Home,D,1,1,Stoke City,35.0,west-ham
+2015-04-19,Premier League,Away,L,0,2,Manchester City,33.0,west-ham
+2015-04-25,Premier League,Away,D,0,0,QPR,46.0,west-ham
+2015-05-02,Premier League,Home,W,1,0,Burnley,60.0,west-ham
+2015-05-09,Premier League,Away,L,0,1,Aston Villa,42.0,west-ham
+2015-05-16,Premier League,Home,L,1,2,Everton,45.0,west-ham
+2015-05-24,Premier League,Away,L,0,2,Newcastle Utd,59.0,west-ham
