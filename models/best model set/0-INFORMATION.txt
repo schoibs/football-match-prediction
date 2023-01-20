@@ -1,0 +1,29 @@
+Feature Engineering:
+1. Remove Features related to home form and away form 
+2. Take only one of variables with high spearman correlation with each other (> 0.7)
+3. Remove variables with low Boruta score (< 0.3)
+4. Standardization
+
+Features Used:
+HASL5M, HAFL5M, HAYCL5M, HAGCL5M, HWPL5M, HWinStreak, AASL5M, AAFL5M, AAYCL5M, AAGCL5M, AWPL5M, AWinStreak, HOVR, AOVR, B365H, B365D, B365A
+
+
+Model Accuracies:
+Accuracy on Test Set (Random Forest):
+- 0.544360902255639
+- {'criterion': 'entropy', 'max_depth': 6, 'max_features': 'sqrt', 'n_estimators': 100}
+
+Accuracy on Test Set (Logistic Regression):
+- 0.5428571428571428
+- {'C': 0.615848211066026, 'penalty': 'l1', 'solver': 'liblinear'}
+
+Accuracy on Test Set (Support Vector):
+- 0.5338345864661654
+- {'C': 1, 'gamma': 0.01, 'kernel': 'sigmoid'}
+
+Accuracy on Test Set (XGBoost):
+- 0.5503759398496241
+- {'learning_rate': 0.05, 'max_depth': 2, 'n_estimators': 60}
+
+Accuracy on Test Set (Stack Classifier):
+0.5203938115330521
