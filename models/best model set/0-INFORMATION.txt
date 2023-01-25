@@ -4,6 +4,7 @@ Feature Engineering:
 3. Remove variables that contributes little to target variable (identify using boxplots)
 4. Remove variables with low Boruta score (< 0.5)
 5. Standardization
+6. traintestsplit using stratified sampling
 
 Features Used:
 HASLxM, HAFLxM, HAGCLxM, HWPLxM, AASLxM, AAGCLxM, AWPLxM, HOvr, AOvr, B365H, B365D, B365A
