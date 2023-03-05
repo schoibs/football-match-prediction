@@ -1,0 +1,4 @@
+This data split contains:
+
+Target Variable: Draw & Non-Draw
+Sampling Technique: Stratified
