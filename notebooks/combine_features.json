@@ -17,7 +17,7 @@
   "HTGoalsScoredHA": ["HAHTGSLxHM", "AAHTGSLxAM"],
   "HTGoalsConcededHA": ["HAHTGCLxHM", "AAHTGCLxAM"],
   "HTGoalsDiff": ["HHTGDLxM", "AHTGDLxM"],
-  "HTGoalsDiffHA": ["HHTGDLxHM", "AHTGDLxAM"]],
+  "HTGoalsDiffHA": ["HHTGDLxHM", "AHTGDLxAM"],
   "Points": ["HAPLxM", "AAPLxM"],
   "PointsHA": ["HAPLxHM", "AAPLxAM"],
   "WinPercent": ["HWPLxM", "AWPLxM"],

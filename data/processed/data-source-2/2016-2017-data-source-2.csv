@@ -1,939 +1,939 @@
-Date,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,team
-2016-08-14,Premier League,Matchweek 1,Sun,Home,L,3,4,Liverpool,51.0,60033,Petr Čech,4-2-3-1,arsenal
-2016-08-20,Premier League,Matchweek 2,Sat,Away,D,0,0,Leicester City,61.0,32008,Laurent Koscielny,4-2-3-1,arsenal
-2016-08-27,Premier League,Matchweek 3,Sat,Away,W,3,1,Watford,55.0,20545,Laurent Koscielny,4-2-3-1,arsenal
-2016-09-10,Premier League,Matchweek 4,Sat,Home,W,2,1,Southampton,57.0,59962,Laurent Koscielny,4-2-3-1,arsenal
-2016-09-13,Champions Lg,Group stage,Tue,Away,D,1,1,fr Paris S-G,48.0,46440,Laurent Koscielny,4-2-3-1,arsenal
-2016-09-17,Premier League,Matchweek 5,Sat,Away,W,4,1,Hull City,61.0,22536,Laurent Koscielny,4-2-3-1,arsenal
-2016-09-20,EFL Cup,Third round,Tue,Away,W,4,0,Nott'ham Forest,61.0,28567,Kieran Gibbs,4-4-2,arsenal
-2016-09-24,Premier League,Matchweek 6,Sat,Home,W,3,0,Chelsea,50.0,60028,Laurent Koscielny,4-2-3-1,arsenal
-2016-09-28,Champions Lg,Group stage,Wed,Home,W,2,0,ch Basel,65.0,59993,Laurent Koscielny,4-2-3-1,arsenal
-2016-10-02,Premier League,Matchweek 7,Sun,Away,W,1,0,Burnley,67.0,20982,Laurent Koscielny,4-2-3-1,arsenal
-2016-10-15,Premier League,Matchweek 8,Sat,Home,W,3,2,Swansea City,49.0,60007,Laurent Koscielny,4-2-3-1,arsenal
-2016-10-19,Champions Lg,Group stage,Wed,Home,W,6,0,bg Ludogorets,43.0,59944,Laurent Koscielny,4-2-3-1,arsenal
-2016-10-22,Premier League,Matchweek 9,Sat,Home,D,0,0,Middlesbrough,75.0,59982,Laurent Koscielny,4-2-3-1,arsenal
-2016-10-25,EFL Cup,Fourth round,Tue,Home,W,2,0,Reading,60.0,59865,Kieran Gibbs,4-4-2,arsenal
-2016-10-29,Premier League,Matchweek 10,Sat,Away,W,4,1,Sunderland,66.0,44322,Laurent Koscielny,4-2-3-1,arsenal
-2016-11-01,Champions Lg,Group stage,Tue,Away,W,3,2,bg Ludogorets,58.0,30862,Laurent Koscielny,4-2-3-1,arsenal
-2016-11-06,Premier League,Matchweek 11,Sun,Home,D,1,1,Tottenham,46.0,60039,Laurent Koscielny,4-2-3-1,arsenal
-2016-11-19,Premier League,Matchweek 12,Sat,Away,D,1,1,Manchester Utd,55.0,75264,Laurent Koscielny,4-2-3-1,arsenal
-2016-11-23,Champions Lg,Group stage,Wed,Home,D,2,2,fr Paris S-G,46.0,59628,Laurent Koscielny,4-2-3-1,arsenal
-2016-11-27,Premier League,Matchweek 13,Sun,Home,W,3,1,Bournemouth,52.0,59978,Laurent Koscielny,4-2-3-1,arsenal
-2016-11-30,EFL Cup,Quarter-finals,Wed,Home,L,0,2,Southampton,63.0,59013,Kieran Gibbs,4-2-3-1,arsenal
-2016-12-03,Premier League,Matchweek 14,Sat,Away,W,5,1,West Ham,50.0,56980,Laurent Koscielny,4-2-3-1,arsenal
-2016-12-06,Champions Lg,Group stage,Tue,Away,W,4,1,ch Basel,59.0,36000,Laurent Koscielny,4-2-3-1,arsenal
-2016-12-10,Premier League,Matchweek 15,Sat,Home,W,3,1,Stoke City,64.0,59964,Laurent Koscielny,4-2-3-1,arsenal
-2016-12-13,Premier League,Matchweek 16,Tue,Away,L,1,2,Everton,59.0,39510,Laurent Koscielny,4-2-3-1,arsenal
-2016-12-18,Premier League,Matchweek 17,Sun,Away,L,1,2,Manchester City,39.0,54409,Laurent Koscielny,4-2-3-1,arsenal
-2016-12-26,Premier League,Matchweek 18,Mon,Home,W,1,0,West Brom,76.0,59925,Laurent Koscielny,4-2-3-1,arsenal
-2017-01-01,Premier League,Matchweek 19,Sun,Home,W,2,0,Crystal Palace,64.0,59975,Laurent Koscielny,4-2-3-1,arsenal
-2017-01-03,Premier League,Matchweek 20,Tue,Away,D,3,3,Bournemouth,60.0,11202,Laurent Koscielny,4-2-3-1,arsenal
-2017-01-07,FA Cup,Third round,Sat,Away,W,2,1,Preston,,22185,,,arsenal
-2017-01-14,Premier League,Matchweek 21,Sat,Away,W,4,0,Swansea City,57.0,20875,Laurent Koscielny,4-2-3-1,arsenal
-2017-01-22,Premier League,Matchweek 22,Sun,Home,W,2,1,Burnley,70.0,59955,Laurent Koscielny,4-2-3-1,arsenal
-2017-01-28,FA Cup,Fourth round,Sat,Away,W,5,0,Southampton,,31288,,,arsenal
-2017-01-31,Premier League,Matchweek 23,Tue,Home,L,1,2,Watford,74.0,60035,Laurent Koscielny,4-2-3-1,arsenal
-2017-02-04,Premier League,Matchweek 24,Sat,Away,L,1,3,Chelsea,59.0,41490,Laurent Koscielny,4-2-3-1,arsenal
-2017-02-11,Premier League,Matchweek 25,Sat,Home,W,2,0,Hull City,49.0,59962,Laurent Koscielny,4-2-3-1,arsenal
-2017-02-15,Champions Lg,Round of 16,Wed,Away,L,1,5,de Bayern Munich,26.0,70000,Laurent Koscielny,4-2-3-1,arsenal
-2017-02-20,FA Cup,Fifth round,Mon,Away,W,2,0,Sutton United,,5013,,,arsenal
-2017-03-04,Premier League,Matchweek 27,Sat,Away,L,1,3,Liverpool,48.0,53146,Laurent Koscielny,4-2-3-1,arsenal
-2017-03-07,Champions Lg,Round of 16,Tue,Home,L,1,5,de Bayern Munich,43.0,59911,Laurent Koscielny,4-3-3,arsenal
-2017-03-11,FA Cup,Quarter-finals,Sat,Home,W,5,0,Lincoln City,,59454,,,arsenal
-2017-03-18,Premier League,Matchweek 29,Sat,Away,L,1,3,West Brom,77.0,24065,Laurent Koscielny,4-2-3-1,arsenal
-2017-04-02,Premier League,Matchweek 30,Sun,Home,D,2,2,Manchester City,44.0,60001,Laurent Koscielny,4-2-3-1,arsenal
-2017-04-05,Premier League,Matchweek 31,Wed,Home,W,3,0,West Ham,66.0,59961,Theo Walcott,4-2-3-1,arsenal
-2017-04-10,Premier League,Matchweek 32,Mon,Away,L,0,3,Crystal Palace,72.0,25648,Theo Walcott,4-2-3-1,arsenal
-2017-04-17,Premier League,Matchweek 33,Mon,Away,W,2,1,Middlesbrough,65.0,31298,Laurent Koscielny,3-4-3,arsenal
-2017-04-23,FA Cup,Semi-finals,Sun,Home,W,2,1,Manchester City,,85725,,,arsenal
-2017-04-26,Premier League,Matchweek 28,Wed,Home,W,1,0,Leicester City,69.0,59829,Laurent Koscielny,3-4-3,arsenal
-2017-04-30,Premier League,Matchweek 35,Sun,Away,L,0,2,Tottenham,49.0,31811,Laurent Koscielny,3-4-3,arsenal
-2017-05-07,Premier League,Matchweek 36,Sun,Home,W,2,0,Manchester Utd,50.0,60055,Laurent Koscielny,3-4-3,arsenal
-2017-05-10,Premier League,Matchweek 26,Wed,Away,W,2,0,Southampton,53.0,31474,Petr Čech,3-4-3,arsenal
-2017-05-13,Premier League,Matchweek 37,Sat,Away,W,4,1,Stoke City,67.0,27535,Laurent Koscielny,3-4-3,arsenal
-2017-05-16,Premier League,Matchweek 34,Tue,Home,W,2,0,Sunderland,63.0,59510,Petr Čech,3-4-3,arsenal
-2017-05-21,Premier League,Matchweek 38,Sun,Home,W,3,1,Everton,50.0,59976,Laurent Koscielny,3-4-3,arsenal
-2017-05-27,FA Cup,Final,Sat,Home,W,2,1,Chelsea,,89472,,,arsenal
-2016-08-14,Premier League,Matchweek 1,Sun,Home,L,1,3,Manchester Utd,47.0,11355,Simon Francis,4-3-3,bournemouth
-2016-08-21,Premier League,Matchweek 2,Sun,Away,L,0,1,West Ham,53.0,56977,Simon Francis,4-4-1-1,bournemouth
-2016-08-24,EFL Cup,Second round,Wed,Away,W,2,1,Morecambe,60.0,2542,Simon Francis,4-4-2,bournemouth
-2016-08-27,Premier League,Matchweek 3,Sat,Away,D,1,1,Crystal Palace,41.0,23503,Simon Francis,4-3-3,bournemouth
-2016-09-10,Premier League,Matchweek 4,Sat,Home,W,1,0,West Brom,64.0,11184,Simon Francis,4-4-1-1,bournemouth
-2016-09-17,Premier League,Matchweek 5,Sat,Away,L,0,4,Manchester City,36.0,54335,Simon Francis,4-5-1,bournemouth
-2016-09-20,EFL Cup,Third round,Tue,Home,L,2,3,Preston,56.0,7595,Dan Gosling,4-5-1,bournemouth
-2016-09-24,Premier League,Matchweek 6,Sat,Home,W,1,0,Everton,53.0,11291,Simon Francis,4-2-3-1,bournemouth
-2016-10-01,Premier League,Matchweek 7,Sat,Away,D,2,2,Watford,52.0,20575,Simon Francis,4-2-3-1,bournemouth
-2016-10-15,Premier League,Matchweek 8,Sat,Home,W,6,1,Hull City,50.0,11029,Simon Francis,4-2-3-1,bournemouth
-2016-10-22,Premier League,Matchweek 9,Sat,Home,D,0,0,Tottenham,38.0,11201,Simon Francis,4-2-3-1,bournemouth
-2016-10-29,Premier League,Matchweek 10,Sat,Away,L,0,2,Middlesbrough,60.0,29600,Simon Francis,4-2-3-1,bournemouth
-2016-11-05,Premier League,Matchweek 11,Sat,Home,L,1,2,Sunderland,70.0,11084,Simon Francis,4-2-3-1,bournemouth
-2016-11-19,Premier League,Matchweek 12,Sat,Away,W,1,0,Stoke City,49.0,27815,Simon Francis,4-2-3-1,bournemouth
-2016-11-27,Premier League,Matchweek 13,Sun,Away,L,1,3,Arsenal,49.0,59978,Simon Francis,4-2-3-1,bournemouth
-2016-12-04,Premier League,Matchweek 14,Sun,Home,W,4,3,Liverpool,40.0,11183,Simon Francis,4-2-3-1,bournemouth
-2016-12-10,Premier League,Matchweek 15,Sat,Away,L,2,3,Burnley,69.0,19680,Simon Francis,4-4-2,bournemouth
-2016-12-13,Premier League,Matchweek 16,Tue,Home,W,1,0,Leicester City,63.0,11068,Simon Francis,4-2-3-1,bournemouth
-2016-12-18,Premier League,Matchweek 17,Sun,Home,L,1,3,Southampton,47.0,11113,Simon Francis,4-2-3-1,bournemouth
-2016-12-26,Premier League,Matchweek 18,Mon,Away,L,0,3,Chelsea,56.0,41384,Simon Francis,3-5-1-1,bournemouth
-2016-12-31,Premier League,Matchweek 19,Sat,Away,W,3,0,Swansea City,55.0,20316,Simon Francis,4-2-3-1,bournemouth
-2017-01-03,Premier League,Matchweek 20,Tue,Home,D,3,3,Arsenal,40.0,11202,Simon Francis,4-2-3-1,bournemouth
-2017-01-07,FA Cup,Third round,Sat,Away,L,0,3,Millwall,,9471,,,bournemouth
-2017-01-14,Premier League,Matchweek 21,Sat,Away,L,1,3,Hull City,61.0,17963,Andrew Surman,4-2-3-1,bournemouth
-2017-01-21,Premier League,Matchweek 22,Sat,Home,D,2,2,Watford,63.0,11123,Andrew Surman,4-2-3-1,bournemouth
-2017-01-31,Premier League,Matchweek 23,Tue,Home,L,0,2,Crystal Palace,65.0,11286,Simon Francis,4-2-3-1,bournemouth
-2017-02-04,Premier League,Matchweek 24,Sat,Away,L,3,6,Everton,54.0,39026,Simon Francis,3-5-1-1,bournemouth
-2017-02-13,Premier League,Matchweek 25,Mon,Home,L,0,2,Manchester City,38.0,11129,Simon Francis,4-1-4-1,bournemouth
-2017-02-25,Premier League,Matchweek 26,Sat,Away,L,1,2,West Brom,68.0,24162,Andrew Surman,4-2-3-1,bournemouth
-2017-03-04,Premier League,Matchweek 27,Sat,Away,D,1,1,Manchester Utd,32.0,75245,Andrew Surman,4-2-3-1,bournemouth
-2017-03-11,Premier League,Matchweek 28,Sat,Home,W,3,2,West Ham,52.0,11369,Simon Francis,4-2-3-1,bournemouth
-2017-03-18,Premier League,Matchweek 29,Sat,Home,W,2,0,Swansea City,48.0,11240,Simon Francis,4-4-2,bournemouth
-2017-04-01,Premier League,Matchweek 30,Sat,Away,D,0,0,Southampton,39.0,31847,Simon Francis,4-4-2,bournemouth
-2017-04-05,Premier League,Matchweek 31,Wed,Away,D,2,2,Liverpool,33.0,53292,Simon Francis,4-4-1-1,bournemouth
-2017-04-08,Premier League,Matchweek 32,Sat,Home,L,1,3,Chelsea,51.0,11283,Simon Francis,4-4-2,bournemouth
-2017-04-15,Premier League,Matchweek 33,Sat,Away,L,0,4,Tottenham,31.0,31943,Simon Francis,4-4-1-1,bournemouth
-2017-04-22,Premier League,Matchweek 34,Sat,Home,W,4,0,Middlesbrough,68.0,10890,Simon Francis,4-4-1-1,bournemouth
-2017-04-29,Premier League,Matchweek 35,Sat,Away,W,1,0,Sunderland,59.0,38394,Simon Francis,4-4-1-1,bournemouth
-2017-05-06,Premier League,Matchweek 36,Sat,Home,D,2,2,Stoke City,58.0,11046,Simon Francis,4-2-3-1,bournemouth
-2017-05-13,Premier League,Matchweek 37,Sat,Home,W,2,1,Burnley,55.0,11388,Simon Francis,4-4-1-1,bournemouth
-2017-05-21,Premier League,Matchweek 38,Sun,Away,D,1,1,Leicester City,51.0,32000,Simon Francis,4-4-1-1,bournemouth
-2016-08-13,Premier League,Matchweek 1,Sat,Home,L,0,1,Swansea City,48.0,19126,Tom Heaton,4-4-2,burnley
-2016-08-20,Premier League,Matchweek 2,Sat,Home,W,2,0,Liverpool,20.0,21313,Tom Heaton,4-4-2,burnley
-2016-08-24,EFL Cup,Second round,Wed,Away,L,0,1,Acc'ton Stanley,59.0,3170,James Tarkowski,4-4-2,burnley
-2016-08-27,Premier League,Matchweek 3,Sat,Away,L,0,3,Chelsea,40.0,41607,Tom Heaton,4-4-2,burnley
-2016-09-10,Premier League,Matchweek 4,Sat,Home,D,1,1,Hull City,39.0,18803,Tom Heaton,4-4-2,burnley
-2016-09-17,Premier League,Matchweek 5,Sat,Away,L,0,3,Leicester City,41.0,31916,Tom Heaton,4-5-1,burnley
-2016-09-26,Premier League,Matchweek 6,Mon,Home,W,2,0,Watford,44.0,18519,Tom Heaton,4-5-1,burnley
-2016-10-02,Premier League,Matchweek 7,Sun,Home,L,0,1,Arsenal,33.0,20982,Tom Heaton,4-5-1,burnley
-2016-10-16,Premier League,Matchweek 8,Sun,Away,L,1,3,Southampton,35.0,29040,Tom Heaton,4-5-1,burnley
-2016-10-22,Premier League,Matchweek 9,Sat,Home,W,2,1,Everton,35.0,21416,Tom Heaton,4-4-1-1,burnley
-2016-10-29,Premier League,Matchweek 10,Sat,Away,D,0,0,Manchester Utd,28.0,75325,Tom Heaton,4-4-2,burnley
-2016-11-05,Premier League,Matchweek 11,Sat,Home,W,3,2,Crystal Palace,38.0,19196,Tom Heaton,4-4-1-1,burnley
-2016-11-21,Premier League,Matchweek 12,Mon,Away,L,0,4,West Brom,55.0,23016,Tom Heaton,4-4-1-1,burnley
-2016-11-26,Premier League,Matchweek 13,Sat,Home,L,1,2,Manchester City,33.0,21794,Ben Mee,4-4-1-1,burnley
-2016-12-03,Premier League,Matchweek 14,Sat,Away,L,0,2,Stoke City,44.0,27306,Ben Mee,4-4-2,burnley
-2016-12-10,Premier League,Matchweek 15,Sat,Home,W,3,2,Bournemouth,31.0,19680,Tom Heaton,4-2-3-1,burnley
-2016-12-14,Premier League,Matchweek 16,Wed,Away,L,0,1,West Ham,42.0,56990,Tom Heaton,4-4-2,burnley
-2016-12-18,Premier League,Matchweek 17,Sun,Away,L,1,2,Tottenham,40.0,31467,Tom Heaton,4-4-2,burnley
-2016-12-26,Premier League,Matchweek 18,Mon,Home,W,1,0,Middlesbrough,46.0,21562,Tom Heaton,4-4-2,burnley
-2016-12-31,Premier League,Matchweek 19,Sat,Home,W,4,1,Sunderland,46.0,21124,Tom Heaton,4-4-2,burnley
-2017-01-02,Premier League,Matchweek 20,Mon,Away,L,1,2,Manchester City,45.0,54463,Tom Heaton,4-4-2,burnley
-2017-01-07,FA Cup,Third round,Sat,Away,D,0,0,Sunderland,,17632,,,burnley
-2017-01-14,Premier League,Matchweek 21,Sat,Home,W,1,0,Southampton,41.0,20254,Tom Heaton,4-4-2,burnley
-2017-01-17,FA Cup,Third round,Tue,Home,W,2,0,Sunderland,,12257,,,burnley
-2017-01-22,Premier League,Matchweek 22,Sun,Away,L,1,2,Arsenal,30.0,59955,Tom Heaton,4-4-2,burnley
-2017-01-28,FA Cup,Fourth round,Sat,Home,W,2,0,Bristol City,,14921,,,burnley
-2017-01-31,Premier League,Matchweek 23,Tue,Home,W,1,0,Leicester City,59.0,19202,Tom Heaton,4-4-2,burnley
-2017-02-04,Premier League,Matchweek 24,Sat,Away,L,1,2,Watford,40.0,20178,Tom Heaton,4-4-2,burnley
-2017-02-12,Premier League,Matchweek 25,Sun,Home,D,1,1,Chelsea,29.0,21744,Tom Heaton,4-4-2,burnley
-2017-02-18,FA Cup,Fifth round,Sat,Home,L,0,1,Lincoln City,,19185,,,burnley
-2017-02-25,Premier League,Matchweek 26,Sat,Away,D,1,1,Hull City,34.0,20156,Tom Heaton,4-4-2,burnley
-2017-03-04,Premier League,Matchweek 27,Sat,Away,L,2,3,Swansea City,29.0,20679,Ben Mee,4-4-2,burnley
-2017-03-12,Premier League,Matchweek 28,Sun,Away,L,1,2,Liverpool,36.0,53145,Tom Heaton,4-4-2,burnley
-2017-03-18,Premier League,Matchweek 29,Sat,Away,D,0,0,Sunderland,56.0,41518,Tom Heaton,4-4-2,burnley
-2017-04-01,Premier League,Matchweek 30,Sat,Home,L,0,2,Tottenham,38.0,21684,Tom Heaton,4-4-2,burnley
-2017-04-04,Premier League,Matchweek 31,Tue,Home,W,1,0,Stoke City,48.0,19881,Tom Heaton,4-4-2,burnley
-2017-04-08,Premier League,Matchweek 32,Sat,Away,D,0,0,Middlesbrough,44.0,29547,Tom Heaton,4-4-2,burnley
-2017-04-15,Premier League,Matchweek 33,Sat,Away,L,1,3,Everton,37.0,39328,Tom Heaton,4-4-2,burnley
-2017-04-23,Premier League,Matchweek 34,Sun,Home,L,0,2,Manchester Utd,46.0,21870,Tom Heaton,4-4-2,burnley
-2017-04-29,Premier League,Matchweek 35,Sat,Away,W,2,0,Crystal Palace,36.0,25013,Tom Heaton,4-4-2,burnley
-2017-05-06,Premier League,Matchweek 36,Sat,Home,D,2,2,West Brom,55.0,20825,Tom Heaton,4-4-2,burnley
-2017-05-13,Premier League,Matchweek 37,Sat,Away,L,1,2,Bournemouth,45.0,11388,Tom Heaton,4-4-2,burnley
-2017-05-21,Premier League,Matchweek 38,Sun,Home,L,1,2,West Ham,44.0,21634,Kevin Long,4-4-2,burnley
-2016-08-15,Premier League,Matchweek 1,Mon,Home,W,2,1,West Ham,62.0,41521,John Terry,4-1-4-1,chelsea
-2016-08-20,Premier League,Matchweek 2,Sat,Away,W,2,1,Watford,62.0,20772,John Terry,4-1-4-1,chelsea
-2016-08-23,EFL Cup,Second round,Tue,Home,W,3,2,Bristol Rovers,54.0,39276,Branislav Ivanović,4-2-3-1,chelsea
-2016-08-27,Premier League,Matchweek 3,Sat,Home,W,3,0,Burnley,60.0,41607,John Terry,4-1-4-1,chelsea
-2016-09-11,Premier League,Matchweek 4,Sun,Away,D,2,2,Swansea City,55.0,20865,John Terry,4-1-4-1,chelsea
-2016-09-16,Premier League,Matchweek 5,Fri,Home,L,1,2,Liverpool,53.0,41514,Branislav Ivanović,4-2-3-1,chelsea
-2016-09-20,EFL Cup,Third round,Tue,Away,W,4,2,Leicester City,67.0,29899,Gary Cahill,4-2-3-1,chelsea
-2016-09-24,Premier League,Matchweek 6,Sat,Away,L,0,3,Arsenal,51.0,60028,Branislav Ivanović,4-1-4-1,chelsea
-2016-10-01,Premier League,Matchweek 7,Sat,Away,W,2,0,Hull City,59.0,21257,Gary Cahill,3-4-3,chelsea
-2016-10-15,Premier League,Matchweek 8,Sat,Home,W,3,0,Leicester City,55.0,41547,Gary Cahill,3-4-3,chelsea
-2016-10-23,Premier League,Matchweek 9,Sun,Home,W,4,0,Manchester Utd,44.0,41424,Gary Cahill,3-4-3,chelsea
-2016-10-26,EFL Cup,Fourth round,Wed,Away,L,1,2,West Ham,53.0,45957,John Terry,3-4-3,chelsea
-2016-10-30,Premier League,Matchweek 10,Sun,Away,W,2,0,Southampton,45.0,31827,Gary Cahill,3-4-3,chelsea
-2016-11-05,Premier League,Matchweek 11,Sat,Home,W,5,0,Everton,60.0,41429,Gary Cahill,3-4-3,chelsea
-2016-11-20,Premier League,Matchweek 12,Sun,Away,W,1,0,Middlesbrough,58.0,32704,Gary Cahill,3-4-3,chelsea
-2016-11-26,Premier League,Matchweek 13,Sat,Home,W,2,1,Tottenham,46.0,41513,Gary Cahill,3-4-3,chelsea
-2016-12-03,Premier League,Matchweek 14,Sat,Away,W,3,1,Manchester City,39.0,54457,Gary Cahill,3-4-3,chelsea
-2016-12-11,Premier League,Matchweek 15,Sun,Home,W,1,0,West Brom,67.0,41622,Gary Cahill,3-4-3,chelsea
-2016-12-14,Premier League,Matchweek 16,Wed,Away,W,1,0,Sunderland,66.0,41008,Gary Cahill,3-4-3,chelsea
-2016-12-17,Premier League,Matchweek 17,Sat,Away,W,1,0,Crystal Palace,47.0,25259,Gary Cahill,3-4-3,chelsea
-2016-12-26,Premier League,Matchweek 18,Mon,Home,W,3,0,Bournemouth,44.0,41384,Gary Cahill,3-4-3,chelsea
-2016-12-31,Premier League,Matchweek 19,Sat,Home,W,4,2,Stoke City,60.0,41601,Gary Cahill,3-4-3,chelsea
-2017-01-04,Premier League,Matchweek 20,Wed,Away,L,0,2,Tottenham,55.0,31491,Gary Cahill,3-4-3,chelsea
-2017-01-08,FA Cup,Third round,Sun,Home,W,4,1,P'borough Utd,,41003,,,chelsea
-2017-01-14,Premier League,Matchweek 21,Sat,Away,W,3,0,Leicester City,65.0,32066,Gary Cahill,3-4-3,chelsea
-2017-01-22,Premier League,Matchweek 22,Sun,Home,W,2,0,Hull City,53.0,41605,Gary Cahill,3-4-3,chelsea
-2017-01-28,FA Cup,Fourth round,Sat,Home,W,4,0,Brentford,,41042,,,chelsea
-2017-01-31,Premier League,Matchweek 23,Tue,Away,D,1,1,Liverpool,38.0,53157,Gary Cahill,3-4-3,chelsea
-2017-02-04,Premier League,Matchweek 24,Sat,Home,W,3,1,Arsenal,42.0,41490,Gary Cahill,3-4-3,chelsea
-2017-02-12,Premier League,Matchweek 25,Sun,Away,D,1,1,Burnley,71.0,21744,Gary Cahill,3-4-3,chelsea
-2017-02-18,FA Cup,Fifth round,Sat,Away,W,2,0,Wolves,,30193,,,chelsea
-2017-02-25,Premier League,Matchweek 26,Sat,Home,W,3,1,Swansea City,66.0,41612,Gary Cahill,3-4-3,chelsea
-2017-03-06,Premier League,Matchweek 27,Mon,Away,W,2,1,West Ham,48.0,56984,Gary Cahill,3-4-3,chelsea
-2017-03-13,FA Cup,Quarter-finals,Mon,Home,W,1,0,Manchester Utd,,40801,,,chelsea
-2017-03-18,Premier League,Matchweek 29,Sat,Away,W,2,1,Stoke City,64.0,27724,Gary Cahill,3-4-3,chelsea
-2017-04-01,Premier League,Matchweek 30,Sat,Home,L,1,2,Crystal Palace,73.0,41489,Gary Cahill,3-5-1-1,chelsea
-2017-04-05,Premier League,Matchweek 31,Wed,Home,W,2,1,Manchester City,40.0,41528,Gary Cahill,3-4-3,chelsea
-2017-04-08,Premier League,Matchweek 32,Sat,Away,W,3,1,Bournemouth,49.0,11283,Gary Cahill,3-4-3,chelsea
-2017-04-16,Premier League,Matchweek 33,Sun,Away,L,0,2,Manchester Utd,54.0,75272,Gary Cahill,3-4-3,chelsea
-2017-04-22,FA Cup,Semi-finals,Sat,Home,W,4,2,Tottenham,,86355,,,chelsea
-2017-04-25,Premier League,Matchweek 34,Tue,Home,W,4,2,Southampton,48.0,41168,Gary Cahill,3-4-3,chelsea
-2017-04-30,Premier League,Matchweek 35,Sun,Away,W,3,0,Everton,50.0,39595,Gary Cahill,3-4-3,chelsea
-2017-05-08,Premier League,Matchweek 36,Mon,Home,W,3,0,Middlesbrough,57.0,41500,Gary Cahill,3-4-3,chelsea
-2017-05-12,Premier League,Matchweek 37,Fri,Away,W,1,0,West Brom,68.0,25367,Gary Cahill,3-4-3,chelsea
-2017-05-15,Premier League,Matchweek 28,Mon,Home,W,4,3,Watford,47.0,41473,John Terry,3-4-3,chelsea
-2017-05-21,Premier League,Matchweek 38,Sun,Home,W,5,1,Sunderland,72.0,41618,John Terry,3-4-3,chelsea
-2017-05-27,FA Cup,Final,Sat,Away,L,1,2,Arsenal,,89472,,,chelsea
-2016-08-13,Premier League,Matchweek 1,Sat,Home,W,2,1,Sunderland,77.0,54362,David Silva,4-2-3-1,city
-2016-08-16,Champions Lg,Play-off round,Tue,Away,W,5,0,ro Steaua,71.0,42327,Pablo Zabaleta,4-4-2,city
-2016-08-20,Premier League,Matchweek 2,Sat,Away,W,4,1,Stoke City,58.0,27455,Pablo Zabaleta,4-3-3,city
-2016-08-24,Champions Lg,Play-off round,Wed,Home,W,1,0,ro Steaua,62.0,40064,Joe Hart,4-3-2-1,city
-2016-08-28,Premier League,Matchweek 3,Sun,Home,W,3,1,West Ham,67.0,54008,Pablo Zabaleta,4-3-3,city
-2016-09-10,Premier League,Matchweek 4,Sat,Away,W,2,1,Manchester Utd,60.0,75272,David Silva,4-3-3,city
-2016-09-14,Champions Lg,Group stage,Wed,Home,W,4,0,de M'Gladbach,56.0,30270,Pablo Zabaleta,4-1-4-1,city
-2016-09-17,Premier League,Matchweek 5,Sat,Home,W,4,0,Bournemouth,64.0,54335,Fernandinho,4-2-3-1,city
-2016-09-21,EFL Cup,Third round,Wed,Away,W,2,1,Swansea City,60.0,18237,Vincent Kompany,4-2-3-1,city
-2016-09-24,Premier League,Matchweek 6,Sat,Away,W,3,1,Swansea City,58.0,20786,David Silva,4-1-4-1,city
-2016-09-28,Champions Lg,Group stage,Wed,Away,D,3,3,sct Celtic,61.0,57592,Pablo Zabaleta,4-1-4-1,city
-2016-10-02,Premier League,Matchweek 7,Sun,Away,L,0,2,Tottenham,58.0,31793,Pablo Zabaleta,4-2-3-1,city
-2016-10-15,Premier League,Matchweek 8,Sat,Home,D,1,1,Everton,73.0,54512,David Silva,3-4-3,city
-2016-10-19,Champions Lg,Group stage,Wed,Away,L,0,4,es Barcelona,47.0,96290,Pablo Zabaleta,4-2-3-1,city
-2016-10-23,Premier League,Matchweek 9,Sun,Home,D,1,1,Southampton,65.0,53731,Vincent Kompany,3-4-3,city
-2016-10-26,EFL Cup,Fourth round,Wed,Away,L,0,1,Manchester Utd,52.0,75196,Vincent Kompany,4-4-1-1,city
-2016-10-29,Premier League,Matchweek 10,Sat,Away,W,4,0,West Brom,70.0,22470,David Silva,4-2-3-1,city
-2016-11-01,Champions Lg,Group stage,Tue,Home,W,3,1,es Barcelona,35.0,53340,Pablo Zabaleta,4-1-4-1,city
-2016-11-05,Premier League,Matchweek 11,Sat,Home,D,1,1,Middlesbrough,71.0,54294,Pablo Zabaleta,4-1-4-1,city
-2016-11-19,Premier League,Matchweek 12,Sat,Away,W,2,1,Crystal Palace,62.0,25529,Vincent Kompany,4-2-3-1,city
-2016-11-23,Champions Lg,Group stage,Wed,Away,D,1,1,de M'Gladbach,69.0,45921,David Silva,3-5-1-1,city
-2016-11-26,Premier League,Matchweek 13,Sat,Away,W,2,1,Burnley,67.0,21794,Fernandinho,4-2-3-1,city
-2016-12-03,Premier League,Matchweek 14,Sat,Home,L,1,3,Chelsea,61.0,54457,David Silva,3-4-3,city
-2016-12-06,Champions Lg,Group stage,Tue,Home,D,1,1,sct Celtic,58.0,51297,Pablo Zabaleta,3-5-2,city
-2016-12-10,Premier League,Matchweek 15,Sat,Away,L,2,4,Leicester City,78.0,31966,Pablo Zabaleta,3-4-3◆,city
-2016-12-14,Premier League,Matchweek 16,Wed,Home,W,2,0,Watford,63.0,51527,Pablo Zabaleta,4-2-3-1,city
-2016-12-18,Premier League,Matchweek 17,Sun,Home,W,2,1,Arsenal,61.0,54409,Pablo Zabaleta,4-1-4-1,city
-2016-12-26,Premier League,Matchweek 18,Mon,Away,W,3,0,Hull City,67.0,23134,David Silva,4-2-3-1,city
-2016-12-31,Premier League,Matchweek 19,Sat,Away,L,0,1,Liverpool,57.0,53120,Pablo Zabaleta,4-2-3-1,city
-2017-01-02,Premier League,Matchweek 20,Mon,Home,W,2,1,Burnley,55.0,54463,Fernandinho,4-2-3-1,city
-2017-01-06,FA Cup,Third round,Fri,Away,W,5,0,West Ham,,56975,,,city
-2017-01-15,Premier League,Matchweek 21,Sun,Away,L,0,4,Everton,71.0,39588,Pablo Zabaleta,4-1-2-1-2◆,city
-2017-01-21,Premier League,Matchweek 22,Sat,Home,D,2,2,Tottenham,55.0,54402,Pablo Zabaleta,4-1-4-1,city
-2017-01-28,FA Cup,Fourth round,Sat,Away,W,3,0,Crystal Palace,,13979,,,city
-2017-02-01,Premier League,Matchweek 23,Wed,Away,W,4,0,West Ham,70.0,56980,David Silva,4-1-4-1,city
-2017-02-05,Premier League,Matchweek 24,Sun,Home,W,2,1,Swansea City,69.0,54065,David Silva,4-3-3,city
-2017-02-13,Premier League,Matchweek 25,Mon,Away,W,2,0,Bournemouth,62.0,11129,David Silva,4-3-3,city
-2017-02-18,FA Cup,Fifth round,Sat,Away,D,0,0,Huddersfield,,24129,,,city
-2017-02-21,Champions Lg,Round of 16,Tue,Home,W,5,3,fr Monaco,67.0,53351,David Silva,4-1-4-1,city
-2017-03-01,FA Cup,Fifth round,Wed,Home,W,5,1,Huddersfield,,42425,,,city
-2017-03-05,Premier League,Matchweek 27,Sun,Away,W,2,0,Sunderland,71.0,41107,David Silva,4-3-3,city
-2017-03-08,Premier League,Matchweek 28,Wed,Home,D,0,0,Stoke City,65.0,52625,Sergio Agüero,4-1-4-1,city
-2017-03-11,FA Cup,Quarter-finals,Sat,Away,W,2,0,Middlesbrough,,32228,,,city
-2017-03-15,Champions Lg,Round of 16,Wed,Away,L,1,3,fr Monaco,59.0,15700,David Silva,4-1-4-1,city
-2017-03-19,Premier League,Matchweek 29,Sun,Home,D,1,1,Liverpool,60.0,54449,David Silva,4-1-4-1,city
-2017-04-02,Premier League,Matchweek 30,Sun,Away,D,2,2,Arsenal,56.0,60001,David Silva,4-2-3-1,city
-2017-04-05,Premier League,Matchweek 31,Wed,Away,L,1,2,Chelsea,61.0,41528,Vincent Kompany,4-2-3-1,city
-2017-04-08,Premier League,Matchweek 32,Sat,Home,W,3,1,Hull City,68.0,54393,David Silva,4-2-3-1,city
-2017-04-15,Premier League,Matchweek 33,Sat,Away,W,3,0,Southampton,59.0,31850,Vincent Kompany,4-2-3-1,city
-2017-04-23,FA Cup,Semi-finals,Sun,Away,L,1,2,Arsenal,,85725,,,city
-2017-04-27,Premier League,Matchweek 26,Thu,Home,D,0,0,Manchester Utd,69.0,54176,Vincent Kompany,4-2-3-1,city
-2017-04-30,Premier League,Matchweek 35,Sun,Away,D,2,2,Middlesbrough,68.0,29763,Vincent Kompany,3-4-1-2,city
-2017-05-06,Premier League,Matchweek 36,Sat,Home,W,5,0,Crystal Palace,69.0,54119,Vincent Kompany,4-1-4-1,city
-2017-05-13,Premier League,Matchweek 37,Sat,Home,W,2,1,Leicester City,66.0,54407,Vincent Kompany,4-1-4-1,city
-2017-05-16,Premier League,Matchweek 34,Tue,Home,W,3,1,West Brom,71.0,53624,Vincent Kompany,4-1-4-1,city
-2017-05-21,Premier League,Matchweek 38,Sun,Away,W,5,0,Watford,67.0,20829,Vincent Kompany,4-2-3-1,city
-2016-08-13,Premier League,Matchweek 1,Sat,Home,D,1,1,Tottenham,43.0,39494,Phil Jagielka,3-4-3,everton
-2016-08-20,Premier League,Matchweek 2,Sat,Away,W,2,1,West Brom,66.0,23654,Phil Jagielka,3-4-3,everton
-2016-08-23,EFL Cup,Second round,Tue,Home,W,4,0,Yeovil Town,66.0,24617,Ross Barkley,5-3-2,everton
-2016-08-27,Premier League,Matchweek 3,Sat,Home,W,1,0,Stoke City,55.0,39581,Phil Jagielka,4-2-3-1,everton
-2016-09-12,Premier League,Matchweek 4,Mon,Away,W,3,0,Sunderland,67.0,42406,Phil Jagielka,4-2-3-1,everton
-2016-09-17,Premier League,Matchweek 5,Sat,Home,W,3,1,Middlesbrough,52.0,39074,Phil Jagielka,4-2-3-1,everton
-2016-09-20,EFL Cup,Third round,Tue,Home,L,0,2,Norwich City,58.0,29550,Séamus Coleman,4-2-3-1,everton
-2016-09-24,Premier League,Matchweek 6,Sat,Away,L,0,1,Bournemouth,47.0,11291,Phil Jagielka,4-2-3-1,everton
-2016-09-30,Premier League,Matchweek 7,Fri,Home,D,1,1,Crystal Palace,57.0,38758,Phil Jagielka,4-3-1-2,everton
-2016-10-15,Premier League,Matchweek 8,Sat,Away,D,1,1,Manchester City,27.0,54512,Phil Jagielka,4-3-3,everton
-2016-10-22,Premier League,Matchweek 9,Sat,Away,L,1,2,Burnley,65.0,21416,Phil Jagielka,4-3-3,everton
-2016-10-30,Premier League,Matchweek 10,Sun,Home,W,2,0,West Ham,49.0,39574,Gareth Barry,4-2-3-1,everton
-2016-11-05,Premier League,Matchweek 11,Sat,Away,L,0,5,Chelsea,40.0,41429,Phil Jagielka,5-3-2,everton
-2016-11-19,Premier League,Matchweek 12,Sat,Home,D,1,1,Swansea City,63.0,38773,Phil Jagielka,4-2-3-1,everton
-2016-11-27,Premier League,Matchweek 13,Sun,Away,L,0,1,Southampton,47.0,31132,Phil Jagielka,4-2-3-1,everton
-2016-12-04,Premier League,Matchweek 14,Sun,Home,D,1,1,Manchester Utd,46.0,39550,Gareth Barry,4-4-2,everton
-2016-12-10,Premier League,Matchweek 15,Sat,Away,L,2,3,Watford,53.0,20769,Gareth Barry,4-2-3-1,everton
-2016-12-13,Premier League,Matchweek 16,Tue,Home,W,2,1,Arsenal,42.0,39510,Phil Jagielka,4-3-3,everton
-2016-12-19,Premier League,Matchweek 17,Mon,Home,L,0,1,Liverpool,32.0,39590,Leighton Baines,4-2-3-1,everton
-2016-12-26,Premier League,Matchweek 18,Mon,Away,W,2,0,Leicester City,58.0,31985,Gareth Barry,3-4-3,everton
-2016-12-30,Premier League,Matchweek 19,Fri,Away,D,2,2,Hull City,57.0,20111,Phil Jagielka,4-2-3-1,everton
-2017-01-02,Premier League,Matchweek 20,Mon,Home,W,3,0,Southampton,54.0,38891,Leighton Baines,4-2-3-1,everton
-2017-01-07,FA Cup,Third round,Sat,Home,L,1,2,Leicester City,,35493,,,everton
-2017-01-15,Premier League,Matchweek 21,Sun,Home,W,4,0,Manchester City,29.0,39588,Gareth Barry,3-5-2,everton
-2017-01-21,Premier League,Matchweek 22,Sat,Away,W,1,0,Crystal Palace,56.0,25594,Gareth Barry,3-5-2,everton
-2017-02-01,Premier League,Matchweek 23,Wed,Away,D,1,1,Stoke City,53.0,27612,Leighton Baines,3-5-2,everton
-2017-02-04,Premier League,Matchweek 24,Sat,Home,W,6,3,Bournemouth,46.0,39026,Gareth Barry,4-3-3,everton
-2017-02-11,Premier League,Matchweek 25,Sat,Away,D,0,0,Middlesbrough,54.0,31496,Leighton Baines,4-3-3,everton
-2017-02-25,Premier League,Matchweek 26,Sat,Home,W,2,0,Sunderland,63.0,39595,Leighton Baines,4-3-3,everton
-2017-03-05,Premier League,Matchweek 27,Sun,Away,L,2,3,Tottenham,49.0,31962,Gareth Barry,4-3-2-1,everton
-2017-03-11,Premier League,Matchweek 28,Sat,Home,W,3,0,West Brom,63.0,39592,Phil Jagielka,4-2-3-1,everton
-2017-03-18,Premier League,Matchweek 29,Sat,Home,W,4,0,Hull City,51.0,39248,Phil Jagielka,4-2-3-1,everton
-2017-04-01,Premier League,Matchweek 30,Sat,Away,L,1,3,Liverpool,49.0,52920,Phil Jagielka,3-4-3,everton
-2017-04-04,Premier League,Matchweek 31,Tue,Away,D,1,1,Manchester Utd,39.0,75272,Phil Jagielka,4-2-3-1,everton
-2017-04-09,Premier League,Matchweek 32,Sun,Home,W,4,2,Leicester City,60.0,39573,Phil Jagielka,4-3-3,everton
-2017-04-15,Premier League,Matchweek 33,Sat,Home,W,3,1,Burnley,63.0,39328,Phil Jagielka,4-3-3,everton
-2017-04-22,Premier League,Matchweek 34,Sat,Away,D,0,0,West Ham,59.0,56971,Phil Jagielka,4-3-3,everton
-2017-04-30,Premier League,Matchweek 35,Sun,Home,L,0,3,Chelsea,50.0,39595,Phil Jagielka,4-2-3-1,everton
-2017-05-06,Premier League,Matchweek 36,Sat,Away,L,0,1,Swansea City,62.0,20827,Phil Jagielka,4-3-3,everton
-2017-05-12,Premier League,Matchweek 37,Fri,Home,W,1,0,Watford,63.0,38550,Phil Jagielka,4-3-3,everton
-2017-05-21,Premier League,Matchweek 38,Sun,Away,L,1,3,Arsenal,50.0,59976,Phil Jagielka,4-3-3,everton
-2016-08-13,Premier League,Matchweek 1,Sat,Home,W,2,1,Leicester City,50.0,21037,Curtis Davies,4-3-3,hull
-2016-08-20,Premier League,Matchweek 2,Sat,Away,W,2,0,Swansea City,43.0,20024,Curtis Davies,4-3-3,hull
-2016-08-23,EFL Cup,Second round,Tue,Away,W,3,1,Exeter City,63.0,4037,Ahmed Elmohamady,4-3-3,hull
-2016-08-27,Premier League,Matchweek 3,Sat,Home,L,0,1,Manchester Utd,38.0,24560,David Meyler,4-3-3,hull
-2016-09-10,Premier League,Matchweek 4,Sat,Away,D,1,1,Burnley,61.0,18803,Curtis Davies,4-1-4-1,hull
-2016-09-17,Premier League,Matchweek 5,Sat,Home,L,1,4,Arsenal,39.0,22536,Curtis Davies,4-3-3,hull
-2016-09-21,EFL Cup,Third round,Wed,Away,W,2,1,Stoke City,43.0,10550,Curtis Davies,4-4-2,hull
-2016-09-24,Premier League,Matchweek 6,Sat,Away,L,1,5,Liverpool,26.0,53109,Curtis Davies,4-5-1,hull
-2016-10-01,Premier League,Matchweek 7,Sat,Home,L,0,2,Chelsea,41.0,21257,Curtis Davies,4-5-1,hull
-2016-10-15,Premier League,Matchweek 8,Sat,Away,L,1,6,Bournemouth,51.0,11029,Curtis Davies,4-3-2-1,hull
-2016-10-22,Premier League,Matchweek 9,Sat,Home,L,0,2,Stoke City,49.0,18522,Michael Dawson,4-1-4-1,hull
-2016-10-25,EFL Cup,Fourth round,Tue,Away,W,2,1,Bristol City,51.0,16149,Michael Dawson,4-4-2,hull
-2016-10-29,Premier League,Matchweek 10,Sat,Away,L,0,1,Watford,46.0,20022,Michael Dawson,3-5-2,hull
-2016-11-06,Premier League,Matchweek 11,Sun,Home,W,2,1,Southampton,34.0,17768,Michael Dawson,3-5-2,hull
-2016-11-19,Premier League,Matchweek 12,Sat,Away,L,0,3,Sunderland,59.0,41271,Michael Dawson,4-4-1-1,hull
-2016-11-26,Premier League,Matchweek 13,Sat,Home,D,1,1,West Brom,53.0,18086,Michael Dawson,4-4-1-1,hull
-2016-11-29,EFL Cup,Quarter-finals,Tue,Home,D,1 (3),1 (1),Newcastle Utd,39.0,16243,Michael Dawson,4-3-3,hull
-2016-12-05,Premier League,Matchweek 14,Mon,Away,L,0,1,Middlesbrough,39.0,27395,Michael Dawson,4-4-1-1,hull
-2016-12-10,Premier League,Matchweek 15,Sat,Home,D,3,3,Crystal Palace,57.0,17403,Michael Dawson,3-5-1-1,hull
-2016-12-14,Premier League,Matchweek 16,Wed,Away,L,0,3,Tottenham,37.0,31347,Michael Dawson,3-5-1-1,hull
-2016-12-17,Premier League,Matchweek 17,Sat,Away,L,0,1,West Ham,44.0,56952,Michael Dawson,3-5-1-1,hull
-2016-12-26,Premier League,Matchweek 18,Mon,Home,L,0,3,Manchester City,33.0,23134,Michael Dawson,3-5-1-1,hull
-2016-12-30,Premier League,Matchweek 19,Fri,Home,D,2,2,Everton,43.0,20111,Michael Dawson,3-5-2,hull
-2017-01-02,Premier League,Matchweek 20,Mon,Away,L,1,3,West Brom,59.0,23402,Michael Dawson,3-4-1-2,hull
-2017-01-07,FA Cup,Third round,Sat,Home,W,2,0,Swansea City,,6608,,,hull
-2017-01-10,EFL Cup,Semi-finals,Tue,Away,L,0,2,Manchester Utd,34.0,65798,Tom Huddlestone,4-1-4-1,hull
-2017-01-14,Premier League,Matchweek 21,Sat,Home,W,3,1,Bournemouth,39.0,17963,Michael Dawson,3-5-2,hull
-2017-01-22,Premier League,Matchweek 22,Sun,Away,L,0,2,Chelsea,47.0,41605,Michael Dawson,3-4-3,hull
-2017-01-26,EFL Cup,Semi-finals,Thu,Home,W,2,1,Manchester Utd,54.0,16831,Michael Dawson,4-2-3-1,hull
-2017-01-29,FA Cup,Fourth round,Sun,Away,L,1,4,Fulham,,15143,,,hull
-2017-02-01,Premier League,Matchweek 23,Wed,Away,D,0,0,Manchester Utd,33.0,75297,Michael Dawson,4-1-4-1,hull
-2017-02-04,Premier League,Matchweek 24,Sat,Home,W,2,0,Liverpool,28.0,24822,Tom Huddlestone,4-2-3-1,hull
-2017-02-11,Premier League,Matchweek 25,Sat,Away,L,0,2,Arsenal,51.0,59962,Tom Huddlestone,4-1-4-1,hull
-2017-02-25,Premier League,Matchweek 26,Sat,Home,D,1,1,Burnley,66.0,20156,Tom Huddlestone,4-2-3-1,hull
-2017-03-04,Premier League,Matchweek 27,Sat,Away,L,1,3,Leicester City,51.0,31971,Tom Huddlestone,4-1-4-1,hull
-2017-03-11,Premier League,Matchweek 28,Sat,Home,W,2,1,Swansea City,50.0,19195,Tom Huddlestone,4-1-4-1,hull
-2017-03-18,Premier League,Matchweek 29,Sat,Away,L,0,4,Everton,49.0,39248,Tom Huddlestone,5-4-1,hull
-2017-04-01,Premier League,Matchweek 30,Sat,Home,W,2,1,West Ham,46.0,20820,Curtis Davies,3-4-1-2,hull
-2017-04-05,Premier League,Matchweek 31,Wed,Home,W,4,2,Middlesbrough,48.0,20380,Harry Maguire,4-4-2,hull
-2017-04-08,Premier League,Matchweek 32,Sat,Away,L,1,3,Manchester City,33.0,54393,Michael Dawson,4-4-1-1,hull
-2017-04-15,Premier League,Matchweek 33,Sat,Away,L,1,3,Stoke City,55.0,27505,Michael Dawson,4-4-1-1,hull
-2017-04-22,Premier League,Matchweek 34,Sat,Home,W,2,0,Watford,34.0,20432,Harry Maguire,4-2-3-1,hull
-2017-04-29,Premier League,Matchweek 35,Sat,Away,D,0,0,Southampton,48.0,31120,Harry Maguire,4-2-3-1,hull
-2017-05-06,Premier League,Matchweek 36,Sat,Home,L,0,2,Sunderland,60.0,22480,Harry Maguire,4-4-2,hull
-2017-05-14,Premier League,Matchweek 37,Sun,Away,L,0,4,Crystal Palace,70.0,25176,Michael Dawson,4-4-1-1,hull
-2017-05-21,Premier League,Matchweek 38,Sun,Home,L,1,7,Tottenham,35.0,23804,Michael Dawson,3-4-3,hull
-2016-08-07,Community Shield,FA Community Shield,Sun,Home,L,1,2,Manchester Utd,,85437,Wes Morgan,4-4-2,leicester
-2016-08-13,Premier League,Matchweek 1,Sat,Away,L,1,2,Hull City,50.0,21037,Wes Morgan,4-4-2,leicester
-2016-08-20,Premier League,Matchweek 2,Sat,Home,D,0,0,Arsenal,40.0,32008,Wes Morgan,4-4-2,leicester
-2016-08-27,Premier League,Matchweek 3,Sat,Home,W,2,1,Swansea City,52.0,31727,Wes Morgan,4-4-2,leicester
-2016-09-10,Premier League,Matchweek 4,Sat,Away,L,1,4,Liverpool,38.0,51232,Wes Morgan,4-4-2,leicester
-2016-09-14,Champions Lg,Group stage,Wed,Away,W,3,0,be Club Brugge,38.0,20970,Wes Morgan,4-4-2,leicester
-2016-09-17,Premier League,Matchweek 5,Sat,Home,W,3,0,Burnley,59.0,31916,Wes Morgan,4-4-2,leicester
-2016-09-20,EFL Cup,Third round,Tue,Home,L,2,4,Chelsea,34.0,29899,Wes Morgan,4-4-1-1,leicester
-2016-09-24,Premier League,Matchweek 6,Sat,Away,L,1,4,Manchester Utd,33.0,75256,Wes Morgan,4-4-2,leicester
-2016-09-27,Champions Lg,Group stage,Tue,Home,W,1,0,pt Porto,40.0,31805,Wes Morgan,4-4-2,leicester
-2016-10-02,Premier League,Matchweek 7,Sun,Home,D,0,0,Southampton,38.0,31563,Kasper Schmeichel,4-4-2,leicester
-2016-10-15,Premier League,Matchweek 8,Sat,Away,L,0,3,Chelsea,45.0,41547,Wes Morgan,4-4-2,leicester
-2016-10-18,Champions Lg,Group stage,Tue,Home,W,1,0,dk FC Copenhagen,41.0,31037,Wes Morgan,4-4-2,leicester
-2016-10-22,Premier League,Matchweek 9,Sat,Home,W,3,1,Crystal Palace,45.0,31969,Wes Morgan,4-4-2,leicester
-2016-10-29,Premier League,Matchweek 10,Sat,Away,D,1,1,Tottenham,36.0,31868,Wes Morgan,4-4-2,leicester
-2016-11-02,Champions Lg,Group stage,Wed,Away,D,0,0,dk FC Copenhagen,44.0,34146,Wes Morgan,4-4-2,leicester
-2016-11-06,Premier League,Matchweek 11,Sun,Home,L,1,2,West Brom,59.0,31879,Wes Morgan,4-4-2,leicester
-2016-11-19,Premier League,Matchweek 12,Sat,Away,L,1,2,Watford,54.0,20640,Wes Morgan,4-4-2,leicester
-2016-11-22,Champions Lg,Group stage,Tue,Home,W,2,1,be Club Brugge,53.0,31443,Wes Morgan,4-4-2,leicester
-2016-11-26,Premier League,Matchweek 13,Sat,Home,D,2,2,Middlesbrough,41.0,32058,Wes Morgan,4-4-2,leicester
-2016-12-03,Premier League,Matchweek 14,Sat,Away,L,1,2,Sunderland,47.0,39725,Wes Morgan,4-4-2,leicester
-2016-12-07,Champions Lg,Group stage,Wed,Away,L,0,5,pt Porto,33.0,39310,Wes Morgan,4-4-2,leicester
-2016-12-10,Premier League,Matchweek 15,Sat,Home,W,4,2,Manchester City,22.0,31966,Wes Morgan,4-4-2,leicester
-2016-12-13,Premier League,Matchweek 16,Tue,Away,L,0,1,Bournemouth,37.0,11068,Wes Morgan,4-4-2,leicester
-2016-12-17,Premier League,Matchweek 17,Sat,Away,D,2,2,Stoke City,35.0,27663,Wes Morgan,4-4-2,leicester
-2016-12-26,Premier League,Matchweek 18,Mon,Home,L,0,2,Everton,42.0,31985,Wes Morgan,4-4-2,leicester
-2016-12-31,Premier League,Matchweek 19,Sat,Home,W,1,0,West Ham,40.0,32060,Wes Morgan,4-2-3-1,leicester
-2017-01-02,Premier League,Matchweek 20,Mon,Away,D,0,0,Middlesbrough,37.0,32437,Wes Morgan,4-1-2-1-2◆,leicester
-2017-01-07,FA Cup,Third round,Sat,Away,W,2,1,Everton,,35493,,,leicester
-2017-01-14,Premier League,Matchweek 21,Sat,Home,L,0,3,Chelsea,35.0,32066,Wes Morgan,3-5-2,leicester
-2017-01-22,Premier League,Matchweek 22,Sun,Away,L,0,3,Southampton,40.0,30548,Wes Morgan,4-1-2-1-2◆,leicester
-2017-01-27,FA Cup,Fourth round,Fri,Away,D,2,2,Derby County,,25079,,,leicester
-2017-01-31,Premier League,Matchweek 23,Tue,Away,L,0,1,Burnley,41.0,19202,Wes Morgan,4-4-2,leicester
-2017-02-05,Premier League,Matchweek 24,Sun,Home,L,0,3,Manchester Utd,32.0,32072,Wes Morgan,4-2-3-1,leicester
-2017-02-08,FA Cup,Fourth round,Wed,Home,W,3,1,Derby County,,31648,,,leicester
-2017-02-12,Premier League,Matchweek 25,Sun,Away,L,0,2,Swansea City,51.0,20391,Wes Morgan,4-4-2,leicester
-2017-02-18,FA Cup,Fifth round,Sat,Away,L,0,1,Millwall,,18012,,,leicester
-2017-02-22,Champions Lg,Round of 16,Wed,Away,L,1,2,es Sevilla,28.0,38834,Wes Morgan,4-2-3-1,leicester
-2017-02-27,Premier League,Matchweek 26,Mon,Home,W,3,1,Liverpool,31.0,32034,Wes Morgan,4-4-1-1,leicester
-2017-03-04,Premier League,Matchweek 27,Sat,Home,W,3,1,Hull City,50.0,31971,Wes Morgan,4-2-3-1,leicester
-2017-03-14,Champions Lg,Round of 16,Tue,Home,W,2,0,es Sevilla,29.0,31520,Wes Morgan,4-4-2,leicester
-2017-03-18,Premier League,Matchweek 29,Sat,Away,W,3,2,West Ham,41.0,56979,Kasper Schmeichel,4-4-2,leicester
-2017-04-01,Premier League,Matchweek 30,Sat,Home,W,2,0,Stoke City,48.0,31958,Kasper Schmeichel,4-4-1-1,leicester
-2017-04-04,Premier League,Matchweek 31,Tue,Home,W,2,0,Sunderland,54.0,31757,Kasper Schmeichel,4-4-2,leicester
-2017-04-09,Premier League,Matchweek 32,Sun,Away,L,2,4,Everton,40.0,39573,Kasper Schmeichel,4-4-2,leicester
-2017-04-12,Champions Lg,Quarter-finals,Wed,Away,L,0,1,es Atlético Madrid,32.0,51423,Kasper Schmeichel,4-4-1-1,leicester
-2017-04-15,Premier League,Matchweek 33,Sat,Away,D,2,2,Crystal Palace,42.0,25504,Kasper Schmeichel,4-4-2,leicester
-2017-04-18,Champions Lg,Quarter-finals,Tue,Home,D,1,1,es Atlético Madrid,57.0,31548,Wes Morgan,4-4-1-1,leicester
-2017-04-26,Premier League,Matchweek 28,Wed,Away,L,0,1,Arsenal,31.0,59829,Kasper Schmeichel,4-4-2,leicester
-2017-04-29,Premier League,Matchweek 35,Sat,Away,W,1,0,West Brom,45.0,24611,Kasper Schmeichel,4-4-2,leicester
-2017-05-06,Premier League,Matchweek 36,Sat,Home,W,3,0,Watford,42.0,31628,Kasper Schmeichel,4-4-2,leicester
-2017-05-13,Premier League,Matchweek 37,Sat,Away,L,1,2,Manchester City,34.0,54407,Kasper Schmeichel,4-4-2,leicester
-2017-05-18,Premier League,Matchweek 34,Thu,Home,L,1,6,Tottenham,37.0,31351,Kasper Schmeichel,4-4-2,leicester
-2017-05-21,Premier League,Matchweek 38,Sun,Home,D,1,1,Bournemouth,49.0,32000,Kasper Schmeichel,4-4-2,leicester
-2016-08-14,Premier League,Matchweek 1,Sun,Away,W,4,3,Arsenal,49.0,60033,Jordan Henderson,4-3-3,liverpool
-2016-08-20,Premier League,Matchweek 2,Sat,Away,L,0,2,Burnley,80.0,21313,Jordan Henderson,4-3-3,liverpool
-2016-08-23,EFL Cup,Second round,Tue,Away,W,5,0,Burton Albion,59.0,6450,Jordan Henderson,4-3-3,liverpool
-2016-08-27,Premier League,Matchweek 3,Sat,Away,D,1,1,Tottenham,51.0,31211,Jordan Henderson,4-3-3,liverpool
-2016-09-10,Premier League,Matchweek 4,Sat,Home,W,4,1,Leicester City,62.0,51232,Jordan Henderson,4-3-3,liverpool
-2016-09-16,Premier League,Matchweek 5,Fri,Away,W,2,1,Chelsea,47.0,41514,Jordan Henderson,4-3-3,liverpool
-2016-09-20,EFL Cup,Third round,Tue,Away,W,3,0,Derby County,73.0,26245,Jordan Henderson,4-3-3,liverpool
-2016-09-24,Premier League,Matchweek 6,Sat,Home,W,5,1,Hull City,74.0,53109,Jordan Henderson,4-3-3,liverpool
-2016-10-01,Premier League,Matchweek 7,Sat,Away,W,2,1,Swansea City,59.0,20862,Jordan Henderson,4-3-3,liverpool
-2016-10-17,Premier League,Matchweek 8,Mon,Home,D,0,0,Manchester Utd,65.0,52769,Jordan Henderson,4-3-3,liverpool
-2016-10-22,Premier League,Matchweek 9,Sat,Home,W,2,1,West Brom,68.0,53218,Jordan Henderson,4-3-3,liverpool
-2016-10-25,EFL Cup,Fourth round,Tue,Home,W,2,1,Tottenham,46.0,53051,Lucas Leiva,4-3-1-2,liverpool
-2016-10-29,Premier League,Matchweek 10,Sat,Away,W,4,2,Crystal Palace,55.0,25628,Jordan Henderson,4-3-3,liverpool
-2016-11-06,Premier League,Matchweek 11,Sun,Home,W,6,1,Watford,60.0,53163,Jordan Henderson,4-3-3,liverpool
-2016-11-19,Premier League,Matchweek 12,Sat,Away,D,0,0,Southampton,65.0,31848,Jordan Henderson,4-3-3,liverpool
-2016-11-26,Premier League,Matchweek 13,Sat,Home,W,2,0,Sunderland,77.0,53114,Jordan Henderson,4-3-3,liverpool
-2016-11-29,EFL Cup,Quarter-finals,Tue,Home,W,2,0,Leeds United,72.0,52012,Lucas Leiva,4-3-3,liverpool
-2016-12-04,Premier League,Matchweek 14,Sun,Away,L,3,4,Bournemouth,60.0,11183,Jordan Henderson,4-3-3,liverpool
-2016-12-11,Premier League,Matchweek 15,Sun,Home,D,2,2,West Ham,68.0,53068,Jordan Henderson,4-3-3,liverpool
-2016-12-14,Premier League,Matchweek 16,Wed,Away,W,3,0,Middlesbrough,63.0,32704,Jordan Henderson,4-3-3,liverpool
-2016-12-19,Premier League,Matchweek 17,Mon,Away,W,1,0,Everton,68.0,39590,Jordan Henderson,4-3-3,liverpool
-2016-12-27,Premier League,Matchweek 18,Tue,Home,W,4,1,Stoke City,64.0,53094,Jordan Henderson,4-3-3,liverpool
-2016-12-31,Premier League,Matchweek 19,Sat,Home,W,1,0,Manchester City,43.0,53120,Jordan Henderson,4-3-3,liverpool
-2017-01-02,Premier League,Matchweek 20,Mon,Away,D,2,2,Sunderland,71.0,46494,James Milner,4-3-3,liverpool
-2017-01-08,FA Cup,Third round,Sun,Home,D,0,0,Plymouth Argyle,,52692,,,liverpool
-2017-01-11,EFL Cup,Semi-finals,Wed,Away,L,0,1,Southampton,68.0,31480,Jordan Henderson,4-4-2,liverpool
-2017-01-15,Premier League,Matchweek 21,Sun,Away,D,1,1,Manchester Utd,44.0,75276,Jordan Henderson,4-3-3,liverpool
-2017-01-18,FA Cup,Third round,Wed,Away,W,1,0,Plymouth Argyle,,17048,,,liverpool
-2017-01-21,Premier League,Matchweek 22,Sat,Home,L,2,3,Swansea City,74.0,53169,Jordan Henderson,4-3-3,liverpool
-2017-01-25,EFL Cup,Semi-finals,Wed,Home,L,0,1,Southampton,72.0,52238,Jordan Henderson,4-3-3,liverpool
-2017-01-28,FA Cup,Fourth round,Sat,Home,L,1,2,Wolves,,52469,,,liverpool
-2017-01-31,Premier League,Matchweek 23,Tue,Home,D,1,1,Chelsea,62.0,53157,Jordan Henderson,4-3-3,liverpool
-2017-02-04,Premier League,Matchweek 24,Sat,Away,L,0,2,Hull City,72.0,24822,Jordan Henderson,4-3-3,liverpool
-2017-02-11,Premier League,Matchweek 25,Sat,Home,W,2,0,Tottenham,51.0,53159,Jordan Henderson,4-3-3,liverpool
-2017-02-27,Premier League,Matchweek 26,Mon,Away,L,1,3,Leicester City,69.0,32034,James Milner,4-3-3,liverpool
-2017-03-04,Premier League,Matchweek 27,Sat,Home,W,3,1,Arsenal,52.0,53146,James Milner,4-3-3,liverpool
-2017-03-12,Premier League,Matchweek 28,Sun,Home,W,2,1,Burnley,65.0,53145,James Milner,4-3-3,liverpool
-2017-03-19,Premier League,Matchweek 29,Sun,Away,D,1,1,Manchester City,41.0,54449,James Milner,4-3-3,liverpool
-2017-04-01,Premier League,Matchweek 30,Sat,Home,W,3,1,Everton,51.0,52920,James Milner,4-3-3,liverpool
-2017-04-05,Premier League,Matchweek 31,Wed,Home,D,2,2,Bournemouth,67.0,53292,James Milner,4-3-3,liverpool
-2017-04-08,Premier League,Matchweek 32,Sat,Away,W,2,1,Stoke City,56.0,27568,James Milner,3-5-1-1,liverpool
-2017-04-16,Premier League,Matchweek 33,Sun,Away,W,1,0,West Brom,64.0,25669,James Milner,4-3-3,liverpool
-2017-04-23,Premier League,Matchweek 34,Sun,Home,L,1,2,Crystal Palace,72.0,53086,James Milner,4-3-3,liverpool
-2017-05-01,Premier League,Matchweek 35,Mon,Away,W,1,0,Watford,60.0,20959,James Milner,4-3-3,liverpool
-2017-05-07,Premier League,Matchweek 36,Sun,Home,D,0,0,Southampton,65.0,53159,James Milner,4-3-3,liverpool
-2017-05-14,Premier League,Matchweek 37,Sun,Away,W,4,0,West Ham,67.0,56985,James Milner,4-1-2-1-2◆,liverpool
-2017-05-21,Premier League,Matchweek 38,Sun,Home,W,3,0,Middlesbrough,74.0,53191,James Milner,4-1-2-1-2◆,liverpool
-2016-08-13,Premier League,Matchweek 1,Sat,Home,D,1,1,Stoke City,46.0,32110,George Friend,4-2-3-1,middlesbrough
-2016-08-21,Premier League,Matchweek 2,Sun,Away,W,2,1,Sunderland,53.0,43515,George Friend,4-2-3-1,middlesbrough
-2016-08-24,EFL Cup,Second round,Wed,Away,L,1,2,Fulham,56.0,8522,Ben Gibson,4-2-3-1,middlesbrough
-2016-08-28,Premier League,Matchweek 3,Sun,Away,D,0,0,West Brom,59.0,23690,Ben Gibson,4-2-3-1,middlesbrough
-2016-09-10,Premier League,Matchweek 4,Sat,Home,L,1,2,Crystal Palace,58.0,30551,George Friend,4-2-3-1,middlesbrough
-2016-09-17,Premier League,Matchweek 5,Sat,Away,L,1,3,Everton,48.0,39074,George Friend,4-2-3-1,middlesbrough
-2016-09-24,Premier League,Matchweek 6,Sat,Home,L,1,2,Tottenham,42.0,32703,George Friend,4-2-3-1,middlesbrough
-2016-10-01,Premier League,Matchweek 7,Sat,Away,D,1,1,West Ham,60.0,56945,George Friend,4-4-1-1,middlesbrough
-2016-10-16,Premier League,Matchweek 8,Sun,Home,L,0,1,Watford,64.0,28131,George Friend,4-2-3-1,middlesbrough
-2016-10-22,Premier League,Matchweek 9,Sat,Away,D,0,0,Arsenal,25.0,59982,George Friend,4-5-1,middlesbrough
-2016-10-29,Premier League,Matchweek 10,Sat,Home,W,2,0,Bournemouth,40.0,29600,George Friend,4-2-3-1,middlesbrough
-2016-11-05,Premier League,Matchweek 11,Sat,Away,D,1,1,Manchester City,29.0,54294,George Friend,4-5-1,middlesbrough
-2016-11-20,Premier League,Matchweek 12,Sun,Home,L,0,1,Chelsea,42.0,32704,Ben Gibson,4-5-1,middlesbrough
-2016-11-26,Premier League,Matchweek 13,Sat,Away,D,2,2,Leicester City,59.0,32058,Ben Gibson,4-5-1,middlesbrough
-2016-12-05,Premier League,Matchweek 14,Mon,Home,W,1,0,Hull City,61.0,27395,Ben Gibson,4-3-3,middlesbrough
-2016-12-11,Premier League,Matchweek 15,Sun,Away,L,0,1,Southampton,45.0,28976,Ben Gibson,4-3-3,middlesbrough
-2016-12-14,Premier League,Matchweek 16,Wed,Home,L,0,3,Liverpool,37.0,32704,Ben Gibson,4-3-3,middlesbrough
-2016-12-17,Premier League,Matchweek 17,Sat,Home,W,3,0,Swansea City,43.0,28302,Ben Gibson,4-3-3,middlesbrough
-2016-12-26,Premier League,Matchweek 18,Mon,Away,L,0,1,Burnley,54.0,21562,Ben Gibson,4-3-3,middlesbrough
-2016-12-31,Premier League,Matchweek 19,Sat,Away,L,1,2,Manchester Utd,35.0,75314,Grant Leadbitter,4-1-4-1,middlesbrough
-2017-01-02,Premier League,Matchweek 20,Mon,Home,D,0,0,Leicester City,63.0,32437,Ben Gibson,4-3-3,middlesbrough
-2017-01-08,FA Cup,Third round,Sun,Home,W,3,0,Sheffield Weds,,23661,,,middlesbrough
-2017-01-14,Premier League,Matchweek 21,Sat,Away,D,0,0,Watford,53.0,20659,Grant Leadbitter,3-1-4-2,middlesbrough
-2017-01-21,Premier League,Matchweek 22,Sat,Home,L,1,3,West Ham,62.0,30848,George Friend,4-3-3,middlesbrough
-2017-01-28,FA Cup,Fourth round,Sat,Home,W,1,0,Acc'ton Stanley,,24040,,,middlesbrough
-2017-01-31,Premier League,Matchweek 23,Tue,Home,D,1,1,West Brom,62.0,27316,Ben Gibson,4-3-3,middlesbrough
-2017-02-04,Premier League,Matchweek 24,Sat,Away,L,0,1,Tottenham,35.0,31949,Ben Gibson,4-3-3,middlesbrough
-2017-02-11,Premier League,Matchweek 25,Sat,Home,D,0,0,Everton,46.0,31496,Ben Gibson,4-3-3,middlesbrough
-2017-02-18,FA Cup,Fifth round,Sat,Home,W,3,2,Oxford United,,28198,,,middlesbrough
-2017-02-25,Premier League,Matchweek 26,Sat,Away,L,0,1,Crystal Palace,54.0,25416,Ben Gibson,5-3-2,middlesbrough
-2017-03-04,Premier League,Matchweek 27,Sat,Away,L,0,2,Stoke City,45.0,27644,Grant Leadbitter,4-3-3,middlesbrough
-2017-03-11,FA Cup,Quarter-finals,Sat,Home,L,0,2,Manchester City,,32228,,,middlesbrough
-2017-03-19,Premier League,Matchweek 29,Sun,Home,L,1,3,Manchester Utd,64.0,32689,Grant Leadbitter,4-3-3,middlesbrough
-2017-04-02,Premier League,Matchweek 30,Sun,Away,D,0,0,Swansea City,45.0,20354,Ben Gibson,4-2-3-1,middlesbrough
-2017-04-05,Premier League,Matchweek 31,Wed,Away,L,2,4,Hull City,52.0,20380,Ben Gibson,4-4-2,middlesbrough
-2017-04-08,Premier League,Matchweek 32,Sat,Home,D,0,0,Burnley,56.0,29547,Grant Leadbitter,3-5-2,middlesbrough
-2017-04-17,Premier League,Matchweek 33,Mon,Home,L,1,2,Arsenal,35.0,31298,Grant Leadbitter,4-3-3,middlesbrough
-2017-04-22,Premier League,Matchweek 34,Sat,Away,L,0,4,Bournemouth,32.0,10890,Ben Gibson,5-4-1,middlesbrough
-2017-04-26,Premier League,Matchweek 28,Wed,Home,W,1,0,Sunderland,49.0,30742,Ben Gibson,4-3-3,middlesbrough
-2017-04-30,Premier League,Matchweek 35,Sun,Home,D,2,2,Manchester City,32.0,29763,Ben Gibson,4-3-3,middlesbrough
-2017-05-08,Premier League,Matchweek 36,Mon,Away,L,0,3,Chelsea,43.0,41500,Ben Gibson,4-3-3,middlesbrough
-2017-05-13,Premier League,Matchweek 37,Sat,Home,L,1,2,Southampton,42.0,28203,Ben Gibson,4-3-3,middlesbrough
-2017-05-21,Premier League,Matchweek 38,Sun,Away,L,0,3,Liverpool,26.0,53191,Grant Leadbitter,4-3-3,middlesbrough
-2016-08-13,Premier League,Matchweek 1,Sat,Home,L,0,1,West Brom,62.0,24490,Scott Dann,4-2-3-1,palace
-2016-08-20,Premier League,Matchweek 2,Sat,Away,L,0,1,Tottenham,43.0,31447,Scott Dann,4-2-3-1,palace
-2016-08-23,EFL Cup,Second round,Tue,Home,W,2,0,Blackpool,72.0,7533,Scott Dann,4-2-3-1,palace
-2016-08-27,Premier League,Matchweek 3,Sat,Home,D,1,1,Bournemouth,59.0,23503,Scott Dann,4-4-1-1,palace
-2016-09-10,Premier League,Matchweek 4,Sat,Away,W,2,1,Middlesbrough,42.0,30551,Scott Dann,4-2-3-1,palace
-2016-09-18,Premier League,Matchweek 5,Sun,Home,W,4,1,Stoke City,57.0,23781,Scott Dann,4-2-3-1,palace
-2016-09-21,EFL Cup,Third round,Wed,Away,L,0,2,Southampton,55.0,14080,Scott Dann,4-4-2,palace
-2016-09-24,Premier League,Matchweek 6,Sat,Away,W,3,2,Sunderland,55.0,38941,Damien Delaney,4-2-3-1,palace
-2016-09-30,Premier League,Matchweek 7,Fri,Away,D,1,1,Everton,43.0,38758,Damien Delaney,4-2-3-1,palace
-2016-10-15,Premier League,Matchweek 8,Sat,Home,L,0,1,West Ham,55.0,25643,Damien Delaney,4-2-3-1,palace
-2016-10-22,Premier League,Matchweek 9,Sat,Away,L,1,3,Leicester City,55.0,31969,Damien Delaney,4-2-3-1,palace
-2016-10-29,Premier League,Matchweek 10,Sat,Home,L,2,4,Liverpool,45.0,25628,Scott Dann,4-2-3-1,palace
-2016-11-05,Premier League,Matchweek 11,Sat,Away,L,2,3,Burnley,62.0,19196,Scott Dann,4-2-3-1,palace
-2016-11-19,Premier League,Matchweek 12,Sat,Home,L,1,2,Manchester City,38.0,25529,Scott Dann,4-2-3-1,palace
-2016-11-26,Premier League,Matchweek 13,Sat,Away,L,4,5,Swansea City,44.0,20276,Scott Dann,4-4-2,palace
-2016-12-03,Premier League,Matchweek 14,Sat,Home,W,3,0,Southampton,42.0,25393,Scott Dann,4-2-3-1,palace
-2016-12-10,Premier League,Matchweek 15,Sat,Away,D,3,3,Hull City,43.0,17403,Scott Dann,4-2-3-1,palace
-2016-12-14,Premier League,Matchweek 16,Wed,Home,L,1,2,Manchester Utd,39.0,25547,Scott Dann,4-4-2,palace
-2016-12-17,Premier League,Matchweek 17,Sat,Home,L,0,1,Chelsea,54.0,25259,Scott Dann,4-2-3-1,palace
-2016-12-26,Premier League,Matchweek 18,Mon,Away,D,1,1,Watford,44.0,20304,Scott Dann,4-2-3-1,palace
-2017-01-01,Premier League,Matchweek 19,Sun,Away,L,0,2,Arsenal,36.0,59975,Scott Dann,4-2-3-1,palace
-2017-01-03,Premier League,Matchweek 20,Tue,Home,L,1,2,Swansea City,47.0,24913,Damien Delaney,4-2-3-1,palace
-2017-01-07,FA Cup,Third round,Sat,Away,D,0,0,Bolton,,11683,,,palace
-2017-01-14,Premier League,Matchweek 21,Sat,Away,L,0,3,West Ham,56.0,56984,Scott Dann,4-2-3-1,palace
-2017-01-17,FA Cup,Third round,Tue,Home,W,2,1,Bolton,,7149,,,palace
-2017-01-21,Premier League,Matchweek 22,Sat,Home,L,0,1,Everton,44.0,25594,Scott Dann,3-4-1-2,palace
-2017-01-28,FA Cup,Fourth round,Sat,Home,L,0,3,Manchester City,,13979,,,palace
-2017-01-31,Premier League,Matchweek 23,Tue,Away,W,2,0,Bournemouth,35.0,11286,Scott Dann,3-4-3,palace
-2017-02-04,Premier League,Matchweek 24,Sat,Home,L,0,4,Sunderland,65.0,25310,Scott Dann,3-4-3,palace
-2017-02-11,Premier League,Matchweek 25,Sat,Away,L,0,1,Stoke City,43.0,27007,Damien Delaney,4-2-3-1,palace
-2017-02-25,Premier League,Matchweek 26,Sat,Home,W,1,0,Middlesbrough,46.0,25416,Jason Puncheon,4-1-4-1,palace
-2017-03-04,Premier League,Matchweek 27,Sat,Away,W,2,0,West Brom,49.0,24051,Jason Puncheon,4-2-3-1,palace
-2017-03-18,Premier League,Matchweek 29,Sat,Home,W,1,0,Watford,44.0,25109,Jason Puncheon,4-2-3-1,palace
-2017-04-01,Premier League,Matchweek 30,Sat,Away,W,2,1,Chelsea,27.0,41489,Jason Puncheon,4-2-3-1,palace
-2017-04-05,Premier League,Matchweek 31,Wed,Away,L,1,3,Southampton,39.0,29968,Jason Puncheon,4-2-3-1,palace
-2017-04-10,Premier League,Matchweek 32,Mon,Home,W,3,0,Arsenal,28.0,25648,Jason Puncheon,4-2-3-1,palace
-2017-04-15,Premier League,Matchweek 33,Sat,Home,D,2,2,Leicester City,58.0,25504,Jason Puncheon,4-2-3-1,palace
-2017-04-23,Premier League,Matchweek 34,Sun,Away,W,2,1,Liverpool,28.0,53086,Jason Puncheon,4-1-4-1,palace
-2017-04-26,Premier League,Matchweek 28,Wed,Home,L,0,1,Tottenham,32.0,25596,Jason Puncheon,4-1-4-1,palace
-2017-04-29,Premier League,Matchweek 35,Sat,Home,L,0,2,Burnley,64.0,25013,Jason Puncheon,4-3-3,palace
-2017-05-06,Premier League,Matchweek 36,Sat,Away,L,0,5,Manchester City,31.0,54119,Jason Puncheon,4-3-3,palace
-2017-05-14,Premier League,Matchweek 37,Sun,Home,W,4,0,Hull City,30.0,25176,Jason Puncheon,4-2-3-1,palace
-2017-05-21,Premier League,Matchweek 38,Sun,Away,L,0,2,Manchester Utd,41.0,75254,Jason Puncheon,4-3-3,palace
-2016-08-13,Premier League,Matchweek 1,Sat,Home,D,1,1,Watford,64.0,31488,Steven Davis,4-1-2-1-2◆,southampton
-2016-08-19,Premier League,Matchweek 2,Fri,Away,L,0,2,Manchester Utd,57.0,75326,Steven Davis,4-1-2-1-2◆,southampton
-2016-08-27,Premier League,Matchweek 3,Sat,Home,D,1,1,Sunderland,64.0,30152,José Fonte,4-1-2-1-2◆,southampton
-2016-09-10,Premier League,Matchweek 4,Sat,Away,L,1,2,Arsenal,43.0,59962,José Fonte,4-3-3,southampton
-2016-09-15,Europa Lg,Group stage,Thu,Home,W,3,0,cz Sparta Prague,54.0,25125,Virgil van Dijk,4-1-2-1-2◆,southampton
-2016-09-18,Premier League,Matchweek 5,Sun,Home,W,1,0,Swansea City,53.0,29087,José Fonte,4-1-2-1-2◆,southampton
-2016-09-21,EFL Cup,Third round,Wed,Home,W,2,0,Crystal Palace,45.0,14080,José Fonte,4-3-1-2,southampton
-2016-09-25,Premier League,Matchweek 6,Sun,Away,W,3,0,West Ham,55.0,56864,José Fonte,4-1-2-1-2◆,southampton
-2016-09-29,Europa Lg,Group stage,Thu,Away,D,0,0,il Be'er Sheva,49.0,25125,Virgil van Dijk,4-1-2-1-2◆,southampton
-2016-10-02,Premier League,Matchweek 7,Sun,Away,D,0,0,Leicester City,62.0,31563,José Fonte,4-1-2-1-2◆,southampton
-2016-10-16,Premier League,Matchweek 8,Sun,Home,W,3,1,Burnley,65.0,29040,José Fonte,4-1-2-1-2◆,southampton
-2016-10-20,Europa Lg,Group stage,Thu,Away,L,0,1,it Inter,55.0,26719,Virgil van Dijk,4-3-1-2,southampton
-2016-10-23,Premier League,Matchweek 9,Sun,Away,D,1,1,Manchester City,35.0,53731,José Fonte,4-3-1-2,southampton
-2016-10-26,EFL Cup,Fourth round,Wed,Home,W,1,0,Sunderland,57.0,21460,José Fonte,4-3-3,southampton
-2016-10-30,Premier League,Matchweek 10,Sun,Home,L,0,2,Chelsea,55.0,31827,José Fonte,4-1-2-1-2◆,southampton
-2016-11-03,Europa Lg,Group stage,Thu,Home,W,2,1,it Inter,57.0,30389,Virgil van Dijk,4-3-3,southampton
-2016-11-06,Premier League,Matchweek 11,Sun,Away,L,1,2,Hull City,66.0,17768,José Fonte,4-3-3,southampton
-2016-11-19,Premier League,Matchweek 12,Sat,Home,D,0,0,Liverpool,36.0,31848,José Fonte,4-3-3,southampton
-2016-11-24,Europa Lg,Group stage,Thu,Away,L,0,1,cz Sparta Prague,70.0,17429,Virgil van Dijk,4-3-3,southampton
-2016-11-27,Premier League,Matchweek 13,Sun,Home,W,1,0,Everton,53.0,31132,José Fonte,4-3-3,southampton
-2016-11-30,EFL Cup,Quarter-finals,Wed,Away,W,2,0,Arsenal,37.0,59013,Virgil van Dijk,4-3-3,southampton
-2016-12-03,Premier League,Matchweek 14,Sat,Away,L,0,3,Crystal Palace,58.0,25393,José Fonte,4-3-3,southampton
-2016-12-08,Europa Lg,Group stage,Thu,Home,D,1,1,il Be'er Sheva,55.0,30416,Virgil van Dijk,4-3-3,southampton
-2016-12-11,Premier League,Matchweek 15,Sun,Home,W,1,0,Middlesbrough,55.0,28976,José Fonte,4-3-3,southampton
-2016-12-14,Premier League,Matchweek 16,Wed,Away,D,0,0,Stoke City,71.0,27002,José Fonte,4-2-3-1,southampton
-2016-12-18,Premier League,Matchweek 17,Sun,Away,W,3,1,Bournemouth,53.0,11113,Virgil van Dijk,4-3-3,southampton
-2016-12-28,Premier League,Matchweek 18,Wed,Home,L,1,4,Tottenham,34.0,31853,José Fonte,4-3-3,southampton
-2016-12-31,Premier League,Matchweek 19,Sat,Home,L,1,2,West Brom,68.0,30975,Virgil van Dijk,4-3-3,southampton
-2017-01-02,Premier League,Matchweek 20,Mon,Away,L,0,3,Everton,46.0,38891,José Fonte,4-3-3,southampton
-2017-01-07,FA Cup,Third round,Sat,Away,D,2,2,Norwich City,,12479,,,southampton
-2017-01-11,EFL Cup,Semi-finals,Wed,Home,W,1,0,Liverpool,32.0,31480,Steven Davis,4-3-3,southampton
-2017-01-14,Premier League,Matchweek 21,Sat,Away,L,0,1,Burnley,59.0,20254,Virgil van Dijk,4-3-3,southampton
-2017-01-18,FA Cup,Third round,Wed,Home,W,1,0,Norwich City,,13517,,,southampton
-2017-01-22,Premier League,Matchweek 22,Sun,Home,W,3,0,Leicester City,60.0,30548,Virgil van Dijk,4-3-3,southampton
-2017-01-25,EFL Cup,Semi-finals,Wed,Away,W,1,0,Liverpool,28.0,52238,Steven Davis,4-3-3,southampton
-2017-01-28,FA Cup,Fourth round,Sat,Home,L,0,5,Arsenal,,31288,,,southampton
-2017-01-31,Premier League,Matchweek 23,Tue,Away,L,1,2,Swansea City,57.0,20359,Steven Davis,4-3-3,southampton
-2017-02-04,Premier League,Matchweek 24,Sat,Home,L,1,3,West Ham,55.0,31891,Steven Davis,4-3-3,southampton
-2017-02-11,Premier League,Matchweek 25,Sat,Away,W,4,0,Sunderland,54.0,39931,Steven Davis,4-2-3-1,southampton
-2017-02-26,EFL Cup,Final,Sun,Away,L,2,3,Manchester Utd,52.0,85264,Steven Davis,4-4-1-1,southampton
-2017-03-04,Premier League,Matchweek 27,Sat,Away,W,4,3,Watford,63.0,20670,Steven Davis,4-2-3-1,southampton
-2017-03-19,Premier League,Matchweek 29,Sun,Away,L,1,2,Tottenham,49.0,31697,Steven Davis,4-2-3-1,southampton
-2017-04-01,Premier League,Matchweek 30,Sat,Home,D,0,0,Bournemouth,61.0,31847,Steven Davis,4-2-3-1,southampton
-2017-04-05,Premier League,Matchweek 31,Wed,Home,W,3,1,Crystal Palace,61.0,29968,Steven Davis,4-2-3-1,southampton
-2017-04-08,Premier League,Matchweek 32,Sat,Away,W,1,0,West Brom,58.0,24697,Maya Yoshida,4-2-3-1,southampton
-2017-04-15,Premier League,Matchweek 33,Sat,Home,L,0,3,Manchester City,41.0,31850,Steven Davis,4-2-3-1,southampton
-2017-04-25,Premier League,Matchweek 34,Tue,Away,L,2,4,Chelsea,52.0,41168,Steven Davis,4-1-4-1,southampton
-2017-04-29,Premier League,Matchweek 35,Sat,Home,D,0,0,Hull City,52.0,31120,Steven Davis,4-2-3-1,southampton
-2017-05-07,Premier League,Matchweek 36,Sun,Away,D,0,0,Liverpool,35.0,53159,Steven Davis,4-5-1,southampton
-2017-05-10,Premier League,Matchweek 26,Wed,Home,L,0,2,Arsenal,47.0,31474,Steven Davis,4-2-3-1,southampton
-2017-05-13,Premier League,Matchweek 37,Sat,Away,W,2,1,Middlesbrough,58.0,28203,Maya Yoshida,4-3-3,southampton
-2017-05-17,Premier League,Matchweek 28,Wed,Home,D,0,0,Manchester Utd,53.0,31425,Steven Davis,4-3-3,southampton
-2017-05-21,Premier League,Matchweek 38,Sun,Home,L,0,1,Stoke City,61.0,31286,Steven Davis,4-2-3-1,southampton
-2016-08-13,Premier League,Matchweek 1,Sat,Away,D,1,1,Middlesbrough,54.0,32110,Ryan Shawcross,4-2-3-1,stoke
-2016-08-20,Premier League,Matchweek 2,Sat,Home,L,1,4,Manchester City,43.0,27455,Ryan Shawcross,4-3-3,stoke
-2016-08-23,EFL Cup,Second round,Tue,Away,W,4,0,Stevenage,62.0,3363,Ryan Shawcross,4-2-3-1,stoke
-2016-08-27,Premier League,Matchweek 3,Sat,Away,L,0,1,Everton,45.0,39581,Ryan Shawcross,4-3-3,stoke
-2016-09-10,Premier League,Matchweek 4,Sat,Home,L,0,4,Tottenham,40.0,27385,Ryan Shawcross,4-2-3-1,stoke
-2016-09-18,Premier League,Matchweek 5,Sun,Away,L,1,4,Crystal Palace,44.0,23781,Ryan Shawcross,4-2-3-1,stoke
-2016-09-21,EFL Cup,Third round,Wed,Home,L,1,2,Hull City,57.0,10550,Ryan Shawcross,4-3-3,stoke
-2016-09-24,Premier League,Matchweek 6,Sat,Home,D,1,1,West Brom,56.0,27645,Ryan Shawcross,4-3-3,stoke
-2016-10-02,Premier League,Matchweek 7,Sun,Away,D,1,1,Manchester Utd,33.0,75251,Ryan Shawcross,4-2-3-1,stoke
-2016-10-15,Premier League,Matchweek 8,Sat,Home,W,2,0,Sunderland,57.0,27701,Ryan Shawcross,4-2-3-1,stoke
-2016-10-22,Premier League,Matchweek 9,Sat,Away,W,2,0,Hull City,51.0,18522,Ryan Shawcross,4-2-3-1,stoke
-2016-10-31,Premier League,Matchweek 10,Mon,Home,W,3,1,Swansea City,46.0,26602,Ryan Shawcross,4-2-3-1,stoke
-2016-11-05,Premier League,Matchweek 11,Sat,Away,D,1,1,West Ham,42.0,56970,Ryan Shawcross,4-2-3-1,stoke
-2016-11-19,Premier League,Matchweek 12,Sat,Home,L,0,1,Bournemouth,51.0,27815,Ryan Shawcross,4-2-3-1,stoke
-2016-11-27,Premier League,Matchweek 13,Sun,Away,W,1,0,Watford,50.0,20058,Jonathan Walters,4-2-3-1,stoke
-2016-12-03,Premier League,Matchweek 14,Sat,Home,W,2,0,Burnley,56.0,27306,Jonathan Walters,4-2-3-1,stoke
-2016-12-10,Premier League,Matchweek 15,Sat,Away,L,1,3,Arsenal,36.0,59964,Charlie Adam,3-4-3,stoke
-2016-12-14,Premier League,Matchweek 16,Wed,Home,D,0,0,Southampton,29.0,27002,Ryan Shawcross,4-2-3-1,stoke
-2016-12-17,Premier League,Matchweek 17,Sat,Home,D,2,2,Leicester City,65.0,27663,Ryan Shawcross,4-2-3-1,stoke
-2016-12-27,Premier League,Matchweek 18,Tue,Away,L,1,4,Liverpool,36.0,53094,Ryan Shawcross,3-5-2,stoke
-2016-12-31,Premier League,Matchweek 19,Sat,Away,L,2,4,Chelsea,40.0,41601,Ryan Shawcross,3-4-3,stoke
-2017-01-03,Premier League,Matchweek 20,Tue,Home,W,2,0,Watford,54.0,27010,Ryan Shawcross,3-4-3,stoke
-2017-01-07,FA Cup,Third round,Sat,Home,L,0,2,Wolves,,21479,,,stoke
-2017-01-14,Premier League,Matchweek 21,Sat,Away,W,3,1,Sunderland,49.0,42722,Ryan Shawcross,4-2-3-1,stoke
-2017-01-21,Premier League,Matchweek 22,Sat,Home,D,1,1,Manchester Utd,35.0,27423,Ryan Shawcross,4-2-3-1,stoke
-2017-02-01,Premier League,Matchweek 23,Wed,Home,D,1,1,Everton,47.0,27612,Ryan Shawcross,4-2-3-1,stoke
-2017-02-04,Premier League,Matchweek 24,Sat,Away,L,0,1,West Brom,62.0,23921,Ryan Shawcross,4-2-3-1,stoke
-2017-02-11,Premier League,Matchweek 25,Sat,Home,W,1,0,Crystal Palace,58.0,27007,Ryan Shawcross,4-2-3-1,stoke
-2017-02-26,Premier League,Matchweek 26,Sun,Away,L,0,4,Tottenham,36.0,31864,Ryan Shawcross,4-2-3-1,stoke
-2017-03-04,Premier League,Matchweek 27,Sat,Home,W,2,0,Middlesbrough,55.0,27644,Ryan Shawcross,4-2-3-1,stoke
-2017-03-08,Premier League,Matchweek 28,Wed,Away,D,0,0,Manchester City,35.0,52625,Ryan Shawcross,4-4-2,stoke
-2017-03-18,Premier League,Matchweek 29,Sat,Home,L,1,2,Chelsea,36.0,27724,Ryan Shawcross,4-4-2,stoke
-2017-04-01,Premier League,Matchweek 30,Sat,Away,L,0,2,Leicester City,52.0,31958,Ryan Shawcross,4-4-2,stoke
-2017-04-04,Premier League,Matchweek 31,Tue,Away,L,0,1,Burnley,52.0,19881,Ryan Shawcross,3-4-3,stoke
-2017-04-08,Premier League,Matchweek 32,Sat,Home,L,1,2,Liverpool,44.0,27568,Ryan Shawcross,4-4-2,stoke
-2017-04-15,Premier League,Matchweek 33,Sat,Home,W,3,1,Hull City,45.0,27505,Ryan Shawcross,3-4-3,stoke
-2017-04-22,Premier League,Matchweek 34,Sat,Away,L,0,2,Swansea City,55.0,20566,Ryan Shawcross,4-4-2,stoke
-2017-04-29,Premier League,Matchweek 35,Sat,Home,D,0,0,West Ham,57.0,27628,Ryan Shawcross,4-2-3-1,stoke
-2017-05-06,Premier League,Matchweek 36,Sat,Away,D,2,2,Bournemouth,42.0,11046,Ryan Shawcross,4-2-3-1,stoke
-2017-05-13,Premier League,Matchweek 37,Sat,Home,L,1,4,Arsenal,33.0,27535,Ryan Shawcross,4-2-3-1,stoke
-2017-05-21,Premier League,Matchweek 38,Sun,Away,W,1,0,Southampton,39.0,31286,Ryan Shawcross,3-4-3,stoke
-2016-08-13,Premier League,Matchweek 1,Sat,Away,L,1,2,Manchester City,23.0,54362,John O'Shea,4-2-3-1,sunderland
-2016-08-21,Premier League,Matchweek 2,Sun,Home,L,1,2,Middlesbrough,47.0,43515,John O'Shea,4-2-3-1,sunderland
-2016-08-24,EFL Cup,Second round,Wed,Home,W,1,0,Shrewsbury,57.0,13979,Patrick van Aanholt,4-4-2,sunderland
-2016-08-27,Premier League,Matchweek 3,Sat,Away,D,1,1,Southampton,36.0,30152,Jermain Defoe,4-1-2-1-2◆,sunderland
-2016-09-12,Premier League,Matchweek 4,Mon,Home,L,0,3,Everton,33.0,42406,Jermain Defoe,4-4-1-1,sunderland
-2016-09-18,Premier League,Matchweek 5,Sun,Away,L,0,1,Tottenham,26.0,31251,Lee Cattermole,4-3-3,sunderland
-2016-09-21,EFL Cup,Third round,Wed,Away,W,2,1,QPR,61.0,14301,John O'Shea,4-4-1-1,sunderland
-2016-09-24,Premier League,Matchweek 6,Sat,Home,L,2,3,Crystal Palace,45.0,38941,Lee Cattermole,4-3-3,sunderland
-2016-10-01,Premier League,Matchweek 7,Sat,Home,D,1,1,West Brom,56.0,40043,John O'Shea,4-1-4-1,sunderland
-2016-10-15,Premier League,Matchweek 8,Sat,Away,L,0,2,Stoke City,43.0,27701,John O'Shea,4-5-1,sunderland
-2016-10-22,Premier League,Matchweek 9,Sat,Away,L,0,1,West Ham,36.0,56985,John O'Shea,4-5-1,sunderland
-2016-10-26,EFL Cup,Fourth round,Wed,Away,L,0,1,Southampton,43.0,21460,Lamine Koné,4-3-3,sunderland
-2016-10-29,Premier League,Matchweek 10,Sat,Home,L,1,4,Arsenal,34.0,44322,John O'Shea,4-5-1,sunderland
-2016-11-05,Premier League,Matchweek 11,Sat,Away,W,2,1,Bournemouth,30.0,11084,Jermain Defoe,4-5-1,sunderland
-2016-11-19,Premier League,Matchweek 12,Sat,Home,W,3,0,Hull City,41.0,41271,Jermain Defoe,4-3-3,sunderland
-2016-11-26,Premier League,Matchweek 13,Sat,Away,L,0,2,Liverpool,23.0,53114,John O'Shea,4-3-3,sunderland
-2016-12-03,Premier League,Matchweek 14,Sat,Home,W,2,1,Leicester City,54.0,39725,Jermain Defoe,4-3-3,sunderland
-2016-12-10,Premier League,Matchweek 15,Sat,Away,L,0,3,Swansea City,38.0,20453,Jermain Defoe,4-4-2,sunderland
-2016-12-14,Premier League,Matchweek 16,Wed,Home,L,0,1,Chelsea,34.0,41008,John O'Shea,3-4-3,sunderland
-2016-12-17,Premier League,Matchweek 17,Sat,Home,W,1,0,Watford,43.0,40267,Jermain Defoe,4-2-3-1,sunderland
-2016-12-26,Premier League,Matchweek 18,Mon,Away,L,1,3,Manchester Utd,38.0,75325,Jermain Defoe,4-3-3,sunderland
-2016-12-31,Premier League,Matchweek 19,Sat,Away,L,1,4,Burnley,54.0,21124,John O'Shea,4-2-3-1,sunderland
-2017-01-02,Premier League,Matchweek 20,Mon,Home,D,2,2,Liverpool,29.0,46494,John O'Shea,4-4-1-1,sunderland
-2017-01-07,FA Cup,Third round,Sat,Home,D,0,0,Burnley,,17632,,,sunderland
-2017-01-14,Premier League,Matchweek 21,Sat,Home,L,1,3,Stoke City,51.0,42722,John O'Shea,4-2-3-1,sunderland
-2017-01-17,FA Cup,Third round,Tue,Away,L,0,2,Burnley,,12257,,,sunderland
-2017-01-21,Premier League,Matchweek 22,Sat,Away,L,0,2,West Brom,56.0,24380,John O'Shea,3-4-3,sunderland
-2017-01-31,Premier League,Matchweek 23,Tue,Home,D,0,0,Tottenham,28.0,40058,John O'Shea,3-5-2,sunderland
-2017-02-04,Premier League,Matchweek 24,Sat,Away,W,4,0,Crystal Palace,35.0,25310,John O'Shea,3-5-1-1,sunderland
-2017-02-11,Premier League,Matchweek 25,Sat,Home,L,0,4,Southampton,46.0,39931,John O'Shea,3-5-1-1,sunderland
-2017-02-25,Premier League,Matchweek 26,Sat,Away,L,0,2,Everton,37.0,39595,John O'Shea,4-5-1,sunderland
-2017-03-05,Premier League,Matchweek 27,Sun,Home,L,0,2,Manchester City,29.0,41107,John O'Shea,4-5-1,sunderland
-2017-03-18,Premier League,Matchweek 29,Sat,Home,D,0,0,Burnley,44.0,41518,John O'Shea,4-3-3,sunderland
-2017-04-01,Premier League,Matchweek 30,Sat,Away,L,0,1,Watford,44.0,20805,John O'Shea,4-2-3-1,sunderland
-2017-04-04,Premier League,Matchweek 31,Tue,Away,L,0,2,Leicester City,46.0,31757,Lee Cattermole,4-1-3-2,sunderland
-2017-04-09,Premier League,Matchweek 32,Sun,Home,L,0,3,Manchester Utd,30.0,43779,Lee Cattermole,4-1-3-2,sunderland
-2017-04-15,Premier League,Matchweek 33,Sat,Home,D,2,2,West Ham,47.0,40168,John O'Shea,4-3-3,sunderland
-2017-04-26,Premier League,Matchweek 28,Wed,Away,L,0,1,Middlesbrough,51.0,30742,John O'Shea,4-3-3,sunderland
-2017-04-29,Premier League,Matchweek 35,Sat,Home,L,0,1,Bournemouth,41.0,38394,John O'Shea,4-1-3-2,sunderland
-2017-05-06,Premier League,Matchweek 36,Sat,Away,W,2,0,Hull City,41.0,22480,John O'Shea,4-3-3,sunderland
-2017-05-13,Premier League,Matchweek 37,Sat,Home,L,0,2,Swansea City,53.0,38781,John O'Shea,4-3-3,sunderland
-2017-05-16,Premier League,Matchweek 34,Tue,Away,L,0,2,Arsenal,37.0,59510,John O'Shea,3-5-2,sunderland
-2017-05-21,Premier League,Matchweek 38,Sun,Away,L,1,5,Chelsea,28.0,41618,John O'Shea,3-5-1-1,sunderland
-2016-08-13,Premier League,Matchweek 1,Sat,Away,W,1,0,Burnley,53.0,19126,Leon Britton,4-3-3,swansea
-2016-08-20,Premier League,Matchweek 2,Sat,Home,L,0,2,Hull City,57.0,20024,Jack Cork,4-2-3-1,swansea
-2016-08-23,EFL Cup,Second round,Tue,Away,W,3,1,P'borough Utd,55.0,4727,Leon Britton,4-2-3-1,swansea
-2016-08-27,Premier League,Matchweek 3,Sat,Away,L,1,2,Leicester City,48.0,31727,Jack Cork,4-2-3-1,swansea
-2016-09-11,Premier League,Matchweek 4,Sun,Home,D,2,2,Chelsea,45.0,20865,Jack Cork,3-5-1-1,swansea
-2016-09-18,Premier League,Matchweek 5,Sun,Away,L,0,1,Southampton,47.0,29087,Jack Cork,4-3-3,swansea
-2016-09-21,EFL Cup,Third round,Wed,Home,L,1,2,Manchester City,40.0,18237,Leon Britton,4-2-3-1,swansea
-2016-09-24,Premier League,Matchweek 6,Sat,Home,L,1,3,Manchester City,42.0,20786,Leon Britton,4-2-3-1,swansea
-2016-10-01,Premier League,Matchweek 7,Sat,Home,L,1,2,Liverpool,41.0,20862,Leon Britton,4-3-3,swansea
-2016-10-15,Premier League,Matchweek 8,Sat,Away,L,2,3,Arsenal,51.0,60007,Leon Britton,4-4-1-1,swansea
-2016-10-22,Premier League,Matchweek 9,Sat,Home,D,0,0,Watford,54.0,20694,Leon Britton,4-2-3-1,swansea
-2016-10-31,Premier League,Matchweek 10,Mon,Away,L,1,3,Stoke City,54.0,26602,Gylfi Sigurðsson,4-2-3-1,swansea
-2016-11-06,Premier League,Matchweek 11,Sun,Home,L,1,3,Manchester Utd,37.0,20938,Leon Britton,4-4-2,swansea
-2016-11-19,Premier League,Matchweek 12,Sat,Away,D,1,1,Everton,37.0,38773,Jack Cork,4-3-3,swansea
-2016-11-26,Premier League,Matchweek 13,Sat,Home,W,5,4,Crystal Palace,57.0,20276,Jack Cork,4-3-3,swansea
-2016-12-03,Premier League,Matchweek 14,Sat,Away,L,0,5,Tottenham,40.0,31663,Jack Cork,4-3-3,swansea
-2016-12-10,Premier League,Matchweek 15,Sat,Home,W,3,0,Sunderland,62.0,20453,Leon Britton,4-2-3-1,swansea
-2016-12-14,Premier League,Matchweek 16,Wed,Away,L,1,3,West Brom,61.0,21467,Leon Britton,4-2-3-1,swansea
-2016-12-17,Premier League,Matchweek 17,Sat,Away,L,0,3,Middlesbrough,57.0,28302,Leon Britton,4-2-3-1,swansea
-2016-12-26,Premier League,Matchweek 18,Mon,Home,L,1,4,West Ham,56.0,20757,Leon Britton,4-3-3,swansea
-2016-12-31,Premier League,Matchweek 19,Sat,Home,L,0,3,Bournemouth,45.0,20316,Leon Britton,4-2-3-1,swansea
-2017-01-03,Premier League,Matchweek 20,Tue,Away,W,2,1,Crystal Palace,53.0,24913,Jack Cork,4-3-3,swansea
-2017-01-07,FA Cup,Third round,Sat,Away,L,0,2,Hull City,,6608,,,swansea
-2017-01-14,Premier League,Matchweek 21,Sat,Home,L,0,4,Arsenal,43.0,20875,Jack Cork,4-2-3-1,swansea
-2017-01-21,Premier League,Matchweek 22,Sat,Away,W,3,2,Liverpool,26.0,53169,Jack Cork,4-3-3,swansea
-2017-01-31,Premier League,Matchweek 23,Tue,Home,W,2,1,Southampton,43.0,20359,Jack Cork,4-3-3,swansea
-2017-02-05,Premier League,Matchweek 24,Sun,Away,L,1,2,Manchester City,31.0,54065,Jack Cork,4-3-3,swansea
-2017-02-12,Premier League,Matchweek 25,Sun,Home,W,2,0,Leicester City,49.0,20391,Jack Cork,4-3-3,swansea
-2017-02-25,Premier League,Matchweek 26,Sat,Away,L,1,3,Chelsea,34.0,41612,Jack Cork,4-3-3,swansea
-2017-03-04,Premier League,Matchweek 27,Sat,Home,W,3,2,Burnley,71.0,20679,Jack Cork,4-3-3,swansea
-2017-03-11,Premier League,Matchweek 28,Sat,Away,L,1,2,Hull City,50.0,19195,Jack Cork,4-3-3,swansea
-2017-03-18,Premier League,Matchweek 29,Sat,Away,L,0,2,Bournemouth,52.0,11240,Jack Cork,4-1-4-1,swansea
-2017-04-02,Premier League,Matchweek 30,Sun,Home,D,0,0,Middlesbrough,55.0,20354,Jack Cork,4-3-3,swansea
-2017-04-05,Premier League,Matchweek 31,Wed,Home,L,1,3,Tottenham,28.0,20855,Jack Cork,4-3-3,swansea
-2017-04-08,Premier League,Matchweek 32,Sat,Away,L,0,1,West Ham,54.0,56973,Jack Cork,4-3-3,swansea
-2017-04-15,Premier League,Matchweek 33,Sat,Away,L,0,1,Watford,47.0,20272,Gylfi Sigurðsson,4-3-3,swansea
-2017-04-22,Premier League,Matchweek 34,Sat,Home,W,2,0,Stoke City,46.0,20566,Leon Britton,4-3-3,swansea
-2017-04-30,Premier League,Matchweek 35,Sun,Away,D,1,1,Manchester Utd,45.0,75271,Leon Britton,4-3-1-2,swansea
-2017-05-06,Premier League,Matchweek 36,Sat,Home,W,1,0,Everton,38.0,20827,Leon Britton,4-3-1-2,swansea
-2017-05-13,Premier League,Matchweek 37,Sat,Away,W,2,0,Sunderland,47.0,38781,Leon Britton,4-3-1-2,swansea
-2017-05-21,Premier League,Matchweek 38,Sun,Home,W,2,1,West Brom,66.0,20889,Leon Britton,4-3-3,swansea
-2016-08-13,Premier League,Matchweek 1,Sat,Away,D,1,1,Everton,58.0,39494,Hugo Lloris,4-2-3-1,tottenham
-2016-08-20,Premier League,Matchweek 2,Sat,Home,W,1,0,Crystal Palace,57.0,31447,Harry Kane,4-2-3-1,tottenham
-2016-08-27,Premier League,Matchweek 3,Sat,Home,D,1,1,Liverpool,49.0,31211,Harry Kane,4-2-3-1,tottenham
-2016-09-10,Premier League,Matchweek 4,Sat,Away,W,4,0,Stoke City,60.0,27385,Hugo Lloris,4-2-3-1,tottenham
-2016-09-14,Champions Lg,Group stage,Wed,Home,L,1,2,fr Monaco,64.0,85011,Hugo Lloris,4-2-3-1,tottenham
-2016-09-18,Premier League,Matchweek 5,Sun,Home,W,1,0,Sunderland,74.0,31251,Hugo Lloris,4-2-3-1,tottenham
-2016-09-21,EFL Cup,Third round,Wed,Home,W,5,0,Gillingham,68.0,26244,Christian Eriksen,4-2-3-1,tottenham
-2016-09-24,Premier League,Matchweek 6,Sat,Away,W,2,1,Middlesbrough,58.0,32703,Hugo Lloris,4-3-3,tottenham
-2016-09-27,Champions Lg,Group stage,Tue,Away,W,1,0,ru CSKA Moscow,66.0,26153,Hugo Lloris,4-1-4-1,tottenham
-2016-10-02,Premier League,Matchweek 7,Sun,Home,W,2,0,Manchester City,42.0,31793,Hugo Lloris,4-1-4-1,tottenham
-2016-10-15,Premier League,Matchweek 8,Sat,Away,D,1,1,West Brom,72.0,24263,Hugo Lloris,4-1-4-1,tottenham
-2016-10-18,Champions Lg,Group stage,Tue,Away,D,0,0,de Leverkusen,57.0,28887,Hugo Lloris,4-1-4-1,tottenham
-2016-10-22,Premier League,Matchweek 9,Sat,Away,D,0,0,Bournemouth,62.0,11201,Hugo Lloris,4-2-3-1,tottenham
-2016-10-25,EFL Cup,Fourth round,Tue,Away,L,1,2,Liverpool,54.0,53051,Eric Dier,4-2-3-1,tottenham
-2016-10-29,Premier League,Matchweek 10,Sat,Home,D,1,1,Leicester City,64.0,31868,Hugo Lloris,4-2-3-1,tottenham
-2016-11-02,Champions Lg,Group stage,Wed,Home,L,0,1,de Leverkusen,59.0,85512,Hugo Lloris,4-2-3-1,tottenham
-2016-11-06,Premier League,Matchweek 11,Sun,Away,D,1,1,Arsenal,54.0,60039,Hugo Lloris,3-4-3,tottenham
-2016-11-19,Premier League,Matchweek 12,Sat,Home,W,3,2,West Ham,67.0,31212,Hugo Lloris,4-3-1-2,tottenham
-2016-11-22,Champions Lg,Group stage,Tue,Away,L,1,2,fr Monaco,63.0,13100,Hugo Lloris,4-3-2-1,tottenham
-2016-11-26,Premier League,Matchweek 13,Sat,Away,L,1,2,Chelsea,54.0,41513,Hugo Lloris,4-2-3-1,tottenham
-2016-12-03,Premier League,Matchweek 14,Sat,Home,W,5,0,Swansea City,60.0,31663,Harry Kane,4-2-3-1,tottenham
-2016-12-07,Champions Lg,Group stage,Wed,Home,W,3,1,ru CSKA Moscow,72.0,62034,Hugo Lloris,4-2-3-1,tottenham
-2016-12-11,Premier League,Matchweek 15,Sun,Away,L,0,1,Manchester Utd,60.0,75271,Hugo Lloris,4-2-3-1,tottenham
-2016-12-14,Premier League,Matchweek 16,Wed,Home,W,3,0,Hull City,63.0,31347,Hugo Lloris,3-4-3◆,tottenham
-2016-12-18,Premier League,Matchweek 17,Sun,Home,W,2,1,Burnley,60.0,31467,Hugo Lloris,4-3-2-1,tottenham
-2016-12-28,Premier League,Matchweek 18,Wed,Away,W,4,1,Southampton,66.0,31853,Hugo Lloris,4-2-3-1,tottenham
-2017-01-01,Premier League,Matchweek 19,Sun,Away,W,4,1,Watford,66.0,20882,Hugo Lloris,3-1-4-2,tottenham
-2017-01-04,Premier League,Matchweek 20,Wed,Home,W,2,0,Chelsea,46.0,31491,Hugo Lloris,3-4-3,tottenham
-2017-01-08,FA Cup,Third round,Sun,Home,W,2,0,Aston Villa,,31182,,,tottenham
-2017-01-14,Premier League,Matchweek 21,Sat,Home,W,4,0,West Brom,73.0,31613,Hugo Lloris,3-4-3,tottenham
-2017-01-21,Premier League,Matchweek 22,Sat,Away,D,2,2,Manchester City,45.0,54402,Hugo Lloris,3-4-3,tottenham
-2017-01-28,FA Cup,Fourth round,Sat,Home,W,4,3,Wycombe,,31440,,,tottenham
-2017-01-31,Premier League,Matchweek 23,Tue,Away,D,0,0,Sunderland,72.0,40058,Harry Kane,4-2-3-1,tottenham
-2017-02-04,Premier League,Matchweek 24,Sat,Home,W,1,0,Middlesbrough,65.0,31949,Hugo Lloris,4-2-3-1,tottenham
-2017-02-11,Premier League,Matchweek 25,Sat,Away,L,0,2,Liverpool,49.0,53159,Hugo Lloris,4-2-3-1,tottenham
-2017-02-16,Europa Lg,Round of 32,Thu,Away,L,0,1,be Gent,55.0,19267,Hugo Lloris,4-3-3,tottenham
-2017-02-19,FA Cup,Fifth round,Sun,Away,W,3,0,Fulham,,22557,,,tottenham
-2017-02-23,Europa Lg,Round of 32,Thu,Home,D,2,2,be Gent,65.0,80465,Hugo Lloris,3-4-3,tottenham
-2017-02-26,Premier League,Matchweek 26,Sun,Home,W,4,0,Stoke City,64.0,31864,Hugo Lloris,3-4-3,tottenham
-2017-03-05,Premier League,Matchweek 27,Sun,Home,W,3,2,Everton,51.0,31962,Hugo Lloris,3-4-3,tottenham
-2017-03-12,FA Cup,Quarter-finals,Sun,Home,W,6,0,Millwall,,31137,,,tottenham
-2017-03-19,Premier League,Matchweek 29,Sun,Home,W,2,1,Southampton,51.0,31697,Hugo Lloris,3-4-3,tottenham
-2017-04-01,Premier League,Matchweek 30,Sat,Away,W,2,0,Burnley,62.0,21684,Hugo Lloris,3-4-3,tottenham
-2017-04-05,Premier League,Matchweek 31,Wed,Away,W,3,1,Swansea City,72.0,20855,Jan Vertonghen,4-2-3-1,tottenham
-2017-04-08,Premier League,Matchweek 32,Sat,Home,W,4,0,Watford,58.0,31706,Hugo Lloris,4-2-3-1,tottenham
-2017-04-15,Premier League,Matchweek 33,Sat,Home,W,4,0,Bournemouth,69.0,31943,Hugo Lloris,4-2-3-1,tottenham
-2017-04-22,FA Cup,Semi-finals,Sat,Away,L,2,4,Chelsea,,86355,,,tottenham
-2017-04-26,Premier League,Matchweek 28,Wed,Away,W,1,0,Crystal Palace,69.0,25596,Hugo Lloris,3-4-3,tottenham
-2017-04-30,Premier League,Matchweek 35,Sun,Home,W,2,0,Arsenal,51.0,31811,Hugo Lloris,4-2-3-1,tottenham
-2017-05-05,Premier League,Matchweek 36,Fri,Away,L,0,1,West Ham,68.0,56992,Hugo Lloris,4-2-3-1,tottenham
-2017-05-14,Premier League,Matchweek 37,Sun,Home,W,2,1,Manchester Utd,60.0,31848,Hugo Lloris,4-2-3-1,tottenham
-2017-05-18,Premier League,Matchweek 34,Thu,Away,W,6,1,Leicester City,63.0,31351,Hugo Lloris,3-4-3,tottenham
-2017-05-21,Premier League,Matchweek 38,Sun,Away,W,7,1,Hull City,65.0,23804,Hugo Lloris,4-2-3-1,tottenham
-2016-08-07,Community Shield,FA Community Shield,Sun,Away,W,2,1,Leicester City,,85437,Wayne Rooney,4-2-3-1,united
-2016-08-14,Premier League,Matchweek 1,Sun,Away,W,3,1,Bournemouth,53.0,11355,Wayne Rooney,4-2-3-1,united
-2016-08-19,Premier League,Matchweek 2,Fri,Home,W,2,0,Southampton,43.0,75326,Wayne Rooney,4-2-3-1,united
-2016-08-27,Premier League,Matchweek 3,Sat,Away,W,1,0,Hull City,62.0,24560,Wayne Rooney,4-2-3-1,united
-2016-09-10,Premier League,Matchweek 4,Sat,Home,L,1,2,Manchester City,40.0,75272,Wayne Rooney,4-2-3-1,united
-2016-09-15,Europa Lg,Group stage,Thu,Away,L,0,1,nl Feyenoord,57.0,31000,Chris Smalling,4-2-3-1,united
-2016-09-18,Premier League,Matchweek 5,Sun,Away,L,1,3,Watford,60.0,21118,Wayne Rooney,4-2-3-1,united
-2016-09-21,EFL Cup,Third round,Wed,Away,W,3,1,Northampton,74.0,7798,Wayne Rooney,4-3-3,united
-2016-09-24,Premier League,Matchweek 6,Sat,Home,W,4,1,Leicester City,67.0,75256,Chris Smalling,4-2-3-1,united
-2016-09-29,Europa Lg,Group stage,Thu,Home,W,1,0,ua Zorya Luhansk,72.0,16000,Chris Smalling,4-2-3-1,united
-2016-10-02,Premier League,Matchweek 7,Sun,Home,D,1,1,Stoke City,67.0,75251,Chris Smalling,4-2-3-1,united
-2016-10-17,Premier League,Matchweek 8,Mon,Away,D,0,0,Liverpool,35.0,52769,Chris Smalling,4-2-3-1,united
-2016-10-20,Europa Lg,Group stage,Thu,Home,W,4,1,tr Fenerbahçe,61.0,71000,Wayne Rooney,4-2-3-1,united
-2016-10-23,Premier League,Matchweek 9,Sun,Away,L,0,4,Chelsea,56.0,41424,Chris Smalling,4-2-3-1,united
-2016-10-26,EFL Cup,Fourth round,Wed,Home,W,1,0,Manchester City,48.0,75196,Michael Carrick,4-2-3-1,united
-2016-10-29,Premier League,Matchweek 10,Sat,Home,D,0,0,Burnley,72.0,75325,Juan Mata,4-2-3-1,united
-2016-11-03,Europa Lg,Group stage,Thu,Away,L,1,2,tr Fenerbahçe,70.0,35378,Wayne Rooney,4-3-3,united
-2016-11-06,Premier League,Matchweek 11,Sun,Away,W,3,1,Swansea City,63.0,20938,Wayne Rooney,4-1-4-1,united
-2016-11-19,Premier League,Matchweek 12,Sat,Home,D,1,1,Arsenal,46.0,75264,Michael Carrick,4-3-3,united
-2016-11-24,Europa Lg,Group stage,Thu,Home,W,4,0,nl Feyenoord,59.0,64628,Wayne Rooney,4-2-3-1,united
-2016-11-27,Premier League,Matchweek 13,Sun,Home,D,1,1,West Ham,68.0,75313,Juan Mata,4-2-3-1,united
-2016-11-30,EFL Cup,Quarter-finals,Wed,Home,W,4,1,West Ham,57.0,65269,Wayne Rooney,4-2-3-1,united
-2016-12-04,Premier League,Matchweek 14,Sun,Away,D,1,1,Everton,55.0,39550,Michael Carrick,4-3-3,united
-2016-12-08,Europa Lg,Group stage,Thu,Away,W,2,0,ua Zorya Luhansk,71.0,25900,Wayne Rooney,4-2-3-1,united
-2016-12-11,Premier League,Matchweek 15,Sun,Home,W,1,0,Tottenham,40.0,75271,Michael Carrick,4-3-3,united
-2016-12-14,Premier League,Matchweek 16,Wed,Away,W,2,1,Crystal Palace,61.0,25547,Wayne Rooney,4-3-3,united
-2016-12-17,Premier League,Matchweek 17,Sat,Away,W,2,0,West Brom,58.0,26308,Wayne Rooney,4-3-3,united
-2016-12-26,Premier League,Matchweek 18,Mon,Home,W,3,1,Sunderland,62.0,75325,Michael Carrick,4-3-3,united
-2016-12-31,Premier League,Matchweek 19,Sat,Home,W,2,1,Middlesbrough,66.0,75314,Chris Smalling,4-3-3,united
-2017-01-02,Premier League,Matchweek 20,Mon,Away,W,2,0,West Ham,64.0,56996,Michael Carrick,4-3-3,united
-2017-01-07,FA Cup,Third round,Sat,Home,W,4,0,Reading,,74396,,,united
-2017-01-10,EFL Cup,Semi-finals,Tue,Home,W,2,0,Hull City,66.0,65798,Wayne Rooney,4-2-3-1,united
-2017-01-15,Premier League,Matchweek 21,Sun,Home,D,1,1,Liverpool,56.0,75276,Michael Carrick,4-3-3,united
-2017-01-21,Premier League,Matchweek 22,Sat,Away,D,1,1,Stoke City,65.0,27423,Chris Smalling,4-3-3,united
-2017-01-26,EFL Cup,Semi-finals,Thu,Away,L,1,2,Hull City,46.0,16831,Michael Carrick,4-3-3,united
-2017-01-29,FA Cup,Fourth round,Sun,Home,W,4,0,Wigan Athletic,,75229,,,united
-2017-02-01,Premier League,Matchweek 23,Wed,Home,D,0,0,Hull City,67.0,75297,Michael Carrick,4-3-3,united
-2017-02-05,Premier League,Matchweek 24,Sun,Away,W,3,0,Leicester City,68.0,32072,Chris Smalling,4-4-2,united
-2017-02-11,Premier League,Matchweek 25,Sat,Home,W,2,0,Watford,58.0,75301,Chris Smalling,4-2-3-1,united
-2017-02-16,Europa Lg,Round of 32,Thu,Home,W,3,0,fr Saint-Étienne,62.0,67192,Chris Smalling,4-3-3,united
-2017-02-19,FA Cup,Fifth round,Sun,Away,W,2,1,Blackburn,,23130,,,united
-2017-02-22,Europa Lg,Round of 32,Wed,Away,W,1,0,fr Saint-Étienne,46.0,41492,Michael Carrick,4-3-3,united
-2017-02-26,EFL Cup,Final,Sun,Home,W,3,2,Southampton,48.0,85264,Chris Smalling,4-2-3-1,united
-2017-03-04,Premier League,Matchweek 27,Sat,Home,D,1,1,Bournemouth,68.0,75245,Wayne Rooney,4-2-3-1,united
-2017-03-09,Europa Lg,Round of 16,Thu,Away,D,1,1,ru Rostov,51.0,14223,Chris Smalling,3-5-2,united
-2017-03-13,FA Cup,Quarter-finals,Mon,Away,L,0,1,Chelsea,,40801,,,united
-2017-03-16,Europa Lg,Round of 16,Thu,Home,W,1,0,ru Rostov,69.0,64361,Chris Smalling,3-4-3,united
-2017-03-19,Premier League,Matchweek 29,Sun,Away,W,3,1,Middlesbrough,36.0,32689,Michael Carrick,4-2-3-1,united
-2017-04-01,Premier League,Matchweek 30,Sat,Home,D,0,0,West Brom,75.0,75397,Michael Carrick,4-2-3-1,united
-2017-04-04,Premier League,Matchweek 31,Tue,Home,D,1,1,Everton,62.0,75272,Michael Carrick,4-3-3,united
-2017-04-09,Premier League,Matchweek 32,Sun,Away,W,3,0,Sunderland,71.0,43779,Marouane Fellaini,4-3-3,united
-2017-04-13,Europa Lg,Quarter-finals,Thu,Away,D,1,1,be Anderlecht,64.0,20060,Michael Carrick,4-2-3-1,united
-2017-04-16,Premier League,Matchweek 33,Sun,Home,W,2,0,Chelsea,46.0,75272,Ashley Young,3-5-2,united
-2017-04-20,Europa Lg,Quarter-finals,Thu,Home,W,2,1,be Anderlecht,60.0,71496,Michael Carrick,4-2-3-1,united
-2017-04-23,Premier League,Matchweek 34,Sun,Away,W,2,0,Burnley,54.0,21870,Wayne Rooney,4-3-3,united
-2017-04-27,Premier League,Matchweek 26,Thu,Away,D,0,0,Manchester City,31.0,54176,Michael Carrick,4-3-3,united
-2017-04-30,Premier League,Matchweek 35,Sun,Home,D,1,1,Swansea City,56.0,75271,Wayne Rooney,4-2-3-1,united
-2017-05-04,Europa Lg,Semi-finals,Thu,Away,W,1,0,es Celta Vigo,42.0,26202,Antonio Valencia,4-3-3,united
-2017-05-07,Premier League,Matchweek 36,Sun,Away,L,0,2,Arsenal,50.0,60055,Wayne Rooney,4-3-3,united
-2017-05-11,Europa Lg,Semi-finals,Thu,Home,D,1,1,es Celta Vigo,33.0,75138,Antonio Valencia,4-3-3,united
-2017-05-14,Premier League,Matchweek 37,Sun,Away,L,1,2,Tottenham,40.0,31848,Wayne Rooney,4-2-3-1,united
-2017-05-17,Premier League,Matchweek 28,Wed,Away,D,0,0,Southampton,47.0,31425,Wayne Rooney,4-2-3-1,united
-2017-05-21,Premier League,Matchweek 38,Sun,Home,W,2,0,Crystal Palace,59.0,75254,Wayne Rooney,4-3-3,united
-2017-05-24,Europa Lg,Final,Wed,Away,W,2,0,nl Ajax,31.0,46961,Antonio Valencia,4-2-3-1,united
-2016-08-13,Premier League,Matchweek 1,Sat,Away,D,1,1,Southampton,36.0,31488,Troy Deeney,3-5-2,watford
-2016-08-20,Premier League,Matchweek 2,Sat,Home,L,1,2,Chelsea,38.0,20772,Troy Deeney,3-1-4-2,watford
-2016-08-23,EFL Cup,Second round,Tue,Home,L,1,2,Gillingham,57.0,7004,Troy Deeney,3-5-2,watford
-2016-08-27,Premier League,Matchweek 3,Sat,Home,L,1,3,Arsenal,45.0,20545,Troy Deeney,3-5-2,watford
-2016-09-10,Premier League,Matchweek 4,Sat,Away,W,4,2,West Ham,42.0,56974,Troy Deeney,5-3-2,watford
-2016-09-18,Premier League,Matchweek 5,Sun,Home,W,3,1,Manchester Utd,40.0,21118,Troy Deeney,3-4-1-2,watford
-2016-09-26,Premier League,Matchweek 6,Mon,Away,L,0,2,Burnley,57.0,18519,Troy Deeney,5-3-2,watford
-2016-10-01,Premier League,Matchweek 7,Sat,Home,D,2,2,Bournemouth,48.0,20575,Troy Deeney,4-3-3,watford
-2016-10-16,Premier League,Matchweek 8,Sun,Away,W,1,0,Middlesbrough,36.0,28131,Troy Deeney,5-4-1,watford
-2016-10-22,Premier League,Matchweek 9,Sat,Away,D,0,0,Swansea City,46.0,20694,Troy Deeney,5-3-2,watford
-2016-10-29,Premier League,Matchweek 10,Sat,Home,W,1,0,Hull City,54.0,20022,Troy Deeney,3-5-2,watford
-2016-11-06,Premier League,Matchweek 11,Sun,Away,L,1,6,Liverpool,40.0,53163,Troy Deeney,4-4-2,watford
-2016-11-19,Premier League,Matchweek 12,Sat,Home,W,2,1,Leicester City,46.0,20640,Troy Deeney,3-4-3,watford
-2016-11-27,Premier League,Matchweek 13,Sun,Home,L,0,1,Stoke City,50.0,20058,Troy Deeney,3-4-3,watford
-2016-12-03,Premier League,Matchweek 14,Sat,Away,L,1,3,West Brom,60.0,22244,Troy Deeney,4-4-2,watford
-2016-12-10,Premier League,Matchweek 15,Sat,Home,W,3,2,Everton,47.0,20769,Troy Deeney,4-3-3,watford
-2016-12-14,Premier League,Matchweek 16,Wed,Away,L,0,2,Manchester City,37.0,51527,Heurelho Gomes,4-4-2,watford
-2016-12-17,Premier League,Matchweek 17,Sat,Away,L,0,1,Sunderland,57.0,40267,Troy Deeney,4-4-2,watford
-2016-12-26,Premier League,Matchweek 18,Mon,Home,D,1,1,Crystal Palace,56.0,20304,Heurelho Gomes,3-4-3,watford
-2017-01-01,Premier League,Matchweek 19,Sun,Home,L,1,4,Tottenham,34.0,20882,Troy Deeney,3-4-3,watford
-2017-01-03,Premier League,Matchweek 20,Tue,Away,L,0,2,Stoke City,46.0,27010,Troy Deeney,3-5-1-1,watford
-2017-01-07,FA Cup,Third round,Sat,Home,W,2,0,Burton Albion,,13270,,,watford
-2017-01-14,Premier League,Matchweek 21,Sat,Home,D,0,0,Middlesbrough,47.0,20659,Troy Deeney,3-4-1-2,watford
-2017-01-21,Premier League,Matchweek 22,Sat,Away,D,2,2,Bournemouth,37.0,11123,Troy Deeney,3-4-1-2,watford
-2017-01-29,FA Cup,Fourth round,Sun,Away,L,0,1,Millwall,,9772,,,watford
-2017-01-31,Premier League,Matchweek 23,Tue,Away,W,2,1,Arsenal,26.0,60035,Troy Deeney,4-5-1,watford
-2017-02-04,Premier League,Matchweek 24,Sat,Home,W,2,1,Burnley,60.0,20178,Troy Deeney,4-3-3,watford
-2017-02-11,Premier League,Matchweek 25,Sat,Away,L,0,2,Manchester Utd,42.0,75301,Troy Deeney,3-4-3,watford
-2017-02-25,Premier League,Matchweek 26,Sat,Home,D,1,1,West Ham,36.0,20702,Troy Deeney,4-3-3,watford
-2017-03-04,Premier League,Matchweek 27,Sat,Home,L,3,4,Southampton,37.0,20670,Troy Deeney,4-4-2,watford
-2017-03-18,Premier League,Matchweek 29,Sat,Away,L,0,1,Crystal Palace,57.0,25109,Troy Deeney,4-5-1,watford
-2017-04-01,Premier League,Matchweek 30,Sat,Home,W,1,0,Sunderland,57.0,20805,Heurelho Gomes,4-5-1,watford
-2017-04-04,Premier League,Matchweek 31,Tue,Home,W,2,0,West Brom,55.0,20090,Troy Deeney,4-5-1,watford
-2017-04-08,Premier League,Matchweek 32,Sat,Away,L,0,4,Tottenham,42.0,31706,Heurelho Gomes,4-5-1,watford
-2017-04-15,Premier League,Matchweek 33,Sat,Home,W,1,0,Swansea City,53.0,20272,Troy Deeney,4-3-3,watford
-2017-04-22,Premier League,Matchweek 34,Sat,Away,L,0,2,Hull City,66.0,20432,Troy Deeney,4-2-3-1,watford
-2017-05-01,Premier League,Matchweek 35,Mon,Home,L,0,1,Liverpool,40.0,20959,Troy Deeney,3-5-2,watford
-2017-05-06,Premier League,Matchweek 36,Sat,Away,L,0,3,Leicester City,58.0,31628,Heurelho Gomes,3-5-2,watford
-2017-05-12,Premier League,Matchweek 37,Fri,Away,L,0,1,Everton,37.0,38550,Troy Deeney,3-5-2,watford
-2017-05-15,Premier League,Matchweek 28,Mon,Away,L,3,4,Chelsea,53.0,41473,Heurelho Gomes,3-5-1-1,watford
-2017-05-21,Premier League,Matchweek 38,Sun,Home,L,0,5,Manchester City,33.0,20829,Heurelho Gomes,4-2-3-1,watford
-2016-08-13,Premier League,Matchweek 1,Sat,Away,W,1,0,Crystal Palace,38.0,24490,Darren Fletcher,4-4-2,west-brom
-2016-08-20,Premier League,Matchweek 2,Sat,Home,L,1,2,Everton,34.0,23654,Darren Fletcher,4-4-2,west-brom
-2016-08-23,EFL Cup,Second round,Tue,Away,D,2 (3),2 (4),Northampton,50.0,5516,Gareth McAuley,4-4-1-1,west-brom
-2016-08-28,Premier League,Matchweek 3,Sun,Home,D,0,0,Middlesbrough,41.0,23690,Darren Fletcher,4-2-3-1,west-brom
-2016-09-10,Premier League,Matchweek 4,Sat,Away,L,0,1,Bournemouth,37.0,11184,Darren Fletcher,4-2-3-1,west-brom
-2016-09-17,Premier League,Matchweek 5,Sat,Home,W,4,2,West Ham,30.0,22209,Darren Fletcher,4-2-3-1,west-brom
-2016-09-24,Premier League,Matchweek 6,Sat,Away,D,1,1,Stoke City,44.0,27645,Darren Fletcher,4-1-4-1,west-brom
-2016-10-01,Premier League,Matchweek 7,Sat,Away,D,1,1,Sunderland,44.0,40043,Darren Fletcher,4-4-1-1,west-brom
-2016-10-15,Premier League,Matchweek 8,Sat,Home,D,1,1,Tottenham,29.0,24263,Darren Fletcher,4-2-3-1,west-brom
-2016-10-22,Premier League,Matchweek 9,Sat,Away,L,1,2,Liverpool,33.0,53218,Darren Fletcher,4-1-4-1,west-brom
-2016-10-29,Premier League,Matchweek 10,Sat,Home,L,0,4,Manchester City,30.0,22470,Darren Fletcher,4-1-4-1,west-brom
-2016-11-06,Premier League,Matchweek 11,Sun,Away,W,2,1,Leicester City,41.0,31879,Darren Fletcher,4-2-3-1,west-brom
-2016-11-21,Premier League,Matchweek 12,Mon,Home,W,4,0,Burnley,46.0,23016,Darren Fletcher,4-2-3-1,west-brom
-2016-11-26,Premier League,Matchweek 13,Sat,Away,D,1,1,Hull City,47.0,18086,Darren Fletcher,4-2-3-1,west-brom
-2016-12-03,Premier League,Matchweek 14,Sat,Home,W,3,1,Watford,40.0,22244,Darren Fletcher,4-2-3-1,west-brom
-2016-12-11,Premier League,Matchweek 15,Sun,Away,L,0,1,Chelsea,33.0,41622,Darren Fletcher,4-2-3-1,west-brom
-2016-12-14,Premier League,Matchweek 16,Wed,Home,W,3,1,Swansea City,40.0,21467,Darren Fletcher,4-2-3-1,west-brom
-2016-12-17,Premier League,Matchweek 17,Sat,Home,L,0,2,Manchester Utd,42.0,26308,Darren Fletcher,4-2-3-1,west-brom
-2016-12-26,Premier League,Matchweek 18,Mon,Away,L,0,1,Arsenal,24.0,59925,Darren Fletcher,4-2-3-1,west-brom
-2016-12-31,Premier League,Matchweek 19,Sat,Away,W,2,1,Southampton,32.0,30975,Darren Fletcher,4-2-3-1,west-brom
-2017-01-02,Premier League,Matchweek 20,Mon,Home,W,3,1,Hull City,41.0,23402,Darren Fletcher,4-2-3-1,west-brom
-2017-01-07,FA Cup,Third round,Sat,Home,L,1,2,Derby County,,25288,,,west-brom
-2017-01-14,Premier League,Matchweek 21,Sat,Away,L,0,4,Tottenham,27.0,31613,Darren Fletcher,4-2-3-1,west-brom
-2017-01-21,Premier League,Matchweek 22,Sat,Home,W,2,0,Sunderland,44.0,24380,Darren Fletcher,4-2-3-1,west-brom
-2017-01-31,Premier League,Matchweek 23,Tue,Away,D,1,1,Middlesbrough,38.0,27316,Darren Fletcher,4-2-3-1,west-brom
-2017-02-04,Premier League,Matchweek 24,Sat,Home,W,1,0,Stoke City,38.0,23921,Darren Fletcher,4-2-3-1,west-brom
-2017-02-11,Premier League,Matchweek 25,Sat,Away,D,2,2,West Ham,35.0,56983,Darren Fletcher,4-2-3-1,west-brom
-2017-02-25,Premier League,Matchweek 26,Sat,Home,W,2,1,Bournemouth,32.0,24162,Darren Fletcher,4-1-4-1,west-brom
-2017-03-04,Premier League,Matchweek 27,Sat,Home,L,0,2,Crystal Palace,52.0,24051,Darren Fletcher,4-1-4-1,west-brom
-2017-03-11,Premier League,Matchweek 28,Sat,Away,L,0,3,Everton,37.0,39592,Darren Fletcher,4-3-3,west-brom
-2017-03-18,Premier League,Matchweek 29,Sat,Home,W,3,1,Arsenal,23.0,24065,Darren Fletcher,4-5-1,west-brom
-2017-04-01,Premier League,Matchweek 30,Sat,Away,D,0,0,Manchester Utd,25.0,75397,Darren Fletcher,4-5-1,west-brom
-2017-04-04,Premier League,Matchweek 31,Tue,Away,L,0,2,Watford,45.0,20090,Darren Fletcher,4-3-3,west-brom
-2017-04-08,Premier League,Matchweek 32,Sat,Home,L,0,1,Southampton,42.0,24697,Darren Fletcher,4-2-3-1,west-brom
-2017-04-16,Premier League,Matchweek 33,Sun,Home,L,0,1,Liverpool,36.0,25669,Darren Fletcher,4-3-3,west-brom
-2017-04-29,Premier League,Matchweek 35,Sat,Home,L,0,1,Leicester City,55.0,24611,Jonny Evans,4-2-3-1,west-brom
-2017-05-06,Premier League,Matchweek 36,Sat,Away,D,2,2,Burnley,45.0,20825,Darren Fletcher,4-1-4-1,west-brom
-2017-05-12,Premier League,Matchweek 37,Fri,Home,L,0,1,Chelsea,32.0,25367,Darren Fletcher,4-1-4-1,west-brom
-2017-05-16,Premier League,Matchweek 34,Tue,Away,L,1,3,Manchester City,29.0,53624,Darren Fletcher,4-1-4-1,west-brom
-2017-05-21,Premier League,Matchweek 38,Sun,Away,L,1,2,Swansea City,35.0,20889,Darren Fletcher,3-5-1-1,west-brom
-2016-07-28,Europa Lg,Third qualifying round,Thu,Away,L,1,2,si NK Domžale,59.0,8458,Mark Noble,4-5-1,west-ham
-2016-08-04,Europa Lg,Third qualifying round,Thu,Home,W,3,0,si NK Domžale,,53914,Mark Noble,4-1-4-1,west-ham
-2016-08-15,Premier League,Matchweek 1,Mon,Away,L,1,2,Chelsea,38.0,41521,Mark Noble,4-3-3,west-ham
-2016-08-18,Europa Lg,Play-off round,Thu,Away,D,1,1,ro Astra Giurgiu,44.0,3360,Mark Noble,4-4-2,west-ham
-2016-08-21,Premier League,Matchweek 2,Sun,Home,W,1,0,Bournemouth,47.0,56977,Mark Noble,4-2-3-1,west-ham
-2016-08-25,Europa Lg,Play-off round,Thu,Home,L,0,1,ro Astra Giurgiu,65.0,56932,Winston Reid,4-1-4-1,west-ham
-2016-08-28,Premier League,Matchweek 3,Sun,Away,L,1,3,Manchester City,33.0,54008,Mark Noble,3-5-2,west-ham
-2016-09-10,Premier League,Matchweek 4,Sat,Home,L,2,4,Watford,58.0,56974,Mark Noble,4-2-3-1,west-ham
-2016-09-17,Premier League,Matchweek 5,Sat,Away,L,2,4,West Brom,70.0,22209,Mark Noble,4-2-3-1,west-ham
-2016-09-21,EFL Cup,Third round,Wed,Home,W,1,0,Acc'ton Stanley,63.0,39877,Darren Randolph,4-2-3-1,west-ham
-2016-09-25,Premier League,Matchweek 6,Sun,Home,L,0,3,Southampton,45.0,56864,Mark Noble,4-2-3-1,west-ham
-2016-10-01,Premier League,Matchweek 7,Sat,Home,D,1,1,Middlesbrough,40.0,56945,Mark Noble,4-3-3,west-ham
-2016-10-15,Premier League,Matchweek 8,Sat,Away,W,1,0,Crystal Palace,45.0,25643,Mark Noble,3-4-3,west-ham
-2016-10-22,Premier League,Matchweek 9,Sat,Home,W,1,0,Sunderland,64.0,56985,Mark Noble,3-4-3,west-ham
-2016-10-26,EFL Cup,Fourth round,Wed,Home,W,2,1,Chelsea,47.0,45957,Mark Noble,3-4-3,west-ham
-2016-10-30,Premier League,Matchweek 10,Sun,Away,L,0,2,Everton,51.0,39574,Mark Noble,3-4-3,west-ham
-2016-11-05,Premier League,Matchweek 11,Sat,Home,D,1,1,Stoke City,58.0,56970,Mark Noble,3-4-3,west-ham
-2016-11-19,Premier League,Matchweek 12,Sat,Away,L,2,3,Tottenham,33.0,31212,Winston Reid,3-4-3,west-ham
-2016-11-27,Premier League,Matchweek 13,Sun,Away,D,1,1,Manchester Utd,32.0,75313,Mark Noble,3-4-3,west-ham
-2016-11-30,EFL Cup,Quarter-finals,Wed,Away,L,1,4,Manchester Utd,43.0,65269,Winston Reid,3-4-3,west-ham
-2016-12-03,Premier League,Matchweek 14,Sat,Home,L,1,5,Arsenal,51.0,56980,Mark Noble,3-4-3,west-ham
-2016-12-11,Premier League,Matchweek 15,Sun,Away,D,2,2,Liverpool,32.0,53068,Mark Noble,4-1-4-1,west-ham
-2016-12-14,Premier League,Matchweek 16,Wed,Home,W,1,0,Burnley,58.0,56990,Mark Noble,3-4-3,west-ham
-2016-12-17,Premier League,Matchweek 17,Sat,Home,W,1,0,Hull City,56.0,56952,Mark Noble,3-4-3,west-ham
-2016-12-26,Premier League,Matchweek 18,Mon,Away,W,4,1,Swansea City,44.0,20757,Mark Noble,4-2-3-1,west-ham
-2016-12-31,Premier League,Matchweek 19,Sat,Away,L,0,1,Leicester City,60.0,32060,Mark Noble,4-2-3-1,west-ham
-2017-01-02,Premier League,Matchweek 20,Mon,Home,L,0,2,Manchester Utd,36.0,56996,Winston Reid,4-3-3,west-ham
-2017-01-06,FA Cup,Third round,Fri,Home,L,0,5,Manchester City,,56975,,,west-ham
-2017-01-14,Premier League,Matchweek 21,Sat,Home,W,3,0,Crystal Palace,44.0,56984,Mark Noble,3-4-3,west-ham
-2017-01-21,Premier League,Matchweek 22,Sat,Away,W,3,1,Middlesbrough,39.0,30848,Mark Noble,4-4-2,west-ham
-2017-02-01,Premier League,Matchweek 23,Wed,Home,L,0,4,Manchester City,30.0,56980,Mark Noble,4-2-3-1,west-ham
-2017-02-04,Premier League,Matchweek 24,Sat,Away,W,3,1,Southampton,45.0,31891,Mark Noble,4-4-2,west-ham
-2017-02-11,Premier League,Matchweek 25,Sat,Home,D,2,2,West Brom,65.0,56983,Mark Noble,4-2-3-1,west-ham
-2017-02-25,Premier League,Matchweek 26,Sat,Away,D,1,1,Watford,64.0,20702,Mark Noble,4-2-3-1,west-ham
-2017-03-06,Premier League,Matchweek 27,Mon,Home,L,1,2,Chelsea,52.0,56984,Mark Noble,4-3-3,west-ham
-2017-03-11,Premier League,Matchweek 28,Sat,Away,L,2,3,Bournemouth,48.0,11369,Mark Noble,4-4-1-1,west-ham
-2017-03-18,Premier League,Matchweek 29,Sat,Home,L,2,3,Leicester City,59.0,56979,Winston Reid,4-2-3-1,west-ham
-2017-04-01,Premier League,Matchweek 30,Sat,Away,L,1,2,Hull City,55.0,20820,Andy Carroll,4-2-3-1,west-ham
-2017-04-05,Premier League,Matchweek 31,Wed,Away,L,0,3,Arsenal,34.0,59961,Mark Noble,4-1-4-1,west-ham
-2017-04-08,Premier League,Matchweek 32,Sat,Home,W,1,0,Swansea City,46.0,56973,Mark Noble,4-4-1-1,west-ham
-2017-04-15,Premier League,Matchweek 33,Sat,Away,D,2,2,Sunderland,53.0,40168,Andy Carroll,4-2-3-1,west-ham
-2017-04-22,Premier League,Matchweek 34,Sat,Home,D,0,0,Everton,41.0,56971,Winston Reid,3-4-1-2,west-ham
-2017-04-29,Premier League,Matchweek 35,Sat,Away,D,0,0,Stoke City,43.0,27628,Winston Reid,3-4-1-2,west-ham
-2017-05-05,Premier League,Matchweek 36,Fri,Home,W,1,0,Tottenham,32.0,56992,Mark Noble,3-4-3,west-ham
-2017-05-14,Premier League,Matchweek 37,Sun,Home,L,0,4,Liverpool,33.0,56985,Winston Reid,3-4-3,west-ham
-2017-05-21,Premier League,Matchweek 38,Sun,Away,W,2,1,Burnley,56.0,21634,James Collins,3-4-3,west-ham
+Date,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,team
+2016-08-14,Premier League,Matchweek 1,Sun,Home,L,3,4,Liverpool,51.0,60033,Petr Čech,arsenal
+2016-08-20,Premier League,Matchweek 2,Sat,Away,D,0,0,Leicester City,61.0,32008,Laurent Koscielny,arsenal
+2016-08-27,Premier League,Matchweek 3,Sat,Away,W,3,1,Watford,55.0,20545,Laurent Koscielny,arsenal
+2016-09-10,Premier League,Matchweek 4,Sat,Home,W,2,1,Southampton,57.0,59962,Laurent Koscielny,arsenal
+2016-09-13,Champions Lg,Group stage,Tue,Away,D,1,1,fr Paris S-G,48.0,46440,Laurent Koscielny,arsenal
+2016-09-17,Premier League,Matchweek 5,Sat,Away,W,4,1,Hull City,61.0,22536,Laurent Koscielny,arsenal
+2016-09-20,EFL Cup,Third round,Tue,Away,W,4,0,Nott'ham Forest,61.0,28567,Kieran Gibbs,arsenal
+2016-09-24,Premier League,Matchweek 6,Sat,Home,W,3,0,Chelsea,50.0,60028,Laurent Koscielny,arsenal
+2016-09-28,Champions Lg,Group stage,Wed,Home,W,2,0,ch Basel,65.0,59993,Laurent Koscielny,arsenal
+2016-10-02,Premier League,Matchweek 7,Sun,Away,W,1,0,Burnley,67.0,20982,Laurent Koscielny,arsenal
+2016-10-15,Premier League,Matchweek 8,Sat,Home,W,3,2,Swansea City,49.0,60007,Laurent Koscielny,arsenal
+2016-10-19,Champions Lg,Group stage,Wed,Home,W,6,0,bg Ludogorets,43.0,59944,Laurent Koscielny,arsenal
+2016-10-22,Premier League,Matchweek 9,Sat,Home,D,0,0,Middlesbrough,75.0,59982,Laurent Koscielny,arsenal
+2016-10-25,EFL Cup,Fourth round,Tue,Home,W,2,0,Reading,60.0,59865,Kieran Gibbs,arsenal
+2016-10-29,Premier League,Matchweek 10,Sat,Away,W,4,1,Sunderland,66.0,44322,Laurent Koscielny,arsenal
+2016-11-01,Champions Lg,Group stage,Tue,Away,W,3,2,bg Ludogorets,58.0,30862,Laurent Koscielny,arsenal
+2016-11-06,Premier League,Matchweek 11,Sun,Home,D,1,1,Tottenham,46.0,60039,Laurent Koscielny,arsenal
+2016-11-19,Premier League,Matchweek 12,Sat,Away,D,1,1,Manchester Utd,55.0,75264,Laurent Koscielny,arsenal
+2016-11-23,Champions Lg,Group stage,Wed,Home,D,2,2,fr Paris S-G,46.0,59628,Laurent Koscielny,arsenal
+2016-11-27,Premier League,Matchweek 13,Sun,Home,W,3,1,Bournemouth,52.0,59978,Laurent Koscielny,arsenal
+2016-11-30,EFL Cup,Quarter-finals,Wed,Home,L,0,2,Southampton,63.0,59013,Kieran Gibbs,arsenal
+2016-12-03,Premier League,Matchweek 14,Sat,Away,W,5,1,West Ham,50.0,56980,Laurent Koscielny,arsenal
+2016-12-06,Champions Lg,Group stage,Tue,Away,W,4,1,ch Basel,59.0,36000,Laurent Koscielny,arsenal
+2016-12-10,Premier League,Matchweek 15,Sat,Home,W,3,1,Stoke City,64.0,59964,Laurent Koscielny,arsenal
+2016-12-13,Premier League,Matchweek 16,Tue,Away,L,1,2,Everton,59.0,39510,Laurent Koscielny,arsenal
+2016-12-18,Premier League,Matchweek 17,Sun,Away,L,1,2,Manchester City,39.0,54409,Laurent Koscielny,arsenal
+2016-12-26,Premier League,Matchweek 18,Mon,Home,W,1,0,West Brom,76.0,59925,Laurent Koscielny,arsenal
+2017-01-01,Premier League,Matchweek 19,Sun,Home,W,2,0,Crystal Palace,64.0,59975,Laurent Koscielny,arsenal
+2017-01-03,Premier League,Matchweek 20,Tue,Away,D,3,3,Bournemouth,60.0,11202,Laurent Koscielny,arsenal
+2017-01-07,FA Cup,Third round,Sat,Away,W,2,1,Preston,,22185,,arsenal
+2017-01-14,Premier League,Matchweek 21,Sat,Away,W,4,0,Swansea City,57.0,20875,Laurent Koscielny,arsenal
+2017-01-22,Premier League,Matchweek 22,Sun,Home,W,2,1,Burnley,70.0,59955,Laurent Koscielny,arsenal
+2017-01-28,FA Cup,Fourth round,Sat,Away,W,5,0,Southampton,,31288,,arsenal
+2017-01-31,Premier League,Matchweek 23,Tue,Home,L,1,2,Watford,74.0,60035,Laurent Koscielny,arsenal
+2017-02-04,Premier League,Matchweek 24,Sat,Away,L,1,3,Chelsea,59.0,41490,Laurent Koscielny,arsenal
+2017-02-11,Premier League,Matchweek 25,Sat,Home,W,2,0,Hull City,49.0,59962,Laurent Koscielny,arsenal
+2017-02-15,Champions Lg,Round of 16,Wed,Away,L,1,5,de Bayern Munich,26.0,70000,Laurent Koscielny,arsenal
+2017-02-20,FA Cup,Fifth round,Mon,Away,W,2,0,Sutton United,,5013,,arsenal
+2017-03-04,Premier League,Matchweek 27,Sat,Away,L,1,3,Liverpool,48.0,53146,Laurent Koscielny,arsenal
+2017-03-07,Champions Lg,Round of 16,Tue,Home,L,1,5,de Bayern Munich,43.0,59911,Laurent Koscielny,arsenal
+2017-03-11,FA Cup,Quarter-finals,Sat,Home,W,5,0,Lincoln City,,59454,,arsenal
+2017-03-18,Premier League,Matchweek 29,Sat,Away,L,1,3,West Brom,77.0,24065,Laurent Koscielny,arsenal
+2017-04-02,Premier League,Matchweek 30,Sun,Home,D,2,2,Manchester City,44.0,60001,Laurent Koscielny,arsenal
+2017-04-05,Premier League,Matchweek 31,Wed,Home,W,3,0,West Ham,66.0,59961,Theo Walcott,arsenal
+2017-04-10,Premier League,Matchweek 32,Mon,Away,L,0,3,Crystal Palace,72.0,25648,Theo Walcott,arsenal
+2017-04-17,Premier League,Matchweek 33,Mon,Away,W,2,1,Middlesbrough,65.0,31298,Laurent Koscielny,arsenal
+2017-04-23,FA Cup,Semi-finals,Sun,Home,W,2,1,Manchester City,,85725,,arsenal
+2017-04-26,Premier League,Matchweek 28,Wed,Home,W,1,0,Leicester City,69.0,59829,Laurent Koscielny,arsenal
+2017-04-30,Premier League,Matchweek 35,Sun,Away,L,0,2,Tottenham,49.0,31811,Laurent Koscielny,arsenal
+2017-05-07,Premier League,Matchweek 36,Sun,Home,W,2,0,Manchester Utd,50.0,60055,Laurent Koscielny,arsenal
+2017-05-10,Premier League,Matchweek 26,Wed,Away,W,2,0,Southampton,53.0,31474,Petr Čech,arsenal
+2017-05-13,Premier League,Matchweek 37,Sat,Away,W,4,1,Stoke City,67.0,27535,Laurent Koscielny,arsenal
+2017-05-16,Premier League,Matchweek 34,Tue,Home,W,2,0,Sunderland,63.0,59510,Petr Čech,arsenal
+2017-05-21,Premier League,Matchweek 38,Sun,Home,W,3,1,Everton,50.0,59976,Laurent Koscielny,arsenal
+2017-05-27,FA Cup,Final,Sat,Home,W,2,1,Chelsea,,89472,,arsenal
+2016-08-14,Premier League,Matchweek 1,Sun,Home,L,1,3,Manchester Utd,47.0,11355,Simon Francis,bournemouth
+2016-08-21,Premier League,Matchweek 2,Sun,Away,L,0,1,West Ham,53.0,56977,Simon Francis,bournemouth
+2016-08-24,EFL Cup,Second round,Wed,Away,W,2,1,Morecambe,60.0,2542,Simon Francis,bournemouth
+2016-08-27,Premier League,Matchweek 3,Sat,Away,D,1,1,Crystal Palace,41.0,23503,Simon Francis,bournemouth
+2016-09-10,Premier League,Matchweek 4,Sat,Home,W,1,0,West Brom,64.0,11184,Simon Francis,bournemouth
+2016-09-17,Premier League,Matchweek 5,Sat,Away,L,0,4,Manchester City,36.0,54335,Simon Francis,bournemouth
+2016-09-20,EFL Cup,Third round,Tue,Home,L,2,3,Preston,56.0,7595,Dan Gosling,bournemouth
+2016-09-24,Premier League,Matchweek 6,Sat,Home,W,1,0,Everton,53.0,11291,Simon Francis,bournemouth
+2016-10-01,Premier League,Matchweek 7,Sat,Away,D,2,2,Watford,52.0,20575,Simon Francis,bournemouth
+2016-10-15,Premier League,Matchweek 8,Sat,Home,W,6,1,Hull City,50.0,11029,Simon Francis,bournemouth
+2016-10-22,Premier League,Matchweek 9,Sat,Home,D,0,0,Tottenham,38.0,11201,Simon Francis,bournemouth
+2016-10-29,Premier League,Matchweek 10,Sat,Away,L,0,2,Middlesbrough,60.0,29600,Simon Francis,bournemouth
+2016-11-05,Premier League,Matchweek 11,Sat,Home,L,1,2,Sunderland,70.0,11084,Simon Francis,bournemouth
+2016-11-19,Premier League,Matchweek 12,Sat,Away,W,1,0,Stoke City,49.0,27815,Simon Francis,bournemouth
+2016-11-27,Premier League,Matchweek 13,Sun,Away,L,1,3,Arsenal,49.0,59978,Simon Francis,bournemouth
+2016-12-04,Premier League,Matchweek 14,Sun,Home,W,4,3,Liverpool,40.0,11183,Simon Francis,bournemouth
+2016-12-10,Premier League,Matchweek 15,Sat,Away,L,2,3,Burnley,69.0,19680,Simon Francis,bournemouth
+2016-12-13,Premier League,Matchweek 16,Tue,Home,W,1,0,Leicester City,63.0,11068,Simon Francis,bournemouth
+2016-12-18,Premier League,Matchweek 17,Sun,Home,L,1,3,Southampton,47.0,11113,Simon Francis,bournemouth
+2016-12-26,Premier League,Matchweek 18,Mon,Away,L,0,3,Chelsea,56.0,41384,Simon Francis,bournemouth
+2016-12-31,Premier League,Matchweek 19,Sat,Away,W,3,0,Swansea City,55.0,20316,Simon Francis,bournemouth
+2017-01-03,Premier League,Matchweek 20,Tue,Home,D,3,3,Arsenal,40.0,11202,Simon Francis,bournemouth
+2017-01-07,FA Cup,Third round,Sat,Away,L,0,3,Millwall,,9471,,bournemouth
+2017-01-14,Premier League,Matchweek 21,Sat,Away,L,1,3,Hull City,61.0,17963,Andrew Surman,bournemouth
+2017-01-21,Premier League,Matchweek 22,Sat,Home,D,2,2,Watford,63.0,11123,Andrew Surman,bournemouth
+2017-01-31,Premier League,Matchweek 23,Tue,Home,L,0,2,Crystal Palace,65.0,11286,Simon Francis,bournemouth
+2017-02-04,Premier League,Matchweek 24,Sat,Away,L,3,6,Everton,54.0,39026,Simon Francis,bournemouth
+2017-02-13,Premier League,Matchweek 25,Mon,Home,L,0,2,Manchester City,38.0,11129,Simon Francis,bournemouth
+2017-02-25,Premier League,Matchweek 26,Sat,Away,L,1,2,West Brom,68.0,24162,Andrew Surman,bournemouth
+2017-03-04,Premier League,Matchweek 27,Sat,Away,D,1,1,Manchester Utd,32.0,75245,Andrew Surman,bournemouth
+2017-03-11,Premier League,Matchweek 28,Sat,Home,W,3,2,West Ham,52.0,11369,Simon Francis,bournemouth
+2017-03-18,Premier League,Matchweek 29,Sat,Home,W,2,0,Swansea City,48.0,11240,Simon Francis,bournemouth
+2017-04-01,Premier League,Matchweek 30,Sat,Away,D,0,0,Southampton,39.0,31847,Simon Francis,bournemouth
+2017-04-05,Premier League,Matchweek 31,Wed,Away,D,2,2,Liverpool,33.0,53292,Simon Francis,bournemouth
+2017-04-08,Premier League,Matchweek 32,Sat,Home,L,1,3,Chelsea,51.0,11283,Simon Francis,bournemouth
+2017-04-15,Premier League,Matchweek 33,Sat,Away,L,0,4,Tottenham,31.0,31943,Simon Francis,bournemouth
+2017-04-22,Premier League,Matchweek 34,Sat,Home,W,4,0,Middlesbrough,68.0,10890,Simon Francis,bournemouth
+2017-04-29,Premier League,Matchweek 35,Sat,Away,W,1,0,Sunderland,59.0,38394,Simon Francis,bournemouth
+2017-05-06,Premier League,Matchweek 36,Sat,Home,D,2,2,Stoke City,58.0,11046,Simon Francis,bournemouth
+2017-05-13,Premier League,Matchweek 37,Sat,Home,W,2,1,Burnley,55.0,11388,Simon Francis,bournemouth
+2017-05-21,Premier League,Matchweek 38,Sun,Away,D,1,1,Leicester City,51.0,32000,Simon Francis,bournemouth
+2016-08-13,Premier League,Matchweek 1,Sat,Home,L,0,1,Swansea City,48.0,19126,Tom Heaton,burnley
+2016-08-20,Premier League,Matchweek 2,Sat,Home,W,2,0,Liverpool,20.0,21313,Tom Heaton,burnley
+2016-08-24,EFL Cup,Second round,Wed,Away,L,0,1,Acc'ton Stanley,59.0,3170,James Tarkowski,burnley
+2016-08-27,Premier League,Matchweek 3,Sat,Away,L,0,3,Chelsea,40.0,41607,Tom Heaton,burnley
+2016-09-10,Premier League,Matchweek 4,Sat,Home,D,1,1,Hull City,39.0,18803,Tom Heaton,burnley
+2016-09-17,Premier League,Matchweek 5,Sat,Away,L,0,3,Leicester City,41.0,31916,Tom Heaton,burnley
+2016-09-26,Premier League,Matchweek 6,Mon,Home,W,2,0,Watford,44.0,18519,Tom Heaton,burnley
+2016-10-02,Premier League,Matchweek 7,Sun,Home,L,0,1,Arsenal,33.0,20982,Tom Heaton,burnley
+2016-10-16,Premier League,Matchweek 8,Sun,Away,L,1,3,Southampton,35.0,29040,Tom Heaton,burnley
+2016-10-22,Premier League,Matchweek 9,Sat,Home,W,2,1,Everton,35.0,21416,Tom Heaton,burnley
+2016-10-29,Premier League,Matchweek 10,Sat,Away,D,0,0,Manchester Utd,28.0,75325,Tom Heaton,burnley
+2016-11-05,Premier League,Matchweek 11,Sat,Home,W,3,2,Crystal Palace,38.0,19196,Tom Heaton,burnley
+2016-11-21,Premier League,Matchweek 12,Mon,Away,L,0,4,West Brom,55.0,23016,Tom Heaton,burnley
+2016-11-26,Premier League,Matchweek 13,Sat,Home,L,1,2,Manchester City,33.0,21794,Ben Mee,burnley
+2016-12-03,Premier League,Matchweek 14,Sat,Away,L,0,2,Stoke City,44.0,27306,Ben Mee,burnley
+2016-12-10,Premier League,Matchweek 15,Sat,Home,W,3,2,Bournemouth,31.0,19680,Tom Heaton,burnley
+2016-12-14,Premier League,Matchweek 16,Wed,Away,L,0,1,West Ham,42.0,56990,Tom Heaton,burnley
+2016-12-18,Premier League,Matchweek 17,Sun,Away,L,1,2,Tottenham,40.0,31467,Tom Heaton,burnley
+2016-12-26,Premier League,Matchweek 18,Mon,Home,W,1,0,Middlesbrough,46.0,21562,Tom Heaton,burnley
+2016-12-31,Premier League,Matchweek 19,Sat,Home,W,4,1,Sunderland,46.0,21124,Tom Heaton,burnley
+2017-01-02,Premier League,Matchweek 20,Mon,Away,L,1,2,Manchester City,45.0,54463,Tom Heaton,burnley
+2017-01-07,FA Cup,Third round,Sat,Away,D,0,0,Sunderland,,17632,,burnley
+2017-01-14,Premier League,Matchweek 21,Sat,Home,W,1,0,Southampton,41.0,20254,Tom Heaton,burnley
+2017-01-17,FA Cup,Third round,Tue,Home,W,2,0,Sunderland,,12257,,burnley
+2017-01-22,Premier League,Matchweek 22,Sun,Away,L,1,2,Arsenal,30.0,59955,Tom Heaton,burnley
+2017-01-28,FA Cup,Fourth round,Sat,Home,W,2,0,Bristol City,,14921,,burnley
+2017-01-31,Premier League,Matchweek 23,Tue,Home,W,1,0,Leicester City,59.0,19202,Tom Heaton,burnley
+2017-02-04,Premier League,Matchweek 24,Sat,Away,L,1,2,Watford,40.0,20178,Tom Heaton,burnley
+2017-02-12,Premier League,Matchweek 25,Sun,Home,D,1,1,Chelsea,29.0,21744,Tom Heaton,burnley
+2017-02-18,FA Cup,Fifth round,Sat,Home,L,0,1,Lincoln City,,19185,,burnley
+2017-02-25,Premier League,Matchweek 26,Sat,Away,D,1,1,Hull City,34.0,20156,Tom Heaton,burnley
+2017-03-04,Premier League,Matchweek 27,Sat,Away,L,2,3,Swansea City,29.0,20679,Ben Mee,burnley
+2017-03-12,Premier League,Matchweek 28,Sun,Away,L,1,2,Liverpool,36.0,53145,Tom Heaton,burnley
+2017-03-18,Premier League,Matchweek 29,Sat,Away,D,0,0,Sunderland,56.0,41518,Tom Heaton,burnley
+2017-04-01,Premier League,Matchweek 30,Sat,Home,L,0,2,Tottenham,38.0,21684,Tom Heaton,burnley
+2017-04-04,Premier League,Matchweek 31,Tue,Home,W,1,0,Stoke City,48.0,19881,Tom Heaton,burnley
+2017-04-08,Premier League,Matchweek 32,Sat,Away,D,0,0,Middlesbrough,44.0,29547,Tom Heaton,burnley
+2017-04-15,Premier League,Matchweek 33,Sat,Away,L,1,3,Everton,37.0,39328,Tom Heaton,burnley
+2017-04-23,Premier League,Matchweek 34,Sun,Home,L,0,2,Manchester Utd,46.0,21870,Tom Heaton,burnley
+2017-04-29,Premier League,Matchweek 35,Sat,Away,W,2,0,Crystal Palace,36.0,25013,Tom Heaton,burnley
+2017-05-06,Premier League,Matchweek 36,Sat,Home,D,2,2,West Brom,55.0,20825,Tom Heaton,burnley
+2017-05-13,Premier League,Matchweek 37,Sat,Away,L,1,2,Bournemouth,45.0,11388,Tom Heaton,burnley
+2017-05-21,Premier League,Matchweek 38,Sun,Home,L,1,2,West Ham,44.0,21634,Kevin Long,burnley
+2016-08-15,Premier League,Matchweek 1,Mon,Home,W,2,1,West Ham,62.0,41521,John Terry,chelsea
+2016-08-20,Premier League,Matchweek 2,Sat,Away,W,2,1,Watford,62.0,20772,John Terry,chelsea
+2016-08-23,EFL Cup,Second round,Tue,Home,W,3,2,Bristol Rovers,54.0,39276,Branislav Ivanović,chelsea
+2016-08-27,Premier League,Matchweek 3,Sat,Home,W,3,0,Burnley,60.0,41607,John Terry,chelsea
+2016-09-11,Premier League,Matchweek 4,Sun,Away,D,2,2,Swansea City,55.0,20865,John Terry,chelsea
+2016-09-16,Premier League,Matchweek 5,Fri,Home,L,1,2,Liverpool,53.0,41514,Branislav Ivanović,chelsea
+2016-09-20,EFL Cup,Third round,Tue,Away,W,4,2,Leicester City,67.0,29899,Gary Cahill,chelsea
+2016-09-24,Premier League,Matchweek 6,Sat,Away,L,0,3,Arsenal,51.0,60028,Branislav Ivanović,chelsea
+2016-10-01,Premier League,Matchweek 7,Sat,Away,W,2,0,Hull City,59.0,21257,Gary Cahill,chelsea
+2016-10-15,Premier League,Matchweek 8,Sat,Home,W,3,0,Leicester City,55.0,41547,Gary Cahill,chelsea
+2016-10-23,Premier League,Matchweek 9,Sun,Home,W,4,0,Manchester Utd,44.0,41424,Gary Cahill,chelsea
+2016-10-26,EFL Cup,Fourth round,Wed,Away,L,1,2,West Ham,53.0,45957,John Terry,chelsea
+2016-10-30,Premier League,Matchweek 10,Sun,Away,W,2,0,Southampton,45.0,31827,Gary Cahill,chelsea
+2016-11-05,Premier League,Matchweek 11,Sat,Home,W,5,0,Everton,60.0,41429,Gary Cahill,chelsea
+2016-11-20,Premier League,Matchweek 12,Sun,Away,W,1,0,Middlesbrough,58.0,32704,Gary Cahill,chelsea
+2016-11-26,Premier League,Matchweek 13,Sat,Home,W,2,1,Tottenham,46.0,41513,Gary Cahill,chelsea
+2016-12-03,Premier League,Matchweek 14,Sat,Away,W,3,1,Manchester City,39.0,54457,Gary Cahill,chelsea
+2016-12-11,Premier League,Matchweek 15,Sun,Home,W,1,0,West Brom,67.0,41622,Gary Cahill,chelsea
+2016-12-14,Premier League,Matchweek 16,Wed,Away,W,1,0,Sunderland,66.0,41008,Gary Cahill,chelsea
+2016-12-17,Premier League,Matchweek 17,Sat,Away,W,1,0,Crystal Palace,47.0,25259,Gary Cahill,chelsea
+2016-12-26,Premier League,Matchweek 18,Mon,Home,W,3,0,Bournemouth,44.0,41384,Gary Cahill,chelsea
+2016-12-31,Premier League,Matchweek 19,Sat,Home,W,4,2,Stoke City,60.0,41601,Gary Cahill,chelsea
+2017-01-04,Premier League,Matchweek 20,Wed,Away,L,0,2,Tottenham,55.0,31491,Gary Cahill,chelsea
+2017-01-08,FA Cup,Third round,Sun,Home,W,4,1,P'borough Utd,,41003,,chelsea
+2017-01-14,Premier League,Matchweek 21,Sat,Away,W,3,0,Leicester City,65.0,32066,Gary Cahill,chelsea
+2017-01-22,Premier League,Matchweek 22,Sun,Home,W,2,0,Hull City,53.0,41605,Gary Cahill,chelsea
+2017-01-28,FA Cup,Fourth round,Sat,Home,W,4,0,Brentford,,41042,,chelsea
+2017-01-31,Premier League,Matchweek 23,Tue,Away,D,1,1,Liverpool,38.0,53157,Gary Cahill,chelsea
+2017-02-04,Premier League,Matchweek 24,Sat,Home,W,3,1,Arsenal,42.0,41490,Gary Cahill,chelsea
+2017-02-12,Premier League,Matchweek 25,Sun,Away,D,1,1,Burnley,71.0,21744,Gary Cahill,chelsea
+2017-02-18,FA Cup,Fifth round,Sat,Away,W,2,0,Wolves,,30193,,chelsea
+2017-02-25,Premier League,Matchweek 26,Sat,Home,W,3,1,Swansea City,66.0,41612,Gary Cahill,chelsea
+2017-03-06,Premier League,Matchweek 27,Mon,Away,W,2,1,West Ham,48.0,56984,Gary Cahill,chelsea
+2017-03-13,FA Cup,Quarter-finals,Mon,Home,W,1,0,Manchester Utd,,40801,,chelsea
+2017-03-18,Premier League,Matchweek 29,Sat,Away,W,2,1,Stoke City,64.0,27724,Gary Cahill,chelsea
+2017-04-01,Premier League,Matchweek 30,Sat,Home,L,1,2,Crystal Palace,73.0,41489,Gary Cahill,chelsea
+2017-04-05,Premier League,Matchweek 31,Wed,Home,W,2,1,Manchester City,40.0,41528,Gary Cahill,chelsea
+2017-04-08,Premier League,Matchweek 32,Sat,Away,W,3,1,Bournemouth,49.0,11283,Gary Cahill,chelsea
+2017-04-16,Premier League,Matchweek 33,Sun,Away,L,0,2,Manchester Utd,54.0,75272,Gary Cahill,chelsea
+2017-04-22,FA Cup,Semi-finals,Sat,Home,W,4,2,Tottenham,,86355,,chelsea
+2017-04-25,Premier League,Matchweek 34,Tue,Home,W,4,2,Southampton,48.0,41168,Gary Cahill,chelsea
+2017-04-30,Premier League,Matchweek 35,Sun,Away,W,3,0,Everton,50.0,39595,Gary Cahill,chelsea
+2017-05-08,Premier League,Matchweek 36,Mon,Home,W,3,0,Middlesbrough,57.0,41500,Gary Cahill,chelsea
+2017-05-12,Premier League,Matchweek 37,Fri,Away,W,1,0,West Brom,68.0,25367,Gary Cahill,chelsea
+2017-05-15,Premier League,Matchweek 28,Mon,Home,W,4,3,Watford,47.0,41473,John Terry,chelsea
+2017-05-21,Premier League,Matchweek 38,Sun,Home,W,5,1,Sunderland,72.0,41618,John Terry,chelsea
+2017-05-27,FA Cup,Final,Sat,Away,L,1,2,Arsenal,,89472,,chelsea
+2016-08-13,Premier League,Matchweek 1,Sat,Home,W,2,1,Sunderland,77.0,54362,David Silva,city
+2016-08-16,Champions Lg,Play-off round,Tue,Away,W,5,0,ro Steaua,71.0,42327,Pablo Zabaleta,city
+2016-08-20,Premier League,Matchweek 2,Sat,Away,W,4,1,Stoke City,58.0,27455,Pablo Zabaleta,city
+2016-08-24,Champions Lg,Play-off round,Wed,Home,W,1,0,ro Steaua,62.0,40064,Joe Hart,city
+2016-08-28,Premier League,Matchweek 3,Sun,Home,W,3,1,West Ham,67.0,54008,Pablo Zabaleta,city
+2016-09-10,Premier League,Matchweek 4,Sat,Away,W,2,1,Manchester Utd,60.0,75272,David Silva,city
+2016-09-14,Champions Lg,Group stage,Wed,Home,W,4,0,de M'Gladbach,56.0,30270,Pablo Zabaleta,city
+2016-09-17,Premier League,Matchweek 5,Sat,Home,W,4,0,Bournemouth,64.0,54335,Fernandinho,city
+2016-09-21,EFL Cup,Third round,Wed,Away,W,2,1,Swansea City,60.0,18237,Vincent Kompany,city
+2016-09-24,Premier League,Matchweek 6,Sat,Away,W,3,1,Swansea City,58.0,20786,David Silva,city
+2016-09-28,Champions Lg,Group stage,Wed,Away,D,3,3,sct Celtic,61.0,57592,Pablo Zabaleta,city
+2016-10-02,Premier League,Matchweek 7,Sun,Away,L,0,2,Tottenham,58.0,31793,Pablo Zabaleta,city
+2016-10-15,Premier League,Matchweek 8,Sat,Home,D,1,1,Everton,73.0,54512,David Silva,city
+2016-10-19,Champions Lg,Group stage,Wed,Away,L,0,4,es Barcelona,47.0,96290,Pablo Zabaleta,city
+2016-10-23,Premier League,Matchweek 9,Sun,Home,D,1,1,Southampton,65.0,53731,Vincent Kompany,city
+2016-10-26,EFL Cup,Fourth round,Wed,Away,L,0,1,Manchester Utd,52.0,75196,Vincent Kompany,city
+2016-10-29,Premier League,Matchweek 10,Sat,Away,W,4,0,West Brom,70.0,22470,David Silva,city
+2016-11-01,Champions Lg,Group stage,Tue,Home,W,3,1,es Barcelona,35.0,53340,Pablo Zabaleta,city
+2016-11-05,Premier League,Matchweek 11,Sat,Home,D,1,1,Middlesbrough,71.0,54294,Pablo Zabaleta,city
+2016-11-19,Premier League,Matchweek 12,Sat,Away,W,2,1,Crystal Palace,62.0,25529,Vincent Kompany,city
+2016-11-23,Champions Lg,Group stage,Wed,Away,D,1,1,de M'Gladbach,69.0,45921,David Silva,city
+2016-11-26,Premier League,Matchweek 13,Sat,Away,W,2,1,Burnley,67.0,21794,Fernandinho,city
+2016-12-03,Premier League,Matchweek 14,Sat,Home,L,1,3,Chelsea,61.0,54457,David Silva,city
+2016-12-06,Champions Lg,Group stage,Tue,Home,D,1,1,sct Celtic,58.0,51297,Pablo Zabaleta,city
+2016-12-10,Premier League,Matchweek 15,Sat,Away,L,2,4,Leicester City,78.0,31966,Pablo Zabaleta,city
+2016-12-14,Premier League,Matchweek 16,Wed,Home,W,2,0,Watford,63.0,51527,Pablo Zabaleta,city
+2016-12-18,Premier League,Matchweek 17,Sun,Home,W,2,1,Arsenal,61.0,54409,Pablo Zabaleta,city
+2016-12-26,Premier League,Matchweek 18,Mon,Away,W,3,0,Hull City,67.0,23134,David Silva,city
+2016-12-31,Premier League,Matchweek 19,Sat,Away,L,0,1,Liverpool,57.0,53120,Pablo Zabaleta,city
+2017-01-02,Premier League,Matchweek 20,Mon,Home,W,2,1,Burnley,55.0,54463,Fernandinho,city
+2017-01-06,FA Cup,Third round,Fri,Away,W,5,0,West Ham,,56975,,city
+2017-01-15,Premier League,Matchweek 21,Sun,Away,L,0,4,Everton,71.0,39588,Pablo Zabaleta,city
+2017-01-21,Premier League,Matchweek 22,Sat,Home,D,2,2,Tottenham,55.0,54402,Pablo Zabaleta,city
+2017-01-28,FA Cup,Fourth round,Sat,Away,W,3,0,Crystal Palace,,13979,,city
+2017-02-01,Premier League,Matchweek 23,Wed,Away,W,4,0,West Ham,70.0,56980,David Silva,city
+2017-02-05,Premier League,Matchweek 24,Sun,Home,W,2,1,Swansea City,69.0,54065,David Silva,city
+2017-02-13,Premier League,Matchweek 25,Mon,Away,W,2,0,Bournemouth,62.0,11129,David Silva,city
+2017-02-18,FA Cup,Fifth round,Sat,Away,D,0,0,Huddersfield,,24129,,city
+2017-02-21,Champions Lg,Round of 16,Tue,Home,W,5,3,fr Monaco,67.0,53351,David Silva,city
+2017-03-01,FA Cup,Fifth round,Wed,Home,W,5,1,Huddersfield,,42425,,city
+2017-03-05,Premier League,Matchweek 27,Sun,Away,W,2,0,Sunderland,71.0,41107,David Silva,city
+2017-03-08,Premier League,Matchweek 28,Wed,Home,D,0,0,Stoke City,65.0,52625,Sergio Agüero,city
+2017-03-11,FA Cup,Quarter-finals,Sat,Away,W,2,0,Middlesbrough,,32228,,city
+2017-03-15,Champions Lg,Round of 16,Wed,Away,L,1,3,fr Monaco,59.0,15700,David Silva,city
+2017-03-19,Premier League,Matchweek 29,Sun,Home,D,1,1,Liverpool,60.0,54449,David Silva,city
+2017-04-02,Premier League,Matchweek 30,Sun,Away,D,2,2,Arsenal,56.0,60001,David Silva,city
+2017-04-05,Premier League,Matchweek 31,Wed,Away,L,1,2,Chelsea,61.0,41528,Vincent Kompany,city
+2017-04-08,Premier League,Matchweek 32,Sat,Home,W,3,1,Hull City,68.0,54393,David Silva,city
+2017-04-15,Premier League,Matchweek 33,Sat,Away,W,3,0,Southampton,59.0,31850,Vincent Kompany,city
+2017-04-23,FA Cup,Semi-finals,Sun,Away,L,1,2,Arsenal,,85725,,city
+2017-04-27,Premier League,Matchweek 26,Thu,Home,D,0,0,Manchester Utd,69.0,54176,Vincent Kompany,city
+2017-04-30,Premier League,Matchweek 35,Sun,Away,D,2,2,Middlesbrough,68.0,29763,Vincent Kompany,city
+2017-05-06,Premier League,Matchweek 36,Sat,Home,W,5,0,Crystal Palace,69.0,54119,Vincent Kompany,city
+2017-05-13,Premier League,Matchweek 37,Sat,Home,W,2,1,Leicester City,66.0,54407,Vincent Kompany,city
+2017-05-16,Premier League,Matchweek 34,Tue,Home,W,3,1,West Brom,71.0,53624,Vincent Kompany,city
+2017-05-21,Premier League,Matchweek 38,Sun,Away,W,5,0,Watford,67.0,20829,Vincent Kompany,city
+2016-08-13,Premier League,Matchweek 1,Sat,Home,D,1,1,Tottenham,43.0,39494,Phil Jagielka,everton
+2016-08-20,Premier League,Matchweek 2,Sat,Away,W,2,1,West Brom,66.0,23654,Phil Jagielka,everton
+2016-08-23,EFL Cup,Second round,Tue,Home,W,4,0,Yeovil Town,66.0,24617,Ross Barkley,everton
+2016-08-27,Premier League,Matchweek 3,Sat,Home,W,1,0,Stoke City,55.0,39581,Phil Jagielka,everton
+2016-09-12,Premier League,Matchweek 4,Mon,Away,W,3,0,Sunderland,67.0,42406,Phil Jagielka,everton
+2016-09-17,Premier League,Matchweek 5,Sat,Home,W,3,1,Middlesbrough,52.0,39074,Phil Jagielka,everton
+2016-09-20,EFL Cup,Third round,Tue,Home,L,0,2,Norwich City,58.0,29550,Séamus Coleman,everton
+2016-09-24,Premier League,Matchweek 6,Sat,Away,L,0,1,Bournemouth,47.0,11291,Phil Jagielka,everton
+2016-09-30,Premier League,Matchweek 7,Fri,Home,D,1,1,Crystal Palace,57.0,38758,Phil Jagielka,everton
+2016-10-15,Premier League,Matchweek 8,Sat,Away,D,1,1,Manchester City,27.0,54512,Phil Jagielka,everton
+2016-10-22,Premier League,Matchweek 9,Sat,Away,L,1,2,Burnley,65.0,21416,Phil Jagielka,everton
+2016-10-30,Premier League,Matchweek 10,Sun,Home,W,2,0,West Ham,49.0,39574,Gareth Barry,everton
+2016-11-05,Premier League,Matchweek 11,Sat,Away,L,0,5,Chelsea,40.0,41429,Phil Jagielka,everton
+2016-11-19,Premier League,Matchweek 12,Sat,Home,D,1,1,Swansea City,63.0,38773,Phil Jagielka,everton
+2016-11-27,Premier League,Matchweek 13,Sun,Away,L,0,1,Southampton,47.0,31132,Phil Jagielka,everton
+2016-12-04,Premier League,Matchweek 14,Sun,Home,D,1,1,Manchester Utd,46.0,39550,Gareth Barry,everton
+2016-12-10,Premier League,Matchweek 15,Sat,Away,L,2,3,Watford,53.0,20769,Gareth Barry,everton
+2016-12-13,Premier League,Matchweek 16,Tue,Home,W,2,1,Arsenal,42.0,39510,Phil Jagielka,everton
+2016-12-19,Premier League,Matchweek 17,Mon,Home,L,0,1,Liverpool,32.0,39590,Leighton Baines,everton
+2016-12-26,Premier League,Matchweek 18,Mon,Away,W,2,0,Leicester City,58.0,31985,Gareth Barry,everton
+2016-12-30,Premier League,Matchweek 19,Fri,Away,D,2,2,Hull City,57.0,20111,Phil Jagielka,everton
+2017-01-02,Premier League,Matchweek 20,Mon,Home,W,3,0,Southampton,54.0,38891,Leighton Baines,everton
+2017-01-07,FA Cup,Third round,Sat,Home,L,1,2,Leicester City,,35493,,everton
+2017-01-15,Premier League,Matchweek 21,Sun,Home,W,4,0,Manchester City,29.0,39588,Gareth Barry,everton
+2017-01-21,Premier League,Matchweek 22,Sat,Away,W,1,0,Crystal Palace,56.0,25594,Gareth Barry,everton
+2017-02-01,Premier League,Matchweek 23,Wed,Away,D,1,1,Stoke City,53.0,27612,Leighton Baines,everton
+2017-02-04,Premier League,Matchweek 24,Sat,Home,W,6,3,Bournemouth,46.0,39026,Gareth Barry,everton
+2017-02-11,Premier League,Matchweek 25,Sat,Away,D,0,0,Middlesbrough,54.0,31496,Leighton Baines,everton
+2017-02-25,Premier League,Matchweek 26,Sat,Home,W,2,0,Sunderland,63.0,39595,Leighton Baines,everton
+2017-03-05,Premier League,Matchweek 27,Sun,Away,L,2,3,Tottenham,49.0,31962,Gareth Barry,everton
+2017-03-11,Premier League,Matchweek 28,Sat,Home,W,3,0,West Brom,63.0,39592,Phil Jagielka,everton
+2017-03-18,Premier League,Matchweek 29,Sat,Home,W,4,0,Hull City,51.0,39248,Phil Jagielka,everton
+2017-04-01,Premier League,Matchweek 30,Sat,Away,L,1,3,Liverpool,49.0,52920,Phil Jagielka,everton
+2017-04-04,Premier League,Matchweek 31,Tue,Away,D,1,1,Manchester Utd,39.0,75272,Phil Jagielka,everton
+2017-04-09,Premier League,Matchweek 32,Sun,Home,W,4,2,Leicester City,60.0,39573,Phil Jagielka,everton
+2017-04-15,Premier League,Matchweek 33,Sat,Home,W,3,1,Burnley,63.0,39328,Phil Jagielka,everton
+2017-04-22,Premier League,Matchweek 34,Sat,Away,D,0,0,West Ham,59.0,56971,Phil Jagielka,everton
+2017-04-30,Premier League,Matchweek 35,Sun,Home,L,0,3,Chelsea,50.0,39595,Phil Jagielka,everton
+2017-05-06,Premier League,Matchweek 36,Sat,Away,L,0,1,Swansea City,62.0,20827,Phil Jagielka,everton
+2017-05-12,Premier League,Matchweek 37,Fri,Home,W,1,0,Watford,63.0,38550,Phil Jagielka,everton
+2017-05-21,Premier League,Matchweek 38,Sun,Away,L,1,3,Arsenal,50.0,59976,Phil Jagielka,everton
+2016-08-13,Premier League,Matchweek 1,Sat,Home,W,2,1,Leicester City,50.0,21037,Curtis Davies,hull
+2016-08-20,Premier League,Matchweek 2,Sat,Away,W,2,0,Swansea City,43.0,20024,Curtis Davies,hull
+2016-08-23,EFL Cup,Second round,Tue,Away,W,3,1,Exeter City,63.0,4037,Ahmed Elmohamady,hull
+2016-08-27,Premier League,Matchweek 3,Sat,Home,L,0,1,Manchester Utd,38.0,24560,David Meyler,hull
+2016-09-10,Premier League,Matchweek 4,Sat,Away,D,1,1,Burnley,61.0,18803,Curtis Davies,hull
+2016-09-17,Premier League,Matchweek 5,Sat,Home,L,1,4,Arsenal,39.0,22536,Curtis Davies,hull
+2016-09-21,EFL Cup,Third round,Wed,Away,W,2,1,Stoke City,43.0,10550,Curtis Davies,hull
+2016-09-24,Premier League,Matchweek 6,Sat,Away,L,1,5,Liverpool,26.0,53109,Curtis Davies,hull
+2016-10-01,Premier League,Matchweek 7,Sat,Home,L,0,2,Chelsea,41.0,21257,Curtis Davies,hull
+2016-10-15,Premier League,Matchweek 8,Sat,Away,L,1,6,Bournemouth,51.0,11029,Curtis Davies,hull
+2016-10-22,Premier League,Matchweek 9,Sat,Home,L,0,2,Stoke City,49.0,18522,Michael Dawson,hull
+2016-10-25,EFL Cup,Fourth round,Tue,Away,W,2,1,Bristol City,51.0,16149,Michael Dawson,hull
+2016-10-29,Premier League,Matchweek 10,Sat,Away,L,0,1,Watford,46.0,20022,Michael Dawson,hull
+2016-11-06,Premier League,Matchweek 11,Sun,Home,W,2,1,Southampton,34.0,17768,Michael Dawson,hull
+2016-11-19,Premier League,Matchweek 12,Sat,Away,L,0,3,Sunderland,59.0,41271,Michael Dawson,hull
+2016-11-26,Premier League,Matchweek 13,Sat,Home,D,1,1,West Brom,53.0,18086,Michael Dawson,hull
+2016-11-29,EFL Cup,Quarter-finals,Tue,Home,D,1 (3),1 (1),Newcastle Utd,39.0,16243,Michael Dawson,hull
+2016-12-05,Premier League,Matchweek 14,Mon,Away,L,0,1,Middlesbrough,39.0,27395,Michael Dawson,hull
+2016-12-10,Premier League,Matchweek 15,Sat,Home,D,3,3,Crystal Palace,57.0,17403,Michael Dawson,hull
+2016-12-14,Premier League,Matchweek 16,Wed,Away,L,0,3,Tottenham,37.0,31347,Michael Dawson,hull
+2016-12-17,Premier League,Matchweek 17,Sat,Away,L,0,1,West Ham,44.0,56952,Michael Dawson,hull
+2016-12-26,Premier League,Matchweek 18,Mon,Home,L,0,3,Manchester City,33.0,23134,Michael Dawson,hull
+2016-12-30,Premier League,Matchweek 19,Fri,Home,D,2,2,Everton,43.0,20111,Michael Dawson,hull
+2017-01-02,Premier League,Matchweek 20,Mon,Away,L,1,3,West Brom,59.0,23402,Michael Dawson,hull
+2017-01-07,FA Cup,Third round,Sat,Home,W,2,0,Swansea City,,6608,,hull
+2017-01-10,EFL Cup,Semi-finals,Tue,Away,L,0,2,Manchester Utd,34.0,65798,Tom Huddlestone,hull
+2017-01-14,Premier League,Matchweek 21,Sat,Home,W,3,1,Bournemouth,39.0,17963,Michael Dawson,hull
+2017-01-22,Premier League,Matchweek 22,Sun,Away,L,0,2,Chelsea,47.0,41605,Michael Dawson,hull
+2017-01-26,EFL Cup,Semi-finals,Thu,Home,W,2,1,Manchester Utd,54.0,16831,Michael Dawson,hull
+2017-01-29,FA Cup,Fourth round,Sun,Away,L,1,4,Fulham,,15143,,hull
+2017-02-01,Premier League,Matchweek 23,Wed,Away,D,0,0,Manchester Utd,33.0,75297,Michael Dawson,hull
+2017-02-04,Premier League,Matchweek 24,Sat,Home,W,2,0,Liverpool,28.0,24822,Tom Huddlestone,hull
+2017-02-11,Premier League,Matchweek 25,Sat,Away,L,0,2,Arsenal,51.0,59962,Tom Huddlestone,hull
+2017-02-25,Premier League,Matchweek 26,Sat,Home,D,1,1,Burnley,66.0,20156,Tom Huddlestone,hull
+2017-03-04,Premier League,Matchweek 27,Sat,Away,L,1,3,Leicester City,51.0,31971,Tom Huddlestone,hull
+2017-03-11,Premier League,Matchweek 28,Sat,Home,W,2,1,Swansea City,50.0,19195,Tom Huddlestone,hull
+2017-03-18,Premier League,Matchweek 29,Sat,Away,L,0,4,Everton,49.0,39248,Tom Huddlestone,hull
+2017-04-01,Premier League,Matchweek 30,Sat,Home,W,2,1,West Ham,46.0,20820,Curtis Davies,hull
+2017-04-05,Premier League,Matchweek 31,Wed,Home,W,4,2,Middlesbrough,48.0,20380,Harry Maguire,hull
+2017-04-08,Premier League,Matchweek 32,Sat,Away,L,1,3,Manchester City,33.0,54393,Michael Dawson,hull
+2017-04-15,Premier League,Matchweek 33,Sat,Away,L,1,3,Stoke City,55.0,27505,Michael Dawson,hull
+2017-04-22,Premier League,Matchweek 34,Sat,Home,W,2,0,Watford,34.0,20432,Harry Maguire,hull
+2017-04-29,Premier League,Matchweek 35,Sat,Away,D,0,0,Southampton,48.0,31120,Harry Maguire,hull
+2017-05-06,Premier League,Matchweek 36,Sat,Home,L,0,2,Sunderland,60.0,22480,Harry Maguire,hull
+2017-05-14,Premier League,Matchweek 37,Sun,Away,L,0,4,Crystal Palace,70.0,25176,Michael Dawson,hull
+2017-05-21,Premier League,Matchweek 38,Sun,Home,L,1,7,Tottenham,35.0,23804,Michael Dawson,hull
+2016-08-07,Community Shield,FA Community Shield,Sun,Home,L,1,2,Manchester Utd,,85437,Wes Morgan,leicester
+2016-08-13,Premier League,Matchweek 1,Sat,Away,L,1,2,Hull City,50.0,21037,Wes Morgan,leicester
+2016-08-20,Premier League,Matchweek 2,Sat,Home,D,0,0,Arsenal,40.0,32008,Wes Morgan,leicester
+2016-08-27,Premier League,Matchweek 3,Sat,Home,W,2,1,Swansea City,52.0,31727,Wes Morgan,leicester
+2016-09-10,Premier League,Matchweek 4,Sat,Away,L,1,4,Liverpool,38.0,51232,Wes Morgan,leicester
+2016-09-14,Champions Lg,Group stage,Wed,Away,W,3,0,be Club Brugge,38.0,20970,Wes Morgan,leicester
+2016-09-17,Premier League,Matchweek 5,Sat,Home,W,3,0,Burnley,59.0,31916,Wes Morgan,leicester
+2016-09-20,EFL Cup,Third round,Tue,Home,L,2,4,Chelsea,34.0,29899,Wes Morgan,leicester
+2016-09-24,Premier League,Matchweek 6,Sat,Away,L,1,4,Manchester Utd,33.0,75256,Wes Morgan,leicester
+2016-09-27,Champions Lg,Group stage,Tue,Home,W,1,0,pt Porto,40.0,31805,Wes Morgan,leicester
+2016-10-02,Premier League,Matchweek 7,Sun,Home,D,0,0,Southampton,38.0,31563,Kasper Schmeichel,leicester
+2016-10-15,Premier League,Matchweek 8,Sat,Away,L,0,3,Chelsea,45.0,41547,Wes Morgan,leicester
+2016-10-18,Champions Lg,Group stage,Tue,Home,W,1,0,dk FC Copenhagen,41.0,31037,Wes Morgan,leicester
+2016-10-22,Premier League,Matchweek 9,Sat,Home,W,3,1,Crystal Palace,45.0,31969,Wes Morgan,leicester
+2016-10-29,Premier League,Matchweek 10,Sat,Away,D,1,1,Tottenham,36.0,31868,Wes Morgan,leicester
+2016-11-02,Champions Lg,Group stage,Wed,Away,D,0,0,dk FC Copenhagen,44.0,34146,Wes Morgan,leicester
+2016-11-06,Premier League,Matchweek 11,Sun,Home,L,1,2,West Brom,59.0,31879,Wes Morgan,leicester
+2016-11-19,Premier League,Matchweek 12,Sat,Away,L,1,2,Watford,54.0,20640,Wes Morgan,leicester
+2016-11-22,Champions Lg,Group stage,Tue,Home,W,2,1,be Club Brugge,53.0,31443,Wes Morgan,leicester
+2016-11-26,Premier League,Matchweek 13,Sat,Home,D,2,2,Middlesbrough,41.0,32058,Wes Morgan,leicester
+2016-12-03,Premier League,Matchweek 14,Sat,Away,L,1,2,Sunderland,47.0,39725,Wes Morgan,leicester
+2016-12-07,Champions Lg,Group stage,Wed,Away,L,0,5,pt Porto,33.0,39310,Wes Morgan,leicester
+2016-12-10,Premier League,Matchweek 15,Sat,Home,W,4,2,Manchester City,22.0,31966,Wes Morgan,leicester
+2016-12-13,Premier League,Matchweek 16,Tue,Away,L,0,1,Bournemouth,37.0,11068,Wes Morgan,leicester
+2016-12-17,Premier League,Matchweek 17,Sat,Away,D,2,2,Stoke City,35.0,27663,Wes Morgan,leicester
+2016-12-26,Premier League,Matchweek 18,Mon,Home,L,0,2,Everton,42.0,31985,Wes Morgan,leicester
+2016-12-31,Premier League,Matchweek 19,Sat,Home,W,1,0,West Ham,40.0,32060,Wes Morgan,leicester
+2017-01-02,Premier League,Matchweek 20,Mon,Away,D,0,0,Middlesbrough,37.0,32437,Wes Morgan,leicester
+2017-01-07,FA Cup,Third round,Sat,Away,W,2,1,Everton,,35493,,leicester
+2017-01-14,Premier League,Matchweek 21,Sat,Home,L,0,3,Chelsea,35.0,32066,Wes Morgan,leicester
+2017-01-22,Premier League,Matchweek 22,Sun,Away,L,0,3,Southampton,40.0,30548,Wes Morgan,leicester
+2017-01-27,FA Cup,Fourth round,Fri,Away,D,2,2,Derby County,,25079,,leicester
+2017-01-31,Premier League,Matchweek 23,Tue,Away,L,0,1,Burnley,41.0,19202,Wes Morgan,leicester
+2017-02-05,Premier League,Matchweek 24,Sun,Home,L,0,3,Manchester Utd,32.0,32072,Wes Morgan,leicester
+2017-02-08,FA Cup,Fourth round,Wed,Home,W,3,1,Derby County,,31648,,leicester
+2017-02-12,Premier League,Matchweek 25,Sun,Away,L,0,2,Swansea City,51.0,20391,Wes Morgan,leicester
+2017-02-18,FA Cup,Fifth round,Sat,Away,L,0,1,Millwall,,18012,,leicester
+2017-02-22,Champions Lg,Round of 16,Wed,Away,L,1,2,es Sevilla,28.0,38834,Wes Morgan,leicester
+2017-02-27,Premier League,Matchweek 26,Mon,Home,W,3,1,Liverpool,31.0,32034,Wes Morgan,leicester
+2017-03-04,Premier League,Matchweek 27,Sat,Home,W,3,1,Hull City,50.0,31971,Wes Morgan,leicester
+2017-03-14,Champions Lg,Round of 16,Tue,Home,W,2,0,es Sevilla,29.0,31520,Wes Morgan,leicester
+2017-03-18,Premier League,Matchweek 29,Sat,Away,W,3,2,West Ham,41.0,56979,Kasper Schmeichel,leicester
+2017-04-01,Premier League,Matchweek 30,Sat,Home,W,2,0,Stoke City,48.0,31958,Kasper Schmeichel,leicester
+2017-04-04,Premier League,Matchweek 31,Tue,Home,W,2,0,Sunderland,54.0,31757,Kasper Schmeichel,leicester
+2017-04-09,Premier League,Matchweek 32,Sun,Away,L,2,4,Everton,40.0,39573,Kasper Schmeichel,leicester
+2017-04-12,Champions Lg,Quarter-finals,Wed,Away,L,0,1,es Atlético Madrid,32.0,51423,Kasper Schmeichel,leicester
+2017-04-15,Premier League,Matchweek 33,Sat,Away,D,2,2,Crystal Palace,42.0,25504,Kasper Schmeichel,leicester
+2017-04-18,Champions Lg,Quarter-finals,Tue,Home,D,1,1,es Atlético Madrid,57.0,31548,Wes Morgan,leicester
+2017-04-26,Premier League,Matchweek 28,Wed,Away,L,0,1,Arsenal,31.0,59829,Kasper Schmeichel,leicester
+2017-04-29,Premier League,Matchweek 35,Sat,Away,W,1,0,West Brom,45.0,24611,Kasper Schmeichel,leicester
+2017-05-06,Premier League,Matchweek 36,Sat,Home,W,3,0,Watford,42.0,31628,Kasper Schmeichel,leicester
+2017-05-13,Premier League,Matchweek 37,Sat,Away,L,1,2,Manchester City,34.0,54407,Kasper Schmeichel,leicester
+2017-05-18,Premier League,Matchweek 34,Thu,Home,L,1,6,Tottenham,37.0,31351,Kasper Schmeichel,leicester
+2017-05-21,Premier League,Matchweek 38,Sun,Home,D,1,1,Bournemouth,49.0,32000,Kasper Schmeichel,leicester
+2016-08-14,Premier League,Matchweek 1,Sun,Away,W,4,3,Arsenal,49.0,60033,Jordan Henderson,liverpool
+2016-08-20,Premier League,Matchweek 2,Sat,Away,L,0,2,Burnley,80.0,21313,Jordan Henderson,liverpool
+2016-08-23,EFL Cup,Second round,Tue,Away,W,5,0,Burton Albion,59.0,6450,Jordan Henderson,liverpool
+2016-08-27,Premier League,Matchweek 3,Sat,Away,D,1,1,Tottenham,51.0,31211,Jordan Henderson,liverpool
+2016-09-10,Premier League,Matchweek 4,Sat,Home,W,4,1,Leicester City,62.0,51232,Jordan Henderson,liverpool
+2016-09-16,Premier League,Matchweek 5,Fri,Away,W,2,1,Chelsea,47.0,41514,Jordan Henderson,liverpool
+2016-09-20,EFL Cup,Third round,Tue,Away,W,3,0,Derby County,73.0,26245,Jordan Henderson,liverpool
+2016-09-24,Premier League,Matchweek 6,Sat,Home,W,5,1,Hull City,74.0,53109,Jordan Henderson,liverpool
+2016-10-01,Premier League,Matchweek 7,Sat,Away,W,2,1,Swansea City,59.0,20862,Jordan Henderson,liverpool
+2016-10-17,Premier League,Matchweek 8,Mon,Home,D,0,0,Manchester Utd,65.0,52769,Jordan Henderson,liverpool
+2016-10-22,Premier League,Matchweek 9,Sat,Home,W,2,1,West Brom,68.0,53218,Jordan Henderson,liverpool
+2016-10-25,EFL Cup,Fourth round,Tue,Home,W,2,1,Tottenham,46.0,53051,Lucas Leiva,liverpool
+2016-10-29,Premier League,Matchweek 10,Sat,Away,W,4,2,Crystal Palace,55.0,25628,Jordan Henderson,liverpool
+2016-11-06,Premier League,Matchweek 11,Sun,Home,W,6,1,Watford,60.0,53163,Jordan Henderson,liverpool
+2016-11-19,Premier League,Matchweek 12,Sat,Away,D,0,0,Southampton,65.0,31848,Jordan Henderson,liverpool
+2016-11-26,Premier League,Matchweek 13,Sat,Home,W,2,0,Sunderland,77.0,53114,Jordan Henderson,liverpool
+2016-11-29,EFL Cup,Quarter-finals,Tue,Home,W,2,0,Leeds United,72.0,52012,Lucas Leiva,liverpool
+2016-12-04,Premier League,Matchweek 14,Sun,Away,L,3,4,Bournemouth,60.0,11183,Jordan Henderson,liverpool
+2016-12-11,Premier League,Matchweek 15,Sun,Home,D,2,2,West Ham,68.0,53068,Jordan Henderson,liverpool
+2016-12-14,Premier League,Matchweek 16,Wed,Away,W,3,0,Middlesbrough,63.0,32704,Jordan Henderson,liverpool
+2016-12-19,Premier League,Matchweek 17,Mon,Away,W,1,0,Everton,68.0,39590,Jordan Henderson,liverpool
+2016-12-27,Premier League,Matchweek 18,Tue,Home,W,4,1,Stoke City,64.0,53094,Jordan Henderson,liverpool
+2016-12-31,Premier League,Matchweek 19,Sat,Home,W,1,0,Manchester City,43.0,53120,Jordan Henderson,liverpool
+2017-01-02,Premier League,Matchweek 20,Mon,Away,D,2,2,Sunderland,71.0,46494,James Milner,liverpool
+2017-01-08,FA Cup,Third round,Sun,Home,D,0,0,Plymouth Argyle,,52692,,liverpool
+2017-01-11,EFL Cup,Semi-finals,Wed,Away,L,0,1,Southampton,68.0,31480,Jordan Henderson,liverpool
+2017-01-15,Premier League,Matchweek 21,Sun,Away,D,1,1,Manchester Utd,44.0,75276,Jordan Henderson,liverpool
+2017-01-18,FA Cup,Third round,Wed,Away,W,1,0,Plymouth Argyle,,17048,,liverpool
+2017-01-21,Premier League,Matchweek 22,Sat,Home,L,2,3,Swansea City,74.0,53169,Jordan Henderson,liverpool
+2017-01-25,EFL Cup,Semi-finals,Wed,Home,L,0,1,Southampton,72.0,52238,Jordan Henderson,liverpool
+2017-01-28,FA Cup,Fourth round,Sat,Home,L,1,2,Wolves,,52469,,liverpool
+2017-01-31,Premier League,Matchweek 23,Tue,Home,D,1,1,Chelsea,62.0,53157,Jordan Henderson,liverpool
+2017-02-04,Premier League,Matchweek 24,Sat,Away,L,0,2,Hull City,72.0,24822,Jordan Henderson,liverpool
+2017-02-11,Premier League,Matchweek 25,Sat,Home,W,2,0,Tottenham,51.0,53159,Jordan Henderson,liverpool
+2017-02-27,Premier League,Matchweek 26,Mon,Away,L,1,3,Leicester City,69.0,32034,James Milner,liverpool
+2017-03-04,Premier League,Matchweek 27,Sat,Home,W,3,1,Arsenal,52.0,53146,James Milner,liverpool
+2017-03-12,Premier League,Matchweek 28,Sun,Home,W,2,1,Burnley,65.0,53145,James Milner,liverpool
+2017-03-19,Premier League,Matchweek 29,Sun,Away,D,1,1,Manchester City,41.0,54449,James Milner,liverpool
+2017-04-01,Premier League,Matchweek 30,Sat,Home,W,3,1,Everton,51.0,52920,James Milner,liverpool
+2017-04-05,Premier League,Matchweek 31,Wed,Home,D,2,2,Bournemouth,67.0,53292,James Milner,liverpool
+2017-04-08,Premier League,Matchweek 32,Sat,Away,W,2,1,Stoke City,56.0,27568,James Milner,liverpool
+2017-04-16,Premier League,Matchweek 33,Sun,Away,W,1,0,West Brom,64.0,25669,James Milner,liverpool
+2017-04-23,Premier League,Matchweek 34,Sun,Home,L,1,2,Crystal Palace,72.0,53086,James Milner,liverpool
+2017-05-01,Premier League,Matchweek 35,Mon,Away,W,1,0,Watford,60.0,20959,James Milner,liverpool
+2017-05-07,Premier League,Matchweek 36,Sun,Home,D,0,0,Southampton,65.0,53159,James Milner,liverpool
+2017-05-14,Premier League,Matchweek 37,Sun,Away,W,4,0,West Ham,67.0,56985,James Milner,liverpool
+2017-05-21,Premier League,Matchweek 38,Sun,Home,W,3,0,Middlesbrough,74.0,53191,James Milner,liverpool
+2016-08-13,Premier League,Matchweek 1,Sat,Home,D,1,1,Stoke City,46.0,32110,George Friend,middlesbrough
+2016-08-21,Premier League,Matchweek 2,Sun,Away,W,2,1,Sunderland,53.0,43515,George Friend,middlesbrough
+2016-08-24,EFL Cup,Second round,Wed,Away,L,1,2,Fulham,56.0,8522,Ben Gibson,middlesbrough
+2016-08-28,Premier League,Matchweek 3,Sun,Away,D,0,0,West Brom,59.0,23690,Ben Gibson,middlesbrough
+2016-09-10,Premier League,Matchweek 4,Sat,Home,L,1,2,Crystal Palace,58.0,30551,George Friend,middlesbrough
+2016-09-17,Premier League,Matchweek 5,Sat,Away,L,1,3,Everton,48.0,39074,George Friend,middlesbrough
+2016-09-24,Premier League,Matchweek 6,Sat,Home,L,1,2,Tottenham,42.0,32703,George Friend,middlesbrough
+2016-10-01,Premier League,Matchweek 7,Sat,Away,D,1,1,West Ham,60.0,56945,George Friend,middlesbrough
+2016-10-16,Premier League,Matchweek 8,Sun,Home,L,0,1,Watford,64.0,28131,George Friend,middlesbrough
+2016-10-22,Premier League,Matchweek 9,Sat,Away,D,0,0,Arsenal,25.0,59982,George Friend,middlesbrough
+2016-10-29,Premier League,Matchweek 10,Sat,Home,W,2,0,Bournemouth,40.0,29600,George Friend,middlesbrough
+2016-11-05,Premier League,Matchweek 11,Sat,Away,D,1,1,Manchester City,29.0,54294,George Friend,middlesbrough
+2016-11-20,Premier League,Matchweek 12,Sun,Home,L,0,1,Chelsea,42.0,32704,Ben Gibson,middlesbrough
+2016-11-26,Premier League,Matchweek 13,Sat,Away,D,2,2,Leicester City,59.0,32058,Ben Gibson,middlesbrough
+2016-12-05,Premier League,Matchweek 14,Mon,Home,W,1,0,Hull City,61.0,27395,Ben Gibson,middlesbrough
+2016-12-11,Premier League,Matchweek 15,Sun,Away,L,0,1,Southampton,45.0,28976,Ben Gibson,middlesbrough
+2016-12-14,Premier League,Matchweek 16,Wed,Home,L,0,3,Liverpool,37.0,32704,Ben Gibson,middlesbrough
+2016-12-17,Premier League,Matchweek 17,Sat,Home,W,3,0,Swansea City,43.0,28302,Ben Gibson,middlesbrough
+2016-12-26,Premier League,Matchweek 18,Mon,Away,L,0,1,Burnley,54.0,21562,Ben Gibson,middlesbrough
+2016-12-31,Premier League,Matchweek 19,Sat,Away,L,1,2,Manchester Utd,35.0,75314,Grant Leadbitter,middlesbrough
+2017-01-02,Premier League,Matchweek 20,Mon,Home,D,0,0,Leicester City,63.0,32437,Ben Gibson,middlesbrough
+2017-01-08,FA Cup,Third round,Sun,Home,W,3,0,Sheffield Weds,,23661,,middlesbrough
+2017-01-14,Premier League,Matchweek 21,Sat,Away,D,0,0,Watford,53.0,20659,Grant Leadbitter,middlesbrough
+2017-01-21,Premier League,Matchweek 22,Sat,Home,L,1,3,West Ham,62.0,30848,George Friend,middlesbrough
+2017-01-28,FA Cup,Fourth round,Sat,Home,W,1,0,Acc'ton Stanley,,24040,,middlesbrough
+2017-01-31,Premier League,Matchweek 23,Tue,Home,D,1,1,West Brom,62.0,27316,Ben Gibson,middlesbrough
+2017-02-04,Premier League,Matchweek 24,Sat,Away,L,0,1,Tottenham,35.0,31949,Ben Gibson,middlesbrough
+2017-02-11,Premier League,Matchweek 25,Sat,Home,D,0,0,Everton,46.0,31496,Ben Gibson,middlesbrough
+2017-02-18,FA Cup,Fifth round,Sat,Home,W,3,2,Oxford United,,28198,,middlesbrough
+2017-02-25,Premier League,Matchweek 26,Sat,Away,L,0,1,Crystal Palace,54.0,25416,Ben Gibson,middlesbrough
+2017-03-04,Premier League,Matchweek 27,Sat,Away,L,0,2,Stoke City,45.0,27644,Grant Leadbitter,middlesbrough
+2017-03-11,FA Cup,Quarter-finals,Sat,Home,L,0,2,Manchester City,,32228,,middlesbrough
+2017-03-19,Premier League,Matchweek 29,Sun,Home,L,1,3,Manchester Utd,64.0,32689,Grant Leadbitter,middlesbrough
+2017-04-02,Premier League,Matchweek 30,Sun,Away,D,0,0,Swansea City,45.0,20354,Ben Gibson,middlesbrough
+2017-04-05,Premier League,Matchweek 31,Wed,Away,L,2,4,Hull City,52.0,20380,Ben Gibson,middlesbrough
+2017-04-08,Premier League,Matchweek 32,Sat,Home,D,0,0,Burnley,56.0,29547,Grant Leadbitter,middlesbrough
+2017-04-17,Premier League,Matchweek 33,Mon,Home,L,1,2,Arsenal,35.0,31298,Grant Leadbitter,middlesbrough
+2017-04-22,Premier League,Matchweek 34,Sat,Away,L,0,4,Bournemouth,32.0,10890,Ben Gibson,middlesbrough
+2017-04-26,Premier League,Matchweek 28,Wed,Home,W,1,0,Sunderland,49.0,30742,Ben Gibson,middlesbrough
+2017-04-30,Premier League,Matchweek 35,Sun,Home,D,2,2,Manchester City,32.0,29763,Ben Gibson,middlesbrough
+2017-05-08,Premier League,Matchweek 36,Mon,Away,L,0,3,Chelsea,43.0,41500,Ben Gibson,middlesbrough
+2017-05-13,Premier League,Matchweek 37,Sat,Home,L,1,2,Southampton,42.0,28203,Ben Gibson,middlesbrough
+2017-05-21,Premier League,Matchweek 38,Sun,Away,L,0,3,Liverpool,26.0,53191,Grant Leadbitter,middlesbrough
+2016-08-13,Premier League,Matchweek 1,Sat,Home,L,0,1,West Brom,62.0,24490,Scott Dann,palace
+2016-08-20,Premier League,Matchweek 2,Sat,Away,L,0,1,Tottenham,43.0,31447,Scott Dann,palace
+2016-08-23,EFL Cup,Second round,Tue,Home,W,2,0,Blackpool,72.0,7533,Scott Dann,palace
+2016-08-27,Premier League,Matchweek 3,Sat,Home,D,1,1,Bournemouth,59.0,23503,Scott Dann,palace
+2016-09-10,Premier League,Matchweek 4,Sat,Away,W,2,1,Middlesbrough,42.0,30551,Scott Dann,palace
+2016-09-18,Premier League,Matchweek 5,Sun,Home,W,4,1,Stoke City,57.0,23781,Scott Dann,palace
+2016-09-21,EFL Cup,Third round,Wed,Away,L,0,2,Southampton,55.0,14080,Scott Dann,palace
+2016-09-24,Premier League,Matchweek 6,Sat,Away,W,3,2,Sunderland,55.0,38941,Damien Delaney,palace
+2016-09-30,Premier League,Matchweek 7,Fri,Away,D,1,1,Everton,43.0,38758,Damien Delaney,palace
+2016-10-15,Premier League,Matchweek 8,Sat,Home,L,0,1,West Ham,55.0,25643,Damien Delaney,palace
+2016-10-22,Premier League,Matchweek 9,Sat,Away,L,1,3,Leicester City,55.0,31969,Damien Delaney,palace
+2016-10-29,Premier League,Matchweek 10,Sat,Home,L,2,4,Liverpool,45.0,25628,Scott Dann,palace
+2016-11-05,Premier League,Matchweek 11,Sat,Away,L,2,3,Burnley,62.0,19196,Scott Dann,palace
+2016-11-19,Premier League,Matchweek 12,Sat,Home,L,1,2,Manchester City,38.0,25529,Scott Dann,palace
+2016-11-26,Premier League,Matchweek 13,Sat,Away,L,4,5,Swansea City,44.0,20276,Scott Dann,palace
+2016-12-03,Premier League,Matchweek 14,Sat,Home,W,3,0,Southampton,42.0,25393,Scott Dann,palace
+2016-12-10,Premier League,Matchweek 15,Sat,Away,D,3,3,Hull City,43.0,17403,Scott Dann,palace
+2016-12-14,Premier League,Matchweek 16,Wed,Home,L,1,2,Manchester Utd,39.0,25547,Scott Dann,palace
+2016-12-17,Premier League,Matchweek 17,Sat,Home,L,0,1,Chelsea,54.0,25259,Scott Dann,palace
+2016-12-26,Premier League,Matchweek 18,Mon,Away,D,1,1,Watford,44.0,20304,Scott Dann,palace
+2017-01-01,Premier League,Matchweek 19,Sun,Away,L,0,2,Arsenal,36.0,59975,Scott Dann,palace
+2017-01-03,Premier League,Matchweek 20,Tue,Home,L,1,2,Swansea City,47.0,24913,Damien Delaney,palace
+2017-01-07,FA Cup,Third round,Sat,Away,D,0,0,Bolton,,11683,,palace
+2017-01-14,Premier League,Matchweek 21,Sat,Away,L,0,3,West Ham,56.0,56984,Scott Dann,palace
+2017-01-17,FA Cup,Third round,Tue,Home,W,2,1,Bolton,,7149,,palace
+2017-01-21,Premier League,Matchweek 22,Sat,Home,L,0,1,Everton,44.0,25594,Scott Dann,palace
+2017-01-28,FA Cup,Fourth round,Sat,Home,L,0,3,Manchester City,,13979,,palace
+2017-01-31,Premier League,Matchweek 23,Tue,Away,W,2,0,Bournemouth,35.0,11286,Scott Dann,palace
+2017-02-04,Premier League,Matchweek 24,Sat,Home,L,0,4,Sunderland,65.0,25310,Scott Dann,palace
+2017-02-11,Premier League,Matchweek 25,Sat,Away,L,0,1,Stoke City,43.0,27007,Damien Delaney,palace
+2017-02-25,Premier League,Matchweek 26,Sat,Home,W,1,0,Middlesbrough,46.0,25416,Jason Puncheon,palace
+2017-03-04,Premier League,Matchweek 27,Sat,Away,W,2,0,West Brom,49.0,24051,Jason Puncheon,palace
+2017-03-18,Premier League,Matchweek 29,Sat,Home,W,1,0,Watford,44.0,25109,Jason Puncheon,palace
+2017-04-01,Premier League,Matchweek 30,Sat,Away,W,2,1,Chelsea,27.0,41489,Jason Puncheon,palace
+2017-04-05,Premier League,Matchweek 31,Wed,Away,L,1,3,Southampton,39.0,29968,Jason Puncheon,palace
+2017-04-10,Premier League,Matchweek 32,Mon,Home,W,3,0,Arsenal,28.0,25648,Jason Puncheon,palace
+2017-04-15,Premier League,Matchweek 33,Sat,Home,D,2,2,Leicester City,58.0,25504,Jason Puncheon,palace
+2017-04-23,Premier League,Matchweek 34,Sun,Away,W,2,1,Liverpool,28.0,53086,Jason Puncheon,palace
+2017-04-26,Premier League,Matchweek 28,Wed,Home,L,0,1,Tottenham,32.0,25596,Jason Puncheon,palace
+2017-04-29,Premier League,Matchweek 35,Sat,Home,L,0,2,Burnley,64.0,25013,Jason Puncheon,palace
+2017-05-06,Premier League,Matchweek 36,Sat,Away,L,0,5,Manchester City,31.0,54119,Jason Puncheon,palace
+2017-05-14,Premier League,Matchweek 37,Sun,Home,W,4,0,Hull City,30.0,25176,Jason Puncheon,palace
+2017-05-21,Premier League,Matchweek 38,Sun,Away,L,0,2,Manchester Utd,41.0,75254,Jason Puncheon,palace
+2016-08-13,Premier League,Matchweek 1,Sat,Home,D,1,1,Watford,64.0,31488,Steven Davis,southampton
+2016-08-19,Premier League,Matchweek 2,Fri,Away,L,0,2,Manchester Utd,57.0,75326,Steven Davis,southampton
+2016-08-27,Premier League,Matchweek 3,Sat,Home,D,1,1,Sunderland,64.0,30152,José Fonte,southampton
+2016-09-10,Premier League,Matchweek 4,Sat,Away,L,1,2,Arsenal,43.0,59962,José Fonte,southampton
+2016-09-15,Europa Lg,Group stage,Thu,Home,W,3,0,cz Sparta Prague,54.0,25125,Virgil van Dijk,southampton
+2016-09-18,Premier League,Matchweek 5,Sun,Home,W,1,0,Swansea City,53.0,29087,José Fonte,southampton
+2016-09-21,EFL Cup,Third round,Wed,Home,W,2,0,Crystal Palace,45.0,14080,José Fonte,southampton
+2016-09-25,Premier League,Matchweek 6,Sun,Away,W,3,0,West Ham,55.0,56864,José Fonte,southampton
+2016-09-29,Europa Lg,Group stage,Thu,Away,D,0,0,il Be'er Sheva,49.0,25125,Virgil van Dijk,southampton
+2016-10-02,Premier League,Matchweek 7,Sun,Away,D,0,0,Leicester City,62.0,31563,José Fonte,southampton
+2016-10-16,Premier League,Matchweek 8,Sun,Home,W,3,1,Burnley,65.0,29040,José Fonte,southampton
+2016-10-20,Europa Lg,Group stage,Thu,Away,L,0,1,it Inter,55.0,26719,Virgil van Dijk,southampton
+2016-10-23,Premier League,Matchweek 9,Sun,Away,D,1,1,Manchester City,35.0,53731,José Fonte,southampton
+2016-10-26,EFL Cup,Fourth round,Wed,Home,W,1,0,Sunderland,57.0,21460,José Fonte,southampton
+2016-10-30,Premier League,Matchweek 10,Sun,Home,L,0,2,Chelsea,55.0,31827,José Fonte,southampton
+2016-11-03,Europa Lg,Group stage,Thu,Home,W,2,1,it Inter,57.0,30389,Virgil van Dijk,southampton
+2016-11-06,Premier League,Matchweek 11,Sun,Away,L,1,2,Hull City,66.0,17768,José Fonte,southampton
+2016-11-19,Premier League,Matchweek 12,Sat,Home,D,0,0,Liverpool,36.0,31848,José Fonte,southampton
+2016-11-24,Europa Lg,Group stage,Thu,Away,L,0,1,cz Sparta Prague,70.0,17429,Virgil van Dijk,southampton
+2016-11-27,Premier League,Matchweek 13,Sun,Home,W,1,0,Everton,53.0,31132,José Fonte,southampton
+2016-11-30,EFL Cup,Quarter-finals,Wed,Away,W,2,0,Arsenal,37.0,59013,Virgil van Dijk,southampton
+2016-12-03,Premier League,Matchweek 14,Sat,Away,L,0,3,Crystal Palace,58.0,25393,José Fonte,southampton
+2016-12-08,Europa Lg,Group stage,Thu,Home,D,1,1,il Be'er Sheva,55.0,30416,Virgil van Dijk,southampton
+2016-12-11,Premier League,Matchweek 15,Sun,Home,W,1,0,Middlesbrough,55.0,28976,José Fonte,southampton
+2016-12-14,Premier League,Matchweek 16,Wed,Away,D,0,0,Stoke City,71.0,27002,José Fonte,southampton
+2016-12-18,Premier League,Matchweek 17,Sun,Away,W,3,1,Bournemouth,53.0,11113,Virgil van Dijk,southampton
+2016-12-28,Premier League,Matchweek 18,Wed,Home,L,1,4,Tottenham,34.0,31853,José Fonte,southampton
+2016-12-31,Premier League,Matchweek 19,Sat,Home,L,1,2,West Brom,68.0,30975,Virgil van Dijk,southampton
+2017-01-02,Premier League,Matchweek 20,Mon,Away,L,0,3,Everton,46.0,38891,José Fonte,southampton
+2017-01-07,FA Cup,Third round,Sat,Away,D,2,2,Norwich City,,12479,,southampton
+2017-01-11,EFL Cup,Semi-finals,Wed,Home,W,1,0,Liverpool,32.0,31480,Steven Davis,southampton
+2017-01-14,Premier League,Matchweek 21,Sat,Away,L,0,1,Burnley,59.0,20254,Virgil van Dijk,southampton
+2017-01-18,FA Cup,Third round,Wed,Home,W,1,0,Norwich City,,13517,,southampton
+2017-01-22,Premier League,Matchweek 22,Sun,Home,W,3,0,Leicester City,60.0,30548,Virgil van Dijk,southampton
+2017-01-25,EFL Cup,Semi-finals,Wed,Away,W,1,0,Liverpool,28.0,52238,Steven Davis,southampton
+2017-01-28,FA Cup,Fourth round,Sat,Home,L,0,5,Arsenal,,31288,,southampton
+2017-01-31,Premier League,Matchweek 23,Tue,Away,L,1,2,Swansea City,57.0,20359,Steven Davis,southampton
+2017-02-04,Premier League,Matchweek 24,Sat,Home,L,1,3,West Ham,55.0,31891,Steven Davis,southampton
+2017-02-11,Premier League,Matchweek 25,Sat,Away,W,4,0,Sunderland,54.0,39931,Steven Davis,southampton
+2017-02-26,EFL Cup,Final,Sun,Away,L,2,3,Manchester Utd,52.0,85264,Steven Davis,southampton
+2017-03-04,Premier League,Matchweek 27,Sat,Away,W,4,3,Watford,63.0,20670,Steven Davis,southampton
+2017-03-19,Premier League,Matchweek 29,Sun,Away,L,1,2,Tottenham,49.0,31697,Steven Davis,southampton
+2017-04-01,Premier League,Matchweek 30,Sat,Home,D,0,0,Bournemouth,61.0,31847,Steven Davis,southampton
+2017-04-05,Premier League,Matchweek 31,Wed,Home,W,3,1,Crystal Palace,61.0,29968,Steven Davis,southampton
+2017-04-08,Premier League,Matchweek 32,Sat,Away,W,1,0,West Brom,58.0,24697,Maya Yoshida,southampton
+2017-04-15,Premier League,Matchweek 33,Sat,Home,L,0,3,Manchester City,41.0,31850,Steven Davis,southampton
+2017-04-25,Premier League,Matchweek 34,Tue,Away,L,2,4,Chelsea,52.0,41168,Steven Davis,southampton
+2017-04-29,Premier League,Matchweek 35,Sat,Home,D,0,0,Hull City,52.0,31120,Steven Davis,southampton
+2017-05-07,Premier League,Matchweek 36,Sun,Away,D,0,0,Liverpool,35.0,53159,Steven Davis,southampton
+2017-05-10,Premier League,Matchweek 26,Wed,Home,L,0,2,Arsenal,47.0,31474,Steven Davis,southampton
+2017-05-13,Premier League,Matchweek 37,Sat,Away,W,2,1,Middlesbrough,58.0,28203,Maya Yoshida,southampton
+2017-05-17,Premier League,Matchweek 28,Wed,Home,D,0,0,Manchester Utd,53.0,31425,Steven Davis,southampton
+2017-05-21,Premier League,Matchweek 38,Sun,Home,L,0,1,Stoke City,61.0,31286,Steven Davis,southampton
+2016-08-13,Premier League,Matchweek 1,Sat,Away,D,1,1,Middlesbrough,54.0,32110,Ryan Shawcross,stoke
+2016-08-20,Premier League,Matchweek 2,Sat,Home,L,1,4,Manchester City,43.0,27455,Ryan Shawcross,stoke
+2016-08-23,EFL Cup,Second round,Tue,Away,W,4,0,Stevenage,62.0,3363,Ryan Shawcross,stoke
+2016-08-27,Premier League,Matchweek 3,Sat,Away,L,0,1,Everton,45.0,39581,Ryan Shawcross,stoke
+2016-09-10,Premier League,Matchweek 4,Sat,Home,L,0,4,Tottenham,40.0,27385,Ryan Shawcross,stoke
+2016-09-18,Premier League,Matchweek 5,Sun,Away,L,1,4,Crystal Palace,44.0,23781,Ryan Shawcross,stoke
+2016-09-21,EFL Cup,Third round,Wed,Home,L,1,2,Hull City,57.0,10550,Ryan Shawcross,stoke
+2016-09-24,Premier League,Matchweek 6,Sat,Home,D,1,1,West Brom,56.0,27645,Ryan Shawcross,stoke
+2016-10-02,Premier League,Matchweek 7,Sun,Away,D,1,1,Manchester Utd,33.0,75251,Ryan Shawcross,stoke
+2016-10-15,Premier League,Matchweek 8,Sat,Home,W,2,0,Sunderland,57.0,27701,Ryan Shawcross,stoke
+2016-10-22,Premier League,Matchweek 9,Sat,Away,W,2,0,Hull City,51.0,18522,Ryan Shawcross,stoke
+2016-10-31,Premier League,Matchweek 10,Mon,Home,W,3,1,Swansea City,46.0,26602,Ryan Shawcross,stoke
+2016-11-05,Premier League,Matchweek 11,Sat,Away,D,1,1,West Ham,42.0,56970,Ryan Shawcross,stoke
+2016-11-19,Premier League,Matchweek 12,Sat,Home,L,0,1,Bournemouth,51.0,27815,Ryan Shawcross,stoke
+2016-11-27,Premier League,Matchweek 13,Sun,Away,W,1,0,Watford,50.0,20058,Jonathan Walters,stoke
+2016-12-03,Premier League,Matchweek 14,Sat,Home,W,2,0,Burnley,56.0,27306,Jonathan Walters,stoke
+2016-12-10,Premier League,Matchweek 15,Sat,Away,L,1,3,Arsenal,36.0,59964,Charlie Adam,stoke
+2016-12-14,Premier League,Matchweek 16,Wed,Home,D,0,0,Southampton,29.0,27002,Ryan Shawcross,stoke
+2016-12-17,Premier League,Matchweek 17,Sat,Home,D,2,2,Leicester City,65.0,27663,Ryan Shawcross,stoke
+2016-12-27,Premier League,Matchweek 18,Tue,Away,L,1,4,Liverpool,36.0,53094,Ryan Shawcross,stoke
+2016-12-31,Premier League,Matchweek 19,Sat,Away,L,2,4,Chelsea,40.0,41601,Ryan Shawcross,stoke
+2017-01-03,Premier League,Matchweek 20,Tue,Home,W,2,0,Watford,54.0,27010,Ryan Shawcross,stoke
+2017-01-07,FA Cup,Third round,Sat,Home,L,0,2,Wolves,,21479,,stoke
+2017-01-14,Premier League,Matchweek 21,Sat,Away,W,3,1,Sunderland,49.0,42722,Ryan Shawcross,stoke
+2017-01-21,Premier League,Matchweek 22,Sat,Home,D,1,1,Manchester Utd,35.0,27423,Ryan Shawcross,stoke
+2017-02-01,Premier League,Matchweek 23,Wed,Home,D,1,1,Everton,47.0,27612,Ryan Shawcross,stoke
+2017-02-04,Premier League,Matchweek 24,Sat,Away,L,0,1,West Brom,62.0,23921,Ryan Shawcross,stoke
+2017-02-11,Premier League,Matchweek 25,Sat,Home,W,1,0,Crystal Palace,58.0,27007,Ryan Shawcross,stoke
+2017-02-26,Premier League,Matchweek 26,Sun,Away,L,0,4,Tottenham,36.0,31864,Ryan Shawcross,stoke
+2017-03-04,Premier League,Matchweek 27,Sat,Home,W,2,0,Middlesbrough,55.0,27644,Ryan Shawcross,stoke
+2017-03-08,Premier League,Matchweek 28,Wed,Away,D,0,0,Manchester City,35.0,52625,Ryan Shawcross,stoke
+2017-03-18,Premier League,Matchweek 29,Sat,Home,L,1,2,Chelsea,36.0,27724,Ryan Shawcross,stoke
+2017-04-01,Premier League,Matchweek 30,Sat,Away,L,0,2,Leicester City,52.0,31958,Ryan Shawcross,stoke
+2017-04-04,Premier League,Matchweek 31,Tue,Away,L,0,1,Burnley,52.0,19881,Ryan Shawcross,stoke
+2017-04-08,Premier League,Matchweek 32,Sat,Home,L,1,2,Liverpool,44.0,27568,Ryan Shawcross,stoke
+2017-04-15,Premier League,Matchweek 33,Sat,Home,W,3,1,Hull City,45.0,27505,Ryan Shawcross,stoke
+2017-04-22,Premier League,Matchweek 34,Sat,Away,L,0,2,Swansea City,55.0,20566,Ryan Shawcross,stoke
+2017-04-29,Premier League,Matchweek 35,Sat,Home,D,0,0,West Ham,57.0,27628,Ryan Shawcross,stoke
+2017-05-06,Premier League,Matchweek 36,Sat,Away,D,2,2,Bournemouth,42.0,11046,Ryan Shawcross,stoke
+2017-05-13,Premier League,Matchweek 37,Sat,Home,L,1,4,Arsenal,33.0,27535,Ryan Shawcross,stoke
+2017-05-21,Premier League,Matchweek 38,Sun,Away,W,1,0,Southampton,39.0,31286,Ryan Shawcross,stoke
+2016-08-13,Premier League,Matchweek 1,Sat,Away,L,1,2,Manchester City,23.0,54362,John O'Shea,sunderland
+2016-08-21,Premier League,Matchweek 2,Sun,Home,L,1,2,Middlesbrough,47.0,43515,John O'Shea,sunderland
+2016-08-24,EFL Cup,Second round,Wed,Home,W,1,0,Shrewsbury,57.0,13979,Patrick van Aanholt,sunderland
+2016-08-27,Premier League,Matchweek 3,Sat,Away,D,1,1,Southampton,36.0,30152,Jermain Defoe,sunderland
+2016-09-12,Premier League,Matchweek 4,Mon,Home,L,0,3,Everton,33.0,42406,Jermain Defoe,sunderland
+2016-09-18,Premier League,Matchweek 5,Sun,Away,L,0,1,Tottenham,26.0,31251,Lee Cattermole,sunderland
+2016-09-21,EFL Cup,Third round,Wed,Away,W,2,1,QPR,61.0,14301,John O'Shea,sunderland
+2016-09-24,Premier League,Matchweek 6,Sat,Home,L,2,3,Crystal Palace,45.0,38941,Lee Cattermole,sunderland
+2016-10-01,Premier League,Matchweek 7,Sat,Home,D,1,1,West Brom,56.0,40043,John O'Shea,sunderland
+2016-10-15,Premier League,Matchweek 8,Sat,Away,L,0,2,Stoke City,43.0,27701,John O'Shea,sunderland
+2016-10-22,Premier League,Matchweek 9,Sat,Away,L,0,1,West Ham,36.0,56985,John O'Shea,sunderland
+2016-10-26,EFL Cup,Fourth round,Wed,Away,L,0,1,Southampton,43.0,21460,Lamine Koné,sunderland
+2016-10-29,Premier League,Matchweek 10,Sat,Home,L,1,4,Arsenal,34.0,44322,John O'Shea,sunderland
+2016-11-05,Premier League,Matchweek 11,Sat,Away,W,2,1,Bournemouth,30.0,11084,Jermain Defoe,sunderland
+2016-11-19,Premier League,Matchweek 12,Sat,Home,W,3,0,Hull City,41.0,41271,Jermain Defoe,sunderland
+2016-11-26,Premier League,Matchweek 13,Sat,Away,L,0,2,Liverpool,23.0,53114,John O'Shea,sunderland
+2016-12-03,Premier League,Matchweek 14,Sat,Home,W,2,1,Leicester City,54.0,39725,Jermain Defoe,sunderland
+2016-12-10,Premier League,Matchweek 15,Sat,Away,L,0,3,Swansea City,38.0,20453,Jermain Defoe,sunderland
+2016-12-14,Premier League,Matchweek 16,Wed,Home,L,0,1,Chelsea,34.0,41008,John O'Shea,sunderland
+2016-12-17,Premier League,Matchweek 17,Sat,Home,W,1,0,Watford,43.0,40267,Jermain Defoe,sunderland
+2016-12-26,Premier League,Matchweek 18,Mon,Away,L,1,3,Manchester Utd,38.0,75325,Jermain Defoe,sunderland
+2016-12-31,Premier League,Matchweek 19,Sat,Away,L,1,4,Burnley,54.0,21124,John O'Shea,sunderland
+2017-01-02,Premier League,Matchweek 20,Mon,Home,D,2,2,Liverpool,29.0,46494,John O'Shea,sunderland
+2017-01-07,FA Cup,Third round,Sat,Home,D,0,0,Burnley,,17632,,sunderland
+2017-01-14,Premier League,Matchweek 21,Sat,Home,L,1,3,Stoke City,51.0,42722,John O'Shea,sunderland
+2017-01-17,FA Cup,Third round,Tue,Away,L,0,2,Burnley,,12257,,sunderland
+2017-01-21,Premier League,Matchweek 22,Sat,Away,L,0,2,West Brom,56.0,24380,John O'Shea,sunderland
+2017-01-31,Premier League,Matchweek 23,Tue,Home,D,0,0,Tottenham,28.0,40058,John O'Shea,sunderland
+2017-02-04,Premier League,Matchweek 24,Sat,Away,W,4,0,Crystal Palace,35.0,25310,John O'Shea,sunderland
+2017-02-11,Premier League,Matchweek 25,Sat,Home,L,0,4,Southampton,46.0,39931,John O'Shea,sunderland
+2017-02-25,Premier League,Matchweek 26,Sat,Away,L,0,2,Everton,37.0,39595,John O'Shea,sunderland
+2017-03-05,Premier League,Matchweek 27,Sun,Home,L,0,2,Manchester City,29.0,41107,John O'Shea,sunderland
+2017-03-18,Premier League,Matchweek 29,Sat,Home,D,0,0,Burnley,44.0,41518,John O'Shea,sunderland
+2017-04-01,Premier League,Matchweek 30,Sat,Away,L,0,1,Watford,44.0,20805,John O'Shea,sunderland
+2017-04-04,Premier League,Matchweek 31,Tue,Away,L,0,2,Leicester City,46.0,31757,Lee Cattermole,sunderland
+2017-04-09,Premier League,Matchweek 32,Sun,Home,L,0,3,Manchester Utd,30.0,43779,Lee Cattermole,sunderland
+2017-04-15,Premier League,Matchweek 33,Sat,Home,D,2,2,West Ham,47.0,40168,John O'Shea,sunderland
+2017-04-26,Premier League,Matchweek 28,Wed,Away,L,0,1,Middlesbrough,51.0,30742,John O'Shea,sunderland
+2017-04-29,Premier League,Matchweek 35,Sat,Home,L,0,1,Bournemouth,41.0,38394,John O'Shea,sunderland
+2017-05-06,Premier League,Matchweek 36,Sat,Away,W,2,0,Hull City,41.0,22480,John O'Shea,sunderland
+2017-05-13,Premier League,Matchweek 37,Sat,Home,L,0,2,Swansea City,53.0,38781,John O'Shea,sunderland
+2017-05-16,Premier League,Matchweek 34,Tue,Away,L,0,2,Arsenal,37.0,59510,John O'Shea,sunderland
+2017-05-21,Premier League,Matchweek 38,Sun,Away,L,1,5,Chelsea,28.0,41618,John O'Shea,sunderland
+2016-08-13,Premier League,Matchweek 1,Sat,Away,W,1,0,Burnley,53.0,19126,Leon Britton,swansea
+2016-08-20,Premier League,Matchweek 2,Sat,Home,L,0,2,Hull City,57.0,20024,Jack Cork,swansea
+2016-08-23,EFL Cup,Second round,Tue,Away,W,3,1,P'borough Utd,55.0,4727,Leon Britton,swansea
+2016-08-27,Premier League,Matchweek 3,Sat,Away,L,1,2,Leicester City,48.0,31727,Jack Cork,swansea
+2016-09-11,Premier League,Matchweek 4,Sun,Home,D,2,2,Chelsea,45.0,20865,Jack Cork,swansea
+2016-09-18,Premier League,Matchweek 5,Sun,Away,L,0,1,Southampton,47.0,29087,Jack Cork,swansea
+2016-09-21,EFL Cup,Third round,Wed,Home,L,1,2,Manchester City,40.0,18237,Leon Britton,swansea
+2016-09-24,Premier League,Matchweek 6,Sat,Home,L,1,3,Manchester City,42.0,20786,Leon Britton,swansea
+2016-10-01,Premier League,Matchweek 7,Sat,Home,L,1,2,Liverpool,41.0,20862,Leon Britton,swansea
+2016-10-15,Premier League,Matchweek 8,Sat,Away,L,2,3,Arsenal,51.0,60007,Leon Britton,swansea
+2016-10-22,Premier League,Matchweek 9,Sat,Home,D,0,0,Watford,54.0,20694,Leon Britton,swansea
+2016-10-31,Premier League,Matchweek 10,Mon,Away,L,1,3,Stoke City,54.0,26602,Gylfi Sigurðsson,swansea
+2016-11-06,Premier League,Matchweek 11,Sun,Home,L,1,3,Manchester Utd,37.0,20938,Leon Britton,swansea
+2016-11-19,Premier League,Matchweek 12,Sat,Away,D,1,1,Everton,37.0,38773,Jack Cork,swansea
+2016-11-26,Premier League,Matchweek 13,Sat,Home,W,5,4,Crystal Palace,57.0,20276,Jack Cork,swansea
+2016-12-03,Premier League,Matchweek 14,Sat,Away,L,0,5,Tottenham,40.0,31663,Jack Cork,swansea
+2016-12-10,Premier League,Matchweek 15,Sat,Home,W,3,0,Sunderland,62.0,20453,Leon Britton,swansea
+2016-12-14,Premier League,Matchweek 16,Wed,Away,L,1,3,West Brom,61.0,21467,Leon Britton,swansea
+2016-12-17,Premier League,Matchweek 17,Sat,Away,L,0,3,Middlesbrough,57.0,28302,Leon Britton,swansea
+2016-12-26,Premier League,Matchweek 18,Mon,Home,L,1,4,West Ham,56.0,20757,Leon Britton,swansea
+2016-12-31,Premier League,Matchweek 19,Sat,Home,L,0,3,Bournemouth,45.0,20316,Leon Britton,swansea
+2017-01-03,Premier League,Matchweek 20,Tue,Away,W,2,1,Crystal Palace,53.0,24913,Jack Cork,swansea
+2017-01-07,FA Cup,Third round,Sat,Away,L,0,2,Hull City,,6608,,swansea
+2017-01-14,Premier League,Matchweek 21,Sat,Home,L,0,4,Arsenal,43.0,20875,Jack Cork,swansea
+2017-01-21,Premier League,Matchweek 22,Sat,Away,W,3,2,Liverpool,26.0,53169,Jack Cork,swansea
+2017-01-31,Premier League,Matchweek 23,Tue,Home,W,2,1,Southampton,43.0,20359,Jack Cork,swansea
+2017-02-05,Premier League,Matchweek 24,Sun,Away,L,1,2,Manchester City,31.0,54065,Jack Cork,swansea
+2017-02-12,Premier League,Matchweek 25,Sun,Home,W,2,0,Leicester City,49.0,20391,Jack Cork,swansea
+2017-02-25,Premier League,Matchweek 26,Sat,Away,L,1,3,Chelsea,34.0,41612,Jack Cork,swansea
+2017-03-04,Premier League,Matchweek 27,Sat,Home,W,3,2,Burnley,71.0,20679,Jack Cork,swansea
+2017-03-11,Premier League,Matchweek 28,Sat,Away,L,1,2,Hull City,50.0,19195,Jack Cork,swansea
+2017-03-18,Premier League,Matchweek 29,Sat,Away,L,0,2,Bournemouth,52.0,11240,Jack Cork,swansea
+2017-04-02,Premier League,Matchweek 30,Sun,Home,D,0,0,Middlesbrough,55.0,20354,Jack Cork,swansea
+2017-04-05,Premier League,Matchweek 31,Wed,Home,L,1,3,Tottenham,28.0,20855,Jack Cork,swansea
+2017-04-08,Premier League,Matchweek 32,Sat,Away,L,0,1,West Ham,54.0,56973,Jack Cork,swansea
+2017-04-15,Premier League,Matchweek 33,Sat,Away,L,0,1,Watford,47.0,20272,Gylfi Sigurðsson,swansea
+2017-04-22,Premier League,Matchweek 34,Sat,Home,W,2,0,Stoke City,46.0,20566,Leon Britton,swansea
+2017-04-30,Premier League,Matchweek 35,Sun,Away,D,1,1,Manchester Utd,45.0,75271,Leon Britton,swansea
+2017-05-06,Premier League,Matchweek 36,Sat,Home,W,1,0,Everton,38.0,20827,Leon Britton,swansea
+2017-05-13,Premier League,Matchweek 37,Sat,Away,W,2,0,Sunderland,47.0,38781,Leon Britton,swansea
+2017-05-21,Premier League,Matchweek 38,Sun,Home,W,2,1,West Brom,66.0,20889,Leon Britton,swansea
+2016-08-13,Premier League,Matchweek 1,Sat,Away,D,1,1,Everton,58.0,39494,Hugo Lloris,tottenham
+2016-08-20,Premier League,Matchweek 2,Sat,Home,W,1,0,Crystal Palace,57.0,31447,Harry Kane,tottenham
+2016-08-27,Premier League,Matchweek 3,Sat,Home,D,1,1,Liverpool,49.0,31211,Harry Kane,tottenham
+2016-09-10,Premier League,Matchweek 4,Sat,Away,W,4,0,Stoke City,60.0,27385,Hugo Lloris,tottenham
+2016-09-14,Champions Lg,Group stage,Wed,Home,L,1,2,fr Monaco,64.0,85011,Hugo Lloris,tottenham
+2016-09-18,Premier League,Matchweek 5,Sun,Home,W,1,0,Sunderland,74.0,31251,Hugo Lloris,tottenham
+2016-09-21,EFL Cup,Third round,Wed,Home,W,5,0,Gillingham,68.0,26244,Christian Eriksen,tottenham
+2016-09-24,Premier League,Matchweek 6,Sat,Away,W,2,1,Middlesbrough,58.0,32703,Hugo Lloris,tottenham
+2016-09-27,Champions Lg,Group stage,Tue,Away,W,1,0,ru CSKA Moscow,66.0,26153,Hugo Lloris,tottenham
+2016-10-02,Premier League,Matchweek 7,Sun,Home,W,2,0,Manchester City,42.0,31793,Hugo Lloris,tottenham
+2016-10-15,Premier League,Matchweek 8,Sat,Away,D,1,1,West Brom,72.0,24263,Hugo Lloris,tottenham
+2016-10-18,Champions Lg,Group stage,Tue,Away,D,0,0,de Leverkusen,57.0,28887,Hugo Lloris,tottenham
+2016-10-22,Premier League,Matchweek 9,Sat,Away,D,0,0,Bournemouth,62.0,11201,Hugo Lloris,tottenham
+2016-10-25,EFL Cup,Fourth round,Tue,Away,L,1,2,Liverpool,54.0,53051,Eric Dier,tottenham
+2016-10-29,Premier League,Matchweek 10,Sat,Home,D,1,1,Leicester City,64.0,31868,Hugo Lloris,tottenham
+2016-11-02,Champions Lg,Group stage,Wed,Home,L,0,1,de Leverkusen,59.0,85512,Hugo Lloris,tottenham
+2016-11-06,Premier League,Matchweek 11,Sun,Away,D,1,1,Arsenal,54.0,60039,Hugo Lloris,tottenham
+2016-11-19,Premier League,Matchweek 12,Sat,Home,W,3,2,West Ham,67.0,31212,Hugo Lloris,tottenham
+2016-11-22,Champions Lg,Group stage,Tue,Away,L,1,2,fr Monaco,63.0,13100,Hugo Lloris,tottenham
+2016-11-26,Premier League,Matchweek 13,Sat,Away,L,1,2,Chelsea,54.0,41513,Hugo Lloris,tottenham
+2016-12-03,Premier League,Matchweek 14,Sat,Home,W,5,0,Swansea City,60.0,31663,Harry Kane,tottenham
+2016-12-07,Champions Lg,Group stage,Wed,Home,W,3,1,ru CSKA Moscow,72.0,62034,Hugo Lloris,tottenham
+2016-12-11,Premier League,Matchweek 15,Sun,Away,L,0,1,Manchester Utd,60.0,75271,Hugo Lloris,tottenham
+2016-12-14,Premier League,Matchweek 16,Wed,Home,W,3,0,Hull City,63.0,31347,Hugo Lloris,tottenham
+2016-12-18,Premier League,Matchweek 17,Sun,Home,W,2,1,Burnley,60.0,31467,Hugo Lloris,tottenham
+2016-12-28,Premier League,Matchweek 18,Wed,Away,W,4,1,Southampton,66.0,31853,Hugo Lloris,tottenham
+2017-01-01,Premier League,Matchweek 19,Sun,Away,W,4,1,Watford,66.0,20882,Hugo Lloris,tottenham
+2017-01-04,Premier League,Matchweek 20,Wed,Home,W,2,0,Chelsea,46.0,31491,Hugo Lloris,tottenham
+2017-01-08,FA Cup,Third round,Sun,Home,W,2,0,Aston Villa,,31182,,tottenham
+2017-01-14,Premier League,Matchweek 21,Sat,Home,W,4,0,West Brom,73.0,31613,Hugo Lloris,tottenham
+2017-01-21,Premier League,Matchweek 22,Sat,Away,D,2,2,Manchester City,45.0,54402,Hugo Lloris,tottenham
+2017-01-28,FA Cup,Fourth round,Sat,Home,W,4,3,Wycombe,,31440,,tottenham
+2017-01-31,Premier League,Matchweek 23,Tue,Away,D,0,0,Sunderland,72.0,40058,Harry Kane,tottenham
+2017-02-04,Premier League,Matchweek 24,Sat,Home,W,1,0,Middlesbrough,65.0,31949,Hugo Lloris,tottenham
+2017-02-11,Premier League,Matchweek 25,Sat,Away,L,0,2,Liverpool,49.0,53159,Hugo Lloris,tottenham
+2017-02-16,Europa Lg,Round of 32,Thu,Away,L,0,1,be Gent,55.0,19267,Hugo Lloris,tottenham
+2017-02-19,FA Cup,Fifth round,Sun,Away,W,3,0,Fulham,,22557,,tottenham
+2017-02-23,Europa Lg,Round of 32,Thu,Home,D,2,2,be Gent,65.0,80465,Hugo Lloris,tottenham
+2017-02-26,Premier League,Matchweek 26,Sun,Home,W,4,0,Stoke City,64.0,31864,Hugo Lloris,tottenham
+2017-03-05,Premier League,Matchweek 27,Sun,Home,W,3,2,Everton,51.0,31962,Hugo Lloris,tottenham
+2017-03-12,FA Cup,Quarter-finals,Sun,Home,W,6,0,Millwall,,31137,,tottenham
+2017-03-19,Premier League,Matchweek 29,Sun,Home,W,2,1,Southampton,51.0,31697,Hugo Lloris,tottenham
+2017-04-01,Premier League,Matchweek 30,Sat,Away,W,2,0,Burnley,62.0,21684,Hugo Lloris,tottenham
+2017-04-05,Premier League,Matchweek 31,Wed,Away,W,3,1,Swansea City,72.0,20855,Jan Vertonghen,tottenham
+2017-04-08,Premier League,Matchweek 32,Sat,Home,W,4,0,Watford,58.0,31706,Hugo Lloris,tottenham
+2017-04-15,Premier League,Matchweek 33,Sat,Home,W,4,0,Bournemouth,69.0,31943,Hugo Lloris,tottenham
+2017-04-22,FA Cup,Semi-finals,Sat,Away,L,2,4,Chelsea,,86355,,tottenham
+2017-04-26,Premier League,Matchweek 28,Wed,Away,W,1,0,Crystal Palace,69.0,25596,Hugo Lloris,tottenham
+2017-04-30,Premier League,Matchweek 35,Sun,Home,W,2,0,Arsenal,51.0,31811,Hugo Lloris,tottenham
+2017-05-05,Premier League,Matchweek 36,Fri,Away,L,0,1,West Ham,68.0,56992,Hugo Lloris,tottenham
+2017-05-14,Premier League,Matchweek 37,Sun,Home,W,2,1,Manchester Utd,60.0,31848,Hugo Lloris,tottenham
+2017-05-18,Premier League,Matchweek 34,Thu,Away,W,6,1,Leicester City,63.0,31351,Hugo Lloris,tottenham
+2017-05-21,Premier League,Matchweek 38,Sun,Away,W,7,1,Hull City,65.0,23804,Hugo Lloris,tottenham
+2016-08-07,Community Shield,FA Community Shield,Sun,Away,W,2,1,Leicester City,,85437,Wayne Rooney,united
+2016-08-14,Premier League,Matchweek 1,Sun,Away,W,3,1,Bournemouth,53.0,11355,Wayne Rooney,united
+2016-08-19,Premier League,Matchweek 2,Fri,Home,W,2,0,Southampton,43.0,75326,Wayne Rooney,united
+2016-08-27,Premier League,Matchweek 3,Sat,Away,W,1,0,Hull City,62.0,24560,Wayne Rooney,united
+2016-09-10,Premier League,Matchweek 4,Sat,Home,L,1,2,Manchester City,40.0,75272,Wayne Rooney,united
+2016-09-15,Europa Lg,Group stage,Thu,Away,L,0,1,nl Feyenoord,57.0,31000,Chris Smalling,united
+2016-09-18,Premier League,Matchweek 5,Sun,Away,L,1,3,Watford,60.0,21118,Wayne Rooney,united
+2016-09-21,EFL Cup,Third round,Wed,Away,W,3,1,Northampton,74.0,7798,Wayne Rooney,united
+2016-09-24,Premier League,Matchweek 6,Sat,Home,W,4,1,Leicester City,67.0,75256,Chris Smalling,united
+2016-09-29,Europa Lg,Group stage,Thu,Home,W,1,0,ua Zorya Luhansk,72.0,16000,Chris Smalling,united
+2016-10-02,Premier League,Matchweek 7,Sun,Home,D,1,1,Stoke City,67.0,75251,Chris Smalling,united
+2016-10-17,Premier League,Matchweek 8,Mon,Away,D,0,0,Liverpool,35.0,52769,Chris Smalling,united
+2016-10-20,Europa Lg,Group stage,Thu,Home,W,4,1,tr Fenerbahçe,61.0,71000,Wayne Rooney,united
+2016-10-23,Premier League,Matchweek 9,Sun,Away,L,0,4,Chelsea,56.0,41424,Chris Smalling,united
+2016-10-26,EFL Cup,Fourth round,Wed,Home,W,1,0,Manchester City,48.0,75196,Michael Carrick,united
+2016-10-29,Premier League,Matchweek 10,Sat,Home,D,0,0,Burnley,72.0,75325,Juan Mata,united
+2016-11-03,Europa Lg,Group stage,Thu,Away,L,1,2,tr Fenerbahçe,70.0,35378,Wayne Rooney,united
+2016-11-06,Premier League,Matchweek 11,Sun,Away,W,3,1,Swansea City,63.0,20938,Wayne Rooney,united
+2016-11-19,Premier League,Matchweek 12,Sat,Home,D,1,1,Arsenal,46.0,75264,Michael Carrick,united
+2016-11-24,Europa Lg,Group stage,Thu,Home,W,4,0,nl Feyenoord,59.0,64628,Wayne Rooney,united
+2016-11-27,Premier League,Matchweek 13,Sun,Home,D,1,1,West Ham,68.0,75313,Juan Mata,united
+2016-11-30,EFL Cup,Quarter-finals,Wed,Home,W,4,1,West Ham,57.0,65269,Wayne Rooney,united
+2016-12-04,Premier League,Matchweek 14,Sun,Away,D,1,1,Everton,55.0,39550,Michael Carrick,united
+2016-12-08,Europa Lg,Group stage,Thu,Away,W,2,0,ua Zorya Luhansk,71.0,25900,Wayne Rooney,united
+2016-12-11,Premier League,Matchweek 15,Sun,Home,W,1,0,Tottenham,40.0,75271,Michael Carrick,united
+2016-12-14,Premier League,Matchweek 16,Wed,Away,W,2,1,Crystal Palace,61.0,25547,Wayne Rooney,united
+2016-12-17,Premier League,Matchweek 17,Sat,Away,W,2,0,West Brom,58.0,26308,Wayne Rooney,united
+2016-12-26,Premier League,Matchweek 18,Mon,Home,W,3,1,Sunderland,62.0,75325,Michael Carrick,united
+2016-12-31,Premier League,Matchweek 19,Sat,Home,W,2,1,Middlesbrough,66.0,75314,Chris Smalling,united
+2017-01-02,Premier League,Matchweek 20,Mon,Away,W,2,0,West Ham,64.0,56996,Michael Carrick,united
+2017-01-07,FA Cup,Third round,Sat,Home,W,4,0,Reading,,74396,,united
+2017-01-10,EFL Cup,Semi-finals,Tue,Home,W,2,0,Hull City,66.0,65798,Wayne Rooney,united
+2017-01-15,Premier League,Matchweek 21,Sun,Home,D,1,1,Liverpool,56.0,75276,Michael Carrick,united
+2017-01-21,Premier League,Matchweek 22,Sat,Away,D,1,1,Stoke City,65.0,27423,Chris Smalling,united
+2017-01-26,EFL Cup,Semi-finals,Thu,Away,L,1,2,Hull City,46.0,16831,Michael Carrick,united
+2017-01-29,FA Cup,Fourth round,Sun,Home,W,4,0,Wigan Athletic,,75229,,united
+2017-02-01,Premier League,Matchweek 23,Wed,Home,D,0,0,Hull City,67.0,75297,Michael Carrick,united
+2017-02-05,Premier League,Matchweek 24,Sun,Away,W,3,0,Leicester City,68.0,32072,Chris Smalling,united
+2017-02-11,Premier League,Matchweek 25,Sat,Home,W,2,0,Watford,58.0,75301,Chris Smalling,united
+2017-02-16,Europa Lg,Round of 32,Thu,Home,W,3,0,fr Saint-Étienne,62.0,67192,Chris Smalling,united
+2017-02-19,FA Cup,Fifth round,Sun,Away,W,2,1,Blackburn,,23130,,united
+2017-02-22,Europa Lg,Round of 32,Wed,Away,W,1,0,fr Saint-Étienne,46.0,41492,Michael Carrick,united
+2017-02-26,EFL Cup,Final,Sun,Home,W,3,2,Southampton,48.0,85264,Chris Smalling,united
+2017-03-04,Premier League,Matchweek 27,Sat,Home,D,1,1,Bournemouth,68.0,75245,Wayne Rooney,united
+2017-03-09,Europa Lg,Round of 16,Thu,Away,D,1,1,ru Rostov,51.0,14223,Chris Smalling,united
+2017-03-13,FA Cup,Quarter-finals,Mon,Away,L,0,1,Chelsea,,40801,,united
+2017-03-16,Europa Lg,Round of 16,Thu,Home,W,1,0,ru Rostov,69.0,64361,Chris Smalling,united
+2017-03-19,Premier League,Matchweek 29,Sun,Away,W,3,1,Middlesbrough,36.0,32689,Michael Carrick,united
+2017-04-01,Premier League,Matchweek 30,Sat,Home,D,0,0,West Brom,75.0,75397,Michael Carrick,united
+2017-04-04,Premier League,Matchweek 31,Tue,Home,D,1,1,Everton,62.0,75272,Michael Carrick,united
+2017-04-09,Premier League,Matchweek 32,Sun,Away,W,3,0,Sunderland,71.0,43779,Marouane Fellaini,united
+2017-04-13,Europa Lg,Quarter-finals,Thu,Away,D,1,1,be Anderlecht,64.0,20060,Michael Carrick,united
+2017-04-16,Premier League,Matchweek 33,Sun,Home,W,2,0,Chelsea,46.0,75272,Ashley Young,united
+2017-04-20,Europa Lg,Quarter-finals,Thu,Home,W,2,1,be Anderlecht,60.0,71496,Michael Carrick,united
+2017-04-23,Premier League,Matchweek 34,Sun,Away,W,2,0,Burnley,54.0,21870,Wayne Rooney,united
+2017-04-27,Premier League,Matchweek 26,Thu,Away,D,0,0,Manchester City,31.0,54176,Michael Carrick,united
+2017-04-30,Premier League,Matchweek 35,Sun,Home,D,1,1,Swansea City,56.0,75271,Wayne Rooney,united
+2017-05-04,Europa Lg,Semi-finals,Thu,Away,W,1,0,es Celta Vigo,42.0,26202,Antonio Valencia,united
+2017-05-07,Premier League,Matchweek 36,Sun,Away,L,0,2,Arsenal,50.0,60055,Wayne Rooney,united
+2017-05-11,Europa Lg,Semi-finals,Thu,Home,D,1,1,es Celta Vigo,33.0,75138,Antonio Valencia,united
+2017-05-14,Premier League,Matchweek 37,Sun,Away,L,1,2,Tottenham,40.0,31848,Wayne Rooney,united
+2017-05-17,Premier League,Matchweek 28,Wed,Away,D,0,0,Southampton,47.0,31425,Wayne Rooney,united
+2017-05-21,Premier League,Matchweek 38,Sun,Home,W,2,0,Crystal Palace,59.0,75254,Wayne Rooney,united
+2017-05-24,Europa Lg,Final,Wed,Away,W,2,0,nl Ajax,31.0,46961,Antonio Valencia,united
+2016-08-13,Premier League,Matchweek 1,Sat,Away,D,1,1,Southampton,36.0,31488,Troy Deeney,watford
+2016-08-20,Premier League,Matchweek 2,Sat,Home,L,1,2,Chelsea,38.0,20772,Troy Deeney,watford
+2016-08-23,EFL Cup,Second round,Tue,Home,L,1,2,Gillingham,57.0,7004,Troy Deeney,watford
+2016-08-27,Premier League,Matchweek 3,Sat,Home,L,1,3,Arsenal,45.0,20545,Troy Deeney,watford
+2016-09-10,Premier League,Matchweek 4,Sat,Away,W,4,2,West Ham,42.0,56974,Troy Deeney,watford
+2016-09-18,Premier League,Matchweek 5,Sun,Home,W,3,1,Manchester Utd,40.0,21118,Troy Deeney,watford
+2016-09-26,Premier League,Matchweek 6,Mon,Away,L,0,2,Burnley,57.0,18519,Troy Deeney,watford
+2016-10-01,Premier League,Matchweek 7,Sat,Home,D,2,2,Bournemouth,48.0,20575,Troy Deeney,watford
+2016-10-16,Premier League,Matchweek 8,Sun,Away,W,1,0,Middlesbrough,36.0,28131,Troy Deeney,watford
+2016-10-22,Premier League,Matchweek 9,Sat,Away,D,0,0,Swansea City,46.0,20694,Troy Deeney,watford
+2016-10-29,Premier League,Matchweek 10,Sat,Home,W,1,0,Hull City,54.0,20022,Troy Deeney,watford
+2016-11-06,Premier League,Matchweek 11,Sun,Away,L,1,6,Liverpool,40.0,53163,Troy Deeney,watford
+2016-11-19,Premier League,Matchweek 12,Sat,Home,W,2,1,Leicester City,46.0,20640,Troy Deeney,watford
+2016-11-27,Premier League,Matchweek 13,Sun,Home,L,0,1,Stoke City,50.0,20058,Troy Deeney,watford
+2016-12-03,Premier League,Matchweek 14,Sat,Away,L,1,3,West Brom,60.0,22244,Troy Deeney,watford
+2016-12-10,Premier League,Matchweek 15,Sat,Home,W,3,2,Everton,47.0,20769,Troy Deeney,watford
+2016-12-14,Premier League,Matchweek 16,Wed,Away,L,0,2,Manchester City,37.0,51527,Heurelho Gomes,watford
+2016-12-17,Premier League,Matchweek 17,Sat,Away,L,0,1,Sunderland,57.0,40267,Troy Deeney,watford
+2016-12-26,Premier League,Matchweek 18,Mon,Home,D,1,1,Crystal Palace,56.0,20304,Heurelho Gomes,watford
+2017-01-01,Premier League,Matchweek 19,Sun,Home,L,1,4,Tottenham,34.0,20882,Troy Deeney,watford
+2017-01-03,Premier League,Matchweek 20,Tue,Away,L,0,2,Stoke City,46.0,27010,Troy Deeney,watford
+2017-01-07,FA Cup,Third round,Sat,Home,W,2,0,Burton Albion,,13270,,watford
+2017-01-14,Premier League,Matchweek 21,Sat,Home,D,0,0,Middlesbrough,47.0,20659,Troy Deeney,watford
+2017-01-21,Premier League,Matchweek 22,Sat,Away,D,2,2,Bournemouth,37.0,11123,Troy Deeney,watford
+2017-01-29,FA Cup,Fourth round,Sun,Away,L,0,1,Millwall,,9772,,watford
+2017-01-31,Premier League,Matchweek 23,Tue,Away,W,2,1,Arsenal,26.0,60035,Troy Deeney,watford
+2017-02-04,Premier League,Matchweek 24,Sat,Home,W,2,1,Burnley,60.0,20178,Troy Deeney,watford
+2017-02-11,Premier League,Matchweek 25,Sat,Away,L,0,2,Manchester Utd,42.0,75301,Troy Deeney,watford
+2017-02-25,Premier League,Matchweek 26,Sat,Home,D,1,1,West Ham,36.0,20702,Troy Deeney,watford
+2017-03-04,Premier League,Matchweek 27,Sat,Home,L,3,4,Southampton,37.0,20670,Troy Deeney,watford
+2017-03-18,Premier League,Matchweek 29,Sat,Away,L,0,1,Crystal Palace,57.0,25109,Troy Deeney,watford
+2017-04-01,Premier League,Matchweek 30,Sat,Home,W,1,0,Sunderland,57.0,20805,Heurelho Gomes,watford
+2017-04-04,Premier League,Matchweek 31,Tue,Home,W,2,0,West Brom,55.0,20090,Troy Deeney,watford
+2017-04-08,Premier League,Matchweek 32,Sat,Away,L,0,4,Tottenham,42.0,31706,Heurelho Gomes,watford
+2017-04-15,Premier League,Matchweek 33,Sat,Home,W,1,0,Swansea City,53.0,20272,Troy Deeney,watford
+2017-04-22,Premier League,Matchweek 34,Sat,Away,L,0,2,Hull City,66.0,20432,Troy Deeney,watford
+2017-05-01,Premier League,Matchweek 35,Mon,Home,L,0,1,Liverpool,40.0,20959,Troy Deeney,watford
+2017-05-06,Premier League,Matchweek 36,Sat,Away,L,0,3,Leicester City,58.0,31628,Heurelho Gomes,watford
+2017-05-12,Premier League,Matchweek 37,Fri,Away,L,0,1,Everton,37.0,38550,Troy Deeney,watford
+2017-05-15,Premier League,Matchweek 28,Mon,Away,L,3,4,Chelsea,53.0,41473,Heurelho Gomes,watford
+2017-05-21,Premier League,Matchweek 38,Sun,Home,L,0,5,Manchester City,33.0,20829,Heurelho Gomes,watford
+2016-08-13,Premier League,Matchweek 1,Sat,Away,W,1,0,Crystal Palace,38.0,24490,Darren Fletcher,west-brom
+2016-08-20,Premier League,Matchweek 2,Sat,Home,L,1,2,Everton,34.0,23654,Darren Fletcher,west-brom
+2016-08-23,EFL Cup,Second round,Tue,Away,D,2 (3),2 (4),Northampton,50.0,5516,Gareth McAuley,west-brom
+2016-08-28,Premier League,Matchweek 3,Sun,Home,D,0,0,Middlesbrough,41.0,23690,Darren Fletcher,west-brom
+2016-09-10,Premier League,Matchweek 4,Sat,Away,L,0,1,Bournemouth,37.0,11184,Darren Fletcher,west-brom
+2016-09-17,Premier League,Matchweek 5,Sat,Home,W,4,2,West Ham,30.0,22209,Darren Fletcher,west-brom
+2016-09-24,Premier League,Matchweek 6,Sat,Away,D,1,1,Stoke City,44.0,27645,Darren Fletcher,west-brom
+2016-10-01,Premier League,Matchweek 7,Sat,Away,D,1,1,Sunderland,44.0,40043,Darren Fletcher,west-brom
+2016-10-15,Premier League,Matchweek 8,Sat,Home,D,1,1,Tottenham,29.0,24263,Darren Fletcher,west-brom
+2016-10-22,Premier League,Matchweek 9,Sat,Away,L,1,2,Liverpool,33.0,53218,Darren Fletcher,west-brom
+2016-10-29,Premier League,Matchweek 10,Sat,Home,L,0,4,Manchester City,30.0,22470,Darren Fletcher,west-brom
+2016-11-06,Premier League,Matchweek 11,Sun,Away,W,2,1,Leicester City,41.0,31879,Darren Fletcher,west-brom
+2016-11-21,Premier League,Matchweek 12,Mon,Home,W,4,0,Burnley,46.0,23016,Darren Fletcher,west-brom
+2016-11-26,Premier League,Matchweek 13,Sat,Away,D,1,1,Hull City,47.0,18086,Darren Fletcher,west-brom
+2016-12-03,Premier League,Matchweek 14,Sat,Home,W,3,1,Watford,40.0,22244,Darren Fletcher,west-brom
+2016-12-11,Premier League,Matchweek 15,Sun,Away,L,0,1,Chelsea,33.0,41622,Darren Fletcher,west-brom
+2016-12-14,Premier League,Matchweek 16,Wed,Home,W,3,1,Swansea City,40.0,21467,Darren Fletcher,west-brom
+2016-12-17,Premier League,Matchweek 17,Sat,Home,L,0,2,Manchester Utd,42.0,26308,Darren Fletcher,west-brom
+2016-12-26,Premier League,Matchweek 18,Mon,Away,L,0,1,Arsenal,24.0,59925,Darren Fletcher,west-brom
+2016-12-31,Premier League,Matchweek 19,Sat,Away,W,2,1,Southampton,32.0,30975,Darren Fletcher,west-brom
+2017-01-02,Premier League,Matchweek 20,Mon,Home,W,3,1,Hull City,41.0,23402,Darren Fletcher,west-brom
+2017-01-07,FA Cup,Third round,Sat,Home,L,1,2,Derby County,,25288,,west-brom
+2017-01-14,Premier League,Matchweek 21,Sat,Away,L,0,4,Tottenham,27.0,31613,Darren Fletcher,west-brom
+2017-01-21,Premier League,Matchweek 22,Sat,Home,W,2,0,Sunderland,44.0,24380,Darren Fletcher,west-brom
+2017-01-31,Premier League,Matchweek 23,Tue,Away,D,1,1,Middlesbrough,38.0,27316,Darren Fletcher,west-brom
+2017-02-04,Premier League,Matchweek 24,Sat,Home,W,1,0,Stoke City,38.0,23921,Darren Fletcher,west-brom
+2017-02-11,Premier League,Matchweek 25,Sat,Away,D,2,2,West Ham,35.0,56983,Darren Fletcher,west-brom
+2017-02-25,Premier League,Matchweek 26,Sat,Home,W,2,1,Bournemouth,32.0,24162,Darren Fletcher,west-brom
+2017-03-04,Premier League,Matchweek 27,Sat,Home,L,0,2,Crystal Palace,52.0,24051,Darren Fletcher,west-brom
+2017-03-11,Premier League,Matchweek 28,Sat,Away,L,0,3,Everton,37.0,39592,Darren Fletcher,west-brom
+2017-03-18,Premier League,Matchweek 29,Sat,Home,W,3,1,Arsenal,23.0,24065,Darren Fletcher,west-brom
+2017-04-01,Premier League,Matchweek 30,Sat,Away,D,0,0,Manchester Utd,25.0,75397,Darren Fletcher,west-brom
+2017-04-04,Premier League,Matchweek 31,Tue,Away,L,0,2,Watford,45.0,20090,Darren Fletcher,west-brom
+2017-04-08,Premier League,Matchweek 32,Sat,Home,L,0,1,Southampton,42.0,24697,Darren Fletcher,west-brom
+2017-04-16,Premier League,Matchweek 33,Sun,Home,L,0,1,Liverpool,36.0,25669,Darren Fletcher,west-brom
+2017-04-29,Premier League,Matchweek 35,Sat,Home,L,0,1,Leicester City,55.0,24611,Jonny Evans,west-brom
+2017-05-06,Premier League,Matchweek 36,Sat,Away,D,2,2,Burnley,45.0,20825,Darren Fletcher,west-brom
+2017-05-12,Premier League,Matchweek 37,Fri,Home,L,0,1,Chelsea,32.0,25367,Darren Fletcher,west-brom
+2017-05-16,Premier League,Matchweek 34,Tue,Away,L,1,3,Manchester City,29.0,53624,Darren Fletcher,west-brom
+2017-05-21,Premier League,Matchweek 38,Sun,Away,L,1,2,Swansea City,35.0,20889,Darren Fletcher,west-brom
+2016-07-28,Europa Lg,Third qualifying round,Thu,Away,L,1,2,si NK Domžale,59.0,8458,Mark Noble,west-ham
+2016-08-04,Europa Lg,Third qualifying round,Thu,Home,W,3,0,si NK Domžale,,53914,Mark Noble,west-ham
+2016-08-15,Premier League,Matchweek 1,Mon,Away,L,1,2,Chelsea,38.0,41521,Mark Noble,west-ham
+2016-08-18,Europa Lg,Play-off round,Thu,Away,D,1,1,ro Astra Giurgiu,44.0,3360,Mark Noble,west-ham
+2016-08-21,Premier League,Matchweek 2,Sun,Home,W,1,0,Bournemouth,47.0,56977,Mark Noble,west-ham
+2016-08-25,Europa Lg,Play-off round,Thu,Home,L,0,1,ro Astra Giurgiu,65.0,56932,Winston Reid,west-ham
+2016-08-28,Premier League,Matchweek 3,Sun,Away,L,1,3,Manchester City,33.0,54008,Mark Noble,west-ham
+2016-09-10,Premier League,Matchweek 4,Sat,Home,L,2,4,Watford,58.0,56974,Mark Noble,west-ham
+2016-09-17,Premier League,Matchweek 5,Sat,Away,L,2,4,West Brom,70.0,22209,Mark Noble,west-ham
+2016-09-21,EFL Cup,Third round,Wed,Home,W,1,0,Acc'ton Stanley,63.0,39877,Darren Randolph,west-ham
+2016-09-25,Premier League,Matchweek 6,Sun,Home,L,0,3,Southampton,45.0,56864,Mark Noble,west-ham
+2016-10-01,Premier League,Matchweek 7,Sat,Home,D,1,1,Middlesbrough,40.0,56945,Mark Noble,west-ham
+2016-10-15,Premier League,Matchweek 8,Sat,Away,W,1,0,Crystal Palace,45.0,25643,Mark Noble,west-ham
+2016-10-22,Premier League,Matchweek 9,Sat,Home,W,1,0,Sunderland,64.0,56985,Mark Noble,west-ham
+2016-10-26,EFL Cup,Fourth round,Wed,Home,W,2,1,Chelsea,47.0,45957,Mark Noble,west-ham
+2016-10-30,Premier League,Matchweek 10,Sun,Away,L,0,2,Everton,51.0,39574,Mark Noble,west-ham
+2016-11-05,Premier League,Matchweek 11,Sat,Home,D,1,1,Stoke City,58.0,56970,Mark Noble,west-ham
+2016-11-19,Premier League,Matchweek 12,Sat,Away,L,2,3,Tottenham,33.0,31212,Winston Reid,west-ham
+2016-11-27,Premier League,Matchweek 13,Sun,Away,D,1,1,Manchester Utd,32.0,75313,Mark Noble,west-ham
+2016-11-30,EFL Cup,Quarter-finals,Wed,Away,L,1,4,Manchester Utd,43.0,65269,Winston Reid,west-ham
+2016-12-03,Premier League,Matchweek 14,Sat,Home,L,1,5,Arsenal,51.0,56980,Mark Noble,west-ham
+2016-12-11,Premier League,Matchweek 15,Sun,Away,D,2,2,Liverpool,32.0,53068,Mark Noble,west-ham
+2016-12-14,Premier League,Matchweek 16,Wed,Home,W,1,0,Burnley,58.0,56990,Mark Noble,west-ham
+2016-12-17,Premier League,Matchweek 17,Sat,Home,W,1,0,Hull City,56.0,56952,Mark Noble,west-ham
+2016-12-26,Premier League,Matchweek 18,Mon,Away,W,4,1,Swansea City,44.0,20757,Mark Noble,west-ham
+2016-12-31,Premier League,Matchweek 19,Sat,Away,L,0,1,Leicester City,60.0,32060,Mark Noble,west-ham
+2017-01-02,Premier League,Matchweek 20,Mon,Home,L,0,2,Manchester Utd,36.0,56996,Winston Reid,west-ham
+2017-01-06,FA Cup,Third round,Fri,Home,L,0,5,Manchester City,,56975,,west-ham
+2017-01-14,Premier League,Matchweek 21,Sat,Home,W,3,0,Crystal Palace,44.0,56984,Mark Noble,west-ham
+2017-01-21,Premier League,Matchweek 22,Sat,Away,W,3,1,Middlesbrough,39.0,30848,Mark Noble,west-ham
+2017-02-01,Premier League,Matchweek 23,Wed,Home,L,0,4,Manchester City,30.0,56980,Mark Noble,west-ham
+2017-02-04,Premier League,Matchweek 24,Sat,Away,W,3,1,Southampton,45.0,31891,Mark Noble,west-ham
+2017-02-11,Premier League,Matchweek 25,Sat,Home,D,2,2,West Brom,65.0,56983,Mark Noble,west-ham
+2017-02-25,Premier League,Matchweek 26,Sat,Away,D,1,1,Watford,64.0,20702,Mark Noble,west-ham
+2017-03-06,Premier League,Matchweek 27,Mon,Home,L,1,2,Chelsea,52.0,56984,Mark Noble,west-ham
+2017-03-11,Premier League,Matchweek 28,Sat,Away,L,2,3,Bournemouth,48.0,11369,Mark Noble,west-ham
+2017-03-18,Premier League,Matchweek 29,Sat,Home,L,2,3,Leicester City,59.0,56979,Winston Reid,west-ham
+2017-04-01,Premier League,Matchweek 30,Sat,Away,L,1,2,Hull City,55.0,20820,Andy Carroll,west-ham
+2017-04-05,Premier League,Matchweek 31,Wed,Away,L,0,3,Arsenal,34.0,59961,Mark Noble,west-ham
+2017-04-08,Premier League,Matchweek 32,Sat,Home,W,1,0,Swansea City,46.0,56973,Mark Noble,west-ham
+2017-04-15,Premier League,Matchweek 33,Sat,Away,D,2,2,Sunderland,53.0,40168,Andy Carroll,west-ham
+2017-04-22,Premier League,Matchweek 34,Sat,Home,D,0,0,Everton,41.0,56971,Winston Reid,west-ham
+2017-04-29,Premier League,Matchweek 35,Sat,Away,D,0,0,Stoke City,43.0,27628,Winston Reid,west-ham
+2017-05-05,Premier League,Matchweek 36,Fri,Home,W,1,0,Tottenham,32.0,56992,Mark Noble,west-ham
+2017-05-14,Premier League,Matchweek 37,Sun,Home,L,0,4,Liverpool,33.0,56985,Winston Reid,west-ham
+2017-05-21,Premier League,Matchweek 38,Sun,Away,W,2,1,Burnley,56.0,21634,James Collins,west-ham
