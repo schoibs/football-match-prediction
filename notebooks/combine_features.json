@@ -30,5 +30,6 @@
   "Mid": ["HMid", "AMid"],
   "Att": ["HAtt", "AAtt"],
   "Ovr": ["HOvr", "AOvr"],
-  "WinnerOdd": ["B365H", "B365A"]
+  "WinnerOdd": ["B365H", "B365A"],
+  "Round": ["HTRound", "ATRound"]
 }
