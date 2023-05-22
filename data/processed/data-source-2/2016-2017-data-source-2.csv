@@ -1,939 +1,939 @@
-Date,Comp,Day,Venue,Result,GF,GA,Opponent,Poss,team
-2016-08-14,Premier League,Sun,Home,L,3,4,Liverpool,51.0,arsenal
-2016-08-20,Premier League,Sat,Away,D,0,0,Leicester City,61.0,arsenal
-2016-08-27,Premier League,Sat,Away,W,3,1,Watford,55.0,arsenal
-2016-09-10,Premier League,Sat,Home,W,2,1,Southampton,57.0,arsenal
-2016-09-13,Champions Lg,Tue,Away,D,1,1,fr Paris S-G,48.0,arsenal
-2016-09-17,Premier League,Sat,Away,W,4,1,Hull City,61.0,arsenal
-2016-09-20,EFL Cup,Tue,Away,W,4,0,Nott'ham Forest,61.0,arsenal
-2016-09-24,Premier League,Sat,Home,W,3,0,Chelsea,50.0,arsenal
-2016-09-28,Champions Lg,Wed,Home,W,2,0,ch Basel,65.0,arsenal
-2016-10-02,Premier League,Sun,Away,W,1,0,Burnley,67.0,arsenal
-2016-10-15,Premier League,Sat,Home,W,3,2,Swansea City,49.0,arsenal
-2016-10-19,Champions Lg,Wed,Home,W,6,0,bg Ludogorets,43.0,arsenal
-2016-10-22,Premier League,Sat,Home,D,0,0,Middlesbrough,75.0,arsenal
-2016-10-25,EFL Cup,Tue,Home,W,2,0,Reading,60.0,arsenal
-2016-10-29,Premier League,Sat,Away,W,4,1,Sunderland,66.0,arsenal
-2016-11-01,Champions Lg,Tue,Away,W,3,2,bg Ludogorets,58.0,arsenal
-2016-11-06,Premier League,Sun,Home,D,1,1,Tottenham,46.0,arsenal
-2016-11-19,Premier League,Sat,Away,D,1,1,Manchester Utd,55.0,arsenal
-2016-11-23,Champions Lg,Wed,Home,D,2,2,fr Paris S-G,46.0,arsenal
-2016-11-27,Premier League,Sun,Home,W,3,1,Bournemouth,52.0,arsenal
-2016-11-30,EFL Cup,Wed,Home,L,0,2,Southampton,63.0,arsenal
-2016-12-03,Premier League,Sat,Away,W,5,1,West Ham,50.0,arsenal
-2016-12-06,Champions Lg,Tue,Away,W,4,1,ch Basel,59.0,arsenal
-2016-12-10,Premier League,Sat,Home,W,3,1,Stoke City,64.0,arsenal
-2016-12-13,Premier League,Tue,Away,L,1,2,Everton,59.0,arsenal
-2016-12-18,Premier League,Sun,Away,L,1,2,Manchester City,39.0,arsenal
-2016-12-26,Premier League,Mon,Home,W,1,0,West Brom,76.0,arsenal
-2017-01-01,Premier League,Sun,Home,W,2,0,Crystal Palace,64.0,arsenal
-2017-01-03,Premier League,Tue,Away,D,3,3,Bournemouth,60.0,arsenal
-2017-01-07,FA Cup,Sat,Away,W,2,1,Preston,,arsenal
-2017-01-14,Premier League,Sat,Away,W,4,0,Swansea City,57.0,arsenal
-2017-01-22,Premier League,Sun,Home,W,2,1,Burnley,70.0,arsenal
-2017-01-28,FA Cup,Sat,Away,W,5,0,Southampton,,arsenal
-2017-01-31,Premier League,Tue,Home,L,1,2,Watford,74.0,arsenal
-2017-02-04,Premier League,Sat,Away,L,1,3,Chelsea,59.0,arsenal
-2017-02-11,Premier League,Sat,Home,W,2,0,Hull City,49.0,arsenal
-2017-02-15,Champions Lg,Wed,Away,L,1,5,de Bayern Munich,26.0,arsenal
-2017-02-20,FA Cup,Mon,Away,W,2,0,Sutton United,,arsenal
-2017-03-04,Premier League,Sat,Away,L,1,3,Liverpool,48.0,arsenal
-2017-03-07,Champions Lg,Tue,Home,L,1,5,de Bayern Munich,43.0,arsenal
-2017-03-11,FA Cup,Sat,Home,W,5,0,Lincoln City,,arsenal
-2017-03-18,Premier League,Sat,Away,L,1,3,West Brom,77.0,arsenal
-2017-04-02,Premier League,Sun,Home,D,2,2,Manchester City,44.0,arsenal
-2017-04-05,Premier League,Wed,Home,W,3,0,West Ham,66.0,arsenal
-2017-04-10,Premier League,Mon,Away,L,0,3,Crystal Palace,72.0,arsenal
-2017-04-17,Premier League,Mon,Away,W,2,1,Middlesbrough,65.0,arsenal
-2017-04-23,FA Cup,Sun,Home,W,2,1,Manchester City,,arsenal
-2017-04-26,Premier League,Wed,Home,W,1,0,Leicester City,69.0,arsenal
-2017-04-30,Premier League,Sun,Away,L,0,2,Tottenham,49.0,arsenal
-2017-05-07,Premier League,Sun,Home,W,2,0,Manchester Utd,50.0,arsenal
-2017-05-10,Premier League,Wed,Away,W,2,0,Southampton,53.0,arsenal
-2017-05-13,Premier League,Sat,Away,W,4,1,Stoke City,67.0,arsenal
-2017-05-16,Premier League,Tue,Home,W,2,0,Sunderland,63.0,arsenal
-2017-05-21,Premier League,Sun,Home,W,3,1,Everton,50.0,arsenal
-2017-05-27,FA Cup,Sat,Home,W,2,1,Chelsea,,arsenal
-2016-08-14,Premier League,Sun,Home,L,1,3,Manchester Utd,47.0,bournemouth
-2016-08-21,Premier League,Sun,Away,L,0,1,West Ham,53.0,bournemouth
-2016-08-24,EFL Cup,Wed,Away,W,2,1,Morecambe,60.0,bournemouth
-2016-08-27,Premier League,Sat,Away,D,1,1,Crystal Palace,41.0,bournemouth
-2016-09-10,Premier League,Sat,Home,W,1,0,West Brom,64.0,bournemouth
-2016-09-17,Premier League,Sat,Away,L,0,4,Manchester City,36.0,bournemouth
-2016-09-20,EFL Cup,Tue,Home,L,2,3,Preston,56.0,bournemouth
-2016-09-24,Premier League,Sat,Home,W,1,0,Everton,53.0,bournemouth
-2016-10-01,Premier League,Sat,Away,D,2,2,Watford,52.0,bournemouth
-2016-10-15,Premier League,Sat,Home,W,6,1,Hull City,50.0,bournemouth
-2016-10-22,Premier League,Sat,Home,D,0,0,Tottenham,38.0,bournemouth
-2016-10-29,Premier League,Sat,Away,L,0,2,Middlesbrough,60.0,bournemouth
-2016-11-05,Premier League,Sat,Home,L,1,2,Sunderland,70.0,bournemouth
-2016-11-19,Premier League,Sat,Away,W,1,0,Stoke City,49.0,bournemouth
-2016-11-27,Premier League,Sun,Away,L,1,3,Arsenal,49.0,bournemouth
-2016-12-04,Premier League,Sun,Home,W,4,3,Liverpool,40.0,bournemouth
-2016-12-10,Premier League,Sat,Away,L,2,3,Burnley,69.0,bournemouth
-2016-12-13,Premier League,Tue,Home,W,1,0,Leicester City,63.0,bournemouth
-2016-12-18,Premier League,Sun,Home,L,1,3,Southampton,47.0,bournemouth
-2016-12-26,Premier League,Mon,Away,L,0,3,Chelsea,56.0,bournemouth
-2016-12-31,Premier League,Sat,Away,W,3,0,Swansea City,55.0,bournemouth
-2017-01-03,Premier League,Tue,Home,D,3,3,Arsenal,40.0,bournemouth
-2017-01-07,FA Cup,Sat,Away,L,0,3,Millwall,,bournemouth
-2017-01-14,Premier League,Sat,Away,L,1,3,Hull City,61.0,bournemouth
-2017-01-21,Premier League,Sat,Home,D,2,2,Watford,63.0,bournemouth
-2017-01-31,Premier League,Tue,Home,L,0,2,Crystal Palace,65.0,bournemouth
-2017-02-04,Premier League,Sat,Away,L,3,6,Everton,54.0,bournemouth
-2017-02-13,Premier League,Mon,Home,L,0,2,Manchester City,38.0,bournemouth
-2017-02-25,Premier League,Sat,Away,L,1,2,West Brom,68.0,bournemouth
-2017-03-04,Premier League,Sat,Away,D,1,1,Manchester Utd,32.0,bournemouth
-2017-03-11,Premier League,Sat,Home,W,3,2,West Ham,52.0,bournemouth
-2017-03-18,Premier League,Sat,Home,W,2,0,Swansea City,48.0,bournemouth
-2017-04-01,Premier League,Sat,Away,D,0,0,Southampton,39.0,bournemouth
-2017-04-05,Premier League,Wed,Away,D,2,2,Liverpool,33.0,bournemouth
-2017-04-08,Premier League,Sat,Home,L,1,3,Chelsea,51.0,bournemouth
-2017-04-15,Premier League,Sat,Away,L,0,4,Tottenham,31.0,bournemouth
-2017-04-22,Premier League,Sat,Home,W,4,0,Middlesbrough,68.0,bournemouth
-2017-04-29,Premier League,Sat,Away,W,1,0,Sunderland,59.0,bournemouth
-2017-05-06,Premier League,Sat,Home,D,2,2,Stoke City,58.0,bournemouth
-2017-05-13,Premier League,Sat,Home,W,2,1,Burnley,55.0,bournemouth
-2017-05-21,Premier League,Sun,Away,D,1,1,Leicester City,51.0,bournemouth
-2016-08-13,Premier League,Sat,Home,L,0,1,Swansea City,48.0,burnley
-2016-08-20,Premier League,Sat,Home,W,2,0,Liverpool,20.0,burnley
-2016-08-24,EFL Cup,Wed,Away,L,0,1,Acc'ton Stanley,59.0,burnley
-2016-08-27,Premier League,Sat,Away,L,0,3,Chelsea,40.0,burnley
-2016-09-10,Premier League,Sat,Home,D,1,1,Hull City,39.0,burnley
-2016-09-17,Premier League,Sat,Away,L,0,3,Leicester City,41.0,burnley
-2016-09-26,Premier League,Mon,Home,W,2,0,Watford,44.0,burnley
-2016-10-02,Premier League,Sun,Home,L,0,1,Arsenal,33.0,burnley
-2016-10-16,Premier League,Sun,Away,L,1,3,Southampton,35.0,burnley
-2016-10-22,Premier League,Sat,Home,W,2,1,Everton,35.0,burnley
-2016-10-29,Premier League,Sat,Away,D,0,0,Manchester Utd,28.0,burnley
-2016-11-05,Premier League,Sat,Home,W,3,2,Crystal Palace,38.0,burnley
-2016-11-21,Premier League,Mon,Away,L,0,4,West Brom,55.0,burnley
-2016-11-26,Premier League,Sat,Home,L,1,2,Manchester City,33.0,burnley
-2016-12-03,Premier League,Sat,Away,L,0,2,Stoke City,44.0,burnley
-2016-12-10,Premier League,Sat,Home,W,3,2,Bournemouth,31.0,burnley
-2016-12-14,Premier League,Wed,Away,L,0,1,West Ham,42.0,burnley
-2016-12-18,Premier League,Sun,Away,L,1,2,Tottenham,40.0,burnley
-2016-12-26,Premier League,Mon,Home,W,1,0,Middlesbrough,46.0,burnley
-2016-12-31,Premier League,Sat,Home,W,4,1,Sunderland,46.0,burnley
-2017-01-02,Premier League,Mon,Away,L,1,2,Manchester City,45.0,burnley
-2017-01-07,FA Cup,Sat,Away,D,0,0,Sunderland,,burnley
-2017-01-14,Premier League,Sat,Home,W,1,0,Southampton,41.0,burnley
-2017-01-17,FA Cup,Tue,Home,W,2,0,Sunderland,,burnley
-2017-01-22,Premier League,Sun,Away,L,1,2,Arsenal,30.0,burnley
-2017-01-28,FA Cup,Sat,Home,W,2,0,Bristol City,,burnley
-2017-01-31,Premier League,Tue,Home,W,1,0,Leicester City,59.0,burnley
-2017-02-04,Premier League,Sat,Away,L,1,2,Watford,40.0,burnley
-2017-02-12,Premier League,Sun,Home,D,1,1,Chelsea,29.0,burnley
-2017-02-18,FA Cup,Sat,Home,L,0,1,Lincoln City,,burnley
-2017-02-25,Premier League,Sat,Away,D,1,1,Hull City,34.0,burnley
-2017-03-04,Premier League,Sat,Away,L,2,3,Swansea City,29.0,burnley
-2017-03-12,Premier League,Sun,Away,L,1,2,Liverpool,36.0,burnley
-2017-03-18,Premier League,Sat,Away,D,0,0,Sunderland,56.0,burnley
-2017-04-01,Premier League,Sat,Home,L,0,2,Tottenham,38.0,burnley
-2017-04-04,Premier League,Tue,Home,W,1,0,Stoke City,48.0,burnley
-2017-04-08,Premier League,Sat,Away,D,0,0,Middlesbrough,44.0,burnley
-2017-04-15,Premier League,Sat,Away,L,1,3,Everton,37.0,burnley
-2017-04-23,Premier League,Sun,Home,L,0,2,Manchester Utd,46.0,burnley
-2017-04-29,Premier League,Sat,Away,W,2,0,Crystal Palace,36.0,burnley
-2017-05-06,Premier League,Sat,Home,D,2,2,West Brom,55.0,burnley
-2017-05-13,Premier League,Sat,Away,L,1,2,Bournemouth,45.0,burnley
-2017-05-21,Premier League,Sun,Home,L,1,2,West Ham,44.0,burnley
-2016-08-15,Premier League,Mon,Home,W,2,1,West Ham,62.0,chelsea
-2016-08-20,Premier League,Sat,Away,W,2,1,Watford,62.0,chelsea
-2016-08-23,EFL Cup,Tue,Home,W,3,2,Bristol Rovers,54.0,chelsea
-2016-08-27,Premier League,Sat,Home,W,3,0,Burnley,60.0,chelsea
-2016-09-11,Premier League,Sun,Away,D,2,2,Swansea City,55.0,chelsea
-2016-09-16,Premier League,Fri,Home,L,1,2,Liverpool,53.0,chelsea
-2016-09-20,EFL Cup,Tue,Away,W,4,2,Leicester City,67.0,chelsea
-2016-09-24,Premier League,Sat,Away,L,0,3,Arsenal,51.0,chelsea
-2016-10-01,Premier League,Sat,Away,W,2,0,Hull City,59.0,chelsea
-2016-10-15,Premier League,Sat,Home,W,3,0,Leicester City,55.0,chelsea
-2016-10-23,Premier League,Sun,Home,W,4,0,Manchester Utd,44.0,chelsea
-2016-10-26,EFL Cup,Wed,Away,L,1,2,West Ham,53.0,chelsea
-2016-10-30,Premier League,Sun,Away,W,2,0,Southampton,45.0,chelsea
-2016-11-05,Premier League,Sat,Home,W,5,0,Everton,60.0,chelsea
-2016-11-20,Premier League,Sun,Away,W,1,0,Middlesbrough,58.0,chelsea
-2016-11-26,Premier League,Sat,Home,W,2,1,Tottenham,46.0,chelsea
-2016-12-03,Premier League,Sat,Away,W,3,1,Manchester City,39.0,chelsea
-2016-12-11,Premier League,Sun,Home,W,1,0,West Brom,67.0,chelsea
-2016-12-14,Premier League,Wed,Away,W,1,0,Sunderland,66.0,chelsea
-2016-12-17,Premier League,Sat,Away,W,1,0,Crystal Palace,47.0,chelsea
-2016-12-26,Premier League,Mon,Home,W,3,0,Bournemouth,44.0,chelsea
-2016-12-31,Premier League,Sat,Home,W,4,2,Stoke City,60.0,chelsea
-2017-01-04,Premier League,Wed,Away,L,0,2,Tottenham,55.0,chelsea
-2017-01-08,FA Cup,Sun,Home,W,4,1,P'borough Utd,,chelsea
-2017-01-14,Premier League,Sat,Away,W,3,0,Leicester City,65.0,chelsea
-2017-01-22,Premier League,Sun,Home,W,2,0,Hull City,53.0,chelsea
-2017-01-28,FA Cup,Sat,Home,W,4,0,Brentford,,chelsea
-2017-01-31,Premier League,Tue,Away,D,1,1,Liverpool,38.0,chelsea
-2017-02-04,Premier League,Sat,Home,W,3,1,Arsenal,42.0,chelsea
-2017-02-12,Premier League,Sun,Away,D,1,1,Burnley,71.0,chelsea
-2017-02-18,FA Cup,Sat,Away,W,2,0,Wolves,,chelsea
-2017-02-25,Premier League,Sat,Home,W,3,1,Swansea City,66.0,chelsea
-2017-03-06,Premier League,Mon,Away,W,2,1,West Ham,48.0,chelsea
-2017-03-13,FA Cup,Mon,Home,W,1,0,Manchester Utd,,chelsea
-2017-03-18,Premier League,Sat,Away,W,2,1,Stoke City,64.0,chelsea
-2017-04-01,Premier League,Sat,Home,L,1,2,Crystal Palace,73.0,chelsea
-2017-04-05,Premier League,Wed,Home,W,2,1,Manchester City,40.0,chelsea
-2017-04-08,Premier League,Sat,Away,W,3,1,Bournemouth,49.0,chelsea
-2017-04-16,Premier League,Sun,Away,L,0,2,Manchester Utd,54.0,chelsea
-2017-04-22,FA Cup,Sat,Home,W,4,2,Tottenham,,chelsea
-2017-04-25,Premier League,Tue,Home,W,4,2,Southampton,48.0,chelsea
-2017-04-30,Premier League,Sun,Away,W,3,0,Everton,50.0,chelsea
-2017-05-08,Premier League,Mon,Home,W,3,0,Middlesbrough,57.0,chelsea
-2017-05-12,Premier League,Fri,Away,W,1,0,West Brom,68.0,chelsea
-2017-05-15,Premier League,Mon,Home,W,4,3,Watford,47.0,chelsea
-2017-05-21,Premier League,Sun,Home,W,5,1,Sunderland,72.0,chelsea
-2017-05-27,FA Cup,Sat,Away,L,1,2,Arsenal,,chelsea
-2016-08-13,Premier League,Sat,Home,W,2,1,Sunderland,77.0,city
-2016-08-16,Champions Lg,Tue,Away,W,5,0,ro Steaua,71.0,city
-2016-08-20,Premier League,Sat,Away,W,4,1,Stoke City,58.0,city
-2016-08-24,Champions Lg,Wed,Home,W,1,0,ro Steaua,62.0,city
-2016-08-28,Premier League,Sun,Home,W,3,1,West Ham,67.0,city
-2016-09-10,Premier League,Sat,Away,W,2,1,Manchester Utd,60.0,city
-2016-09-14,Champions Lg,Wed,Home,W,4,0,de M'Gladbach,56.0,city
-2016-09-17,Premier League,Sat,Home,W,4,0,Bournemouth,64.0,city
-2016-09-21,EFL Cup,Wed,Away,W,2,1,Swansea City,60.0,city
-2016-09-24,Premier League,Sat,Away,W,3,1,Swansea City,58.0,city
-2016-09-28,Champions Lg,Wed,Away,D,3,3,sct Celtic,61.0,city
-2016-10-02,Premier League,Sun,Away,L,0,2,Tottenham,58.0,city
-2016-10-15,Premier League,Sat,Home,D,1,1,Everton,73.0,city
-2016-10-19,Champions Lg,Wed,Away,L,0,4,es Barcelona,47.0,city
-2016-10-23,Premier League,Sun,Home,D,1,1,Southampton,65.0,city
-2016-10-26,EFL Cup,Wed,Away,L,0,1,Manchester Utd,52.0,city
-2016-10-29,Premier League,Sat,Away,W,4,0,West Brom,70.0,city
-2016-11-01,Champions Lg,Tue,Home,W,3,1,es Barcelona,35.0,city
-2016-11-05,Premier League,Sat,Home,D,1,1,Middlesbrough,71.0,city
-2016-11-19,Premier League,Sat,Away,W,2,1,Crystal Palace,62.0,city
-2016-11-23,Champions Lg,Wed,Away,D,1,1,de M'Gladbach,69.0,city
-2016-11-26,Premier League,Sat,Away,W,2,1,Burnley,67.0,city
-2016-12-03,Premier League,Sat,Home,L,1,3,Chelsea,61.0,city
-2016-12-06,Champions Lg,Tue,Home,D,1,1,sct Celtic,58.0,city
-2016-12-10,Premier League,Sat,Away,L,2,4,Leicester City,78.0,city
-2016-12-14,Premier League,Wed,Home,W,2,0,Watford,63.0,city
-2016-12-18,Premier League,Sun,Home,W,2,1,Arsenal,61.0,city
-2016-12-26,Premier League,Mon,Away,W,3,0,Hull City,67.0,city
-2016-12-31,Premier League,Sat,Away,L,0,1,Liverpool,57.0,city
-2017-01-02,Premier League,Mon,Home,W,2,1,Burnley,55.0,city
-2017-01-06,FA Cup,Fri,Away,W,5,0,West Ham,,city
-2017-01-15,Premier League,Sun,Away,L,0,4,Everton,71.0,city
-2017-01-21,Premier League,Sat,Home,D,2,2,Tottenham,55.0,city
-2017-01-28,FA Cup,Sat,Away,W,3,0,Crystal Palace,,city
-2017-02-01,Premier League,Wed,Away,W,4,0,West Ham,70.0,city
-2017-02-05,Premier League,Sun,Home,W,2,1,Swansea City,69.0,city
-2017-02-13,Premier League,Mon,Away,W,2,0,Bournemouth,62.0,city
-2017-02-18,FA Cup,Sat,Away,D,0,0,Huddersfield,,city
-2017-02-21,Champions Lg,Tue,Home,W,5,3,fr Monaco,67.0,city
-2017-03-01,FA Cup,Wed,Home,W,5,1,Huddersfield,,city
-2017-03-05,Premier League,Sun,Away,W,2,0,Sunderland,71.0,city
-2017-03-08,Premier League,Wed,Home,D,0,0,Stoke City,65.0,city
-2017-03-11,FA Cup,Sat,Away,W,2,0,Middlesbrough,,city
-2017-03-15,Champions Lg,Wed,Away,L,1,3,fr Monaco,59.0,city
-2017-03-19,Premier League,Sun,Home,D,1,1,Liverpool,60.0,city
-2017-04-02,Premier League,Sun,Away,D,2,2,Arsenal,56.0,city
-2017-04-05,Premier League,Wed,Away,L,1,2,Chelsea,61.0,city
-2017-04-08,Premier League,Sat,Home,W,3,1,Hull City,68.0,city
-2017-04-15,Premier League,Sat,Away,W,3,0,Southampton,59.0,city
-2017-04-23,FA Cup,Sun,Away,L,1,2,Arsenal,,city
-2017-04-27,Premier League,Thu,Home,D,0,0,Manchester Utd,69.0,city
-2017-04-30,Premier League,Sun,Away,D,2,2,Middlesbrough,68.0,city
-2017-05-06,Premier League,Sat,Home,W,5,0,Crystal Palace,69.0,city
-2017-05-13,Premier League,Sat,Home,W,2,1,Leicester City,66.0,city
-2017-05-16,Premier League,Tue,Home,W,3,1,West Brom,71.0,city
-2017-05-21,Premier League,Sun,Away,W,5,0,Watford,67.0,city
-2016-08-13,Premier League,Sat,Home,D,1,1,Tottenham,43.0,everton
-2016-08-20,Premier League,Sat,Away,W,2,1,West Brom,66.0,everton
-2016-08-23,EFL Cup,Tue,Home,W,4,0,Yeovil Town,66.0,everton
-2016-08-27,Premier League,Sat,Home,W,1,0,Stoke City,55.0,everton
-2016-09-12,Premier League,Mon,Away,W,3,0,Sunderland,67.0,everton
-2016-09-17,Premier League,Sat,Home,W,3,1,Middlesbrough,52.0,everton
-2016-09-20,EFL Cup,Tue,Home,L,0,2,Norwich City,58.0,everton
-2016-09-24,Premier League,Sat,Away,L,0,1,Bournemouth,47.0,everton
-2016-09-30,Premier League,Fri,Home,D,1,1,Crystal Palace,57.0,everton
-2016-10-15,Premier League,Sat,Away,D,1,1,Manchester City,27.0,everton
-2016-10-22,Premier League,Sat,Away,L,1,2,Burnley,65.0,everton
-2016-10-30,Premier League,Sun,Home,W,2,0,West Ham,49.0,everton
-2016-11-05,Premier League,Sat,Away,L,0,5,Chelsea,40.0,everton
-2016-11-19,Premier League,Sat,Home,D,1,1,Swansea City,63.0,everton
-2016-11-27,Premier League,Sun,Away,L,0,1,Southampton,47.0,everton
-2016-12-04,Premier League,Sun,Home,D,1,1,Manchester Utd,46.0,everton
-2016-12-10,Premier League,Sat,Away,L,2,3,Watford,53.0,everton
-2016-12-13,Premier League,Tue,Home,W,2,1,Arsenal,42.0,everton
-2016-12-19,Premier League,Mon,Home,L,0,1,Liverpool,32.0,everton
-2016-12-26,Premier League,Mon,Away,W,2,0,Leicester City,58.0,everton
-2016-12-30,Premier League,Fri,Away,D,2,2,Hull City,57.0,everton
-2017-01-02,Premier League,Mon,Home,W,3,0,Southampton,54.0,everton
-2017-01-07,FA Cup,Sat,Home,L,1,2,Leicester City,,everton
-2017-01-15,Premier League,Sun,Home,W,4,0,Manchester City,29.0,everton
-2017-01-21,Premier League,Sat,Away,W,1,0,Crystal Palace,56.0,everton
-2017-02-01,Premier League,Wed,Away,D,1,1,Stoke City,53.0,everton
-2017-02-04,Premier League,Sat,Home,W,6,3,Bournemouth,46.0,everton
-2017-02-11,Premier League,Sat,Away,D,0,0,Middlesbrough,54.0,everton
-2017-02-25,Premier League,Sat,Home,W,2,0,Sunderland,63.0,everton
-2017-03-05,Premier League,Sun,Away,L,2,3,Tottenham,49.0,everton
-2017-03-11,Premier League,Sat,Home,W,3,0,West Brom,63.0,everton
-2017-03-18,Premier League,Sat,Home,W,4,0,Hull City,51.0,everton
-2017-04-01,Premier League,Sat,Away,L,1,3,Liverpool,49.0,everton
-2017-04-04,Premier League,Tue,Away,D,1,1,Manchester Utd,39.0,everton
-2017-04-09,Premier League,Sun,Home,W,4,2,Leicester City,60.0,everton
-2017-04-15,Premier League,Sat,Home,W,3,1,Burnley,63.0,everton
-2017-04-22,Premier League,Sat,Away,D,0,0,West Ham,59.0,everton
-2017-04-30,Premier League,Sun,Home,L,0,3,Chelsea,50.0,everton
-2017-05-06,Premier League,Sat,Away,L,0,1,Swansea City,62.0,everton
-2017-05-12,Premier League,Fri,Home,W,1,0,Watford,63.0,everton
-2017-05-21,Premier League,Sun,Away,L,1,3,Arsenal,50.0,everton
-2016-08-13,Premier League,Sat,Home,W,2,1,Leicester City,50.0,hull
-2016-08-20,Premier League,Sat,Away,W,2,0,Swansea City,43.0,hull
-2016-08-23,EFL Cup,Tue,Away,W,3,1,Exeter City,63.0,hull
-2016-08-27,Premier League,Sat,Home,L,0,1,Manchester Utd,38.0,hull
-2016-09-10,Premier League,Sat,Away,D,1,1,Burnley,61.0,hull
-2016-09-17,Premier League,Sat,Home,L,1,4,Arsenal,39.0,hull
-2016-09-21,EFL Cup,Wed,Away,W,2,1,Stoke City,43.0,hull
-2016-09-24,Premier League,Sat,Away,L,1,5,Liverpool,26.0,hull
-2016-10-01,Premier League,Sat,Home,L,0,2,Chelsea,41.0,hull
-2016-10-15,Premier League,Sat,Away,L,1,6,Bournemouth,51.0,hull
-2016-10-22,Premier League,Sat,Home,L,0,2,Stoke City,49.0,hull
-2016-10-25,EFL Cup,Tue,Away,W,2,1,Bristol City,51.0,hull
-2016-10-29,Premier League,Sat,Away,L,0,1,Watford,46.0,hull
-2016-11-06,Premier League,Sun,Home,W,2,1,Southampton,34.0,hull
-2016-11-19,Premier League,Sat,Away,L,0,3,Sunderland,59.0,hull
-2016-11-26,Premier League,Sat,Home,D,1,1,West Brom,53.0,hull
-2016-11-29,EFL Cup,Tue,Home,D,1 (3),1 (1),Newcastle Utd,39.0,hull
-2016-12-05,Premier League,Mon,Away,L,0,1,Middlesbrough,39.0,hull
-2016-12-10,Premier League,Sat,Home,D,3,3,Crystal Palace,57.0,hull
-2016-12-14,Premier League,Wed,Away,L,0,3,Tottenham,37.0,hull
-2016-12-17,Premier League,Sat,Away,L,0,1,West Ham,44.0,hull
-2016-12-26,Premier League,Mon,Home,L,0,3,Manchester City,33.0,hull
-2016-12-30,Premier League,Fri,Home,D,2,2,Everton,43.0,hull
-2017-01-02,Premier League,Mon,Away,L,1,3,West Brom,59.0,hull
-2017-01-07,FA Cup,Sat,Home,W,2,0,Swansea City,,hull
-2017-01-10,EFL Cup,Tue,Away,L,0,2,Manchester Utd,34.0,hull
-2017-01-14,Premier League,Sat,Home,W,3,1,Bournemouth,39.0,hull
-2017-01-22,Premier League,Sun,Away,L,0,2,Chelsea,47.0,hull
-2017-01-26,EFL Cup,Thu,Home,W,2,1,Manchester Utd,54.0,hull
-2017-01-29,FA Cup,Sun,Away,L,1,4,Fulham,,hull
-2017-02-01,Premier League,Wed,Away,D,0,0,Manchester Utd,33.0,hull
-2017-02-04,Premier League,Sat,Home,W,2,0,Liverpool,28.0,hull
-2017-02-11,Premier League,Sat,Away,L,0,2,Arsenal,51.0,hull
-2017-02-25,Premier League,Sat,Home,D,1,1,Burnley,66.0,hull
-2017-03-04,Premier League,Sat,Away,L,1,3,Leicester City,51.0,hull
-2017-03-11,Premier League,Sat,Home,W,2,1,Swansea City,50.0,hull
-2017-03-18,Premier League,Sat,Away,L,0,4,Everton,49.0,hull
-2017-04-01,Premier League,Sat,Home,W,2,1,West Ham,46.0,hull
-2017-04-05,Premier League,Wed,Home,W,4,2,Middlesbrough,48.0,hull
-2017-04-08,Premier League,Sat,Away,L,1,3,Manchester City,33.0,hull
-2017-04-15,Premier League,Sat,Away,L,1,3,Stoke City,55.0,hull
-2017-04-22,Premier League,Sat,Home,W,2,0,Watford,34.0,hull
-2017-04-29,Premier League,Sat,Away,D,0,0,Southampton,48.0,hull
-2017-05-06,Premier League,Sat,Home,L,0,2,Sunderland,60.0,hull
-2017-05-14,Premier League,Sun,Away,L,0,4,Crystal Palace,70.0,hull
-2017-05-21,Premier League,Sun,Home,L,1,7,Tottenham,35.0,hull
-2016-08-07,Community Shield,Sun,Home,L,1,2,Manchester Utd,,leicester
-2016-08-13,Premier League,Sat,Away,L,1,2,Hull City,50.0,leicester
-2016-08-20,Premier League,Sat,Home,D,0,0,Arsenal,40.0,leicester
-2016-08-27,Premier League,Sat,Home,W,2,1,Swansea City,52.0,leicester
-2016-09-10,Premier League,Sat,Away,L,1,4,Liverpool,38.0,leicester
-2016-09-14,Champions Lg,Wed,Away,W,3,0,be Club Brugge,38.0,leicester
-2016-09-17,Premier League,Sat,Home,W,3,0,Burnley,59.0,leicester
-2016-09-20,EFL Cup,Tue,Home,L,2,4,Chelsea,34.0,leicester
-2016-09-24,Premier League,Sat,Away,L,1,4,Manchester Utd,33.0,leicester
-2016-09-27,Champions Lg,Tue,Home,W,1,0,pt Porto,40.0,leicester
-2016-10-02,Premier League,Sun,Home,D,0,0,Southampton,38.0,leicester
-2016-10-15,Premier League,Sat,Away,L,0,3,Chelsea,45.0,leicester
-2016-10-18,Champions Lg,Tue,Home,W,1,0,dk FC Copenhagen,41.0,leicester
-2016-10-22,Premier League,Sat,Home,W,3,1,Crystal Palace,45.0,leicester
-2016-10-29,Premier League,Sat,Away,D,1,1,Tottenham,36.0,leicester
-2016-11-02,Champions Lg,Wed,Away,D,0,0,dk FC Copenhagen,44.0,leicester
-2016-11-06,Premier League,Sun,Home,L,1,2,West Brom,59.0,leicester
-2016-11-19,Premier League,Sat,Away,L,1,2,Watford,54.0,leicester
-2016-11-22,Champions Lg,Tue,Home,W,2,1,be Club Brugge,53.0,leicester
-2016-11-26,Premier League,Sat,Home,D,2,2,Middlesbrough,41.0,leicester
-2016-12-03,Premier League,Sat,Away,L,1,2,Sunderland,47.0,leicester
-2016-12-07,Champions Lg,Wed,Away,L,0,5,pt Porto,33.0,leicester
-2016-12-10,Premier League,Sat,Home,W,4,2,Manchester City,22.0,leicester
-2016-12-13,Premier League,Tue,Away,L,0,1,Bournemouth,37.0,leicester
-2016-12-17,Premier League,Sat,Away,D,2,2,Stoke City,35.0,leicester
-2016-12-26,Premier League,Mon,Home,L,0,2,Everton,42.0,leicester
-2016-12-31,Premier League,Sat,Home,W,1,0,West Ham,40.0,leicester
-2017-01-02,Premier League,Mon,Away,D,0,0,Middlesbrough,37.0,leicester
-2017-01-07,FA Cup,Sat,Away,W,2,1,Everton,,leicester
-2017-01-14,Premier League,Sat,Home,L,0,3,Chelsea,35.0,leicester
-2017-01-22,Premier League,Sun,Away,L,0,3,Southampton,40.0,leicester
-2017-01-27,FA Cup,Fri,Away,D,2,2,Derby County,,leicester
-2017-01-31,Premier League,Tue,Away,L,0,1,Burnley,41.0,leicester
-2017-02-05,Premier League,Sun,Home,L,0,3,Manchester Utd,32.0,leicester
-2017-02-08,FA Cup,Wed,Home,W,3,1,Derby County,,leicester
-2017-02-12,Premier League,Sun,Away,L,0,2,Swansea City,51.0,leicester
-2017-02-18,FA Cup,Sat,Away,L,0,1,Millwall,,leicester
-2017-02-22,Champions Lg,Wed,Away,L,1,2,es Sevilla,28.0,leicester
-2017-02-27,Premier League,Mon,Home,W,3,1,Liverpool,31.0,leicester
-2017-03-04,Premier League,Sat,Home,W,3,1,Hull City,50.0,leicester
-2017-03-14,Champions Lg,Tue,Home,W,2,0,es Sevilla,29.0,leicester
-2017-03-18,Premier League,Sat,Away,W,3,2,West Ham,41.0,leicester
-2017-04-01,Premier League,Sat,Home,W,2,0,Stoke City,48.0,leicester
-2017-04-04,Premier League,Tue,Home,W,2,0,Sunderland,54.0,leicester
-2017-04-09,Premier League,Sun,Away,L,2,4,Everton,40.0,leicester
-2017-04-12,Champions Lg,Wed,Away,L,0,1,es Atlético Madrid,32.0,leicester
-2017-04-15,Premier League,Sat,Away,D,2,2,Crystal Palace,42.0,leicester
-2017-04-18,Champions Lg,Tue,Home,D,1,1,es Atlético Madrid,57.0,leicester
-2017-04-26,Premier League,Wed,Away,L,0,1,Arsenal,31.0,leicester
-2017-04-29,Premier League,Sat,Away,W,1,0,West Brom,45.0,leicester
-2017-05-06,Premier League,Sat,Home,W,3,0,Watford,42.0,leicester
-2017-05-13,Premier League,Sat,Away,L,1,2,Manchester City,34.0,leicester
-2017-05-18,Premier League,Thu,Home,L,1,6,Tottenham,37.0,leicester
-2017-05-21,Premier League,Sun,Home,D,1,1,Bournemouth,49.0,leicester
-2016-08-14,Premier League,Sun,Away,W,4,3,Arsenal,49.0,liverpool
-2016-08-20,Premier League,Sat,Away,L,0,2,Burnley,80.0,liverpool
-2016-08-23,EFL Cup,Tue,Away,W,5,0,Burton Albion,59.0,liverpool
-2016-08-27,Premier League,Sat,Away,D,1,1,Tottenham,51.0,liverpool
-2016-09-10,Premier League,Sat,Home,W,4,1,Leicester City,62.0,liverpool
-2016-09-16,Premier League,Fri,Away,W,2,1,Chelsea,47.0,liverpool
-2016-09-20,EFL Cup,Tue,Away,W,3,0,Derby County,73.0,liverpool
-2016-09-24,Premier League,Sat,Home,W,5,1,Hull City,74.0,liverpool
-2016-10-01,Premier League,Sat,Away,W,2,1,Swansea City,59.0,liverpool
-2016-10-17,Premier League,Mon,Home,D,0,0,Manchester Utd,65.0,liverpool
-2016-10-22,Premier League,Sat,Home,W,2,1,West Brom,68.0,liverpool
-2016-10-25,EFL Cup,Tue,Home,W,2,1,Tottenham,46.0,liverpool
-2016-10-29,Premier League,Sat,Away,W,4,2,Crystal Palace,55.0,liverpool
-2016-11-06,Premier League,Sun,Home,W,6,1,Watford,60.0,liverpool
-2016-11-19,Premier League,Sat,Away,D,0,0,Southampton,65.0,liverpool
-2016-11-26,Premier League,Sat,Home,W,2,0,Sunderland,77.0,liverpool
-2016-11-29,EFL Cup,Tue,Home,W,2,0,Leeds United,72.0,liverpool
-2016-12-04,Premier League,Sun,Away,L,3,4,Bournemouth,60.0,liverpool
-2016-12-11,Premier League,Sun,Home,D,2,2,West Ham,68.0,liverpool
-2016-12-14,Premier League,Wed,Away,W,3,0,Middlesbrough,63.0,liverpool
-2016-12-19,Premier League,Mon,Away,W,1,0,Everton,68.0,liverpool
-2016-12-27,Premier League,Tue,Home,W,4,1,Stoke City,64.0,liverpool
-2016-12-31,Premier League,Sat,Home,W,1,0,Manchester City,43.0,liverpool
-2017-01-02,Premier League,Mon,Away,D,2,2,Sunderland,71.0,liverpool
-2017-01-08,FA Cup,Sun,Home,D,0,0,Plymouth Argyle,,liverpool
-2017-01-11,EFL Cup,Wed,Away,L,0,1,Southampton,68.0,liverpool
-2017-01-15,Premier League,Sun,Away,D,1,1,Manchester Utd,44.0,liverpool
-2017-01-18,FA Cup,Wed,Away,W,1,0,Plymouth Argyle,,liverpool
-2017-01-21,Premier League,Sat,Home,L,2,3,Swansea City,74.0,liverpool
-2017-01-25,EFL Cup,Wed,Home,L,0,1,Southampton,72.0,liverpool
-2017-01-28,FA Cup,Sat,Home,L,1,2,Wolves,,liverpool
-2017-01-31,Premier League,Tue,Home,D,1,1,Chelsea,62.0,liverpool
-2017-02-04,Premier League,Sat,Away,L,0,2,Hull City,72.0,liverpool
-2017-02-11,Premier League,Sat,Home,W,2,0,Tottenham,51.0,liverpool
-2017-02-27,Premier League,Mon,Away,L,1,3,Leicester City,69.0,liverpool
-2017-03-04,Premier League,Sat,Home,W,3,1,Arsenal,52.0,liverpool
-2017-03-12,Premier League,Sun,Home,W,2,1,Burnley,65.0,liverpool
-2017-03-19,Premier League,Sun,Away,D,1,1,Manchester City,41.0,liverpool
-2017-04-01,Premier League,Sat,Home,W,3,1,Everton,51.0,liverpool
-2017-04-05,Premier League,Wed,Home,D,2,2,Bournemouth,67.0,liverpool
-2017-04-08,Premier League,Sat,Away,W,2,1,Stoke City,56.0,liverpool
-2017-04-16,Premier League,Sun,Away,W,1,0,West Brom,64.0,liverpool
-2017-04-23,Premier League,Sun,Home,L,1,2,Crystal Palace,72.0,liverpool
-2017-05-01,Premier League,Mon,Away,W,1,0,Watford,60.0,liverpool
-2017-05-07,Premier League,Sun,Home,D,0,0,Southampton,65.0,liverpool
-2017-05-14,Premier League,Sun,Away,W,4,0,West Ham,67.0,liverpool
-2017-05-21,Premier League,Sun,Home,W,3,0,Middlesbrough,74.0,liverpool
-2016-08-13,Premier League,Sat,Home,D,1,1,Stoke City,46.0,middlesbrough
-2016-08-21,Premier League,Sun,Away,W,2,1,Sunderland,53.0,middlesbrough
-2016-08-24,EFL Cup,Wed,Away,L,1,2,Fulham,56.0,middlesbrough
-2016-08-28,Premier League,Sun,Away,D,0,0,West Brom,59.0,middlesbrough
-2016-09-10,Premier League,Sat,Home,L,1,2,Crystal Palace,58.0,middlesbrough
-2016-09-17,Premier League,Sat,Away,L,1,3,Everton,48.0,middlesbrough
-2016-09-24,Premier League,Sat,Home,L,1,2,Tottenham,42.0,middlesbrough
-2016-10-01,Premier League,Sat,Away,D,1,1,West Ham,60.0,middlesbrough
-2016-10-16,Premier League,Sun,Home,L,0,1,Watford,64.0,middlesbrough
-2016-10-22,Premier League,Sat,Away,D,0,0,Arsenal,25.0,middlesbrough
-2016-10-29,Premier League,Sat,Home,W,2,0,Bournemouth,40.0,middlesbrough
-2016-11-05,Premier League,Sat,Away,D,1,1,Manchester City,29.0,middlesbrough
-2016-11-20,Premier League,Sun,Home,L,0,1,Chelsea,42.0,middlesbrough
-2016-11-26,Premier League,Sat,Away,D,2,2,Leicester City,59.0,middlesbrough
-2016-12-05,Premier League,Mon,Home,W,1,0,Hull City,61.0,middlesbrough
-2016-12-11,Premier League,Sun,Away,L,0,1,Southampton,45.0,middlesbrough
-2016-12-14,Premier League,Wed,Home,L,0,3,Liverpool,37.0,middlesbrough
-2016-12-17,Premier League,Sat,Home,W,3,0,Swansea City,43.0,middlesbrough
-2016-12-26,Premier League,Mon,Away,L,0,1,Burnley,54.0,middlesbrough
-2016-12-31,Premier League,Sat,Away,L,1,2,Manchester Utd,35.0,middlesbrough
-2017-01-02,Premier League,Mon,Home,D,0,0,Leicester City,63.0,middlesbrough
-2017-01-08,FA Cup,Sun,Home,W,3,0,Sheffield Weds,,middlesbrough
-2017-01-14,Premier League,Sat,Away,D,0,0,Watford,53.0,middlesbrough
-2017-01-21,Premier League,Sat,Home,L,1,3,West Ham,62.0,middlesbrough
-2017-01-28,FA Cup,Sat,Home,W,1,0,Acc'ton Stanley,,middlesbrough
-2017-01-31,Premier League,Tue,Home,D,1,1,West Brom,62.0,middlesbrough
-2017-02-04,Premier League,Sat,Away,L,0,1,Tottenham,35.0,middlesbrough
-2017-02-11,Premier League,Sat,Home,D,0,0,Everton,46.0,middlesbrough
-2017-02-18,FA Cup,Sat,Home,W,3,2,Oxford United,,middlesbrough
-2017-02-25,Premier League,Sat,Away,L,0,1,Crystal Palace,54.0,middlesbrough
-2017-03-04,Premier League,Sat,Away,L,0,2,Stoke City,45.0,middlesbrough
-2017-03-11,FA Cup,Sat,Home,L,0,2,Manchester City,,middlesbrough
-2017-03-19,Premier League,Sun,Home,L,1,3,Manchester Utd,64.0,middlesbrough
-2017-04-02,Premier League,Sun,Away,D,0,0,Swansea City,45.0,middlesbrough
-2017-04-05,Premier League,Wed,Away,L,2,4,Hull City,52.0,middlesbrough
-2017-04-08,Premier League,Sat,Home,D,0,0,Burnley,56.0,middlesbrough
-2017-04-17,Premier League,Mon,Home,L,1,2,Arsenal,35.0,middlesbrough
-2017-04-22,Premier League,Sat,Away,L,0,4,Bournemouth,32.0,middlesbrough
-2017-04-26,Premier League,Wed,Home,W,1,0,Sunderland,49.0,middlesbrough
-2017-04-30,Premier League,Sun,Home,D,2,2,Manchester City,32.0,middlesbrough
-2017-05-08,Premier League,Mon,Away,L,0,3,Chelsea,43.0,middlesbrough
-2017-05-13,Premier League,Sat,Home,L,1,2,Southampton,42.0,middlesbrough
-2017-05-21,Premier League,Sun,Away,L,0,3,Liverpool,26.0,middlesbrough
-2016-08-13,Premier League,Sat,Home,L,0,1,West Brom,62.0,palace
-2016-08-20,Premier League,Sat,Away,L,0,1,Tottenham,43.0,palace
-2016-08-23,EFL Cup,Tue,Home,W,2,0,Blackpool,72.0,palace
-2016-08-27,Premier League,Sat,Home,D,1,1,Bournemouth,59.0,palace
-2016-09-10,Premier League,Sat,Away,W,2,1,Middlesbrough,42.0,palace
-2016-09-18,Premier League,Sun,Home,W,4,1,Stoke City,57.0,palace
-2016-09-21,EFL Cup,Wed,Away,L,0,2,Southampton,55.0,palace
-2016-09-24,Premier League,Sat,Away,W,3,2,Sunderland,55.0,palace
-2016-09-30,Premier League,Fri,Away,D,1,1,Everton,43.0,palace
-2016-10-15,Premier League,Sat,Home,L,0,1,West Ham,55.0,palace
-2016-10-22,Premier League,Sat,Away,L,1,3,Leicester City,55.0,palace
-2016-10-29,Premier League,Sat,Home,L,2,4,Liverpool,45.0,palace
-2016-11-05,Premier League,Sat,Away,L,2,3,Burnley,62.0,palace
-2016-11-19,Premier League,Sat,Home,L,1,2,Manchester City,38.0,palace
-2016-11-26,Premier League,Sat,Away,L,4,5,Swansea City,44.0,palace
-2016-12-03,Premier League,Sat,Home,W,3,0,Southampton,42.0,palace
-2016-12-10,Premier League,Sat,Away,D,3,3,Hull City,43.0,palace
-2016-12-14,Premier League,Wed,Home,L,1,2,Manchester Utd,39.0,palace
-2016-12-17,Premier League,Sat,Home,L,0,1,Chelsea,54.0,palace
-2016-12-26,Premier League,Mon,Away,D,1,1,Watford,44.0,palace
-2017-01-01,Premier League,Sun,Away,L,0,2,Arsenal,36.0,palace
-2017-01-03,Premier League,Tue,Home,L,1,2,Swansea City,47.0,palace
-2017-01-07,FA Cup,Sat,Away,D,0,0,Bolton,,palace
-2017-01-14,Premier League,Sat,Away,L,0,3,West Ham,56.0,palace
-2017-01-17,FA Cup,Tue,Home,W,2,1,Bolton,,palace
-2017-01-21,Premier League,Sat,Home,L,0,1,Everton,44.0,palace
-2017-01-28,FA Cup,Sat,Home,L,0,3,Manchester City,,palace
-2017-01-31,Premier League,Tue,Away,W,2,0,Bournemouth,35.0,palace
-2017-02-04,Premier League,Sat,Home,L,0,4,Sunderland,65.0,palace
-2017-02-11,Premier League,Sat,Away,L,0,1,Stoke City,43.0,palace
-2017-02-25,Premier League,Sat,Home,W,1,0,Middlesbrough,46.0,palace
-2017-03-04,Premier League,Sat,Away,W,2,0,West Brom,49.0,palace
-2017-03-18,Premier League,Sat,Home,W,1,0,Watford,44.0,palace
-2017-04-01,Premier League,Sat,Away,W,2,1,Chelsea,27.0,palace
-2017-04-05,Premier League,Wed,Away,L,1,3,Southampton,39.0,palace
-2017-04-10,Premier League,Mon,Home,W,3,0,Arsenal,28.0,palace
-2017-04-15,Premier League,Sat,Home,D,2,2,Leicester City,58.0,palace
-2017-04-23,Premier League,Sun,Away,W,2,1,Liverpool,28.0,palace
-2017-04-26,Premier League,Wed,Home,L,0,1,Tottenham,32.0,palace
-2017-04-29,Premier League,Sat,Home,L,0,2,Burnley,64.0,palace
-2017-05-06,Premier League,Sat,Away,L,0,5,Manchester City,31.0,palace
-2017-05-14,Premier League,Sun,Home,W,4,0,Hull City,30.0,palace
-2017-05-21,Premier League,Sun,Away,L,0,2,Manchester Utd,41.0,palace
-2016-08-13,Premier League,Sat,Home,D,1,1,Watford,64.0,southampton
-2016-08-19,Premier League,Fri,Away,L,0,2,Manchester Utd,57.0,southampton
-2016-08-27,Premier League,Sat,Home,D,1,1,Sunderland,64.0,southampton
-2016-09-10,Premier League,Sat,Away,L,1,2,Arsenal,43.0,southampton
-2016-09-15,Europa Lg,Thu,Home,W,3,0,cz Sparta Prague,54.0,southampton
-2016-09-18,Premier League,Sun,Home,W,1,0,Swansea City,53.0,southampton
-2016-09-21,EFL Cup,Wed,Home,W,2,0,Crystal Palace,45.0,southampton
-2016-09-25,Premier League,Sun,Away,W,3,0,West Ham,55.0,southampton
-2016-09-29,Europa Lg,Thu,Away,D,0,0,il Be'er Sheva,49.0,southampton
-2016-10-02,Premier League,Sun,Away,D,0,0,Leicester City,62.0,southampton
-2016-10-16,Premier League,Sun,Home,W,3,1,Burnley,65.0,southampton
-2016-10-20,Europa Lg,Thu,Away,L,0,1,it Inter,55.0,southampton
-2016-10-23,Premier League,Sun,Away,D,1,1,Manchester City,35.0,southampton
-2016-10-26,EFL Cup,Wed,Home,W,1,0,Sunderland,57.0,southampton
-2016-10-30,Premier League,Sun,Home,L,0,2,Chelsea,55.0,southampton
-2016-11-03,Europa Lg,Thu,Home,W,2,1,it Inter,57.0,southampton
-2016-11-06,Premier League,Sun,Away,L,1,2,Hull City,66.0,southampton
-2016-11-19,Premier League,Sat,Home,D,0,0,Liverpool,36.0,southampton
-2016-11-24,Europa Lg,Thu,Away,L,0,1,cz Sparta Prague,70.0,southampton
-2016-11-27,Premier League,Sun,Home,W,1,0,Everton,53.0,southampton
-2016-11-30,EFL Cup,Wed,Away,W,2,0,Arsenal,37.0,southampton
-2016-12-03,Premier League,Sat,Away,L,0,3,Crystal Palace,58.0,southampton
-2016-12-08,Europa Lg,Thu,Home,D,1,1,il Be'er Sheva,55.0,southampton
-2016-12-11,Premier League,Sun,Home,W,1,0,Middlesbrough,55.0,southampton
-2016-12-14,Premier League,Wed,Away,D,0,0,Stoke City,71.0,southampton
-2016-12-18,Premier League,Sun,Away,W,3,1,Bournemouth,53.0,southampton
-2016-12-28,Premier League,Wed,Home,L,1,4,Tottenham,34.0,southampton
-2016-12-31,Premier League,Sat,Home,L,1,2,West Brom,68.0,southampton
-2017-01-02,Premier League,Mon,Away,L,0,3,Everton,46.0,southampton
-2017-01-07,FA Cup,Sat,Away,D,2,2,Norwich City,,southampton
-2017-01-11,EFL Cup,Wed,Home,W,1,0,Liverpool,32.0,southampton
-2017-01-14,Premier League,Sat,Away,L,0,1,Burnley,59.0,southampton
-2017-01-18,FA Cup,Wed,Home,W,1,0,Norwich City,,southampton
-2017-01-22,Premier League,Sun,Home,W,3,0,Leicester City,60.0,southampton
-2017-01-25,EFL Cup,Wed,Away,W,1,0,Liverpool,28.0,southampton
-2017-01-28,FA Cup,Sat,Home,L,0,5,Arsenal,,southampton
-2017-01-31,Premier League,Tue,Away,L,1,2,Swansea City,57.0,southampton
-2017-02-04,Premier League,Sat,Home,L,1,3,West Ham,55.0,southampton
-2017-02-11,Premier League,Sat,Away,W,4,0,Sunderland,54.0,southampton
-2017-02-26,EFL Cup,Sun,Away,L,2,3,Manchester Utd,52.0,southampton
-2017-03-04,Premier League,Sat,Away,W,4,3,Watford,63.0,southampton
-2017-03-19,Premier League,Sun,Away,L,1,2,Tottenham,49.0,southampton
-2017-04-01,Premier League,Sat,Home,D,0,0,Bournemouth,61.0,southampton
-2017-04-05,Premier League,Wed,Home,W,3,1,Crystal Palace,61.0,southampton
-2017-04-08,Premier League,Sat,Away,W,1,0,West Brom,58.0,southampton
-2017-04-15,Premier League,Sat,Home,L,0,3,Manchester City,41.0,southampton
-2017-04-25,Premier League,Tue,Away,L,2,4,Chelsea,52.0,southampton
-2017-04-29,Premier League,Sat,Home,D,0,0,Hull City,52.0,southampton
-2017-05-07,Premier League,Sun,Away,D,0,0,Liverpool,35.0,southampton
-2017-05-10,Premier League,Wed,Home,L,0,2,Arsenal,47.0,southampton
-2017-05-13,Premier League,Sat,Away,W,2,1,Middlesbrough,58.0,southampton
-2017-05-17,Premier League,Wed,Home,D,0,0,Manchester Utd,53.0,southampton
-2017-05-21,Premier League,Sun,Home,L,0,1,Stoke City,61.0,southampton
-2016-08-13,Premier League,Sat,Away,D,1,1,Middlesbrough,54.0,stoke
-2016-08-20,Premier League,Sat,Home,L,1,4,Manchester City,43.0,stoke
-2016-08-23,EFL Cup,Tue,Away,W,4,0,Stevenage,62.0,stoke
-2016-08-27,Premier League,Sat,Away,L,0,1,Everton,45.0,stoke
-2016-09-10,Premier League,Sat,Home,L,0,4,Tottenham,40.0,stoke
-2016-09-18,Premier League,Sun,Away,L,1,4,Crystal Palace,44.0,stoke
-2016-09-21,EFL Cup,Wed,Home,L,1,2,Hull City,57.0,stoke
-2016-09-24,Premier League,Sat,Home,D,1,1,West Brom,56.0,stoke
-2016-10-02,Premier League,Sun,Away,D,1,1,Manchester Utd,33.0,stoke
-2016-10-15,Premier League,Sat,Home,W,2,0,Sunderland,57.0,stoke
-2016-10-22,Premier League,Sat,Away,W,2,0,Hull City,51.0,stoke
-2016-10-31,Premier League,Mon,Home,W,3,1,Swansea City,46.0,stoke
-2016-11-05,Premier League,Sat,Away,D,1,1,West Ham,42.0,stoke
-2016-11-19,Premier League,Sat,Home,L,0,1,Bournemouth,51.0,stoke
-2016-11-27,Premier League,Sun,Away,W,1,0,Watford,50.0,stoke
-2016-12-03,Premier League,Sat,Home,W,2,0,Burnley,56.0,stoke
-2016-12-10,Premier League,Sat,Away,L,1,3,Arsenal,36.0,stoke
-2016-12-14,Premier League,Wed,Home,D,0,0,Southampton,29.0,stoke
-2016-12-17,Premier League,Sat,Home,D,2,2,Leicester City,65.0,stoke
-2016-12-27,Premier League,Tue,Away,L,1,4,Liverpool,36.0,stoke
-2016-12-31,Premier League,Sat,Away,L,2,4,Chelsea,40.0,stoke
-2017-01-03,Premier League,Tue,Home,W,2,0,Watford,54.0,stoke
-2017-01-07,FA Cup,Sat,Home,L,0,2,Wolves,,stoke
-2017-01-14,Premier League,Sat,Away,W,3,1,Sunderland,49.0,stoke
-2017-01-21,Premier League,Sat,Home,D,1,1,Manchester Utd,35.0,stoke
-2017-02-01,Premier League,Wed,Home,D,1,1,Everton,47.0,stoke
-2017-02-04,Premier League,Sat,Away,L,0,1,West Brom,62.0,stoke
-2017-02-11,Premier League,Sat,Home,W,1,0,Crystal Palace,58.0,stoke
-2017-02-26,Premier League,Sun,Away,L,0,4,Tottenham,36.0,stoke
-2017-03-04,Premier League,Sat,Home,W,2,0,Middlesbrough,55.0,stoke
-2017-03-08,Premier League,Wed,Away,D,0,0,Manchester City,35.0,stoke
-2017-03-18,Premier League,Sat,Home,L,1,2,Chelsea,36.0,stoke
-2017-04-01,Premier League,Sat,Away,L,0,2,Leicester City,52.0,stoke
-2017-04-04,Premier League,Tue,Away,L,0,1,Burnley,52.0,stoke
-2017-04-08,Premier League,Sat,Home,L,1,2,Liverpool,44.0,stoke
-2017-04-15,Premier League,Sat,Home,W,3,1,Hull City,45.0,stoke
-2017-04-22,Premier League,Sat,Away,L,0,2,Swansea City,55.0,stoke
-2017-04-29,Premier League,Sat,Home,D,0,0,West Ham,57.0,stoke
-2017-05-06,Premier League,Sat,Away,D,2,2,Bournemouth,42.0,stoke
-2017-05-13,Premier League,Sat,Home,L,1,4,Arsenal,33.0,stoke
-2017-05-21,Premier League,Sun,Away,W,1,0,Southampton,39.0,stoke
-2016-08-13,Premier League,Sat,Away,L,1,2,Manchester City,23.0,sunderland
-2016-08-21,Premier League,Sun,Home,L,1,2,Middlesbrough,47.0,sunderland
-2016-08-24,EFL Cup,Wed,Home,W,1,0,Shrewsbury,57.0,sunderland
-2016-08-27,Premier League,Sat,Away,D,1,1,Southampton,36.0,sunderland
-2016-09-12,Premier League,Mon,Home,L,0,3,Everton,33.0,sunderland
-2016-09-18,Premier League,Sun,Away,L,0,1,Tottenham,26.0,sunderland
-2016-09-21,EFL Cup,Wed,Away,W,2,1,QPR,61.0,sunderland
-2016-09-24,Premier League,Sat,Home,L,2,3,Crystal Palace,45.0,sunderland
-2016-10-01,Premier League,Sat,Home,D,1,1,West Brom,56.0,sunderland
-2016-10-15,Premier League,Sat,Away,L,0,2,Stoke City,43.0,sunderland
-2016-10-22,Premier League,Sat,Away,L,0,1,West Ham,36.0,sunderland
-2016-10-26,EFL Cup,Wed,Away,L,0,1,Southampton,43.0,sunderland
-2016-10-29,Premier League,Sat,Home,L,1,4,Arsenal,34.0,sunderland
-2016-11-05,Premier League,Sat,Away,W,2,1,Bournemouth,30.0,sunderland
-2016-11-19,Premier League,Sat,Home,W,3,0,Hull City,41.0,sunderland
-2016-11-26,Premier League,Sat,Away,L,0,2,Liverpool,23.0,sunderland
-2016-12-03,Premier League,Sat,Home,W,2,1,Leicester City,54.0,sunderland
-2016-12-10,Premier League,Sat,Away,L,0,3,Swansea City,38.0,sunderland
-2016-12-14,Premier League,Wed,Home,L,0,1,Chelsea,34.0,sunderland
-2016-12-17,Premier League,Sat,Home,W,1,0,Watford,43.0,sunderland
-2016-12-26,Premier League,Mon,Away,L,1,3,Manchester Utd,38.0,sunderland
-2016-12-31,Premier League,Sat,Away,L,1,4,Burnley,54.0,sunderland
-2017-01-02,Premier League,Mon,Home,D,2,2,Liverpool,29.0,sunderland
-2017-01-07,FA Cup,Sat,Home,D,0,0,Burnley,,sunderland
-2017-01-14,Premier League,Sat,Home,L,1,3,Stoke City,51.0,sunderland
-2017-01-17,FA Cup,Tue,Away,L,0,2,Burnley,,sunderland
-2017-01-21,Premier League,Sat,Away,L,0,2,West Brom,56.0,sunderland
-2017-01-31,Premier League,Tue,Home,D,0,0,Tottenham,28.0,sunderland
-2017-02-04,Premier League,Sat,Away,W,4,0,Crystal Palace,35.0,sunderland
-2017-02-11,Premier League,Sat,Home,L,0,4,Southampton,46.0,sunderland
-2017-02-25,Premier League,Sat,Away,L,0,2,Everton,37.0,sunderland
-2017-03-05,Premier League,Sun,Home,L,0,2,Manchester City,29.0,sunderland
-2017-03-18,Premier League,Sat,Home,D,0,0,Burnley,44.0,sunderland
-2017-04-01,Premier League,Sat,Away,L,0,1,Watford,44.0,sunderland
-2017-04-04,Premier League,Tue,Away,L,0,2,Leicester City,46.0,sunderland
-2017-04-09,Premier League,Sun,Home,L,0,3,Manchester Utd,30.0,sunderland
-2017-04-15,Premier League,Sat,Home,D,2,2,West Ham,47.0,sunderland
-2017-04-26,Premier League,Wed,Away,L,0,1,Middlesbrough,51.0,sunderland
-2017-04-29,Premier League,Sat,Home,L,0,1,Bournemouth,41.0,sunderland
-2017-05-06,Premier League,Sat,Away,W,2,0,Hull City,41.0,sunderland
-2017-05-13,Premier League,Sat,Home,L,0,2,Swansea City,53.0,sunderland
-2017-05-16,Premier League,Tue,Away,L,0,2,Arsenal,37.0,sunderland
-2017-05-21,Premier League,Sun,Away,L,1,5,Chelsea,28.0,sunderland
-2016-08-13,Premier League,Sat,Away,W,1,0,Burnley,53.0,swansea
-2016-08-20,Premier League,Sat,Home,L,0,2,Hull City,57.0,swansea
-2016-08-23,EFL Cup,Tue,Away,W,3,1,P'borough Utd,55.0,swansea
-2016-08-27,Premier League,Sat,Away,L,1,2,Leicester City,48.0,swansea
-2016-09-11,Premier League,Sun,Home,D,2,2,Chelsea,45.0,swansea
-2016-09-18,Premier League,Sun,Away,L,0,1,Southampton,47.0,swansea
-2016-09-21,EFL Cup,Wed,Home,L,1,2,Manchester City,40.0,swansea
-2016-09-24,Premier League,Sat,Home,L,1,3,Manchester City,42.0,swansea
-2016-10-01,Premier League,Sat,Home,L,1,2,Liverpool,41.0,swansea
-2016-10-15,Premier League,Sat,Away,L,2,3,Arsenal,51.0,swansea
-2016-10-22,Premier League,Sat,Home,D,0,0,Watford,54.0,swansea
-2016-10-31,Premier League,Mon,Away,L,1,3,Stoke City,54.0,swansea
-2016-11-06,Premier League,Sun,Home,L,1,3,Manchester Utd,37.0,swansea
-2016-11-19,Premier League,Sat,Away,D,1,1,Everton,37.0,swansea
-2016-11-26,Premier League,Sat,Home,W,5,4,Crystal Palace,57.0,swansea
-2016-12-03,Premier League,Sat,Away,L,0,5,Tottenham,40.0,swansea
-2016-12-10,Premier League,Sat,Home,W,3,0,Sunderland,62.0,swansea
-2016-12-14,Premier League,Wed,Away,L,1,3,West Brom,61.0,swansea
-2016-12-17,Premier League,Sat,Away,L,0,3,Middlesbrough,57.0,swansea
-2016-12-26,Premier League,Mon,Home,L,1,4,West Ham,56.0,swansea
-2016-12-31,Premier League,Sat,Home,L,0,3,Bournemouth,45.0,swansea
-2017-01-03,Premier League,Tue,Away,W,2,1,Crystal Palace,53.0,swansea
-2017-01-07,FA Cup,Sat,Away,L,0,2,Hull City,,swansea
-2017-01-14,Premier League,Sat,Home,L,0,4,Arsenal,43.0,swansea
-2017-01-21,Premier League,Sat,Away,W,3,2,Liverpool,26.0,swansea
-2017-01-31,Premier League,Tue,Home,W,2,1,Southampton,43.0,swansea
-2017-02-05,Premier League,Sun,Away,L,1,2,Manchester City,31.0,swansea
-2017-02-12,Premier League,Sun,Home,W,2,0,Leicester City,49.0,swansea
-2017-02-25,Premier League,Sat,Away,L,1,3,Chelsea,34.0,swansea
-2017-03-04,Premier League,Sat,Home,W,3,2,Burnley,71.0,swansea
-2017-03-11,Premier League,Sat,Away,L,1,2,Hull City,50.0,swansea
-2017-03-18,Premier League,Sat,Away,L,0,2,Bournemouth,52.0,swansea
-2017-04-02,Premier League,Sun,Home,D,0,0,Middlesbrough,55.0,swansea
-2017-04-05,Premier League,Wed,Home,L,1,3,Tottenham,28.0,swansea
-2017-04-08,Premier League,Sat,Away,L,0,1,West Ham,54.0,swansea
-2017-04-15,Premier League,Sat,Away,L,0,1,Watford,47.0,swansea
-2017-04-22,Premier League,Sat,Home,W,2,0,Stoke City,46.0,swansea
-2017-04-30,Premier League,Sun,Away,D,1,1,Manchester Utd,45.0,swansea
-2017-05-06,Premier League,Sat,Home,W,1,0,Everton,38.0,swansea
-2017-05-13,Premier League,Sat,Away,W,2,0,Sunderland,47.0,swansea
-2017-05-21,Premier League,Sun,Home,W,2,1,West Brom,66.0,swansea
-2016-08-13,Premier League,Sat,Away,D,1,1,Everton,58.0,tottenham
-2016-08-20,Premier League,Sat,Home,W,1,0,Crystal Palace,57.0,tottenham
-2016-08-27,Premier League,Sat,Home,D,1,1,Liverpool,49.0,tottenham
-2016-09-10,Premier League,Sat,Away,W,4,0,Stoke City,60.0,tottenham
-2016-09-14,Champions Lg,Wed,Home,L,1,2,fr Monaco,64.0,tottenham
-2016-09-18,Premier League,Sun,Home,W,1,0,Sunderland,74.0,tottenham
-2016-09-21,EFL Cup,Wed,Home,W,5,0,Gillingham,68.0,tottenham
-2016-09-24,Premier League,Sat,Away,W,2,1,Middlesbrough,58.0,tottenham
-2016-09-27,Champions Lg,Tue,Away,W,1,0,ru CSKA Moscow,66.0,tottenham
-2016-10-02,Premier League,Sun,Home,W,2,0,Manchester City,42.0,tottenham
-2016-10-15,Premier League,Sat,Away,D,1,1,West Brom,72.0,tottenham
-2016-10-18,Champions Lg,Tue,Away,D,0,0,de Leverkusen,57.0,tottenham
-2016-10-22,Premier League,Sat,Away,D,0,0,Bournemouth,62.0,tottenham
-2016-10-25,EFL Cup,Tue,Away,L,1,2,Liverpool,54.0,tottenham
-2016-10-29,Premier League,Sat,Home,D,1,1,Leicester City,64.0,tottenham
-2016-11-02,Champions Lg,Wed,Home,L,0,1,de Leverkusen,59.0,tottenham
-2016-11-06,Premier League,Sun,Away,D,1,1,Arsenal,54.0,tottenham
-2016-11-19,Premier League,Sat,Home,W,3,2,West Ham,67.0,tottenham
-2016-11-22,Champions Lg,Tue,Away,L,1,2,fr Monaco,63.0,tottenham
-2016-11-26,Premier League,Sat,Away,L,1,2,Chelsea,54.0,tottenham
-2016-12-03,Premier League,Sat,Home,W,5,0,Swansea City,60.0,tottenham
-2016-12-07,Champions Lg,Wed,Home,W,3,1,ru CSKA Moscow,72.0,tottenham
-2016-12-11,Premier League,Sun,Away,L,0,1,Manchester Utd,60.0,tottenham
-2016-12-14,Premier League,Wed,Home,W,3,0,Hull City,63.0,tottenham
-2016-12-18,Premier League,Sun,Home,W,2,1,Burnley,60.0,tottenham
-2016-12-28,Premier League,Wed,Away,W,4,1,Southampton,66.0,tottenham
-2017-01-01,Premier League,Sun,Away,W,4,1,Watford,66.0,tottenham
-2017-01-04,Premier League,Wed,Home,W,2,0,Chelsea,46.0,tottenham
-2017-01-08,FA Cup,Sun,Home,W,2,0,Aston Villa,,tottenham
-2017-01-14,Premier League,Sat,Home,W,4,0,West Brom,73.0,tottenham
-2017-01-21,Premier League,Sat,Away,D,2,2,Manchester City,45.0,tottenham
-2017-01-28,FA Cup,Sat,Home,W,4,3,Wycombe,,tottenham
-2017-01-31,Premier League,Tue,Away,D,0,0,Sunderland,72.0,tottenham
-2017-02-04,Premier League,Sat,Home,W,1,0,Middlesbrough,65.0,tottenham
-2017-02-11,Premier League,Sat,Away,L,0,2,Liverpool,49.0,tottenham
-2017-02-16,Europa Lg,Thu,Away,L,0,1,be Gent,55.0,tottenham
-2017-02-19,FA Cup,Sun,Away,W,3,0,Fulham,,tottenham
-2017-02-23,Europa Lg,Thu,Home,D,2,2,be Gent,65.0,tottenham
-2017-02-26,Premier League,Sun,Home,W,4,0,Stoke City,64.0,tottenham
-2017-03-05,Premier League,Sun,Home,W,3,2,Everton,51.0,tottenham
-2017-03-12,FA Cup,Sun,Home,W,6,0,Millwall,,tottenham
-2017-03-19,Premier League,Sun,Home,W,2,1,Southampton,51.0,tottenham
-2017-04-01,Premier League,Sat,Away,W,2,0,Burnley,62.0,tottenham
-2017-04-05,Premier League,Wed,Away,W,3,1,Swansea City,72.0,tottenham
-2017-04-08,Premier League,Sat,Home,W,4,0,Watford,58.0,tottenham
-2017-04-15,Premier League,Sat,Home,W,4,0,Bournemouth,69.0,tottenham
-2017-04-22,FA Cup,Sat,Away,L,2,4,Chelsea,,tottenham
-2017-04-26,Premier League,Wed,Away,W,1,0,Crystal Palace,69.0,tottenham
-2017-04-30,Premier League,Sun,Home,W,2,0,Arsenal,51.0,tottenham
-2017-05-05,Premier League,Fri,Away,L,0,1,West Ham,68.0,tottenham
-2017-05-14,Premier League,Sun,Home,W,2,1,Manchester Utd,60.0,tottenham
-2017-05-18,Premier League,Thu,Away,W,6,1,Leicester City,63.0,tottenham
-2017-05-21,Premier League,Sun,Away,W,7,1,Hull City,65.0,tottenham
-2016-08-07,Community Shield,Sun,Away,W,2,1,Leicester City,,united
-2016-08-14,Premier League,Sun,Away,W,3,1,Bournemouth,53.0,united
-2016-08-19,Premier League,Fri,Home,W,2,0,Southampton,43.0,united
-2016-08-27,Premier League,Sat,Away,W,1,0,Hull City,62.0,united
-2016-09-10,Premier League,Sat,Home,L,1,2,Manchester City,40.0,united
-2016-09-15,Europa Lg,Thu,Away,L,0,1,nl Feyenoord,57.0,united
-2016-09-18,Premier League,Sun,Away,L,1,3,Watford,60.0,united
-2016-09-21,EFL Cup,Wed,Away,W,3,1,Northampton,74.0,united
-2016-09-24,Premier League,Sat,Home,W,4,1,Leicester City,67.0,united
-2016-09-29,Europa Lg,Thu,Home,W,1,0,ua Zorya Luhansk,72.0,united
-2016-10-02,Premier League,Sun,Home,D,1,1,Stoke City,67.0,united
-2016-10-17,Premier League,Mon,Away,D,0,0,Liverpool,35.0,united
-2016-10-20,Europa Lg,Thu,Home,W,4,1,tr Fenerbahçe,61.0,united
-2016-10-23,Premier League,Sun,Away,L,0,4,Chelsea,56.0,united
-2016-10-26,EFL Cup,Wed,Home,W,1,0,Manchester City,48.0,united
-2016-10-29,Premier League,Sat,Home,D,0,0,Burnley,72.0,united
-2016-11-03,Europa Lg,Thu,Away,L,1,2,tr Fenerbahçe,70.0,united
-2016-11-06,Premier League,Sun,Away,W,3,1,Swansea City,63.0,united
-2016-11-19,Premier League,Sat,Home,D,1,1,Arsenal,46.0,united
-2016-11-24,Europa Lg,Thu,Home,W,4,0,nl Feyenoord,59.0,united
-2016-11-27,Premier League,Sun,Home,D,1,1,West Ham,68.0,united
-2016-11-30,EFL Cup,Wed,Home,W,4,1,West Ham,57.0,united
-2016-12-04,Premier League,Sun,Away,D,1,1,Everton,55.0,united
-2016-12-08,Europa Lg,Thu,Away,W,2,0,ua Zorya Luhansk,71.0,united
-2016-12-11,Premier League,Sun,Home,W,1,0,Tottenham,40.0,united
-2016-12-14,Premier League,Wed,Away,W,2,1,Crystal Palace,61.0,united
-2016-12-17,Premier League,Sat,Away,W,2,0,West Brom,58.0,united
-2016-12-26,Premier League,Mon,Home,W,3,1,Sunderland,62.0,united
-2016-12-31,Premier League,Sat,Home,W,2,1,Middlesbrough,66.0,united
-2017-01-02,Premier League,Mon,Away,W,2,0,West Ham,64.0,united
-2017-01-07,FA Cup,Sat,Home,W,4,0,Reading,,united
-2017-01-10,EFL Cup,Tue,Home,W,2,0,Hull City,66.0,united
-2017-01-15,Premier League,Sun,Home,D,1,1,Liverpool,56.0,united
-2017-01-21,Premier League,Sat,Away,D,1,1,Stoke City,65.0,united
-2017-01-26,EFL Cup,Thu,Away,L,1,2,Hull City,46.0,united
-2017-01-29,FA Cup,Sun,Home,W,4,0,Wigan Athletic,,united
-2017-02-01,Premier League,Wed,Home,D,0,0,Hull City,67.0,united
-2017-02-05,Premier League,Sun,Away,W,3,0,Leicester City,68.0,united
-2017-02-11,Premier League,Sat,Home,W,2,0,Watford,58.0,united
-2017-02-16,Europa Lg,Thu,Home,W,3,0,fr Saint-Étienne,62.0,united
-2017-02-19,FA Cup,Sun,Away,W,2,1,Blackburn,,united
-2017-02-22,Europa Lg,Wed,Away,W,1,0,fr Saint-Étienne,46.0,united
-2017-02-26,EFL Cup,Sun,Home,W,3,2,Southampton,48.0,united
-2017-03-04,Premier League,Sat,Home,D,1,1,Bournemouth,68.0,united
-2017-03-09,Europa Lg,Thu,Away,D,1,1,ru Rostov,51.0,united
-2017-03-13,FA Cup,Mon,Away,L,0,1,Chelsea,,united
-2017-03-16,Europa Lg,Thu,Home,W,1,0,ru Rostov,69.0,united
-2017-03-19,Premier League,Sun,Away,W,3,1,Middlesbrough,36.0,united
-2017-04-01,Premier League,Sat,Home,D,0,0,West Brom,75.0,united
-2017-04-04,Premier League,Tue,Home,D,1,1,Everton,62.0,united
-2017-04-09,Premier League,Sun,Away,W,3,0,Sunderland,71.0,united
-2017-04-13,Europa Lg,Thu,Away,D,1,1,be Anderlecht,64.0,united
-2017-04-16,Premier League,Sun,Home,W,2,0,Chelsea,46.0,united
-2017-04-20,Europa Lg,Thu,Home,W,2,1,be Anderlecht,60.0,united
-2017-04-23,Premier League,Sun,Away,W,2,0,Burnley,54.0,united
-2017-04-27,Premier League,Thu,Away,D,0,0,Manchester City,31.0,united
-2017-04-30,Premier League,Sun,Home,D,1,1,Swansea City,56.0,united
-2017-05-04,Europa Lg,Thu,Away,W,1,0,es Celta Vigo,42.0,united
-2017-05-07,Premier League,Sun,Away,L,0,2,Arsenal,50.0,united
-2017-05-11,Europa Lg,Thu,Home,D,1,1,es Celta Vigo,33.0,united
-2017-05-14,Premier League,Sun,Away,L,1,2,Tottenham,40.0,united
-2017-05-17,Premier League,Wed,Away,D,0,0,Southampton,47.0,united
-2017-05-21,Premier League,Sun,Home,W,2,0,Crystal Palace,59.0,united
-2017-05-24,Europa Lg,Wed,Away,W,2,0,nl Ajax,31.0,united
-2016-08-13,Premier League,Sat,Away,D,1,1,Southampton,36.0,watford
-2016-08-20,Premier League,Sat,Home,L,1,2,Chelsea,38.0,watford
-2016-08-23,EFL Cup,Tue,Home,L,1,2,Gillingham,57.0,watford
-2016-08-27,Premier League,Sat,Home,L,1,3,Arsenal,45.0,watford
-2016-09-10,Premier League,Sat,Away,W,4,2,West Ham,42.0,watford
-2016-09-18,Premier League,Sun,Home,W,3,1,Manchester Utd,40.0,watford
-2016-09-26,Premier League,Mon,Away,L,0,2,Burnley,57.0,watford
-2016-10-01,Premier League,Sat,Home,D,2,2,Bournemouth,48.0,watford
-2016-10-16,Premier League,Sun,Away,W,1,0,Middlesbrough,36.0,watford
-2016-10-22,Premier League,Sat,Away,D,0,0,Swansea City,46.0,watford
-2016-10-29,Premier League,Sat,Home,W,1,0,Hull City,54.0,watford
-2016-11-06,Premier League,Sun,Away,L,1,6,Liverpool,40.0,watford
-2016-11-19,Premier League,Sat,Home,W,2,1,Leicester City,46.0,watford
-2016-11-27,Premier League,Sun,Home,L,0,1,Stoke City,50.0,watford
-2016-12-03,Premier League,Sat,Away,L,1,3,West Brom,60.0,watford
-2016-12-10,Premier League,Sat,Home,W,3,2,Everton,47.0,watford
-2016-12-14,Premier League,Wed,Away,L,0,2,Manchester City,37.0,watford
-2016-12-17,Premier League,Sat,Away,L,0,1,Sunderland,57.0,watford
-2016-12-26,Premier League,Mon,Home,D,1,1,Crystal Palace,56.0,watford
-2017-01-01,Premier League,Sun,Home,L,1,4,Tottenham,34.0,watford
-2017-01-03,Premier League,Tue,Away,L,0,2,Stoke City,46.0,watford
-2017-01-07,FA Cup,Sat,Home,W,2,0,Burton Albion,,watford
-2017-01-14,Premier League,Sat,Home,D,0,0,Middlesbrough,47.0,watford
-2017-01-21,Premier League,Sat,Away,D,2,2,Bournemouth,37.0,watford
-2017-01-29,FA Cup,Sun,Away,L,0,1,Millwall,,watford
-2017-01-31,Premier League,Tue,Away,W,2,1,Arsenal,26.0,watford
-2017-02-04,Premier League,Sat,Home,W,2,1,Burnley,60.0,watford
-2017-02-11,Premier League,Sat,Away,L,0,2,Manchester Utd,42.0,watford
-2017-02-25,Premier League,Sat,Home,D,1,1,West Ham,36.0,watford
-2017-03-04,Premier League,Sat,Home,L,3,4,Southampton,37.0,watford
-2017-03-18,Premier League,Sat,Away,L,0,1,Crystal Palace,57.0,watford
-2017-04-01,Premier League,Sat,Home,W,1,0,Sunderland,57.0,watford
-2017-04-04,Premier League,Tue,Home,W,2,0,West Brom,55.0,watford
-2017-04-08,Premier League,Sat,Away,L,0,4,Tottenham,42.0,watford
-2017-04-15,Premier League,Sat,Home,W,1,0,Swansea City,53.0,watford
-2017-04-22,Premier League,Sat,Away,L,0,2,Hull City,66.0,watford
-2017-05-01,Premier League,Mon,Home,L,0,1,Liverpool,40.0,watford
-2017-05-06,Premier League,Sat,Away,L,0,3,Leicester City,58.0,watford
-2017-05-12,Premier League,Fri,Away,L,0,1,Everton,37.0,watford
-2017-05-15,Premier League,Mon,Away,L,3,4,Chelsea,53.0,watford
-2017-05-21,Premier League,Sun,Home,L,0,5,Manchester City,33.0,watford
-2016-08-13,Premier League,Sat,Away,W,1,0,Crystal Palace,38.0,west-brom
-2016-08-20,Premier League,Sat,Home,L,1,2,Everton,34.0,west-brom
-2016-08-23,EFL Cup,Tue,Away,D,2 (3),2 (4),Northampton,50.0,west-brom
-2016-08-28,Premier League,Sun,Home,D,0,0,Middlesbrough,41.0,west-brom
-2016-09-10,Premier League,Sat,Away,L,0,1,Bournemouth,37.0,west-brom
-2016-09-17,Premier League,Sat,Home,W,4,2,West Ham,30.0,west-brom
-2016-09-24,Premier League,Sat,Away,D,1,1,Stoke City,44.0,west-brom
-2016-10-01,Premier League,Sat,Away,D,1,1,Sunderland,44.0,west-brom
-2016-10-15,Premier League,Sat,Home,D,1,1,Tottenham,29.0,west-brom
-2016-10-22,Premier League,Sat,Away,L,1,2,Liverpool,33.0,west-brom
-2016-10-29,Premier League,Sat,Home,L,0,4,Manchester City,30.0,west-brom
-2016-11-06,Premier League,Sun,Away,W,2,1,Leicester City,41.0,west-brom
-2016-11-21,Premier League,Mon,Home,W,4,0,Burnley,46.0,west-brom
-2016-11-26,Premier League,Sat,Away,D,1,1,Hull City,47.0,west-brom
-2016-12-03,Premier League,Sat,Home,W,3,1,Watford,40.0,west-brom
-2016-12-11,Premier League,Sun,Away,L,0,1,Chelsea,33.0,west-brom
-2016-12-14,Premier League,Wed,Home,W,3,1,Swansea City,40.0,west-brom
-2016-12-17,Premier League,Sat,Home,L,0,2,Manchester Utd,42.0,west-brom
-2016-12-26,Premier League,Mon,Away,L,0,1,Arsenal,24.0,west-brom
-2016-12-31,Premier League,Sat,Away,W,2,1,Southampton,32.0,west-brom
-2017-01-02,Premier League,Mon,Home,W,3,1,Hull City,41.0,west-brom
-2017-01-07,FA Cup,Sat,Home,L,1,2,Derby County,,west-brom
-2017-01-14,Premier League,Sat,Away,L,0,4,Tottenham,27.0,west-brom
-2017-01-21,Premier League,Sat,Home,W,2,0,Sunderland,44.0,west-brom
-2017-01-31,Premier League,Tue,Away,D,1,1,Middlesbrough,38.0,west-brom
-2017-02-04,Premier League,Sat,Home,W,1,0,Stoke City,38.0,west-brom
-2017-02-11,Premier League,Sat,Away,D,2,2,West Ham,35.0,west-brom
-2017-02-25,Premier League,Sat,Home,W,2,1,Bournemouth,32.0,west-brom
-2017-03-04,Premier League,Sat,Home,L,0,2,Crystal Palace,52.0,west-brom
-2017-03-11,Premier League,Sat,Away,L,0,3,Everton,37.0,west-brom
-2017-03-18,Premier League,Sat,Home,W,3,1,Arsenal,23.0,west-brom
-2017-04-01,Premier League,Sat,Away,D,0,0,Manchester Utd,25.0,west-brom
-2017-04-04,Premier League,Tue,Away,L,0,2,Watford,45.0,west-brom
-2017-04-08,Premier League,Sat,Home,L,0,1,Southampton,42.0,west-brom
-2017-04-16,Premier League,Sun,Home,L,0,1,Liverpool,36.0,west-brom
-2017-04-29,Premier League,Sat,Home,L,0,1,Leicester City,55.0,west-brom
-2017-05-06,Premier League,Sat,Away,D,2,2,Burnley,45.0,west-brom
-2017-05-12,Premier League,Fri,Home,L,0,1,Chelsea,32.0,west-brom
-2017-05-16,Premier League,Tue,Away,L,1,3,Manchester City,29.0,west-brom
-2017-05-21,Premier League,Sun,Away,L,1,2,Swansea City,35.0,west-brom
-2016-07-28,Europa Lg,Thu,Away,L,1,2,si NK Domžale,59.0,west-ham
-2016-08-04,Europa Lg,Thu,Home,W,3,0,si NK Domžale,,west-ham
-2016-08-15,Premier League,Mon,Away,L,1,2,Chelsea,38.0,west-ham
-2016-08-18,Europa Lg,Thu,Away,D,1,1,ro Astra Giurgiu,44.0,west-ham
-2016-08-21,Premier League,Sun,Home,W,1,0,Bournemouth,47.0,west-ham
-2016-08-25,Europa Lg,Thu,Home,L,0,1,ro Astra Giurgiu,65.0,west-ham
-2016-08-28,Premier League,Sun,Away,L,1,3,Manchester City,33.0,west-ham
-2016-09-10,Premier League,Sat,Home,L,2,4,Watford,58.0,west-ham
-2016-09-17,Premier League,Sat,Away,L,2,4,West Brom,70.0,west-ham
-2016-09-21,EFL Cup,Wed,Home,W,1,0,Acc'ton Stanley,63.0,west-ham
-2016-09-25,Premier League,Sun,Home,L,0,3,Southampton,45.0,west-ham
-2016-10-01,Premier League,Sat,Home,D,1,1,Middlesbrough,40.0,west-ham
-2016-10-15,Premier League,Sat,Away,W,1,0,Crystal Palace,45.0,west-ham
-2016-10-22,Premier League,Sat,Home,W,1,0,Sunderland,64.0,west-ham
-2016-10-26,EFL Cup,Wed,Home,W,2,1,Chelsea,47.0,west-ham
-2016-10-30,Premier League,Sun,Away,L,0,2,Everton,51.0,west-ham
-2016-11-05,Premier League,Sat,Home,D,1,1,Stoke City,58.0,west-ham
-2016-11-19,Premier League,Sat,Away,L,2,3,Tottenham,33.0,west-ham
-2016-11-27,Premier League,Sun,Away,D,1,1,Manchester Utd,32.0,west-ham
-2016-11-30,EFL Cup,Wed,Away,L,1,4,Manchester Utd,43.0,west-ham
-2016-12-03,Premier League,Sat,Home,L,1,5,Arsenal,51.0,west-ham
-2016-12-11,Premier League,Sun,Away,D,2,2,Liverpool,32.0,west-ham
-2016-12-14,Premier League,Wed,Home,W,1,0,Burnley,58.0,west-ham
-2016-12-17,Premier League,Sat,Home,W,1,0,Hull City,56.0,west-ham
-2016-12-26,Premier League,Mon,Away,W,4,1,Swansea City,44.0,west-ham
-2016-12-31,Premier League,Sat,Away,L,0,1,Leicester City,60.0,west-ham
-2017-01-02,Premier League,Mon,Home,L,0,2,Manchester Utd,36.0,west-ham
-2017-01-06,FA Cup,Fri,Home,L,0,5,Manchester City,,west-ham
-2017-01-14,Premier League,Sat,Home,W,3,0,Crystal Palace,44.0,west-ham
-2017-01-21,Premier League,Sat,Away,W,3,1,Middlesbrough,39.0,west-ham
-2017-02-01,Premier League,Wed,Home,L,0,4,Manchester City,30.0,west-ham
-2017-02-04,Premier League,Sat,Away,W,3,1,Southampton,45.0,west-ham
-2017-02-11,Premier League,Sat,Home,D,2,2,West Brom,65.0,west-ham
-2017-02-25,Premier League,Sat,Away,D,1,1,Watford,64.0,west-ham
-2017-03-06,Premier League,Mon,Home,L,1,2,Chelsea,52.0,west-ham
-2017-03-11,Premier League,Sat,Away,L,2,3,Bournemouth,48.0,west-ham
-2017-03-18,Premier League,Sat,Home,L,2,3,Leicester City,59.0,west-ham
-2017-04-01,Premier League,Sat,Away,L,1,2,Hull City,55.0,west-ham
-2017-04-05,Premier League,Wed,Away,L,0,3,Arsenal,34.0,west-ham
-2017-04-08,Premier League,Sat,Home,W,1,0,Swansea City,46.0,west-ham
-2017-04-15,Premier League,Sat,Away,D,2,2,Sunderland,53.0,west-ham
-2017-04-22,Premier League,Sat,Home,D,0,0,Everton,41.0,west-ham
-2017-04-29,Premier League,Sat,Away,D,0,0,Stoke City,43.0,west-ham
-2017-05-05,Premier League,Fri,Home,W,1,0,Tottenham,32.0,west-ham
-2017-05-14,Premier League,Sun,Home,L,0,4,Liverpool,33.0,west-ham
-2017-05-21,Premier League,Sun,Away,W,2,1,Burnley,56.0,west-ham
+Date,Comp,Day,Venue,Result,GF,GA,Opponent,Poss,team,Match Number
+2016-08-14,Premier League,Sun,Home,L,3,4,Liverpool,51.0,arsenal,1.0
+2016-08-20,Premier League,Sat,Away,D,0,0,Leicester City,61.0,arsenal,2.0
+2016-08-27,Premier League,Sat,Away,W,3,1,Watford,55.0,arsenal,3.0
+2016-09-10,Premier League,Sat,Home,W,2,1,Southampton,57.0,arsenal,4.0
+2016-09-13,Champions Lg,Tue,Away,D,1,1,fr Paris S-G,48.0,arsenal,
+2016-09-17,Premier League,Sat,Away,W,4,1,Hull City,61.0,arsenal,5.0
+2016-09-20,EFL Cup,Tue,Away,W,4,0,Nott'ham Forest,61.0,arsenal,
+2016-09-24,Premier League,Sat,Home,W,3,0,Chelsea,50.0,arsenal,6.0
+2016-09-28,Champions Lg,Wed,Home,W,2,0,ch Basel,65.0,arsenal,
+2016-10-02,Premier League,Sun,Away,W,1,0,Burnley,67.0,arsenal,7.0
+2016-10-15,Premier League,Sat,Home,W,3,2,Swansea City,49.0,arsenal,8.0
+2016-10-19,Champions Lg,Wed,Home,W,6,0,bg Ludogorets,43.0,arsenal,
+2016-10-22,Premier League,Sat,Home,D,0,0,Middlesbrough,75.0,arsenal,9.0
+2016-10-25,EFL Cup,Tue,Home,W,2,0,Reading,60.0,arsenal,
+2016-10-29,Premier League,Sat,Away,W,4,1,Sunderland,66.0,arsenal,10.0
+2016-11-01,Champions Lg,Tue,Away,W,3,2,bg Ludogorets,58.0,arsenal,
+2016-11-06,Premier League,Sun,Home,D,1,1,Tottenham,46.0,arsenal,11.0
+2016-11-19,Premier League,Sat,Away,D,1,1,Manchester Utd,55.0,arsenal,12.0
+2016-11-23,Champions Lg,Wed,Home,D,2,2,fr Paris S-G,46.0,arsenal,
+2016-11-27,Premier League,Sun,Home,W,3,1,Bournemouth,52.0,arsenal,13.0
+2016-11-30,EFL Cup,Wed,Home,L,0,2,Southampton,63.0,arsenal,
+2016-12-03,Premier League,Sat,Away,W,5,1,West Ham,50.0,arsenal,14.0
+2016-12-06,Champions Lg,Tue,Away,W,4,1,ch Basel,59.0,arsenal,
+2016-12-10,Premier League,Sat,Home,W,3,1,Stoke City,64.0,arsenal,15.0
+2016-12-13,Premier League,Tue,Away,L,1,2,Everton,59.0,arsenal,16.0
+2016-12-18,Premier League,Sun,Away,L,1,2,Manchester City,39.0,arsenal,17.0
+2016-12-26,Premier League,Mon,Home,W,1,0,West Brom,76.0,arsenal,18.0
+2017-01-01,Premier League,Sun,Home,W,2,0,Crystal Palace,64.0,arsenal,19.0
+2017-01-03,Premier League,Tue,Away,D,3,3,Bournemouth,60.0,arsenal,20.0
+2017-01-07,FA Cup,Sat,Away,W,2,1,Preston,,arsenal,
+2017-01-14,Premier League,Sat,Away,W,4,0,Swansea City,57.0,arsenal,21.0
+2017-01-22,Premier League,Sun,Home,W,2,1,Burnley,70.0,arsenal,22.0
+2017-01-28,FA Cup,Sat,Away,W,5,0,Southampton,,arsenal,
+2017-01-31,Premier League,Tue,Home,L,1,2,Watford,74.0,arsenal,23.0
+2017-02-04,Premier League,Sat,Away,L,1,3,Chelsea,59.0,arsenal,24.0
+2017-02-11,Premier League,Sat,Home,W,2,0,Hull City,49.0,arsenal,25.0
+2017-02-15,Champions Lg,Wed,Away,L,1,5,de Bayern Munich,26.0,arsenal,
+2017-02-20,FA Cup,Mon,Away,W,2,0,Sutton United,,arsenal,
+2017-03-04,Premier League,Sat,Away,L,1,3,Liverpool,48.0,arsenal,26.0
+2017-03-07,Champions Lg,Tue,Home,L,1,5,de Bayern Munich,43.0,arsenal,
+2017-03-11,FA Cup,Sat,Home,W,5,0,Lincoln City,,arsenal,
+2017-03-18,Premier League,Sat,Away,L,1,3,West Brom,77.0,arsenal,27.0
+2017-04-02,Premier League,Sun,Home,D,2,2,Manchester City,44.0,arsenal,28.0
+2017-04-05,Premier League,Wed,Home,W,3,0,West Ham,66.0,arsenal,29.0
+2017-04-10,Premier League,Mon,Away,L,0,3,Crystal Palace,72.0,arsenal,30.0
+2017-04-17,Premier League,Mon,Away,W,2,1,Middlesbrough,65.0,arsenal,31.0
+2017-04-23,FA Cup,Sun,Home,W,2,1,Manchester City,,arsenal,
+2017-04-26,Premier League,Wed,Home,W,1,0,Leicester City,69.0,arsenal,32.0
+2017-04-30,Premier League,Sun,Away,L,0,2,Tottenham,49.0,arsenal,33.0
+2017-05-07,Premier League,Sun,Home,W,2,0,Manchester Utd,50.0,arsenal,34.0
+2017-05-10,Premier League,Wed,Away,W,2,0,Southampton,53.0,arsenal,35.0
+2017-05-13,Premier League,Sat,Away,W,4,1,Stoke City,67.0,arsenal,36.0
+2017-05-16,Premier League,Tue,Home,W,2,0,Sunderland,63.0,arsenal,37.0
+2017-05-21,Premier League,Sun,Home,W,3,1,Everton,50.0,arsenal,38.0
+2017-05-27,FA Cup,Sat,Home,W,2,1,Chelsea,,arsenal,
+2016-08-14,Premier League,Sun,Home,L,1,3,Manchester Utd,47.0,bournemouth,1.0
+2016-08-21,Premier League,Sun,Away,L,0,1,West Ham,53.0,bournemouth,2.0
+2016-08-24,EFL Cup,Wed,Away,W,2,1,Morecambe,60.0,bournemouth,
+2016-08-27,Premier League,Sat,Away,D,1,1,Crystal Palace,41.0,bournemouth,3.0
+2016-09-10,Premier League,Sat,Home,W,1,0,West Brom,64.0,bournemouth,4.0
+2016-09-17,Premier League,Sat,Away,L,0,4,Manchester City,36.0,bournemouth,5.0
+2016-09-20,EFL Cup,Tue,Home,L,2,3,Preston,56.0,bournemouth,
+2016-09-24,Premier League,Sat,Home,W,1,0,Everton,53.0,bournemouth,6.0
+2016-10-01,Premier League,Sat,Away,D,2,2,Watford,52.0,bournemouth,7.0
+2016-10-15,Premier League,Sat,Home,W,6,1,Hull City,50.0,bournemouth,8.0
+2016-10-22,Premier League,Sat,Home,D,0,0,Tottenham,38.0,bournemouth,9.0
+2016-10-29,Premier League,Sat,Away,L,0,2,Middlesbrough,60.0,bournemouth,10.0
+2016-11-05,Premier League,Sat,Home,L,1,2,Sunderland,70.0,bournemouth,11.0
+2016-11-19,Premier League,Sat,Away,W,1,0,Stoke City,49.0,bournemouth,12.0
+2016-11-27,Premier League,Sun,Away,L,1,3,Arsenal,49.0,bournemouth,13.0
+2016-12-04,Premier League,Sun,Home,W,4,3,Liverpool,40.0,bournemouth,14.0
+2016-12-10,Premier League,Sat,Away,L,2,3,Burnley,69.0,bournemouth,15.0
+2016-12-13,Premier League,Tue,Home,W,1,0,Leicester City,63.0,bournemouth,16.0
+2016-12-18,Premier League,Sun,Home,L,1,3,Southampton,47.0,bournemouth,17.0
+2016-12-26,Premier League,Mon,Away,L,0,3,Chelsea,56.0,bournemouth,18.0
+2016-12-31,Premier League,Sat,Away,W,3,0,Swansea City,55.0,bournemouth,19.0
+2017-01-03,Premier League,Tue,Home,D,3,3,Arsenal,40.0,bournemouth,20.0
+2017-01-07,FA Cup,Sat,Away,L,0,3,Millwall,,bournemouth,
+2017-01-14,Premier League,Sat,Away,L,1,3,Hull City,61.0,bournemouth,21.0
+2017-01-21,Premier League,Sat,Home,D,2,2,Watford,63.0,bournemouth,22.0
+2017-01-31,Premier League,Tue,Home,L,0,2,Crystal Palace,65.0,bournemouth,23.0
+2017-02-04,Premier League,Sat,Away,L,3,6,Everton,54.0,bournemouth,24.0
+2017-02-13,Premier League,Mon,Home,L,0,2,Manchester City,38.0,bournemouth,25.0
+2017-02-25,Premier League,Sat,Away,L,1,2,West Brom,68.0,bournemouth,26.0
+2017-03-04,Premier League,Sat,Away,D,1,1,Manchester Utd,32.0,bournemouth,27.0
+2017-03-11,Premier League,Sat,Home,W,3,2,West Ham,52.0,bournemouth,28.0
+2017-03-18,Premier League,Sat,Home,W,2,0,Swansea City,48.0,bournemouth,29.0
+2017-04-01,Premier League,Sat,Away,D,0,0,Southampton,39.0,bournemouth,30.0
+2017-04-05,Premier League,Wed,Away,D,2,2,Liverpool,33.0,bournemouth,31.0
+2017-04-08,Premier League,Sat,Home,L,1,3,Chelsea,51.0,bournemouth,32.0
+2017-04-15,Premier League,Sat,Away,L,0,4,Tottenham,31.0,bournemouth,33.0
+2017-04-22,Premier League,Sat,Home,W,4,0,Middlesbrough,68.0,bournemouth,34.0
+2017-04-29,Premier League,Sat,Away,W,1,0,Sunderland,59.0,bournemouth,35.0
+2017-05-06,Premier League,Sat,Home,D,2,2,Stoke City,58.0,bournemouth,36.0
+2017-05-13,Premier League,Sat,Home,W,2,1,Burnley,55.0,bournemouth,37.0
+2017-05-21,Premier League,Sun,Away,D,1,1,Leicester City,51.0,bournemouth,38.0
+2016-08-13,Premier League,Sat,Home,L,0,1,Swansea City,48.0,burnley,1.0
+2016-08-20,Premier League,Sat,Home,W,2,0,Liverpool,20.0,burnley,2.0
+2016-08-24,EFL Cup,Wed,Away,L,0,1,Acc'ton Stanley,59.0,burnley,
+2016-08-27,Premier League,Sat,Away,L,0,3,Chelsea,40.0,burnley,3.0
+2016-09-10,Premier League,Sat,Home,D,1,1,Hull City,39.0,burnley,4.0
+2016-09-17,Premier League,Sat,Away,L,0,3,Leicester City,41.0,burnley,5.0
+2016-09-26,Premier League,Mon,Home,W,2,0,Watford,44.0,burnley,6.0
+2016-10-02,Premier League,Sun,Home,L,0,1,Arsenal,33.0,burnley,7.0
+2016-10-16,Premier League,Sun,Away,L,1,3,Southampton,35.0,burnley,8.0
+2016-10-22,Premier League,Sat,Home,W,2,1,Everton,35.0,burnley,9.0
+2016-10-29,Premier League,Sat,Away,D,0,0,Manchester Utd,28.0,burnley,10.0
+2016-11-05,Premier League,Sat,Home,W,3,2,Crystal Palace,38.0,burnley,11.0
+2016-11-21,Premier League,Mon,Away,L,0,4,West Brom,55.0,burnley,12.0
+2016-11-26,Premier League,Sat,Home,L,1,2,Manchester City,33.0,burnley,13.0
+2016-12-03,Premier League,Sat,Away,L,0,2,Stoke City,44.0,burnley,14.0
+2016-12-10,Premier League,Sat,Home,W,3,2,Bournemouth,31.0,burnley,15.0
+2016-12-14,Premier League,Wed,Away,L,0,1,West Ham,42.0,burnley,16.0
+2016-12-18,Premier League,Sun,Away,L,1,2,Tottenham,40.0,burnley,17.0
+2016-12-26,Premier League,Mon,Home,W,1,0,Middlesbrough,46.0,burnley,18.0
+2016-12-31,Premier League,Sat,Home,W,4,1,Sunderland,46.0,burnley,19.0
+2017-01-02,Premier League,Mon,Away,L,1,2,Manchester City,45.0,burnley,20.0
+2017-01-07,FA Cup,Sat,Away,D,0,0,Sunderland,,burnley,
+2017-01-14,Premier League,Sat,Home,W,1,0,Southampton,41.0,burnley,21.0
+2017-01-17,FA Cup,Tue,Home,W,2,0,Sunderland,,burnley,
+2017-01-22,Premier League,Sun,Away,L,1,2,Arsenal,30.0,burnley,22.0
+2017-01-28,FA Cup,Sat,Home,W,2,0,Bristol City,,burnley,
+2017-01-31,Premier League,Tue,Home,W,1,0,Leicester City,59.0,burnley,23.0
+2017-02-04,Premier League,Sat,Away,L,1,2,Watford,40.0,burnley,24.0
+2017-02-12,Premier League,Sun,Home,D,1,1,Chelsea,29.0,burnley,25.0
+2017-02-18,FA Cup,Sat,Home,L,0,1,Lincoln City,,burnley,
+2017-02-25,Premier League,Sat,Away,D,1,1,Hull City,34.0,burnley,26.0
+2017-03-04,Premier League,Sat,Away,L,2,3,Swansea City,29.0,burnley,27.0
+2017-03-12,Premier League,Sun,Away,L,1,2,Liverpool,36.0,burnley,28.0
+2017-03-18,Premier League,Sat,Away,D,0,0,Sunderland,56.0,burnley,29.0
+2017-04-01,Premier League,Sat,Home,L,0,2,Tottenham,38.0,burnley,30.0
+2017-04-04,Premier League,Tue,Home,W,1,0,Stoke City,48.0,burnley,31.0
+2017-04-08,Premier League,Sat,Away,D,0,0,Middlesbrough,44.0,burnley,32.0
+2017-04-15,Premier League,Sat,Away,L,1,3,Everton,37.0,burnley,33.0
+2017-04-23,Premier League,Sun,Home,L,0,2,Manchester Utd,46.0,burnley,34.0
+2017-04-29,Premier League,Sat,Away,W,2,0,Crystal Palace,36.0,burnley,35.0
+2017-05-06,Premier League,Sat,Home,D,2,2,West Brom,55.0,burnley,36.0
+2017-05-13,Premier League,Sat,Away,L,1,2,Bournemouth,45.0,burnley,37.0
+2017-05-21,Premier League,Sun,Home,L,1,2,West Ham,44.0,burnley,38.0
+2016-08-15,Premier League,Mon,Home,W,2,1,West Ham,62.0,chelsea,1.0
+2016-08-20,Premier League,Sat,Away,W,2,1,Watford,62.0,chelsea,2.0
+2016-08-23,EFL Cup,Tue,Home,W,3,2,Bristol Rovers,54.0,chelsea,
+2016-08-27,Premier League,Sat,Home,W,3,0,Burnley,60.0,chelsea,3.0
+2016-09-11,Premier League,Sun,Away,D,2,2,Swansea City,55.0,chelsea,4.0
+2016-09-16,Premier League,Fri,Home,L,1,2,Liverpool,53.0,chelsea,5.0
+2016-09-20,EFL Cup,Tue,Away,W,4,2,Leicester City,67.0,chelsea,
+2016-09-24,Premier League,Sat,Away,L,0,3,Arsenal,51.0,chelsea,6.0
+2016-10-01,Premier League,Sat,Away,W,2,0,Hull City,59.0,chelsea,7.0
+2016-10-15,Premier League,Sat,Home,W,3,0,Leicester City,55.0,chelsea,8.0
+2016-10-23,Premier League,Sun,Home,W,4,0,Manchester Utd,44.0,chelsea,9.0
+2016-10-26,EFL Cup,Wed,Away,L,1,2,West Ham,53.0,chelsea,
+2016-10-30,Premier League,Sun,Away,W,2,0,Southampton,45.0,chelsea,10.0
+2016-11-05,Premier League,Sat,Home,W,5,0,Everton,60.0,chelsea,11.0
+2016-11-20,Premier League,Sun,Away,W,1,0,Middlesbrough,58.0,chelsea,12.0
+2016-11-26,Premier League,Sat,Home,W,2,1,Tottenham,46.0,chelsea,13.0
+2016-12-03,Premier League,Sat,Away,W,3,1,Manchester City,39.0,chelsea,14.0
+2016-12-11,Premier League,Sun,Home,W,1,0,West Brom,67.0,chelsea,15.0
+2016-12-14,Premier League,Wed,Away,W,1,0,Sunderland,66.0,chelsea,16.0
+2016-12-17,Premier League,Sat,Away,W,1,0,Crystal Palace,47.0,chelsea,17.0
+2016-12-26,Premier League,Mon,Home,W,3,0,Bournemouth,44.0,chelsea,18.0
+2016-12-31,Premier League,Sat,Home,W,4,2,Stoke City,60.0,chelsea,19.0
+2017-01-04,Premier League,Wed,Away,L,0,2,Tottenham,55.0,chelsea,20.0
+2017-01-08,FA Cup,Sun,Home,W,4,1,P'borough Utd,,chelsea,
+2017-01-14,Premier League,Sat,Away,W,3,0,Leicester City,65.0,chelsea,21.0
+2017-01-22,Premier League,Sun,Home,W,2,0,Hull City,53.0,chelsea,22.0
+2017-01-28,FA Cup,Sat,Home,W,4,0,Brentford,,chelsea,
+2017-01-31,Premier League,Tue,Away,D,1,1,Liverpool,38.0,chelsea,23.0
+2017-02-04,Premier League,Sat,Home,W,3,1,Arsenal,42.0,chelsea,24.0
+2017-02-12,Premier League,Sun,Away,D,1,1,Burnley,71.0,chelsea,25.0
+2017-02-18,FA Cup,Sat,Away,W,2,0,Wolves,,chelsea,
+2017-02-25,Premier League,Sat,Home,W,3,1,Swansea City,66.0,chelsea,26.0
+2017-03-06,Premier League,Mon,Away,W,2,1,West Ham,48.0,chelsea,27.0
+2017-03-13,FA Cup,Mon,Home,W,1,0,Manchester Utd,,chelsea,
+2017-03-18,Premier League,Sat,Away,W,2,1,Stoke City,64.0,chelsea,28.0
+2017-04-01,Premier League,Sat,Home,L,1,2,Crystal Palace,73.0,chelsea,29.0
+2017-04-05,Premier League,Wed,Home,W,2,1,Manchester City,40.0,chelsea,30.0
+2017-04-08,Premier League,Sat,Away,W,3,1,Bournemouth,49.0,chelsea,31.0
+2017-04-16,Premier League,Sun,Away,L,0,2,Manchester Utd,54.0,chelsea,32.0
+2017-04-22,FA Cup,Sat,Home,W,4,2,Tottenham,,chelsea,
+2017-04-25,Premier League,Tue,Home,W,4,2,Southampton,48.0,chelsea,33.0
+2017-04-30,Premier League,Sun,Away,W,3,0,Everton,50.0,chelsea,34.0
+2017-05-08,Premier League,Mon,Home,W,3,0,Middlesbrough,57.0,chelsea,35.0
+2017-05-12,Premier League,Fri,Away,W,1,0,West Brom,68.0,chelsea,36.0
+2017-05-15,Premier League,Mon,Home,W,4,3,Watford,47.0,chelsea,37.0
+2017-05-21,Premier League,Sun,Home,W,5,1,Sunderland,72.0,chelsea,38.0
+2017-05-27,FA Cup,Sat,Away,L,1,2,Arsenal,,chelsea,
+2016-08-13,Premier League,Sat,Home,W,2,1,Sunderland,77.0,city,1.0
+2016-08-16,Champions Lg,Tue,Away,W,5,0,ro Steaua,71.0,city,
+2016-08-20,Premier League,Sat,Away,W,4,1,Stoke City,58.0,city,2.0
+2016-08-24,Champions Lg,Wed,Home,W,1,0,ro Steaua,62.0,city,
+2016-08-28,Premier League,Sun,Home,W,3,1,West Ham,67.0,city,3.0
+2016-09-10,Premier League,Sat,Away,W,2,1,Manchester Utd,60.0,city,4.0
+2016-09-14,Champions Lg,Wed,Home,W,4,0,de M'Gladbach,56.0,city,
+2016-09-17,Premier League,Sat,Home,W,4,0,Bournemouth,64.0,city,5.0
+2016-09-21,EFL Cup,Wed,Away,W,2,1,Swansea City,60.0,city,
+2016-09-24,Premier League,Sat,Away,W,3,1,Swansea City,58.0,city,6.0
+2016-09-28,Champions Lg,Wed,Away,D,3,3,sct Celtic,61.0,city,
+2016-10-02,Premier League,Sun,Away,L,0,2,Tottenham,58.0,city,7.0
+2016-10-15,Premier League,Sat,Home,D,1,1,Everton,73.0,city,8.0
+2016-10-19,Champions Lg,Wed,Away,L,0,4,es Barcelona,47.0,city,
+2016-10-23,Premier League,Sun,Home,D,1,1,Southampton,65.0,city,9.0
+2016-10-26,EFL Cup,Wed,Away,L,0,1,Manchester Utd,52.0,city,
+2016-10-29,Premier League,Sat,Away,W,4,0,West Brom,70.0,city,10.0
+2016-11-01,Champions Lg,Tue,Home,W,3,1,es Barcelona,35.0,city,
+2016-11-05,Premier League,Sat,Home,D,1,1,Middlesbrough,71.0,city,11.0
+2016-11-19,Premier League,Sat,Away,W,2,1,Crystal Palace,62.0,city,12.0
+2016-11-23,Champions Lg,Wed,Away,D,1,1,de M'Gladbach,69.0,city,
+2016-11-26,Premier League,Sat,Away,W,2,1,Burnley,67.0,city,13.0
+2016-12-03,Premier League,Sat,Home,L,1,3,Chelsea,61.0,city,14.0
+2016-12-06,Champions Lg,Tue,Home,D,1,1,sct Celtic,58.0,city,
+2016-12-10,Premier League,Sat,Away,L,2,4,Leicester City,78.0,city,15.0
+2016-12-14,Premier League,Wed,Home,W,2,0,Watford,63.0,city,16.0
+2016-12-18,Premier League,Sun,Home,W,2,1,Arsenal,61.0,city,17.0
+2016-12-26,Premier League,Mon,Away,W,3,0,Hull City,67.0,city,18.0
+2016-12-31,Premier League,Sat,Away,L,0,1,Liverpool,57.0,city,19.0
+2017-01-02,Premier League,Mon,Home,W,2,1,Burnley,55.0,city,20.0
+2017-01-06,FA Cup,Fri,Away,W,5,0,West Ham,,city,
+2017-01-15,Premier League,Sun,Away,L,0,4,Everton,71.0,city,21.0
+2017-01-21,Premier League,Sat,Home,D,2,2,Tottenham,55.0,city,22.0
+2017-01-28,FA Cup,Sat,Away,W,3,0,Crystal Palace,,city,
+2017-02-01,Premier League,Wed,Away,W,4,0,West Ham,70.0,city,23.0
+2017-02-05,Premier League,Sun,Home,W,2,1,Swansea City,69.0,city,24.0
+2017-02-13,Premier League,Mon,Away,W,2,0,Bournemouth,62.0,city,25.0
+2017-02-18,FA Cup,Sat,Away,D,0,0,Huddersfield,,city,
+2017-02-21,Champions Lg,Tue,Home,W,5,3,fr Monaco,67.0,city,
+2017-03-01,FA Cup,Wed,Home,W,5,1,Huddersfield,,city,
+2017-03-05,Premier League,Sun,Away,W,2,0,Sunderland,71.0,city,26.0
+2017-03-08,Premier League,Wed,Home,D,0,0,Stoke City,65.0,city,27.0
+2017-03-11,FA Cup,Sat,Away,W,2,0,Middlesbrough,,city,
+2017-03-15,Champions Lg,Wed,Away,L,1,3,fr Monaco,59.0,city,
+2017-03-19,Premier League,Sun,Home,D,1,1,Liverpool,60.0,city,28.0
+2017-04-02,Premier League,Sun,Away,D,2,2,Arsenal,56.0,city,29.0
+2017-04-05,Premier League,Wed,Away,L,1,2,Chelsea,61.0,city,30.0
+2017-04-08,Premier League,Sat,Home,W,3,1,Hull City,68.0,city,31.0
+2017-04-15,Premier League,Sat,Away,W,3,0,Southampton,59.0,city,32.0
+2017-04-23,FA Cup,Sun,Away,L,1,2,Arsenal,,city,
+2017-04-27,Premier League,Thu,Home,D,0,0,Manchester Utd,69.0,city,33.0
+2017-04-30,Premier League,Sun,Away,D,2,2,Middlesbrough,68.0,city,34.0
+2017-05-06,Premier League,Sat,Home,W,5,0,Crystal Palace,69.0,city,35.0
+2017-05-13,Premier League,Sat,Home,W,2,1,Leicester City,66.0,city,36.0
+2017-05-16,Premier League,Tue,Home,W,3,1,West Brom,71.0,city,37.0
+2017-05-21,Premier League,Sun,Away,W,5,0,Watford,67.0,city,38.0
+2016-08-13,Premier League,Sat,Home,D,1,1,Tottenham,43.0,everton,1.0
+2016-08-20,Premier League,Sat,Away,W,2,1,West Brom,66.0,everton,2.0
+2016-08-23,EFL Cup,Tue,Home,W,4,0,Yeovil Town,66.0,everton,
+2016-08-27,Premier League,Sat,Home,W,1,0,Stoke City,55.0,everton,3.0
+2016-09-12,Premier League,Mon,Away,W,3,0,Sunderland,67.0,everton,4.0
+2016-09-17,Premier League,Sat,Home,W,3,1,Middlesbrough,52.0,everton,5.0
+2016-09-20,EFL Cup,Tue,Home,L,0,2,Norwich City,58.0,everton,
+2016-09-24,Premier League,Sat,Away,L,0,1,Bournemouth,47.0,everton,6.0
+2016-09-30,Premier League,Fri,Home,D,1,1,Crystal Palace,57.0,everton,7.0
+2016-10-15,Premier League,Sat,Away,D,1,1,Manchester City,27.0,everton,8.0
+2016-10-22,Premier League,Sat,Away,L,1,2,Burnley,65.0,everton,9.0
+2016-10-30,Premier League,Sun,Home,W,2,0,West Ham,49.0,everton,10.0
+2016-11-05,Premier League,Sat,Away,L,0,5,Chelsea,40.0,everton,11.0
+2016-11-19,Premier League,Sat,Home,D,1,1,Swansea City,63.0,everton,12.0
+2016-11-27,Premier League,Sun,Away,L,0,1,Southampton,47.0,everton,13.0
+2016-12-04,Premier League,Sun,Home,D,1,1,Manchester Utd,46.0,everton,14.0
+2016-12-10,Premier League,Sat,Away,L,2,3,Watford,53.0,everton,15.0
+2016-12-13,Premier League,Tue,Home,W,2,1,Arsenal,42.0,everton,16.0
+2016-12-19,Premier League,Mon,Home,L,0,1,Liverpool,32.0,everton,17.0
+2016-12-26,Premier League,Mon,Away,W,2,0,Leicester City,58.0,everton,18.0
+2016-12-30,Premier League,Fri,Away,D,2,2,Hull City,57.0,everton,19.0
+2017-01-02,Premier League,Mon,Home,W,3,0,Southampton,54.0,everton,20.0
+2017-01-07,FA Cup,Sat,Home,L,1,2,Leicester City,,everton,
+2017-01-15,Premier League,Sun,Home,W,4,0,Manchester City,29.0,everton,21.0
+2017-01-21,Premier League,Sat,Away,W,1,0,Crystal Palace,56.0,everton,22.0
+2017-02-01,Premier League,Wed,Away,D,1,1,Stoke City,53.0,everton,23.0
+2017-02-04,Premier League,Sat,Home,W,6,3,Bournemouth,46.0,everton,24.0
+2017-02-11,Premier League,Sat,Away,D,0,0,Middlesbrough,54.0,everton,25.0
+2017-02-25,Premier League,Sat,Home,W,2,0,Sunderland,63.0,everton,26.0
+2017-03-05,Premier League,Sun,Away,L,2,3,Tottenham,49.0,everton,27.0
+2017-03-11,Premier League,Sat,Home,W,3,0,West Brom,63.0,everton,28.0
+2017-03-18,Premier League,Sat,Home,W,4,0,Hull City,51.0,everton,29.0
+2017-04-01,Premier League,Sat,Away,L,1,3,Liverpool,49.0,everton,30.0
+2017-04-04,Premier League,Tue,Away,D,1,1,Manchester Utd,39.0,everton,31.0
+2017-04-09,Premier League,Sun,Home,W,4,2,Leicester City,60.0,everton,32.0
+2017-04-15,Premier League,Sat,Home,W,3,1,Burnley,63.0,everton,33.0
+2017-04-22,Premier League,Sat,Away,D,0,0,West Ham,59.0,everton,34.0
+2017-04-30,Premier League,Sun,Home,L,0,3,Chelsea,50.0,everton,35.0
+2017-05-06,Premier League,Sat,Away,L,0,1,Swansea City,62.0,everton,36.0
+2017-05-12,Premier League,Fri,Home,W,1,0,Watford,63.0,everton,37.0
+2017-05-21,Premier League,Sun,Away,L,1,3,Arsenal,50.0,everton,38.0
+2016-08-13,Premier League,Sat,Home,W,2,1,Leicester City,50.0,hull,1.0
+2016-08-20,Premier League,Sat,Away,W,2,0,Swansea City,43.0,hull,2.0
+2016-08-23,EFL Cup,Tue,Away,W,3,1,Exeter City,63.0,hull,
+2016-08-27,Premier League,Sat,Home,L,0,1,Manchester Utd,38.0,hull,3.0
+2016-09-10,Premier League,Sat,Away,D,1,1,Burnley,61.0,hull,4.0
+2016-09-17,Premier League,Sat,Home,L,1,4,Arsenal,39.0,hull,5.0
+2016-09-21,EFL Cup,Wed,Away,W,2,1,Stoke City,43.0,hull,
+2016-09-24,Premier League,Sat,Away,L,1,5,Liverpool,26.0,hull,6.0
+2016-10-01,Premier League,Sat,Home,L,0,2,Chelsea,41.0,hull,7.0
+2016-10-15,Premier League,Sat,Away,L,1,6,Bournemouth,51.0,hull,8.0
+2016-10-22,Premier League,Sat,Home,L,0,2,Stoke City,49.0,hull,9.0
+2016-10-25,EFL Cup,Tue,Away,W,2,1,Bristol City,51.0,hull,
+2016-10-29,Premier League,Sat,Away,L,0,1,Watford,46.0,hull,10.0
+2016-11-06,Premier League,Sun,Home,W,2,1,Southampton,34.0,hull,11.0
+2016-11-19,Premier League,Sat,Away,L,0,3,Sunderland,59.0,hull,12.0
+2016-11-26,Premier League,Sat,Home,D,1,1,West Brom,53.0,hull,13.0
+2016-11-29,EFL Cup,Tue,Home,D,1 (3),1 (1),Newcastle Utd,39.0,hull,
+2016-12-05,Premier League,Mon,Away,L,0,1,Middlesbrough,39.0,hull,14.0
+2016-12-10,Premier League,Sat,Home,D,3,3,Crystal Palace,57.0,hull,15.0
+2016-12-14,Premier League,Wed,Away,L,0,3,Tottenham,37.0,hull,16.0
+2016-12-17,Premier League,Sat,Away,L,0,1,West Ham,44.0,hull,17.0
+2016-12-26,Premier League,Mon,Home,L,0,3,Manchester City,33.0,hull,18.0
+2016-12-30,Premier League,Fri,Home,D,2,2,Everton,43.0,hull,19.0
+2017-01-02,Premier League,Mon,Away,L,1,3,West Brom,59.0,hull,20.0
+2017-01-07,FA Cup,Sat,Home,W,2,0,Swansea City,,hull,
+2017-01-10,EFL Cup,Tue,Away,L,0,2,Manchester Utd,34.0,hull,
+2017-01-14,Premier League,Sat,Home,W,3,1,Bournemouth,39.0,hull,21.0
+2017-01-22,Premier League,Sun,Away,L,0,2,Chelsea,47.0,hull,22.0
+2017-01-26,EFL Cup,Thu,Home,W,2,1,Manchester Utd,54.0,hull,
+2017-01-29,FA Cup,Sun,Away,L,1,4,Fulham,,hull,
+2017-02-01,Premier League,Wed,Away,D,0,0,Manchester Utd,33.0,hull,23.0
+2017-02-04,Premier League,Sat,Home,W,2,0,Liverpool,28.0,hull,24.0
+2017-02-11,Premier League,Sat,Away,L,0,2,Arsenal,51.0,hull,25.0
+2017-02-25,Premier League,Sat,Home,D,1,1,Burnley,66.0,hull,26.0
+2017-03-04,Premier League,Sat,Away,L,1,3,Leicester City,51.0,hull,27.0
+2017-03-11,Premier League,Sat,Home,W,2,1,Swansea City,50.0,hull,28.0
+2017-03-18,Premier League,Sat,Away,L,0,4,Everton,49.0,hull,29.0
+2017-04-01,Premier League,Sat,Home,W,2,1,West Ham,46.0,hull,30.0
+2017-04-05,Premier League,Wed,Home,W,4,2,Middlesbrough,48.0,hull,31.0
+2017-04-08,Premier League,Sat,Away,L,1,3,Manchester City,33.0,hull,32.0
+2017-04-15,Premier League,Sat,Away,L,1,3,Stoke City,55.0,hull,33.0
+2017-04-22,Premier League,Sat,Home,W,2,0,Watford,34.0,hull,34.0
+2017-04-29,Premier League,Sat,Away,D,0,0,Southampton,48.0,hull,35.0
+2017-05-06,Premier League,Sat,Home,L,0,2,Sunderland,60.0,hull,36.0
+2017-05-14,Premier League,Sun,Away,L,0,4,Crystal Palace,70.0,hull,37.0
+2017-05-21,Premier League,Sun,Home,L,1,7,Tottenham,35.0,hull,38.0
+2016-08-07,Community Shield,Sun,Home,L,1,2,Manchester Utd,,leicester,
+2016-08-13,Premier League,Sat,Away,L,1,2,Hull City,50.0,leicester,1.0
+2016-08-20,Premier League,Sat,Home,D,0,0,Arsenal,40.0,leicester,2.0
+2016-08-27,Premier League,Sat,Home,W,2,1,Swansea City,52.0,leicester,3.0
+2016-09-10,Premier League,Sat,Away,L,1,4,Liverpool,38.0,leicester,4.0
+2016-09-14,Champions Lg,Wed,Away,W,3,0,be Club Brugge,38.0,leicester,
+2016-09-17,Premier League,Sat,Home,W,3,0,Burnley,59.0,leicester,5.0
+2016-09-20,EFL Cup,Tue,Home,L,2,4,Chelsea,34.0,leicester,
+2016-09-24,Premier League,Sat,Away,L,1,4,Manchester Utd,33.0,leicester,6.0
+2016-09-27,Champions Lg,Tue,Home,W,1,0,pt Porto,40.0,leicester,
+2016-10-02,Premier League,Sun,Home,D,0,0,Southampton,38.0,leicester,7.0
+2016-10-15,Premier League,Sat,Away,L,0,3,Chelsea,45.0,leicester,8.0
+2016-10-18,Champions Lg,Tue,Home,W,1,0,dk FC Copenhagen,41.0,leicester,
+2016-10-22,Premier League,Sat,Home,W,3,1,Crystal Palace,45.0,leicester,9.0
+2016-10-29,Premier League,Sat,Away,D,1,1,Tottenham,36.0,leicester,10.0
+2016-11-02,Champions Lg,Wed,Away,D,0,0,dk FC Copenhagen,44.0,leicester,
+2016-11-06,Premier League,Sun,Home,L,1,2,West Brom,59.0,leicester,11.0
+2016-11-19,Premier League,Sat,Away,L,1,2,Watford,54.0,leicester,12.0
+2016-11-22,Champions Lg,Tue,Home,W,2,1,be Club Brugge,53.0,leicester,
+2016-11-26,Premier League,Sat,Home,D,2,2,Middlesbrough,41.0,leicester,13.0
+2016-12-03,Premier League,Sat,Away,L,1,2,Sunderland,47.0,leicester,14.0
+2016-12-07,Champions Lg,Wed,Away,L,0,5,pt Porto,33.0,leicester,
+2016-12-10,Premier League,Sat,Home,W,4,2,Manchester City,22.0,leicester,15.0
+2016-12-13,Premier League,Tue,Away,L,0,1,Bournemouth,37.0,leicester,16.0
+2016-12-17,Premier League,Sat,Away,D,2,2,Stoke City,35.0,leicester,17.0
+2016-12-26,Premier League,Mon,Home,L,0,2,Everton,42.0,leicester,18.0
+2016-12-31,Premier League,Sat,Home,W,1,0,West Ham,40.0,leicester,19.0
+2017-01-02,Premier League,Mon,Away,D,0,0,Middlesbrough,37.0,leicester,20.0
+2017-01-07,FA Cup,Sat,Away,W,2,1,Everton,,leicester,
+2017-01-14,Premier League,Sat,Home,L,0,3,Chelsea,35.0,leicester,21.0
+2017-01-22,Premier League,Sun,Away,L,0,3,Southampton,40.0,leicester,22.0
+2017-01-27,FA Cup,Fri,Away,D,2,2,Derby County,,leicester,
+2017-01-31,Premier League,Tue,Away,L,0,1,Burnley,41.0,leicester,23.0
+2017-02-05,Premier League,Sun,Home,L,0,3,Manchester Utd,32.0,leicester,24.0
+2017-02-08,FA Cup,Wed,Home,W,3,1,Derby County,,leicester,
+2017-02-12,Premier League,Sun,Away,L,0,2,Swansea City,51.0,leicester,25.0
+2017-02-18,FA Cup,Sat,Away,L,0,1,Millwall,,leicester,
+2017-02-22,Champions Lg,Wed,Away,L,1,2,es Sevilla,28.0,leicester,
+2017-02-27,Premier League,Mon,Home,W,3,1,Liverpool,31.0,leicester,26.0
+2017-03-04,Premier League,Sat,Home,W,3,1,Hull City,50.0,leicester,27.0
+2017-03-14,Champions Lg,Tue,Home,W,2,0,es Sevilla,29.0,leicester,
+2017-03-18,Premier League,Sat,Away,W,3,2,West Ham,41.0,leicester,28.0
+2017-04-01,Premier League,Sat,Home,W,2,0,Stoke City,48.0,leicester,29.0
+2017-04-04,Premier League,Tue,Home,W,2,0,Sunderland,54.0,leicester,30.0
+2017-04-09,Premier League,Sun,Away,L,2,4,Everton,40.0,leicester,31.0
+2017-04-12,Champions Lg,Wed,Away,L,0,1,es Atlético Madrid,32.0,leicester,
+2017-04-15,Premier League,Sat,Away,D,2,2,Crystal Palace,42.0,leicester,32.0
+2017-04-18,Champions Lg,Tue,Home,D,1,1,es Atlético Madrid,57.0,leicester,
+2017-04-26,Premier League,Wed,Away,L,0,1,Arsenal,31.0,leicester,33.0
+2017-04-29,Premier League,Sat,Away,W,1,0,West Brom,45.0,leicester,34.0
+2017-05-06,Premier League,Sat,Home,W,3,0,Watford,42.0,leicester,35.0
+2017-05-13,Premier League,Sat,Away,L,1,2,Manchester City,34.0,leicester,36.0
+2017-05-18,Premier League,Thu,Home,L,1,6,Tottenham,37.0,leicester,37.0
+2017-05-21,Premier League,Sun,Home,D,1,1,Bournemouth,49.0,leicester,38.0
+2016-08-14,Premier League,Sun,Away,W,4,3,Arsenal,49.0,liverpool,1.0
+2016-08-20,Premier League,Sat,Away,L,0,2,Burnley,80.0,liverpool,2.0
+2016-08-23,EFL Cup,Tue,Away,W,5,0,Burton Albion,59.0,liverpool,
+2016-08-27,Premier League,Sat,Away,D,1,1,Tottenham,51.0,liverpool,3.0
+2016-09-10,Premier League,Sat,Home,W,4,1,Leicester City,62.0,liverpool,4.0
+2016-09-16,Premier League,Fri,Away,W,2,1,Chelsea,47.0,liverpool,5.0
+2016-09-20,EFL Cup,Tue,Away,W,3,0,Derby County,73.0,liverpool,
+2016-09-24,Premier League,Sat,Home,W,5,1,Hull City,74.0,liverpool,6.0
+2016-10-01,Premier League,Sat,Away,W,2,1,Swansea City,59.0,liverpool,7.0
+2016-10-17,Premier League,Mon,Home,D,0,0,Manchester Utd,65.0,liverpool,8.0
+2016-10-22,Premier League,Sat,Home,W,2,1,West Brom,68.0,liverpool,9.0
+2016-10-25,EFL Cup,Tue,Home,W,2,1,Tottenham,46.0,liverpool,
+2016-10-29,Premier League,Sat,Away,W,4,2,Crystal Palace,55.0,liverpool,10.0
+2016-11-06,Premier League,Sun,Home,W,6,1,Watford,60.0,liverpool,11.0
+2016-11-19,Premier League,Sat,Away,D,0,0,Southampton,65.0,liverpool,12.0
+2016-11-26,Premier League,Sat,Home,W,2,0,Sunderland,77.0,liverpool,13.0
+2016-11-29,EFL Cup,Tue,Home,W,2,0,Leeds United,72.0,liverpool,
+2016-12-04,Premier League,Sun,Away,L,3,4,Bournemouth,60.0,liverpool,14.0
+2016-12-11,Premier League,Sun,Home,D,2,2,West Ham,68.0,liverpool,15.0
+2016-12-14,Premier League,Wed,Away,W,3,0,Middlesbrough,63.0,liverpool,16.0
+2016-12-19,Premier League,Mon,Away,W,1,0,Everton,68.0,liverpool,17.0
+2016-12-27,Premier League,Tue,Home,W,4,1,Stoke City,64.0,liverpool,18.0
+2016-12-31,Premier League,Sat,Home,W,1,0,Manchester City,43.0,liverpool,19.0
+2017-01-02,Premier League,Mon,Away,D,2,2,Sunderland,71.0,liverpool,20.0
+2017-01-08,FA Cup,Sun,Home,D,0,0,Plymouth Argyle,,liverpool,
+2017-01-11,EFL Cup,Wed,Away,L,0,1,Southampton,68.0,liverpool,
+2017-01-15,Premier League,Sun,Away,D,1,1,Manchester Utd,44.0,liverpool,21.0
+2017-01-18,FA Cup,Wed,Away,W,1,0,Plymouth Argyle,,liverpool,
+2017-01-21,Premier League,Sat,Home,L,2,3,Swansea City,74.0,liverpool,22.0
+2017-01-25,EFL Cup,Wed,Home,L,0,1,Southampton,72.0,liverpool,
+2017-01-28,FA Cup,Sat,Home,L,1,2,Wolves,,liverpool,
+2017-01-31,Premier League,Tue,Home,D,1,1,Chelsea,62.0,liverpool,23.0
+2017-02-04,Premier League,Sat,Away,L,0,2,Hull City,72.0,liverpool,24.0
+2017-02-11,Premier League,Sat,Home,W,2,0,Tottenham,51.0,liverpool,25.0
+2017-02-27,Premier League,Mon,Away,L,1,3,Leicester City,69.0,liverpool,26.0
+2017-03-04,Premier League,Sat,Home,W,3,1,Arsenal,52.0,liverpool,27.0
+2017-03-12,Premier League,Sun,Home,W,2,1,Burnley,65.0,liverpool,28.0
+2017-03-19,Premier League,Sun,Away,D,1,1,Manchester City,41.0,liverpool,29.0
+2017-04-01,Premier League,Sat,Home,W,3,1,Everton,51.0,liverpool,30.0
+2017-04-05,Premier League,Wed,Home,D,2,2,Bournemouth,67.0,liverpool,31.0
+2017-04-08,Premier League,Sat,Away,W,2,1,Stoke City,56.0,liverpool,32.0
+2017-04-16,Premier League,Sun,Away,W,1,0,West Brom,64.0,liverpool,33.0
+2017-04-23,Premier League,Sun,Home,L,1,2,Crystal Palace,72.0,liverpool,34.0
+2017-05-01,Premier League,Mon,Away,W,1,0,Watford,60.0,liverpool,35.0
+2017-05-07,Premier League,Sun,Home,D,0,0,Southampton,65.0,liverpool,36.0
+2017-05-14,Premier League,Sun,Away,W,4,0,West Ham,67.0,liverpool,37.0
+2017-05-21,Premier League,Sun,Home,W,3,0,Middlesbrough,74.0,liverpool,38.0
+2016-08-13,Premier League,Sat,Home,D,1,1,Stoke City,46.0,middlesbrough,1.0
+2016-08-21,Premier League,Sun,Away,W,2,1,Sunderland,53.0,middlesbrough,2.0
+2016-08-24,EFL Cup,Wed,Away,L,1,2,Fulham,56.0,middlesbrough,
+2016-08-28,Premier League,Sun,Away,D,0,0,West Brom,59.0,middlesbrough,3.0
+2016-09-10,Premier League,Sat,Home,L,1,2,Crystal Palace,58.0,middlesbrough,4.0
+2016-09-17,Premier League,Sat,Away,L,1,3,Everton,48.0,middlesbrough,5.0
+2016-09-24,Premier League,Sat,Home,L,1,2,Tottenham,42.0,middlesbrough,6.0
+2016-10-01,Premier League,Sat,Away,D,1,1,West Ham,60.0,middlesbrough,7.0
+2016-10-16,Premier League,Sun,Home,L,0,1,Watford,64.0,middlesbrough,8.0
+2016-10-22,Premier League,Sat,Away,D,0,0,Arsenal,25.0,middlesbrough,9.0
+2016-10-29,Premier League,Sat,Home,W,2,0,Bournemouth,40.0,middlesbrough,10.0
+2016-11-05,Premier League,Sat,Away,D,1,1,Manchester City,29.0,middlesbrough,11.0
+2016-11-20,Premier League,Sun,Home,L,0,1,Chelsea,42.0,middlesbrough,12.0
+2016-11-26,Premier League,Sat,Away,D,2,2,Leicester City,59.0,middlesbrough,13.0
+2016-12-05,Premier League,Mon,Home,W,1,0,Hull City,61.0,middlesbrough,14.0
+2016-12-11,Premier League,Sun,Away,L,0,1,Southampton,45.0,middlesbrough,15.0
+2016-12-14,Premier League,Wed,Home,L,0,3,Liverpool,37.0,middlesbrough,16.0
+2016-12-17,Premier League,Sat,Home,W,3,0,Swansea City,43.0,middlesbrough,17.0
+2016-12-26,Premier League,Mon,Away,L,0,1,Burnley,54.0,middlesbrough,18.0
+2016-12-31,Premier League,Sat,Away,L,1,2,Manchester Utd,35.0,middlesbrough,19.0
+2017-01-02,Premier League,Mon,Home,D,0,0,Leicester City,63.0,middlesbrough,20.0
+2017-01-08,FA Cup,Sun,Home,W,3,0,Sheffield Weds,,middlesbrough,
+2017-01-14,Premier League,Sat,Away,D,0,0,Watford,53.0,middlesbrough,21.0
+2017-01-21,Premier League,Sat,Home,L,1,3,West Ham,62.0,middlesbrough,22.0
+2017-01-28,FA Cup,Sat,Home,W,1,0,Acc'ton Stanley,,middlesbrough,
+2017-01-31,Premier League,Tue,Home,D,1,1,West Brom,62.0,middlesbrough,23.0
+2017-02-04,Premier League,Sat,Away,L,0,1,Tottenham,35.0,middlesbrough,24.0
+2017-02-11,Premier League,Sat,Home,D,0,0,Everton,46.0,middlesbrough,25.0
+2017-02-18,FA Cup,Sat,Home,W,3,2,Oxford United,,middlesbrough,
+2017-02-25,Premier League,Sat,Away,L,0,1,Crystal Palace,54.0,middlesbrough,26.0
+2017-03-04,Premier League,Sat,Away,L,0,2,Stoke City,45.0,middlesbrough,27.0
+2017-03-11,FA Cup,Sat,Home,L,0,2,Manchester City,,middlesbrough,
+2017-03-19,Premier League,Sun,Home,L,1,3,Manchester Utd,64.0,middlesbrough,28.0
+2017-04-02,Premier League,Sun,Away,D,0,0,Swansea City,45.0,middlesbrough,29.0
+2017-04-05,Premier League,Wed,Away,L,2,4,Hull City,52.0,middlesbrough,30.0
+2017-04-08,Premier League,Sat,Home,D,0,0,Burnley,56.0,middlesbrough,31.0
+2017-04-17,Premier League,Mon,Home,L,1,2,Arsenal,35.0,middlesbrough,32.0
+2017-04-22,Premier League,Sat,Away,L,0,4,Bournemouth,32.0,middlesbrough,33.0
+2017-04-26,Premier League,Wed,Home,W,1,0,Sunderland,49.0,middlesbrough,34.0
+2017-04-30,Premier League,Sun,Home,D,2,2,Manchester City,32.0,middlesbrough,35.0
+2017-05-08,Premier League,Mon,Away,L,0,3,Chelsea,43.0,middlesbrough,36.0
+2017-05-13,Premier League,Sat,Home,L,1,2,Southampton,42.0,middlesbrough,37.0
+2017-05-21,Premier League,Sun,Away,L,0,3,Liverpool,26.0,middlesbrough,38.0
+2016-08-13,Premier League,Sat,Home,L,0,1,West Brom,62.0,palace,1.0
+2016-08-20,Premier League,Sat,Away,L,0,1,Tottenham,43.0,palace,2.0
+2016-08-23,EFL Cup,Tue,Home,W,2,0,Blackpool,72.0,palace,
+2016-08-27,Premier League,Sat,Home,D,1,1,Bournemouth,59.0,palace,3.0
+2016-09-10,Premier League,Sat,Away,W,2,1,Middlesbrough,42.0,palace,4.0
+2016-09-18,Premier League,Sun,Home,W,4,1,Stoke City,57.0,palace,5.0
+2016-09-21,EFL Cup,Wed,Away,L,0,2,Southampton,55.0,palace,
+2016-09-24,Premier League,Sat,Away,W,3,2,Sunderland,55.0,palace,6.0
+2016-09-30,Premier League,Fri,Away,D,1,1,Everton,43.0,palace,7.0
+2016-10-15,Premier League,Sat,Home,L,0,1,West Ham,55.0,palace,8.0
+2016-10-22,Premier League,Sat,Away,L,1,3,Leicester City,55.0,palace,9.0
+2016-10-29,Premier League,Sat,Home,L,2,4,Liverpool,45.0,palace,10.0
+2016-11-05,Premier League,Sat,Away,L,2,3,Burnley,62.0,palace,11.0
+2016-11-19,Premier League,Sat,Home,L,1,2,Manchester City,38.0,palace,12.0
+2016-11-26,Premier League,Sat,Away,L,4,5,Swansea City,44.0,palace,13.0
+2016-12-03,Premier League,Sat,Home,W,3,0,Southampton,42.0,palace,14.0
+2016-12-10,Premier League,Sat,Away,D,3,3,Hull City,43.0,palace,15.0
+2016-12-14,Premier League,Wed,Home,L,1,2,Manchester Utd,39.0,palace,16.0
+2016-12-17,Premier League,Sat,Home,L,0,1,Chelsea,54.0,palace,17.0
+2016-12-26,Premier League,Mon,Away,D,1,1,Watford,44.0,palace,18.0
+2017-01-01,Premier League,Sun,Away,L,0,2,Arsenal,36.0,palace,19.0
+2017-01-03,Premier League,Tue,Home,L,1,2,Swansea City,47.0,palace,20.0
+2017-01-07,FA Cup,Sat,Away,D,0,0,Bolton,,palace,
+2017-01-14,Premier League,Sat,Away,L,0,3,West Ham,56.0,palace,21.0
+2017-01-17,FA Cup,Tue,Home,W,2,1,Bolton,,palace,
+2017-01-21,Premier League,Sat,Home,L,0,1,Everton,44.0,palace,22.0
+2017-01-28,FA Cup,Sat,Home,L,0,3,Manchester City,,palace,
+2017-01-31,Premier League,Tue,Away,W,2,0,Bournemouth,35.0,palace,23.0
+2017-02-04,Premier League,Sat,Home,L,0,4,Sunderland,65.0,palace,24.0
+2017-02-11,Premier League,Sat,Away,L,0,1,Stoke City,43.0,palace,25.0
+2017-02-25,Premier League,Sat,Home,W,1,0,Middlesbrough,46.0,palace,26.0
+2017-03-04,Premier League,Sat,Away,W,2,0,West Brom,49.0,palace,27.0
+2017-03-18,Premier League,Sat,Home,W,1,0,Watford,44.0,palace,28.0
+2017-04-01,Premier League,Sat,Away,W,2,1,Chelsea,27.0,palace,29.0
+2017-04-05,Premier League,Wed,Away,L,1,3,Southampton,39.0,palace,30.0
+2017-04-10,Premier League,Mon,Home,W,3,0,Arsenal,28.0,palace,31.0
+2017-04-15,Premier League,Sat,Home,D,2,2,Leicester City,58.0,palace,32.0
+2017-04-23,Premier League,Sun,Away,W,2,1,Liverpool,28.0,palace,33.0
+2017-04-26,Premier League,Wed,Home,L,0,1,Tottenham,32.0,palace,34.0
+2017-04-29,Premier League,Sat,Home,L,0,2,Burnley,64.0,palace,35.0
+2017-05-06,Premier League,Sat,Away,L,0,5,Manchester City,31.0,palace,36.0
+2017-05-14,Premier League,Sun,Home,W,4,0,Hull City,30.0,palace,37.0
+2017-05-21,Premier League,Sun,Away,L,0,2,Manchester Utd,41.0,palace,38.0
+2016-08-13,Premier League,Sat,Home,D,1,1,Watford,64.0,southampton,1.0
+2016-08-19,Premier League,Fri,Away,L,0,2,Manchester Utd,57.0,southampton,2.0
+2016-08-27,Premier League,Sat,Home,D,1,1,Sunderland,64.0,southampton,3.0
+2016-09-10,Premier League,Sat,Away,L,1,2,Arsenal,43.0,southampton,4.0
+2016-09-15,Europa Lg,Thu,Home,W,3,0,cz Sparta Prague,54.0,southampton,
+2016-09-18,Premier League,Sun,Home,W,1,0,Swansea City,53.0,southampton,5.0
+2016-09-21,EFL Cup,Wed,Home,W,2,0,Crystal Palace,45.0,southampton,
+2016-09-25,Premier League,Sun,Away,W,3,0,West Ham,55.0,southampton,6.0
+2016-09-29,Europa Lg,Thu,Away,D,0,0,il Be'er Sheva,49.0,southampton,
+2016-10-02,Premier League,Sun,Away,D,0,0,Leicester City,62.0,southampton,7.0
+2016-10-16,Premier League,Sun,Home,W,3,1,Burnley,65.0,southampton,8.0
+2016-10-20,Europa Lg,Thu,Away,L,0,1,it Inter,55.0,southampton,
+2016-10-23,Premier League,Sun,Away,D,1,1,Manchester City,35.0,southampton,9.0
+2016-10-26,EFL Cup,Wed,Home,W,1,0,Sunderland,57.0,southampton,
+2016-10-30,Premier League,Sun,Home,L,0,2,Chelsea,55.0,southampton,10.0
+2016-11-03,Europa Lg,Thu,Home,W,2,1,it Inter,57.0,southampton,
+2016-11-06,Premier League,Sun,Away,L,1,2,Hull City,66.0,southampton,11.0
+2016-11-19,Premier League,Sat,Home,D,0,0,Liverpool,36.0,southampton,12.0
+2016-11-24,Europa Lg,Thu,Away,L,0,1,cz Sparta Prague,70.0,southampton,
+2016-11-27,Premier League,Sun,Home,W,1,0,Everton,53.0,southampton,13.0
+2016-11-30,EFL Cup,Wed,Away,W,2,0,Arsenal,37.0,southampton,
+2016-12-03,Premier League,Sat,Away,L,0,3,Crystal Palace,58.0,southampton,14.0
+2016-12-08,Europa Lg,Thu,Home,D,1,1,il Be'er Sheva,55.0,southampton,
+2016-12-11,Premier League,Sun,Home,W,1,0,Middlesbrough,55.0,southampton,15.0
+2016-12-14,Premier League,Wed,Away,D,0,0,Stoke City,71.0,southampton,16.0
+2016-12-18,Premier League,Sun,Away,W,3,1,Bournemouth,53.0,southampton,17.0
+2016-12-28,Premier League,Wed,Home,L,1,4,Tottenham,34.0,southampton,18.0
+2016-12-31,Premier League,Sat,Home,L,1,2,West Brom,68.0,southampton,19.0
+2017-01-02,Premier League,Mon,Away,L,0,3,Everton,46.0,southampton,20.0
+2017-01-07,FA Cup,Sat,Away,D,2,2,Norwich City,,southampton,
+2017-01-11,EFL Cup,Wed,Home,W,1,0,Liverpool,32.0,southampton,
+2017-01-14,Premier League,Sat,Away,L,0,1,Burnley,59.0,southampton,21.0
+2017-01-18,FA Cup,Wed,Home,W,1,0,Norwich City,,southampton,
+2017-01-22,Premier League,Sun,Home,W,3,0,Leicester City,60.0,southampton,22.0
+2017-01-25,EFL Cup,Wed,Away,W,1,0,Liverpool,28.0,southampton,
+2017-01-28,FA Cup,Sat,Home,L,0,5,Arsenal,,southampton,
+2017-01-31,Premier League,Tue,Away,L,1,2,Swansea City,57.0,southampton,23.0
+2017-02-04,Premier League,Sat,Home,L,1,3,West Ham,55.0,southampton,24.0
+2017-02-11,Premier League,Sat,Away,W,4,0,Sunderland,54.0,southampton,25.0
+2017-02-26,EFL Cup,Sun,Away,L,2,3,Manchester Utd,52.0,southampton,
+2017-03-04,Premier League,Sat,Away,W,4,3,Watford,63.0,southampton,26.0
+2017-03-19,Premier League,Sun,Away,L,1,2,Tottenham,49.0,southampton,27.0
+2017-04-01,Premier League,Sat,Home,D,0,0,Bournemouth,61.0,southampton,28.0
+2017-04-05,Premier League,Wed,Home,W,3,1,Crystal Palace,61.0,southampton,29.0
+2017-04-08,Premier League,Sat,Away,W,1,0,West Brom,58.0,southampton,30.0
+2017-04-15,Premier League,Sat,Home,L,0,3,Manchester City,41.0,southampton,31.0
+2017-04-25,Premier League,Tue,Away,L,2,4,Chelsea,52.0,southampton,32.0
+2017-04-29,Premier League,Sat,Home,D,0,0,Hull City,52.0,southampton,33.0
+2017-05-07,Premier League,Sun,Away,D,0,0,Liverpool,35.0,southampton,34.0
+2017-05-10,Premier League,Wed,Home,L,0,2,Arsenal,47.0,southampton,35.0
+2017-05-13,Premier League,Sat,Away,W,2,1,Middlesbrough,58.0,southampton,36.0
+2017-05-17,Premier League,Wed,Home,D,0,0,Manchester Utd,53.0,southampton,37.0
+2017-05-21,Premier League,Sun,Home,L,0,1,Stoke City,61.0,southampton,38.0
+2016-08-13,Premier League,Sat,Away,D,1,1,Middlesbrough,54.0,stoke,1.0
+2016-08-20,Premier League,Sat,Home,L,1,4,Manchester City,43.0,stoke,2.0
+2016-08-23,EFL Cup,Tue,Away,W,4,0,Stevenage,62.0,stoke,
+2016-08-27,Premier League,Sat,Away,L,0,1,Everton,45.0,stoke,3.0
+2016-09-10,Premier League,Sat,Home,L,0,4,Tottenham,40.0,stoke,4.0
+2016-09-18,Premier League,Sun,Away,L,1,4,Crystal Palace,44.0,stoke,5.0
+2016-09-21,EFL Cup,Wed,Home,L,1,2,Hull City,57.0,stoke,
+2016-09-24,Premier League,Sat,Home,D,1,1,West Brom,56.0,stoke,6.0
+2016-10-02,Premier League,Sun,Away,D,1,1,Manchester Utd,33.0,stoke,7.0
+2016-10-15,Premier League,Sat,Home,W,2,0,Sunderland,57.0,stoke,8.0
+2016-10-22,Premier League,Sat,Away,W,2,0,Hull City,51.0,stoke,9.0
+2016-10-31,Premier League,Mon,Home,W,3,1,Swansea City,46.0,stoke,10.0
+2016-11-05,Premier League,Sat,Away,D,1,1,West Ham,42.0,stoke,11.0
+2016-11-19,Premier League,Sat,Home,L,0,1,Bournemouth,51.0,stoke,12.0
+2016-11-27,Premier League,Sun,Away,W,1,0,Watford,50.0,stoke,13.0
+2016-12-03,Premier League,Sat,Home,W,2,0,Burnley,56.0,stoke,14.0
+2016-12-10,Premier League,Sat,Away,L,1,3,Arsenal,36.0,stoke,15.0
+2016-12-14,Premier League,Wed,Home,D,0,0,Southampton,29.0,stoke,16.0
+2016-12-17,Premier League,Sat,Home,D,2,2,Leicester City,65.0,stoke,17.0
+2016-12-27,Premier League,Tue,Away,L,1,4,Liverpool,36.0,stoke,18.0
+2016-12-31,Premier League,Sat,Away,L,2,4,Chelsea,40.0,stoke,19.0
+2017-01-03,Premier League,Tue,Home,W,2,0,Watford,54.0,stoke,20.0
+2017-01-07,FA Cup,Sat,Home,L,0,2,Wolves,,stoke,
+2017-01-14,Premier League,Sat,Away,W,3,1,Sunderland,49.0,stoke,21.0
+2017-01-21,Premier League,Sat,Home,D,1,1,Manchester Utd,35.0,stoke,22.0
+2017-02-01,Premier League,Wed,Home,D,1,1,Everton,47.0,stoke,23.0
+2017-02-04,Premier League,Sat,Away,L,0,1,West Brom,62.0,stoke,24.0
+2017-02-11,Premier League,Sat,Home,W,1,0,Crystal Palace,58.0,stoke,25.0
+2017-02-26,Premier League,Sun,Away,L,0,4,Tottenham,36.0,stoke,26.0
+2017-03-04,Premier League,Sat,Home,W,2,0,Middlesbrough,55.0,stoke,27.0
+2017-03-08,Premier League,Wed,Away,D,0,0,Manchester City,35.0,stoke,28.0
+2017-03-18,Premier League,Sat,Home,L,1,2,Chelsea,36.0,stoke,29.0
+2017-04-01,Premier League,Sat,Away,L,0,2,Leicester City,52.0,stoke,30.0
+2017-04-04,Premier League,Tue,Away,L,0,1,Burnley,52.0,stoke,31.0
+2017-04-08,Premier League,Sat,Home,L,1,2,Liverpool,44.0,stoke,32.0
+2017-04-15,Premier League,Sat,Home,W,3,1,Hull City,45.0,stoke,33.0
+2017-04-22,Premier League,Sat,Away,L,0,2,Swansea City,55.0,stoke,34.0
+2017-04-29,Premier League,Sat,Home,D,0,0,West Ham,57.0,stoke,35.0
+2017-05-06,Premier League,Sat,Away,D,2,2,Bournemouth,42.0,stoke,36.0
+2017-05-13,Premier League,Sat,Home,L,1,4,Arsenal,33.0,stoke,37.0
+2017-05-21,Premier League,Sun,Away,W,1,0,Southampton,39.0,stoke,38.0
+2016-08-13,Premier League,Sat,Away,L,1,2,Manchester City,23.0,sunderland,1.0
+2016-08-21,Premier League,Sun,Home,L,1,2,Middlesbrough,47.0,sunderland,2.0
+2016-08-24,EFL Cup,Wed,Home,W,1,0,Shrewsbury,57.0,sunderland,
+2016-08-27,Premier League,Sat,Away,D,1,1,Southampton,36.0,sunderland,3.0
+2016-09-12,Premier League,Mon,Home,L,0,3,Everton,33.0,sunderland,4.0
+2016-09-18,Premier League,Sun,Away,L,0,1,Tottenham,26.0,sunderland,5.0
+2016-09-21,EFL Cup,Wed,Away,W,2,1,QPR,61.0,sunderland,
+2016-09-24,Premier League,Sat,Home,L,2,3,Crystal Palace,45.0,sunderland,6.0
+2016-10-01,Premier League,Sat,Home,D,1,1,West Brom,56.0,sunderland,7.0
+2016-10-15,Premier League,Sat,Away,L,0,2,Stoke City,43.0,sunderland,8.0
+2016-10-22,Premier League,Sat,Away,L,0,1,West Ham,36.0,sunderland,9.0
+2016-10-26,EFL Cup,Wed,Away,L,0,1,Southampton,43.0,sunderland,
+2016-10-29,Premier League,Sat,Home,L,1,4,Arsenal,34.0,sunderland,10.0
+2016-11-05,Premier League,Sat,Away,W,2,1,Bournemouth,30.0,sunderland,11.0
+2016-11-19,Premier League,Sat,Home,W,3,0,Hull City,41.0,sunderland,12.0
+2016-11-26,Premier League,Sat,Away,L,0,2,Liverpool,23.0,sunderland,13.0
+2016-12-03,Premier League,Sat,Home,W,2,1,Leicester City,54.0,sunderland,14.0
+2016-12-10,Premier League,Sat,Away,L,0,3,Swansea City,38.0,sunderland,15.0
+2016-12-14,Premier League,Wed,Home,L,0,1,Chelsea,34.0,sunderland,16.0
+2016-12-17,Premier League,Sat,Home,W,1,0,Watford,43.0,sunderland,17.0
+2016-12-26,Premier League,Mon,Away,L,1,3,Manchester Utd,38.0,sunderland,18.0
+2016-12-31,Premier League,Sat,Away,L,1,4,Burnley,54.0,sunderland,19.0
+2017-01-02,Premier League,Mon,Home,D,2,2,Liverpool,29.0,sunderland,20.0
+2017-01-07,FA Cup,Sat,Home,D,0,0,Burnley,,sunderland,
+2017-01-14,Premier League,Sat,Home,L,1,3,Stoke City,51.0,sunderland,21.0
+2017-01-17,FA Cup,Tue,Away,L,0,2,Burnley,,sunderland,
+2017-01-21,Premier League,Sat,Away,L,0,2,West Brom,56.0,sunderland,22.0
+2017-01-31,Premier League,Tue,Home,D,0,0,Tottenham,28.0,sunderland,23.0
+2017-02-04,Premier League,Sat,Away,W,4,0,Crystal Palace,35.0,sunderland,24.0
+2017-02-11,Premier League,Sat,Home,L,0,4,Southampton,46.0,sunderland,25.0
+2017-02-25,Premier League,Sat,Away,L,0,2,Everton,37.0,sunderland,26.0
+2017-03-05,Premier League,Sun,Home,L,0,2,Manchester City,29.0,sunderland,27.0
+2017-03-18,Premier League,Sat,Home,D,0,0,Burnley,44.0,sunderland,28.0
+2017-04-01,Premier League,Sat,Away,L,0,1,Watford,44.0,sunderland,29.0
+2017-04-04,Premier League,Tue,Away,L,0,2,Leicester City,46.0,sunderland,30.0
+2017-04-09,Premier League,Sun,Home,L,0,3,Manchester Utd,30.0,sunderland,31.0
+2017-04-15,Premier League,Sat,Home,D,2,2,West Ham,47.0,sunderland,32.0
+2017-04-26,Premier League,Wed,Away,L,0,1,Middlesbrough,51.0,sunderland,33.0
+2017-04-29,Premier League,Sat,Home,L,0,1,Bournemouth,41.0,sunderland,34.0
+2017-05-06,Premier League,Sat,Away,W,2,0,Hull City,41.0,sunderland,35.0
+2017-05-13,Premier League,Sat,Home,L,0,2,Swansea City,53.0,sunderland,36.0
+2017-05-16,Premier League,Tue,Away,L,0,2,Arsenal,37.0,sunderland,37.0
+2017-05-21,Premier League,Sun,Away,L,1,5,Chelsea,28.0,sunderland,38.0
+2016-08-13,Premier League,Sat,Away,W,1,0,Burnley,53.0,swansea,1.0
+2016-08-20,Premier League,Sat,Home,L,0,2,Hull City,57.0,swansea,2.0
+2016-08-23,EFL Cup,Tue,Away,W,3,1,P'borough Utd,55.0,swansea,
+2016-08-27,Premier League,Sat,Away,L,1,2,Leicester City,48.0,swansea,3.0
+2016-09-11,Premier League,Sun,Home,D,2,2,Chelsea,45.0,swansea,4.0
+2016-09-18,Premier League,Sun,Away,L,0,1,Southampton,47.0,swansea,5.0
+2016-09-21,EFL Cup,Wed,Home,L,1,2,Manchester City,40.0,swansea,
+2016-09-24,Premier League,Sat,Home,L,1,3,Manchester City,42.0,swansea,6.0
+2016-10-01,Premier League,Sat,Home,L,1,2,Liverpool,41.0,swansea,7.0
+2016-10-15,Premier League,Sat,Away,L,2,3,Arsenal,51.0,swansea,8.0
+2016-10-22,Premier League,Sat,Home,D,0,0,Watford,54.0,swansea,9.0
+2016-10-31,Premier League,Mon,Away,L,1,3,Stoke City,54.0,swansea,10.0
+2016-11-06,Premier League,Sun,Home,L,1,3,Manchester Utd,37.0,swansea,11.0
+2016-11-19,Premier League,Sat,Away,D,1,1,Everton,37.0,swansea,12.0
+2016-11-26,Premier League,Sat,Home,W,5,4,Crystal Palace,57.0,swansea,13.0
+2016-12-03,Premier League,Sat,Away,L,0,5,Tottenham,40.0,swansea,14.0
+2016-12-10,Premier League,Sat,Home,W,3,0,Sunderland,62.0,swansea,15.0
+2016-12-14,Premier League,Wed,Away,L,1,3,West Brom,61.0,swansea,16.0
+2016-12-17,Premier League,Sat,Away,L,0,3,Middlesbrough,57.0,swansea,17.0
+2016-12-26,Premier League,Mon,Home,L,1,4,West Ham,56.0,swansea,18.0
+2016-12-31,Premier League,Sat,Home,L,0,3,Bournemouth,45.0,swansea,19.0
+2017-01-03,Premier League,Tue,Away,W,2,1,Crystal Palace,53.0,swansea,20.0
+2017-01-07,FA Cup,Sat,Away,L,0,2,Hull City,,swansea,
+2017-01-14,Premier League,Sat,Home,L,0,4,Arsenal,43.0,swansea,21.0
+2017-01-21,Premier League,Sat,Away,W,3,2,Liverpool,26.0,swansea,22.0
+2017-01-31,Premier League,Tue,Home,W,2,1,Southampton,43.0,swansea,23.0
+2017-02-05,Premier League,Sun,Away,L,1,2,Manchester City,31.0,swansea,24.0
+2017-02-12,Premier League,Sun,Home,W,2,0,Leicester City,49.0,swansea,25.0
+2017-02-25,Premier League,Sat,Away,L,1,3,Chelsea,34.0,swansea,26.0
+2017-03-04,Premier League,Sat,Home,W,3,2,Burnley,71.0,swansea,27.0
+2017-03-11,Premier League,Sat,Away,L,1,2,Hull City,50.0,swansea,28.0
+2017-03-18,Premier League,Sat,Away,L,0,2,Bournemouth,52.0,swansea,29.0
+2017-04-02,Premier League,Sun,Home,D,0,0,Middlesbrough,55.0,swansea,30.0
+2017-04-05,Premier League,Wed,Home,L,1,3,Tottenham,28.0,swansea,31.0
+2017-04-08,Premier League,Sat,Away,L,0,1,West Ham,54.0,swansea,32.0
+2017-04-15,Premier League,Sat,Away,L,0,1,Watford,47.0,swansea,33.0
+2017-04-22,Premier League,Sat,Home,W,2,0,Stoke City,46.0,swansea,34.0
+2017-04-30,Premier League,Sun,Away,D,1,1,Manchester Utd,45.0,swansea,35.0
+2017-05-06,Premier League,Sat,Home,W,1,0,Everton,38.0,swansea,36.0
+2017-05-13,Premier League,Sat,Away,W,2,0,Sunderland,47.0,swansea,37.0
+2017-05-21,Premier League,Sun,Home,W,2,1,West Brom,66.0,swansea,38.0
+2016-08-13,Premier League,Sat,Away,D,1,1,Everton,58.0,tottenham,1.0
+2016-08-20,Premier League,Sat,Home,W,1,0,Crystal Palace,57.0,tottenham,2.0
+2016-08-27,Premier League,Sat,Home,D,1,1,Liverpool,49.0,tottenham,3.0
+2016-09-10,Premier League,Sat,Away,W,4,0,Stoke City,60.0,tottenham,4.0
+2016-09-14,Champions Lg,Wed,Home,L,1,2,fr Monaco,64.0,tottenham,
+2016-09-18,Premier League,Sun,Home,W,1,0,Sunderland,74.0,tottenham,5.0
+2016-09-21,EFL Cup,Wed,Home,W,5,0,Gillingham,68.0,tottenham,
+2016-09-24,Premier League,Sat,Away,W,2,1,Middlesbrough,58.0,tottenham,6.0
+2016-09-27,Champions Lg,Tue,Away,W,1,0,ru CSKA Moscow,66.0,tottenham,
+2016-10-02,Premier League,Sun,Home,W,2,0,Manchester City,42.0,tottenham,7.0
+2016-10-15,Premier League,Sat,Away,D,1,1,West Brom,72.0,tottenham,8.0
+2016-10-18,Champions Lg,Tue,Away,D,0,0,de Leverkusen,57.0,tottenham,
+2016-10-22,Premier League,Sat,Away,D,0,0,Bournemouth,62.0,tottenham,9.0
+2016-10-25,EFL Cup,Tue,Away,L,1,2,Liverpool,54.0,tottenham,
+2016-10-29,Premier League,Sat,Home,D,1,1,Leicester City,64.0,tottenham,10.0
+2016-11-02,Champions Lg,Wed,Home,L,0,1,de Leverkusen,59.0,tottenham,
+2016-11-06,Premier League,Sun,Away,D,1,1,Arsenal,54.0,tottenham,11.0
+2016-11-19,Premier League,Sat,Home,W,3,2,West Ham,67.0,tottenham,12.0
+2016-11-22,Champions Lg,Tue,Away,L,1,2,fr Monaco,63.0,tottenham,
+2016-11-26,Premier League,Sat,Away,L,1,2,Chelsea,54.0,tottenham,13.0
+2016-12-03,Premier League,Sat,Home,W,5,0,Swansea City,60.0,tottenham,14.0
+2016-12-07,Champions Lg,Wed,Home,W,3,1,ru CSKA Moscow,72.0,tottenham,
+2016-12-11,Premier League,Sun,Away,L,0,1,Manchester Utd,60.0,tottenham,15.0
+2016-12-14,Premier League,Wed,Home,W,3,0,Hull City,63.0,tottenham,16.0
+2016-12-18,Premier League,Sun,Home,W,2,1,Burnley,60.0,tottenham,17.0
+2016-12-28,Premier League,Wed,Away,W,4,1,Southampton,66.0,tottenham,18.0
+2017-01-01,Premier League,Sun,Away,W,4,1,Watford,66.0,tottenham,19.0
+2017-01-04,Premier League,Wed,Home,W,2,0,Chelsea,46.0,tottenham,20.0
+2017-01-08,FA Cup,Sun,Home,W,2,0,Aston Villa,,tottenham,
+2017-01-14,Premier League,Sat,Home,W,4,0,West Brom,73.0,tottenham,21.0
+2017-01-21,Premier League,Sat,Away,D,2,2,Manchester City,45.0,tottenham,22.0
+2017-01-28,FA Cup,Sat,Home,W,4,3,Wycombe,,tottenham,
+2017-01-31,Premier League,Tue,Away,D,0,0,Sunderland,72.0,tottenham,23.0
+2017-02-04,Premier League,Sat,Home,W,1,0,Middlesbrough,65.0,tottenham,24.0
+2017-02-11,Premier League,Sat,Away,L,0,2,Liverpool,49.0,tottenham,25.0
+2017-02-16,Europa Lg,Thu,Away,L,0,1,be Gent,55.0,tottenham,
+2017-02-19,FA Cup,Sun,Away,W,3,0,Fulham,,tottenham,
+2017-02-23,Europa Lg,Thu,Home,D,2,2,be Gent,65.0,tottenham,
+2017-02-26,Premier League,Sun,Home,W,4,0,Stoke City,64.0,tottenham,26.0
+2017-03-05,Premier League,Sun,Home,W,3,2,Everton,51.0,tottenham,27.0
+2017-03-12,FA Cup,Sun,Home,W,6,0,Millwall,,tottenham,
+2017-03-19,Premier League,Sun,Home,W,2,1,Southampton,51.0,tottenham,28.0
+2017-04-01,Premier League,Sat,Away,W,2,0,Burnley,62.0,tottenham,29.0
+2017-04-05,Premier League,Wed,Away,W,3,1,Swansea City,72.0,tottenham,30.0
+2017-04-08,Premier League,Sat,Home,W,4,0,Watford,58.0,tottenham,31.0
+2017-04-15,Premier League,Sat,Home,W,4,0,Bournemouth,69.0,tottenham,32.0
+2017-04-22,FA Cup,Sat,Away,L,2,4,Chelsea,,tottenham,
+2017-04-26,Premier League,Wed,Away,W,1,0,Crystal Palace,69.0,tottenham,33.0
+2017-04-30,Premier League,Sun,Home,W,2,0,Arsenal,51.0,tottenham,34.0
+2017-05-05,Premier League,Fri,Away,L,0,1,West Ham,68.0,tottenham,35.0
+2017-05-14,Premier League,Sun,Home,W,2,1,Manchester Utd,60.0,tottenham,36.0
+2017-05-18,Premier League,Thu,Away,W,6,1,Leicester City,63.0,tottenham,37.0
+2017-05-21,Premier League,Sun,Away,W,7,1,Hull City,65.0,tottenham,38.0
+2016-08-07,Community Shield,Sun,Away,W,2,1,Leicester City,,united,
+2016-08-14,Premier League,Sun,Away,W,3,1,Bournemouth,53.0,united,1.0
+2016-08-19,Premier League,Fri,Home,W,2,0,Southampton,43.0,united,2.0
+2016-08-27,Premier League,Sat,Away,W,1,0,Hull City,62.0,united,3.0
+2016-09-10,Premier League,Sat,Home,L,1,2,Manchester City,40.0,united,4.0
+2016-09-15,Europa Lg,Thu,Away,L,0,1,nl Feyenoord,57.0,united,
+2016-09-18,Premier League,Sun,Away,L,1,3,Watford,60.0,united,5.0
+2016-09-21,EFL Cup,Wed,Away,W,3,1,Northampton,74.0,united,
+2016-09-24,Premier League,Sat,Home,W,4,1,Leicester City,67.0,united,6.0
+2016-09-29,Europa Lg,Thu,Home,W,1,0,ua Zorya Luhansk,72.0,united,
+2016-10-02,Premier League,Sun,Home,D,1,1,Stoke City,67.0,united,7.0
+2016-10-17,Premier League,Mon,Away,D,0,0,Liverpool,35.0,united,8.0
+2016-10-20,Europa Lg,Thu,Home,W,4,1,tr Fenerbahçe,61.0,united,
+2016-10-23,Premier League,Sun,Away,L,0,4,Chelsea,56.0,united,9.0
+2016-10-26,EFL Cup,Wed,Home,W,1,0,Manchester City,48.0,united,
+2016-10-29,Premier League,Sat,Home,D,0,0,Burnley,72.0,united,10.0
+2016-11-03,Europa Lg,Thu,Away,L,1,2,tr Fenerbahçe,70.0,united,
+2016-11-06,Premier League,Sun,Away,W,3,1,Swansea City,63.0,united,11.0
+2016-11-19,Premier League,Sat,Home,D,1,1,Arsenal,46.0,united,12.0
+2016-11-24,Europa Lg,Thu,Home,W,4,0,nl Feyenoord,59.0,united,
+2016-11-27,Premier League,Sun,Home,D,1,1,West Ham,68.0,united,13.0
+2016-11-30,EFL Cup,Wed,Home,W,4,1,West Ham,57.0,united,
+2016-12-04,Premier League,Sun,Away,D,1,1,Everton,55.0,united,14.0
+2016-12-08,Europa Lg,Thu,Away,W,2,0,ua Zorya Luhansk,71.0,united,
+2016-12-11,Premier League,Sun,Home,W,1,0,Tottenham,40.0,united,15.0
+2016-12-14,Premier League,Wed,Away,W,2,1,Crystal Palace,61.0,united,16.0
+2016-12-17,Premier League,Sat,Away,W,2,0,West Brom,58.0,united,17.0
+2016-12-26,Premier League,Mon,Home,W,3,1,Sunderland,62.0,united,18.0
+2016-12-31,Premier League,Sat,Home,W,2,1,Middlesbrough,66.0,united,19.0
+2017-01-02,Premier League,Mon,Away,W,2,0,West Ham,64.0,united,20.0
+2017-01-07,FA Cup,Sat,Home,W,4,0,Reading,,united,
+2017-01-10,EFL Cup,Tue,Home,W,2,0,Hull City,66.0,united,
+2017-01-15,Premier League,Sun,Home,D,1,1,Liverpool,56.0,united,21.0
+2017-01-21,Premier League,Sat,Away,D,1,1,Stoke City,65.0,united,22.0
+2017-01-26,EFL Cup,Thu,Away,L,1,2,Hull City,46.0,united,
+2017-01-29,FA Cup,Sun,Home,W,4,0,Wigan Athletic,,united,
+2017-02-01,Premier League,Wed,Home,D,0,0,Hull City,67.0,united,23.0
+2017-02-05,Premier League,Sun,Away,W,3,0,Leicester City,68.0,united,24.0
+2017-02-11,Premier League,Sat,Home,W,2,0,Watford,58.0,united,25.0
+2017-02-16,Europa Lg,Thu,Home,W,3,0,fr Saint-Étienne,62.0,united,
+2017-02-19,FA Cup,Sun,Away,W,2,1,Blackburn,,united,
+2017-02-22,Europa Lg,Wed,Away,W,1,0,fr Saint-Étienne,46.0,united,
+2017-02-26,EFL Cup,Sun,Home,W,3,2,Southampton,48.0,united,
+2017-03-04,Premier League,Sat,Home,D,1,1,Bournemouth,68.0,united,26.0
+2017-03-09,Europa Lg,Thu,Away,D,1,1,ru Rostov,51.0,united,
+2017-03-13,FA Cup,Mon,Away,L,0,1,Chelsea,,united,
+2017-03-16,Europa Lg,Thu,Home,W,1,0,ru Rostov,69.0,united,
+2017-03-19,Premier League,Sun,Away,W,3,1,Middlesbrough,36.0,united,27.0
+2017-04-01,Premier League,Sat,Home,D,0,0,West Brom,75.0,united,28.0
+2017-04-04,Premier League,Tue,Home,D,1,1,Everton,62.0,united,29.0
+2017-04-09,Premier League,Sun,Away,W,3,0,Sunderland,71.0,united,30.0
+2017-04-13,Europa Lg,Thu,Away,D,1,1,be Anderlecht,64.0,united,
+2017-04-16,Premier League,Sun,Home,W,2,0,Chelsea,46.0,united,31.0
+2017-04-20,Europa Lg,Thu,Home,W,2,1,be Anderlecht,60.0,united,
+2017-04-23,Premier League,Sun,Away,W,2,0,Burnley,54.0,united,32.0
+2017-04-27,Premier League,Thu,Away,D,0,0,Manchester City,31.0,united,33.0
+2017-04-30,Premier League,Sun,Home,D,1,1,Swansea City,56.0,united,34.0
+2017-05-04,Europa Lg,Thu,Away,W,1,0,es Celta Vigo,42.0,united,
+2017-05-07,Premier League,Sun,Away,L,0,2,Arsenal,50.0,united,35.0
+2017-05-11,Europa Lg,Thu,Home,D,1,1,es Celta Vigo,33.0,united,
+2017-05-14,Premier League,Sun,Away,L,1,2,Tottenham,40.0,united,36.0
+2017-05-17,Premier League,Wed,Away,D,0,0,Southampton,47.0,united,37.0
+2017-05-21,Premier League,Sun,Home,W,2,0,Crystal Palace,59.0,united,38.0
+2017-05-24,Europa Lg,Wed,Away,W,2,0,nl Ajax,31.0,united,
+2016-08-13,Premier League,Sat,Away,D,1,1,Southampton,36.0,watford,1.0
+2016-08-20,Premier League,Sat,Home,L,1,2,Chelsea,38.0,watford,2.0
+2016-08-23,EFL Cup,Tue,Home,L,1,2,Gillingham,57.0,watford,
+2016-08-27,Premier League,Sat,Home,L,1,3,Arsenal,45.0,watford,3.0
+2016-09-10,Premier League,Sat,Away,W,4,2,West Ham,42.0,watford,4.0
+2016-09-18,Premier League,Sun,Home,W,3,1,Manchester Utd,40.0,watford,5.0
+2016-09-26,Premier League,Mon,Away,L,0,2,Burnley,57.0,watford,6.0
+2016-10-01,Premier League,Sat,Home,D,2,2,Bournemouth,48.0,watford,7.0
+2016-10-16,Premier League,Sun,Away,W,1,0,Middlesbrough,36.0,watford,8.0
+2016-10-22,Premier League,Sat,Away,D,0,0,Swansea City,46.0,watford,9.0
+2016-10-29,Premier League,Sat,Home,W,1,0,Hull City,54.0,watford,10.0
+2016-11-06,Premier League,Sun,Away,L,1,6,Liverpool,40.0,watford,11.0
+2016-11-19,Premier League,Sat,Home,W,2,1,Leicester City,46.0,watford,12.0
+2016-11-27,Premier League,Sun,Home,L,0,1,Stoke City,50.0,watford,13.0
+2016-12-03,Premier League,Sat,Away,L,1,3,West Brom,60.0,watford,14.0
+2016-12-10,Premier League,Sat,Home,W,3,2,Everton,47.0,watford,15.0
+2016-12-14,Premier League,Wed,Away,L,0,2,Manchester City,37.0,watford,16.0
+2016-12-17,Premier League,Sat,Away,L,0,1,Sunderland,57.0,watford,17.0
+2016-12-26,Premier League,Mon,Home,D,1,1,Crystal Palace,56.0,watford,18.0
+2017-01-01,Premier League,Sun,Home,L,1,4,Tottenham,34.0,watford,19.0
+2017-01-03,Premier League,Tue,Away,L,0,2,Stoke City,46.0,watford,20.0
+2017-01-07,FA Cup,Sat,Home,W,2,0,Burton Albion,,watford,
+2017-01-14,Premier League,Sat,Home,D,0,0,Middlesbrough,47.0,watford,21.0
+2017-01-21,Premier League,Sat,Away,D,2,2,Bournemouth,37.0,watford,22.0
+2017-01-29,FA Cup,Sun,Away,L,0,1,Millwall,,watford,
+2017-01-31,Premier League,Tue,Away,W,2,1,Arsenal,26.0,watford,23.0
+2017-02-04,Premier League,Sat,Home,W,2,1,Burnley,60.0,watford,24.0
+2017-02-11,Premier League,Sat,Away,L,0,2,Manchester Utd,42.0,watford,25.0
+2017-02-25,Premier League,Sat,Home,D,1,1,West Ham,36.0,watford,26.0
+2017-03-04,Premier League,Sat,Home,L,3,4,Southampton,37.0,watford,27.0
+2017-03-18,Premier League,Sat,Away,L,0,1,Crystal Palace,57.0,watford,28.0
+2017-04-01,Premier League,Sat,Home,W,1,0,Sunderland,57.0,watford,29.0
+2017-04-04,Premier League,Tue,Home,W,2,0,West Brom,55.0,watford,30.0
+2017-04-08,Premier League,Sat,Away,L,0,4,Tottenham,42.0,watford,31.0
+2017-04-15,Premier League,Sat,Home,W,1,0,Swansea City,53.0,watford,32.0
+2017-04-22,Premier League,Sat,Away,L,0,2,Hull City,66.0,watford,33.0
+2017-05-01,Premier League,Mon,Home,L,0,1,Liverpool,40.0,watford,34.0
+2017-05-06,Premier League,Sat,Away,L,0,3,Leicester City,58.0,watford,35.0
+2017-05-12,Premier League,Fri,Away,L,0,1,Everton,37.0,watford,36.0
+2017-05-15,Premier League,Mon,Away,L,3,4,Chelsea,53.0,watford,37.0
+2017-05-21,Premier League,Sun,Home,L,0,5,Manchester City,33.0,watford,38.0
+2016-08-13,Premier League,Sat,Away,W,1,0,Crystal Palace,38.0,west-brom,1.0
+2016-08-20,Premier League,Sat,Home,L,1,2,Everton,34.0,west-brom,2.0
+2016-08-23,EFL Cup,Tue,Away,D,2 (3),2 (4),Northampton,50.0,west-brom,
+2016-08-28,Premier League,Sun,Home,D,0,0,Middlesbrough,41.0,west-brom,3.0
+2016-09-10,Premier League,Sat,Away,L,0,1,Bournemouth,37.0,west-brom,4.0
+2016-09-17,Premier League,Sat,Home,W,4,2,West Ham,30.0,west-brom,5.0
+2016-09-24,Premier League,Sat,Away,D,1,1,Stoke City,44.0,west-brom,6.0
+2016-10-01,Premier League,Sat,Away,D,1,1,Sunderland,44.0,west-brom,7.0
+2016-10-15,Premier League,Sat,Home,D,1,1,Tottenham,29.0,west-brom,8.0
+2016-10-22,Premier League,Sat,Away,L,1,2,Liverpool,33.0,west-brom,9.0
+2016-10-29,Premier League,Sat,Home,L,0,4,Manchester City,30.0,west-brom,10.0
+2016-11-06,Premier League,Sun,Away,W,2,1,Leicester City,41.0,west-brom,11.0
+2016-11-21,Premier League,Mon,Home,W,4,0,Burnley,46.0,west-brom,12.0
+2016-11-26,Premier League,Sat,Away,D,1,1,Hull City,47.0,west-brom,13.0
+2016-12-03,Premier League,Sat,Home,W,3,1,Watford,40.0,west-brom,14.0
+2016-12-11,Premier League,Sun,Away,L,0,1,Chelsea,33.0,west-brom,15.0
+2016-12-14,Premier League,Wed,Home,W,3,1,Swansea City,40.0,west-brom,16.0
+2016-12-17,Premier League,Sat,Home,L,0,2,Manchester Utd,42.0,west-brom,17.0
+2016-12-26,Premier League,Mon,Away,L,0,1,Arsenal,24.0,west-brom,18.0
+2016-12-31,Premier League,Sat,Away,W,2,1,Southampton,32.0,west-brom,19.0
+2017-01-02,Premier League,Mon,Home,W,3,1,Hull City,41.0,west-brom,20.0
+2017-01-07,FA Cup,Sat,Home,L,1,2,Derby County,,west-brom,
+2017-01-14,Premier League,Sat,Away,L,0,4,Tottenham,27.0,west-brom,21.0
+2017-01-21,Premier League,Sat,Home,W,2,0,Sunderland,44.0,west-brom,22.0
+2017-01-31,Premier League,Tue,Away,D,1,1,Middlesbrough,38.0,west-brom,23.0
+2017-02-04,Premier League,Sat,Home,W,1,0,Stoke City,38.0,west-brom,24.0
+2017-02-11,Premier League,Sat,Away,D,2,2,West Ham,35.0,west-brom,25.0
+2017-02-25,Premier League,Sat,Home,W,2,1,Bournemouth,32.0,west-brom,26.0
+2017-03-04,Premier League,Sat,Home,L,0,2,Crystal Palace,52.0,west-brom,27.0
+2017-03-11,Premier League,Sat,Away,L,0,3,Everton,37.0,west-brom,28.0
+2017-03-18,Premier League,Sat,Home,W,3,1,Arsenal,23.0,west-brom,29.0
+2017-04-01,Premier League,Sat,Away,D,0,0,Manchester Utd,25.0,west-brom,30.0
+2017-04-04,Premier League,Tue,Away,L,0,2,Watford,45.0,west-brom,31.0
+2017-04-08,Premier League,Sat,Home,L,0,1,Southampton,42.0,west-brom,32.0
+2017-04-16,Premier League,Sun,Home,L,0,1,Liverpool,36.0,west-brom,33.0
+2017-04-29,Premier League,Sat,Home,L,0,1,Leicester City,55.0,west-brom,34.0
+2017-05-06,Premier League,Sat,Away,D,2,2,Burnley,45.0,west-brom,35.0
+2017-05-12,Premier League,Fri,Home,L,0,1,Chelsea,32.0,west-brom,36.0
+2017-05-16,Premier League,Tue,Away,L,1,3,Manchester City,29.0,west-brom,37.0
+2017-05-21,Premier League,Sun,Away,L,1,2,Swansea City,35.0,west-brom,38.0
+2016-07-28,Europa Lg,Thu,Away,L,1,2,si NK Domžale,59.0,west-ham,
+2016-08-04,Europa Lg,Thu,Home,W,3,0,si NK Domžale,,west-ham,
+2016-08-15,Premier League,Mon,Away,L,1,2,Chelsea,38.0,west-ham,1.0
+2016-08-18,Europa Lg,Thu,Away,D,1,1,ro Astra Giurgiu,44.0,west-ham,
+2016-08-21,Premier League,Sun,Home,W,1,0,Bournemouth,47.0,west-ham,2.0
+2016-08-25,Europa Lg,Thu,Home,L,0,1,ro Astra Giurgiu,65.0,west-ham,
+2016-08-28,Premier League,Sun,Away,L,1,3,Manchester City,33.0,west-ham,3.0
+2016-09-10,Premier League,Sat,Home,L,2,4,Watford,58.0,west-ham,4.0
+2016-09-17,Premier League,Sat,Away,L,2,4,West Brom,70.0,west-ham,5.0
+2016-09-21,EFL Cup,Wed,Home,W,1,0,Acc'ton Stanley,63.0,west-ham,
+2016-09-25,Premier League,Sun,Home,L,0,3,Southampton,45.0,west-ham,6.0
+2016-10-01,Premier League,Sat,Home,D,1,1,Middlesbrough,40.0,west-ham,7.0
+2016-10-15,Premier League,Sat,Away,W,1,0,Crystal Palace,45.0,west-ham,8.0
+2016-10-22,Premier League,Sat,Home,W,1,0,Sunderland,64.0,west-ham,9.0
+2016-10-26,EFL Cup,Wed,Home,W,2,1,Chelsea,47.0,west-ham,
+2016-10-30,Premier League,Sun,Away,L,0,2,Everton,51.0,west-ham,10.0
+2016-11-05,Premier League,Sat,Home,D,1,1,Stoke City,58.0,west-ham,11.0
+2016-11-19,Premier League,Sat,Away,L,2,3,Tottenham,33.0,west-ham,12.0
+2016-11-27,Premier League,Sun,Away,D,1,1,Manchester Utd,32.0,west-ham,13.0
+2016-11-30,EFL Cup,Wed,Away,L,1,4,Manchester Utd,43.0,west-ham,
+2016-12-03,Premier League,Sat,Home,L,1,5,Arsenal,51.0,west-ham,14.0
+2016-12-11,Premier League,Sun,Away,D,2,2,Liverpool,32.0,west-ham,15.0
+2016-12-14,Premier League,Wed,Home,W,1,0,Burnley,58.0,west-ham,16.0
+2016-12-17,Premier League,Sat,Home,W,1,0,Hull City,56.0,west-ham,17.0
+2016-12-26,Premier League,Mon,Away,W,4,1,Swansea City,44.0,west-ham,18.0
+2016-12-31,Premier League,Sat,Away,L,0,1,Leicester City,60.0,west-ham,19.0
+2017-01-02,Premier League,Mon,Home,L,0,2,Manchester Utd,36.0,west-ham,20.0
+2017-01-06,FA Cup,Fri,Home,L,0,5,Manchester City,,west-ham,
+2017-01-14,Premier League,Sat,Home,W,3,0,Crystal Palace,44.0,west-ham,21.0
+2017-01-21,Premier League,Sat,Away,W,3,1,Middlesbrough,39.0,west-ham,22.0
+2017-02-01,Premier League,Wed,Home,L,0,4,Manchester City,30.0,west-ham,23.0
+2017-02-04,Premier League,Sat,Away,W,3,1,Southampton,45.0,west-ham,24.0
+2017-02-11,Premier League,Sat,Home,D,2,2,West Brom,65.0,west-ham,25.0
+2017-02-25,Premier League,Sat,Away,D,1,1,Watford,64.0,west-ham,26.0
+2017-03-06,Premier League,Mon,Home,L,1,2,Chelsea,52.0,west-ham,27.0
+2017-03-11,Premier League,Sat,Away,L,2,3,Bournemouth,48.0,west-ham,28.0
+2017-03-18,Premier League,Sat,Home,L,2,3,Leicester City,59.0,west-ham,29.0
+2017-04-01,Premier League,Sat,Away,L,1,2,Hull City,55.0,west-ham,30.0
+2017-04-05,Premier League,Wed,Away,L,0,3,Arsenal,34.0,west-ham,31.0
+2017-04-08,Premier League,Sat,Home,W,1,0,Swansea City,46.0,west-ham,32.0
+2017-04-15,Premier League,Sat,Away,D,2,2,Sunderland,53.0,west-ham,33.0
+2017-04-22,Premier League,Sat,Home,D,0,0,Everton,41.0,west-ham,34.0
+2017-04-29,Premier League,Sat,Away,D,0,0,Stoke City,43.0,west-ham,35.0
+2017-05-05,Premier League,Fri,Home,W,1,0,Tottenham,32.0,west-ham,36.0
+2017-05-14,Premier League,Sun,Home,L,0,4,Liverpool,33.0,west-ham,37.0
+2017-05-21,Premier League,Sun,Away,W,2,1,Burnley,56.0,west-ham,38.0
