@@ -1,956 +1,956 @@
-Date,Comp,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,team,Match Number
-2021-08-13,Premier League,Fri,Away,L,0,2,Brentford,1.6,1.6,64.0,arsenal,1.0
-2021-08-22,Premier League,Sun,Home,L,0,2,Chelsea,0.3,3.0,35.0,arsenal,2.0
-2021-08-25,EFL Cup,Wed,Away,W,6,0,West Brom,,,75.0,arsenal,
-2021-08-28,Premier League,Sat,Away,L,0,5,Manchester City,0.2,4.0,20.0,arsenal,3.0
-2021-09-11,Premier League,Sat,Home,W,1,0,Norwich City,3.2,0.8,51.0,arsenal,4.0
-2021-09-18,Premier League,Sat,Away,W,1,0,Burnley,1.0,1.3,54.0,arsenal,5.0
-2021-09-22,EFL Cup,Wed,Home,W,3,0,AFC Wimbledon,,,62.0,arsenal,
-2021-09-26,Premier League,Sun,Home,W,3,1,Tottenham,1.1,1.0,46.0,arsenal,6.0
-2021-10-02,Premier League,Sat,Away,D,0,0,Brighton,0.6,1.6,42.0,arsenal,7.0
-2021-10-18,Premier League,Mon,Home,D,2,2,Crystal Palace,1.9,0.9,54.0,arsenal,8.0
-2021-10-22,Premier League,Fri,Home,W,3,1,Aston Villa,3.1,1.4,53.0,arsenal,9.0
-2021-10-26,EFL Cup,Tue,Home,W,2,0,Leeds United,,,45.0,arsenal,
-2021-10-30,Premier League,Sat,Away,W,2,0,Leicester City,0.9,1.4,36.0,arsenal,10.0
-2021-11-07,Premier League,Sun,Home,W,1,0,Watford,1.9,0.9,60.0,arsenal,11.0
-2021-11-20,Premier League,Sat,Away,L,0,4,Liverpool,0.6,3.8,38.0,arsenal,12.0
-2021-11-27,Premier League,Sat,Home,W,2,0,Newcastle Utd,2.8,0.4,66.0,arsenal,13.0
-2021-12-02,Premier League,Thu,Away,L,2,3,Manchester Utd,1.7,1.9,56.0,arsenal,14.0
-2021-12-06,Premier League,Mon,Away,L,1,2,Everton,1.3,1.1,63.0,arsenal,15.0
-2021-12-11,Premier League,Sat,Home,W,3,0,Southampton,1.9,0.8,61.0,arsenal,16.0
-2021-12-15,Premier League,Wed,Home,W,2,0,West Ham,3.1,0.4,55.0,arsenal,17.0
-2021-12-18,Premier League,Sat,Away,W,4,1,Leeds United,3.4,1.6,49.0,arsenal,18.0
-2021-12-21,EFL Cup,Tue,Home,W,5,1,Sunderland,,,68.0,arsenal,
-2021-12-26,Premier League,Sun,Away,W,5,0,Norwich City,2.7,0.2,64.0,arsenal,19.0
-2022-01-01,Premier League,Sat,Home,L,1,2,Manchester City,0.9,2.2,29.0,arsenal,20.0
-2022-01-09,FA Cup,Sun,Away,L,0,1,Nott'ham Forest,,,67.0,arsenal,
-2022-01-13,EFL Cup,Thu,Away,D,0,0,Liverpool,,,22.0,arsenal,
-2022-01-20,EFL Cup,Thu,Home,L,0,2,Liverpool,,,46.0,arsenal,
-2022-01-23,Premier League,Sun,Home,D,0,0,Burnley,1.5,0.7,75.0,arsenal,21.0
-2022-02-10,Premier League,Thu,Away,W,1,0,Wolves,1.9,0.9,42.0,arsenal,22.0
-2022-02-19,Premier League,Sat,Home,W,2,1,Brentford,2.2,0.9,66.0,arsenal,23.0
-2022-02-24,Premier League,Thu,Home,W,2,1,Wolves,3.6,1.3,56.0,arsenal,24.0
-2022-03-06,Premier League,Sun,Away,W,3,2,Watford,1.4,1.3,56.0,arsenal,25.0
-2022-03-13,Premier League,Sun,Home,W,2,0,Leicester City,2.8,0.5,46.0,arsenal,26.0
-2022-03-16,Premier League,Wed,Home,L,0,2,Liverpool,0.7,1.6,49.0,arsenal,27.0
-2022-03-19,Premier League,Sat,Away,W,1,0,Aston Villa,1.5,0.5,53.0,arsenal,28.0
-2022-04-04,Premier League,Mon,Away,L,0,3,Crystal Palace,1.0,1.7,68.0,arsenal,29.0
-2022-04-09,Premier League,Sat,Home,L,1,2,Brighton,2.0,0.8,64.0,arsenal,30.0
-2022-04-16,Premier League,Sat,Away,L,0,1,Southampton,1.8,0.7,75.0,arsenal,31.0
-2022-04-20,Premier League,Wed,Away,W,4,2,Chelsea,1.8,1.1,33.0,arsenal,32.0
-2022-04-23,Premier League,Sat,Home,W,3,1,Manchester Utd,2.4,2.1,54.0,arsenal,33.0
-2022-05-01,Premier League,Sun,Away,W,2,1,West Ham,0.9,0.6,43.0,arsenal,34.0
-2022-05-08,Premier League,Sun,Home,W,2,1,Leeds United,2.5,0.5,64.0,arsenal,35.0
-2022-05-12,Premier League,Thu,Away,L,0,3,Tottenham,0.6,3.0,43.0,arsenal,36.0
-2022-05-16,Premier League,Mon,Away,L,0,2,Newcastle Utd,0.7,1.7,49.0,arsenal,37.0
-2022-05-22,Premier League,Sun,Home,W,5,1,Everton,4.1,1.1,73.0,arsenal,38.0
-2021-08-14,Premier League,Sat,Away,L,2,3,Watford,1.3,1.3,62.0,aston-villa,1.0
-2021-08-21,Premier League,Sat,Home,W,2,0,Newcastle Utd,1.3,0.9,47.0,aston-villa,2.0
-2021-08-24,EFL Cup,Tue,Away,W,6,0,Barrow,,,68.0,aston-villa,
-2021-08-28,Premier League,Sat,Home,D,1,1,Brentford,0.8,1.0,46.0,aston-villa,3.0
-2021-09-11,Premier League,Sat,Away,L,0,3,Chelsea,1.3,1.0,43.0,aston-villa,4.0
-2021-09-18,Premier League,Sat,Home,W,3,0,Everton,1.0,1.0,55.0,aston-villa,5.0
-2021-09-22,EFL Cup,Wed,Away,D,1 (3),1 (4),Chelsea,,,32.0,aston-villa,
-2021-09-25,Premier League,Sat,Away,W,1,0,Manchester Utd,1.2,2.5,41.0,aston-villa,6.0
-2021-10-03,Premier League,Sun,Away,L,1,2,Tottenham,1.1,1.4,44.0,aston-villa,7.0
-2021-10-16,Premier League,Sat,Home,L,2,3,Wolves,1.2,1.9,48.0,aston-villa,8.0
-2021-10-22,Premier League,Fri,Away,L,1,3,Arsenal,1.4,3.1,47.0,aston-villa,9.0
-2021-10-31,Premier League,Sun,Home,L,1,4,West Ham,0.8,2.7,43.0,aston-villa,10.0
-2021-11-05,Premier League,Fri,Away,L,0,1,Southampton,0.9,0.8,44.0,aston-villa,11.0
-2021-11-20,Premier League,Sat,Home,W,2,0,Brighton,0.8,0.5,38.0,aston-villa,12.0
-2021-11-27,Premier League,Sat,Away,W,2,1,Crystal Palace,0.5,0.8,36.0,aston-villa,13.0
-2021-12-01,Premier League,Wed,Home,L,1,2,Manchester City,0.9,1.2,36.0,aston-villa,14.0
-2021-12-05,Premier League,Sun,Home,W,2,1,Leicester City,2.3,1.2,41.0,aston-villa,15.0
-2021-12-11,Premier League,Sat,Away,L,0,1,Liverpool,0.2,2.6,38.0,aston-villa,16.0
-2021-12-14,Premier League,Tue,Away,W,2,0,Norwich City,2.2,0.6,50.0,aston-villa,17.0
-2021-12-26,Premier League,Sun,Home,L,1,3,Chelsea,0.6,2.7,42.0,aston-villa,18.0
-2022-01-02,Premier League,Sun,Away,L,1,2,Brentford,1.2,0.8,55.0,aston-villa,19.0
-2022-01-10,FA Cup,Mon,Away,L,0,1,Manchester Utd,,,46.0,aston-villa,
-2022-01-15,Premier League,Sat,Home,D,2,2,Manchester Utd,1.8,1.3,54.0,aston-villa,20.0
-2022-01-22,Premier League,Sat,Away,W,1,0,Everton,0.7,1.7,50.0,aston-villa,21.0
-2022-02-09,Premier League,Wed,Home,D,3,3,Leeds United,2.1,1.8,40.0,aston-villa,22.0
-2022-02-13,Premier League,Sun,Away,L,0,1,Newcastle Utd,0.8,0.6,62.0,aston-villa,23.0
-2022-02-19,Premier League,Sat,Home,L,0,1,Watford,1.7,1.3,59.0,aston-villa,24.0
-2022-02-26,Premier League,Sat,Away,W,2,0,Brighton,1.0,0.9,34.0,aston-villa,25.0
-2022-03-05,Premier League,Sat,Home,W,4,0,Southampton,2.5,1.1,38.0,aston-villa,26.0
-2022-03-10,Premier League,Thu,Away,W,3,0,Leeds United,1.3,0.2,49.0,aston-villa,27.0
-2022-03-13,Premier League,Sun,Away,L,1,2,West Ham,1.2,1.5,53.0,aston-villa,28.0
-2022-03-19,Premier League,Sat,Home,L,0,1,Arsenal,0.5,1.5,47.0,aston-villa,29.0
-2022-04-02,Premier League,Sat,Away,L,1,2,Wolves,2.0,1.4,51.0,aston-villa,30.0
-2022-04-09,Premier League,Sat,Home,L,0,4,Tottenham,1.8,1.2,52.0,aston-villa,31.0
-2022-04-23,Premier League,Sat,Away,D,0,0,Leicester City,1.2,0.3,36.0,aston-villa,32.0
-2022-04-30,Premier League,Sat,Home,W,2,0,Norwich City,2.6,0.5,45.0,aston-villa,33.0
-2022-05-07,Premier League,Sat,Away,W,3,1,Burnley,1.6,2.0,51.0,aston-villa,34.0
-2022-05-10,Premier League,Tue,Home,L,1,2,Liverpool,1.4,2.2,40.0,aston-villa,35.0
-2022-05-15,Premier League,Sun,Home,D,1,1,Crystal Palace,1.0,1.5,49.0,aston-villa,36.0
-2022-05-19,Premier League,Thu,Home,D,1,1,Burnley,1.6,1.8,71.0,aston-villa,37.0
-2022-05-22,Premier League,Sun,Away,L,2,3,Manchester City,0.3,3.7,29.0,aston-villa,38.0
-2021-08-13,Premier League,Fri,Home,W,2,0,Arsenal,1.6,1.6,36.0,brentford,1.0
-2021-08-21,Premier League,Sat,Away,D,0,0,Crystal Palace,1.0,0.8,47.0,brentford,2.0
-2021-08-24,EFL Cup,Tue,Home,W,3,1,FG Rovers,,,57.0,brentford,
-2021-08-28,Premier League,Sat,Away,D,1,1,Aston Villa,1.0,0.8,54.0,brentford,3.0
-2021-09-11,Premier League,Sat,Home,L,0,1,Brighton,0.4,0.3,41.0,brentford,4.0
-2021-09-18,Premier League,Sat,Away,W,2,0,Wolves,2.5,0.7,38.0,brentford,5.0
-2021-09-21,EFL Cup,Tue,Home,W,7,0,Oldham Athletic,,,72.0,brentford,
-2021-09-25,Premier League,Sat,Home,D,3,3,Liverpool,2.2,2.6,33.0,brentford,6.0
-2021-10-03,Premier League,Sun,Away,W,2,1,West Ham,1.3,1.7,41.0,brentford,7.0
-2021-10-16,Premier League,Sat,Home,L,0,1,Chelsea,1.5,0.4,45.0,brentford,8.0
-2021-10-24,Premier League,Sun,Home,L,1,2,Leicester City,1.4,1.5,54.0,brentford,9.0
-2021-10-27,EFL Cup,Wed,Away,W,2,1,Stoke City,,,54.0,brentford,
-2021-10-30,Premier League,Sat,Away,L,1,3,Burnley,0.9,2.5,59.0,brentford,10.0
-2021-11-06,Premier League,Sat,Home,L,1,2,Norwich City,2.6,1.3,64.0,brentford,11.0
-2021-11-20,Premier League,Sat,Away,D,3,3,Newcastle Utd,0.9,1.9,47.0,brentford,12.0
-2021-11-28,Premier League,Sun,Home,W,1,0,Everton,1.3,1.3,40.0,brentford,13.0
-2021-12-02,Premier League,Thu,Away,L,0,2,Tottenham,0.4,2.2,53.0,brentford,14.0
-2021-12-05,Premier League,Sun,Away,D,2,2,Leeds United,1.0,1.1,37.0,brentford,15.0
-2021-12-10,Premier League,Fri,Home,W,2,1,Watford,1.7,0.7,63.0,brentford,16.0
-2021-12-22,EFL Cup,Wed,Home,L,0,2,Chelsea,,,33.0,brentford,
-2021-12-26,Premier League,Sun,Away,L,0,2,Brighton,1.0,1.1,50.0,brentford,17.0
-2021-12-29,Premier League,Wed,Home,L,0,1,Manchester City,0.6,1.0,24.0,brentford,18.0
-2022-01-02,Premier League,Sun,Home,W,2,1,Aston Villa,0.8,1.2,45.0,brentford,19.0
-2022-01-08,FA Cup,Sat,Away,W,4,1,Port Vale,,,55.0,brentford,
-2022-01-11,Premier League,Tue,Away,L,1,4,Southampton,0.6,1.5,52.0,brentford,20.0
-2022-01-16,Premier League,Sun,Away,L,0,3,Liverpool,0.7,3.2,32.0,brentford,21.0
-2022-01-19,Premier League,Wed,Home,L,1,3,Manchester Utd,2.5,2.2,44.0,brentford,22.0
-2022-01-22,Premier League,Sat,Home,L,1,2,Wolves,1.4,0.3,50.0,brentford,23.0
-2022-02-05,FA Cup,Sat,Away,L,1,4,Everton,,,44.0,brentford,
-2022-02-09,Premier League,Wed,Away,L,0,2,Manchester City,0.6,1.8,26.0,brentford,24.0
-2022-02-12,Premier League,Sat,Home,D,0,0,Crystal Palace,1.6,0.4,42.0,brentford,25.0
-2022-02-19,Premier League,Sat,Away,L,1,2,Arsenal,0.9,2.2,34.0,brentford,26.0
-2022-02-26,Premier League,Sat,Home,L,0,2,Newcastle Utd,0.5,3.1,37.0,brentford,27.0
-2022-03-05,Premier League,Sat,Away,W,3,1,Norwich City,2.0,1.3,40.0,brentford,28.0
-2022-03-12,Premier League,Sat,Home,W,2,0,Burnley,2.0,0.6,55.0,brentford,29.0
-2022-03-20,Premier League,Sun,Away,L,1,2,Leicester City,1.7,1.0,48.0,brentford,30.0
-2022-04-02,Premier League,Sat,Away,W,4,1,Chelsea,2.2,1.7,30.0,brentford,31.0
-2022-04-10,Premier League,Sun,Home,W,2,0,West Ham,1.5,0.4,47.0,brentford,32.0
-2022-04-16,Premier League,Sat,Away,W,2,1,Watford,1.8,1.8,50.0,brentford,33.0
-2022-04-23,Premier League,Sat,Home,D,0,0,Tottenham,1.0,0.8,44.0,brentford,34.0
-2022-05-02,Premier League,Mon,Away,L,0,3,Manchester Utd,0.6,2.2,37.0,brentford,35.0
-2022-05-07,Premier League,Sat,Home,W,3,0,Southampton,2.8,1.5,41.0,brentford,36.0
-2022-05-15,Premier League,Sun,Away,W,3,2,Everton,1.6,2.0,72.0,brentford,37.0
-2022-05-22,Premier League,Sun,Home,L,1,2,Leeds United,1.2,1.4,49.0,brentford,38.0
-2021-08-14,Premier League,Sat,Away,W,2,1,Burnley,1.4,1.4,63.0,brighton,1.0
-2021-08-21,Premier League,Sat,Home,W,2,0,Watford,1.3,1.0,56.0,brighton,2.0
-2021-08-24,EFL Cup,Tue,Away,W,2,0,Cardiff City,,,54.0,brighton,
-2021-08-28,Premier League,Sat,Home,L,0,2,Everton,1.0,1.7,65.0,brighton,3.0
-2021-09-11,Premier League,Sat,Away,W,1,0,Brentford,0.3,0.4,59.0,brighton,4.0
-2021-09-19,Premier League,Sun,Home,W,2,1,Leicester City,1.7,1.5,37.0,brighton,5.0
-2021-09-22,EFL Cup,Wed,Home,W,2,0,Swansea City,,,53.0,brighton,
-2021-09-27,Premier League,Mon,Away,D,1,1,Crystal Palace,0.8,1.4,53.0,brighton,6.0
-2021-10-02,Premier League,Sat,Home,D,0,0,Arsenal,1.6,0.6,58.0,brighton,7.0
-2021-10-16,Premier League,Sat,Away,D,0,0,Norwich City,1.0,1.6,64.0,brighton,8.0
-2021-10-23,Premier League,Sat,Home,L,1,4,Manchester City,1.4,4.0,48.0,brighton,9.0
-2021-10-27,EFL Cup,Wed,Away,D,2 (2),2 (4),Leicester City,,,57.0,brighton,
-2021-10-30,Premier League,Sat,Away,D,2,2,Liverpool,1.1,1.5,42.0,brighton,10.0
-2021-11-06,Premier League,Sat,Home,D,1,1,Newcastle Utd,2.0,0.4,65.0,brighton,11.0
-2021-11-20,Premier League,Sat,Away,L,0,2,Aston Villa,0.5,0.8,62.0,brighton,12.0
-2021-11-27,Premier League,Sat,Home,D,0,0,Leeds United,2.5,0.9,57.0,brighton,13.0
-2021-12-01,Premier League,Wed,Away,D,1,1,West Ham,1.4,1.4,65.0,brighton,14.0
-2021-12-04,Premier League,Sat,Away,D,1,1,Southampton,1.4,1.7,56.0,brighton,15.0
-2021-12-15,Premier League,Wed,Home,L,0,1,Wolves,1.4,1.2,59.0,brighton,16.0
-2021-12-26,Premier League,Sun,Home,W,2,0,Brentford,1.1,1.0,50.0,brighton,17.0
-2021-12-29,Premier League,Wed,Away,D,1,1,Chelsea,1.4,1.1,53.0,brighton,18.0
-2022-01-02,Premier League,Sun,Away,W,3,2,Everton,1.7,1.9,50.0,brighton,19.0
-2022-01-08,FA Cup,Sat,Away,W,2,1,West Brom,,,70.0,brighton,
-2022-01-14,Premier League,Fri,Home,D,1,1,Crystal Palace,2.1,0.4,63.0,brighton,20.0
-2022-01-18,Premier League,Tue,Home,D,1,1,Chelsea,1.0,0.8,44.0,brighton,21.0
-2022-01-23,Premier League,Sun,Away,D,1,1,Leicester City,1.5,1.7,56.0,brighton,22.0
-2022-02-05,FA Cup,Sat,Away,L,1,3,Tottenham,,,57.0,brighton,
-2022-02-12,Premier League,Sat,Away,W,2,0,Watford,1.6,0.6,64.0,brighton,23.0
-2022-02-15,Premier League,Tue,Away,L,0,2,Manchester Utd,0.9,1.8,50.0,brighton,24.0
-2022-02-19,Premier League,Sat,Home,L,0,3,Burnley,0.8,1.0,68.0,brighton,25.0
-2022-02-26,Premier League,Sat,Home,L,0,2,Aston Villa,0.9,1.0,66.0,brighton,26.0
-2022-03-05,Premier League,Sat,Away,L,1,2,Newcastle Utd,1.7,1.7,68.0,brighton,27.0
-2022-03-12,Premier League,Sat,Home,L,0,2,Liverpool,0.6,2.3,52.0,brighton,28.0
-2022-03-16,Premier League,Wed,Home,L,0,2,Tottenham,0.9,2.9,48.0,brighton,29.0
-2022-04-02,Premier League,Sat,Home,D,0,0,Norwich City,2.9,0.4,63.0,brighton,30.0
-2022-04-09,Premier League,Sat,Away,W,2,1,Arsenal,0.8,2.0,36.0,brighton,31.0
-2022-04-16,Premier League,Sat,Away,W,1,0,Tottenham,0.8,0.5,51.0,brighton,32.0
-2022-04-20,Premier League,Wed,Away,L,0,3,Manchester City,0.2,1.6,35.0,brighton,33.0
-2022-04-24,Premier League,Sun,Home,D,2,2,Southampton,1.8,1.2,48.0,brighton,34.0
-2022-04-30,Premier League,Sat,Away,W,3,0,Wolves,2.8,0.8,51.0,brighton,35.0
-2022-05-07,Premier League,Sat,Home,W,4,0,Manchester Utd,2.5,1.2,42.0,brighton,36.0
-2022-05-15,Premier League,Sun,Away,D,1,1,Leeds United,2.4,1.9,50.0,brighton,37.0
-2022-05-22,Premier League,Sun,Home,W,3,1,West Ham,1.9,0.4,50.0,brighton,38.0
-2021-08-14,Premier League,Sat,Home,L,1,2,Brighton,1.4,1.4,37.0,burnley,1.0
-2021-08-21,Premier League,Sat,Away,L,0,2,Liverpool,1.0,2.8,35.0,burnley,2.0
-2021-08-25,EFL Cup,Wed,Away,D,0 (4),0 (3),Newcastle Utd,,,46.0,burnley,
-2021-08-29,Premier League,Sun,Home,D,1,1,Leeds United,1.1,1.6,36.0,burnley,3.0
-2021-09-13,Premier League,Mon,Away,L,1,3,Everton,1.3,1.4,48.0,burnley,4.0
-2021-09-18,Premier League,Sat,Home,L,0,1,Arsenal,1.3,1.0,46.0,burnley,5.0
-2021-09-21,EFL Cup,Tue,Home,W,4,1,Rochdale,,,53.0,burnley,
-2021-09-25,Premier League,Sat,Away,D,2,2,Leicester City,0.5,2.6,34.0,burnley,6.0
-2021-10-02,Premier League,Sat,Home,D,0,0,Norwich City,1.2,0.5,56.0,burnley,7.0
-2021-10-16,Premier League,Sat,Away,L,0,2,Manchester City,0.8,2.2,30.0,burnley,8.0
-2021-10-23,Premier League,Sat,Away,D,2,2,Southampton,0.8,1.9,39.0,burnley,9.0
-2021-10-27,EFL Cup,Wed,Home,L,0,1,Tottenham,,,38.0,burnley,
-2021-10-30,Premier League,Sat,Home,W,3,1,Brentford,2.5,0.9,41.0,burnley,10.0
-2021-11-06,Premier League,Sat,Away,D,1,1,Chelsea,0.6,2.3,30.0,burnley,11.0
-2021-11-20,Premier League,Sat,Home,D,3,3,Crystal Palace,1.6,2.3,40.0,burnley,12.0
-2021-12-01,Premier League,Wed,Away,D,0,0,Wolves,0.2,0.9,35.0,burnley,13.0
-2021-12-04,Premier League,Sat,Away,L,0,1,Newcastle Utd,0.8,1.2,52.0,burnley,14.0
-2021-12-12,Premier League,Sun,Home,D,0,0,West Ham,1.0,1.0,40.0,burnley,15.0
-2021-12-30,Premier League,Thu,Away,L,1,3,Manchester Utd,1.0,2.3,43.0,burnley,16.0
-2022-01-02,Premier League,Sun,Away,L,1,3,Leeds United,0.9,2.0,45.0,burnley,17.0
-2022-01-08,FA Cup,Sat,Home,L,1,2,Huddersfield,,,49.0,burnley,
-2022-01-23,Premier League,Sun,Away,D,0,0,Arsenal,0.7,1.5,25.0,burnley,18.0
-2022-02-05,Premier League,Sat,Home,D,0,0,Watford,1.0,1.2,53.0,burnley,19.0
-2022-02-08,Premier League,Tue,Home,D,1,1,Manchester Utd,0.5,2.4,37.0,burnley,20.0
-2022-02-13,Premier League,Sun,Home,L,0,1,Liverpool,1.0,1.8,34.0,burnley,21.0
-2022-02-19,Premier League,Sat,Away,W,3,0,Brighton,1.0,0.8,32.0,burnley,22.0
-2022-02-23,Premier League,Wed,Home,W,1,0,Tottenham,1.3,1.0,34.0,burnley,23.0
-2022-02-26,Premier League,Sat,Away,D,1,1,Crystal Palace,0.3,1.1,41.0,burnley,24.0
-2022-03-01,Premier League,Tue,Home,L,0,2,Leicester City,1.1,1.8,45.0,burnley,25.0
-2022-03-05,Premier League,Sat,Home,L,0,4,Chelsea,0.9,2.2,28.0,burnley,26.0
-2022-03-12,Premier League,Sat,Away,L,0,2,Brentford,0.6,2.0,45.0,burnley,27.0
-2022-04-02,Premier League,Sat,Home,L,0,2,Manchester City,0.1,2.0,24.0,burnley,28.0
-2022-04-06,Premier League,Wed,Home,W,3,2,Everton,2.0,2.8,52.0,burnley,29.0
-2022-04-10,Premier League,Sun,Away,L,0,2,Norwich City,1.9,2.0,55.0,burnley,30.0
-2022-04-17,Premier League,Sun,Away,D,1,1,West Ham,1.3,2.5,39.0,burnley,31.0
-2022-04-21,Premier League,Thu,Home,W,2,0,Southampton,1.8,1.0,44.0,burnley,32.0
-2022-04-24,Premier League,Sun,Home,W,1,0,Wolves,1.6,0.7,36.0,burnley,33.0
-2022-04-30,Premier League,Sat,Away,W,2,1,Watford,2.3,1.4,53.0,burnley,34.0
-2022-05-07,Premier League,Sat,Home,L,1,3,Aston Villa,2.0,1.6,49.0,burnley,35.0
-2022-05-15,Premier League,Sun,Away,L,0,1,Tottenham,0.8,2.3,32.0,burnley,36.0
-2022-05-19,Premier League,Thu,Away,D,1,1,Aston Villa,1.8,1.6,29.0,burnley,37.0
-2022-05-22,Premier League,Sun,Home,L,1,2,Newcastle Utd,1.8,1.9,52.0,burnley,38.0
-2021-08-11,Super Cup,Wed,Home,D,1 (6),1 (5),es Villarreal,,,62.0,chelsea,
-2021-08-14,Premier League,Sat,Home,W,3,0,Crystal Palace,0.8,0.4,62.0,chelsea,1.0
-2021-08-22,Premier League,Sun,Away,W,2,0,Arsenal,3.0,0.3,65.0,chelsea,2.0
-2021-08-28,Premier League,Sat,Away,D,1,1,Liverpool,0.7,2.4,35.0,chelsea,3.0
-2021-09-11,Premier League,Sat,Home,W,3,0,Aston Villa,1.0,1.3,57.0,chelsea,4.0
-2021-09-14,Champions Lg,Tue,Home,W,1,0,ru Zenit,0.7,0.9,66.0,chelsea,
-2021-09-19,Premier League,Sun,Away,W,3,0,Tottenham,2.7,0.6,53.0,chelsea,5.0
-2021-09-22,EFL Cup,Wed,Home,D,1 (4),1 (3),Aston Villa,,,68.0,chelsea,
-2021-09-25,Premier League,Sat,Home,L,0,1,Manchester City,0.2,1.4,41.0,chelsea,6.0
-2021-09-29,Champions Lg,Wed,Away,L,0,1,it Juventus,1.3,0.9,72.0,chelsea,
-2021-10-02,Premier League,Sat,Home,W,3,1,Southampton,3.4,1.3,62.0,chelsea,7.0
-2021-10-16,Premier League,Sat,Away,W,1,0,Brentford,0.4,1.5,55.0,chelsea,8.0
-2021-10-20,Champions Lg,Wed,Home,W,4,0,se Malmö,2.6,0.1,72.0,chelsea,
-2021-10-23,Premier League,Sat,Home,W,7,0,Norwich City,3.0,0.2,62.0,chelsea,9.0
-2021-10-26,EFL Cup,Tue,Home,D,1 (4),1 (3),Southampton,,,63.0,chelsea,
-2021-10-30,Premier League,Sat,Away,W,3,0,Newcastle Utd,2.4,0.4,79.0,chelsea,10.0
-2021-11-02,Champions Lg,Tue,Away,W,1,0,se Malmö,2.5,0.2,72.0,chelsea,
-2021-11-06,Premier League,Sat,Home,D,1,1,Burnley,2.3,0.6,70.0,chelsea,11.0
-2021-11-20,Premier League,Sat,Away,W,3,0,Leicester City,2.1,0.3,61.0,chelsea,12.0
-2021-11-23,Champions Lg,Tue,Home,W,4,0,it Juventus,3.0,0.7,54.0,chelsea,
-2021-11-28,Premier League,Sun,Home,D,1,1,Manchester Utd,3.1,0.7,65.0,chelsea,13.0
-2021-12-01,Premier League,Wed,Away,W,2,1,Watford,1.2,1.1,49.0,chelsea,14.0
-2021-12-04,Premier League,Sat,Away,L,2,3,West Ham,1.3,2.2,63.0,chelsea,15.0
-2021-12-08,Champions Lg,Wed,Away,D,3,3,ru Zenit,2.7,2.6,54.0,chelsea,
-2021-12-11,Premier League,Sat,Home,W,3,2,Leeds United,2.6,1.8,57.0,chelsea,16.0
-2021-12-16,Premier League,Thu,Home,D,1,1,Everton,3.0,0.5,80.0,chelsea,17.0
-2021-12-19,Premier League,Sun,Away,D,0,0,Wolves,1.0,0.3,63.0,chelsea,18.0
-2021-12-22,EFL Cup,Wed,Away,W,2,0,Brentford,,,67.0,chelsea,
-2021-12-26,Premier League,Sun,Away,W,3,1,Aston Villa,2.7,0.6,58.0,chelsea,19.0
-2021-12-29,Premier League,Wed,Home,D,1,1,Brighton,1.1,1.4,47.0,chelsea,20.0
-2022-01-02,Premier League,Sun,Home,D,2,2,Liverpool,1.5,1.7,54.0,chelsea,21.0
-2022-01-05,EFL Cup,Wed,Home,W,2,0,Tottenham,,,64.0,chelsea,
-2022-01-08,FA Cup,Sat,Home,W,5,1,Chesterfield,,,67.0,chelsea,
-2022-01-12,EFL Cup,Wed,Away,W,1,0,Tottenham,,,64.0,chelsea,
-2022-01-15,Premier League,Sat,Away,L,0,1,Manchester City,0.4,0.9,44.0,chelsea,22.0
-2022-01-18,Premier League,Tue,Away,D,1,1,Brighton,0.8,1.0,56.0,chelsea,23.0
-2022-01-23,Premier League,Sun,Home,W,2,0,Tottenham,1.3,0.7,64.0,chelsea,24.0
-2022-02-05,FA Cup,Sat,Home,W,2,1,Plymouth Argyle,,,72.0,chelsea,
-2022-02-19,Premier League,Sat,Away,W,1,0,Crystal Palace,1.1,0.9,58.0,chelsea,25.0
-2022-02-22,Champions Lg,Tue,Home,W,2,0,fr Lille,1.2,0.8,50.0,chelsea,
-2022-02-27,EFL Cup,Sun,Home,D,0 (10),0 (11),Liverpool,,,46.0,chelsea,
-2022-03-02,FA Cup,Wed,Away,W,3,2,Luton Town,,,75.0,chelsea,
-2022-03-05,Premier League,Sat,Away,W,4,0,Burnley,2.2,0.9,72.0,chelsea,26.0
-2022-03-10,Premier League,Thu,Away,W,3,1,Norwich City,2.2,1.1,66.0,chelsea,27.0
-2022-03-13,Premier League,Sun,Home,W,1,0,Newcastle Utd,1.0,0.5,71.0,chelsea,28.0
-2022-03-16,Champions Lg,Wed,Away,W,2,1,fr Lille,1.0,1.7,56.0,chelsea,
-2022-03-19,FA Cup,Sat,Away,W,2,0,Middlesbrough,,,61.0,chelsea,
-2022-04-02,Premier League,Sat,Home,L,1,4,Brentford,1.7,2.2,70.0,chelsea,29.0
-2022-04-06,Champions Lg,Wed,Home,L,1,3,es Real Madrid,1.3,1.8,57.0,chelsea,
-2022-04-09,Premier League,Sat,Away,W,6,0,Southampton,4.4,0.5,70.0,chelsea,30.0
-2022-04-12,Champions Lg,Tue,Away,W,3,2,es Real Madrid,2.7,1.2,57.0,chelsea,
-2022-04-17,FA Cup,Sun,Home,W,2,0,Crystal Palace,,,67.0,chelsea,
-2022-04-20,Premier League,Wed,Home,L,2,4,Arsenal,1.1,1.8,67.0,chelsea,31.0
-2022-04-24,Premier League,Sun,Home,W,1,0,West Ham,2.9,0.7,66.0,chelsea,32.0
-2022-04-28,Premier League,Thu,Away,D,1,1,Manchester Utd,2.2,0.5,64.0,chelsea,33.0
-2022-05-01,Premier League,Sun,Away,L,0,1,Everton,1.2,2.0,77.0,chelsea,34.0
-2022-05-07,Premier League,Sat,Home,D,2,2,Wolves,2.4,2.1,59.0,chelsea,35.0
-2022-05-11,Premier League,Wed,Away,W,3,0,Leeds United,1.6,0.4,67.0,chelsea,36.0
-2022-05-14,FA Cup,Sat,Home,D,0 (5),0 (6),Liverpool,,,47.0,chelsea,
-2022-05-19,Premier League,Thu,Home,D,1,1,Leicester City,1.8,0.1,67.0,chelsea,37.0
-2022-05-22,Premier League,Sun,Home,W,2,1,Watford,2.7,0.8,71.0,chelsea,38.0
-2021-08-07,Community Shield,Sat,Neutral,L,0,1,Leicester City,,,57.0,city,
-2021-08-15,Premier League,Sun,Away,L,0,1,Tottenham,2.0,1.0,65.0,city,1.0
-2021-08-21,Premier League,Sat,Home,W,5,0,Norwich City,2.7,0.1,67.0,city,2.0
-2021-08-28,Premier League,Sat,Home,W,5,0,Arsenal,4.0,0.2,80.0,city,3.0
-2021-09-11,Premier League,Sat,Away,W,1,0,Leicester City,3.3,0.6,61.0,city,4.0
-2021-09-15,Champions Lg,Wed,Home,W,6,3,de RB Leipzig,2.3,1.3,50.0,city,
-2021-09-18,Premier League,Sat,Home,D,0,0,Southampton,1.2,0.5,64.0,city,5.0
-2021-09-21,EFL Cup,Tue,Home,W,6,1,Wycombe,,,79.0,city,
-2021-09-25,Premier League,Sat,Away,W,1,0,Chelsea,1.4,0.2,59.0,city,6.0
-2021-09-28,Champions Lg,Tue,Away,L,0,2,fr Paris S-G,1.9,0.4,54.0,city,
-2021-10-03,Premier League,Sun,Away,D,2,2,Liverpool,1.7,0.8,51.0,city,7.0
-2021-10-16,Premier League,Sat,Home,W,2,0,Burnley,2.2,0.8,70.0,city,8.0
-2021-10-19,Champions Lg,Tue,Away,W,5,1,be Club Brugge,4.7,0.6,63.0,city,
-2021-10-23,Premier League,Sat,Away,W,4,1,Brighton,4.0,1.4,52.0,city,9.0
-2021-10-27,EFL Cup,Wed,Away,D,0 (3),0 (5),West Ham,,,64.0,city,
-2021-10-30,Premier League,Sat,Home,L,0,2,Crystal Palace,1.1,0.8,68.0,city,10.0
-2021-11-03,Champions Lg,Wed,Home,W,4,1,be Club Brugge,4.6,0.8,70.0,city,
-2021-11-06,Premier League,Sat,Away,W,2,0,Manchester Utd,2.3,0.8,67.0,city,11.0
-2021-11-21,Premier League,Sun,Home,W,3,0,Everton,2.6,0.2,77.0,city,12.0
-2021-11-24,Champions Lg,Wed,Home,W,2,1,fr Paris S-G,2.1,1.0,54.0,city,
-2021-11-28,Premier League,Sun,Home,W,2,1,West Ham,2.4,0.2,68.0,city,13.0
-2021-12-01,Premier League,Wed,Away,W,2,1,Aston Villa,1.2,0.9,64.0,city,14.0
-2021-12-04,Premier League,Sat,Away,W,3,1,Watford,3.5,0.9,77.0,city,15.0
-2021-12-07,Champions Lg,Tue,Away,L,1,2,de RB Leipzig,1.2,1.7,56.0,city,
-2021-12-11,Premier League,Sat,Home,W,1,0,Wolves,3.5,0.1,71.0,city,16.0
-2021-12-14,Premier League,Tue,Home,W,7,0,Leeds United,3.2,0.3,63.0,city,17.0
-2021-12-19,Premier League,Sun,Away,W,4,0,Newcastle Utd,2.9,0.4,71.0,city,18.0
-2021-12-26,Premier League,Sun,Home,W,6,3,Leicester City,3.9,2.4,72.0,city,19.0
-2021-12-29,Premier League,Wed,Away,W,1,0,Brentford,1.0,0.6,76.0,city,20.0
-2022-01-01,Premier League,Sat,Away,W,2,1,Arsenal,2.2,0.9,71.0,city,21.0
-2022-01-07,FA Cup,Fri,Away,W,4,1,Swindon Town,,,77.0,city,
-2022-01-15,Premier League,Sat,Home,W,1,0,Chelsea,0.9,0.4,56.0,city,22.0
-2022-01-22,Premier League,Sat,Away,D,1,1,Southampton,1.9,0.7,74.0,city,23.0
-2022-02-05,FA Cup,Sat,Home,W,4,1,Fulham,,,61.0,city,
-2022-02-09,Premier League,Wed,Home,W,2,0,Brentford,1.8,0.6,74.0,city,24.0
-2022-02-12,Premier League,Sat,Away,W,4,0,Norwich City,4.9,0.5,71.0,city,25.0
-2022-02-15,Champions Lg,Tue,Away,W,5,0,pt Sporting CP,2.1,0.1,63.0,city,
-2022-02-19,Premier League,Sat,Home,L,2,3,Tottenham,2.6,1.1,71.0,city,26.0
-2022-02-26,Premier League,Sat,Away,W,1,0,Everton,1.9,0.5,67.0,city,27.0
-2022-03-01,FA Cup,Tue,Away,W,2,0,P'borough Utd,,,76.0,city,
-2022-03-06,Premier League,Sun,Home,W,4,1,Manchester Utd,3.1,0.5,69.0,city,28.0
-2022-03-09,Champions Lg,Wed,Home,D,0,0,pt Sporting CP,1.5,0.8,68.0,city,
-2022-03-14,Premier League,Mon,Away,D,0,0,Crystal Palace,2.9,0.8,73.0,city,29.0
-2022-03-20,FA Cup,Sun,Away,W,4,1,Southampton,,,65.0,city,
-2022-04-02,Premier League,Sat,Away,W,2,0,Burnley,2.0,0.1,76.0,city,30.0
-2022-04-05,Champions Lg,Tue,Home,W,1,0,es Atlético Madrid,1.0,0.0,70.0,city,
-2022-04-10,Premier League,Sun,Home,D,2,2,Liverpool,1.6,1.2,55.0,city,31.0
-2022-04-13,Champions Lg,Wed,Away,D,0,0,es Atlético Madrid,1.2,0.8,59.0,city,
-2022-04-16,FA Cup,Sat,Home,L,2,3,Liverpool,,,49.0,city,
-2022-04-20,Premier League,Wed,Home,W,3,0,Brighton,1.6,0.2,65.0,city,32.0
-2022-04-23,Premier League,Sat,Home,W,5,1,Watford,3.9,0.4,73.0,city,33.0
-2022-04-26,Champions Lg,Tue,Home,W,4,3,es Real Madrid,2.7,1.6,59.0,city,
-2022-04-30,Premier League,Sat,Away,W,4,0,Leeds United,2.5,1.3,58.0,city,34.0
-2022-05-04,Champions Lg,Wed,Away,L,1,3,es Real Madrid,1.4,2.3,55.0,city,
-2022-05-08,Premier League,Sun,Home,W,5,0,Newcastle Utd,3.3,0.8,71.0,city,35.0
-2022-05-11,Premier League,Wed,Away,W,5,1,Wolves,2.8,0.5,66.0,city,36.0
-2022-05-15,Premier League,Sun,Away,D,2,2,West Ham,2.9,1.8,78.0,city,37.0
-2022-05-22,Premier League,Sun,Home,W,3,2,Aston Villa,3.7,0.3,71.0,city,38.0
-2021-08-14,Premier League,Sat,Home,W,3,1,Southampton,2.3,0.9,48.0,everton,1.0
-2021-08-21,Premier League,Sat,Away,D,2,2,Leeds United,2.0,1.4,31.0,everton,2.0
-2021-08-24,EFL Cup,Tue,Away,W,2,1,Huddersfield,,,48.0,everton,
-2021-08-28,Premier League,Sat,Away,W,2,0,Brighton,1.7,1.0,35.0,everton,3.0
-2021-09-13,Premier League,Mon,Home,W,3,1,Burnley,1.4,1.3,52.0,everton,4.0
-2021-09-18,Premier League,Sat,Away,L,0,3,Aston Villa,1.0,1.0,45.0,everton,5.0
-2021-09-21,EFL Cup,Tue,Away,D,2 (7),2 (8),QPR,,,39.0,everton,
-2021-09-25,Premier League,Sat,Home,W,2,0,Norwich City,2.0,0.7,47.0,everton,6.0
-2021-10-02,Premier League,Sat,Away,D,1,1,Manchester Utd,1.4,1.1,28.0,everton,7.0
-2021-10-17,Premier League,Sun,Home,L,0,1,West Ham,1.1,1.4,39.0,everton,8.0
-2021-10-23,Premier League,Sat,Home,L,2,5,Watford,1.5,3.3,49.0,everton,9.0
-2021-11-01,Premier League,Mon,Away,L,1,2,Wolves,1.6,1.6,39.0,everton,10.0
-2021-11-07,Premier League,Sun,Home,D,0,0,Tottenham,0.8,1.1,45.0,everton,11.0
-2021-11-21,Premier League,Sun,Away,L,0,3,Manchester City,0.2,2.6,23.0,everton,12.0
-2021-11-28,Premier League,Sun,Away,L,0,1,Brentford,1.3,1.3,60.0,everton,13.0
-2021-12-01,Premier League,Wed,Home,L,1,4,Liverpool,1.3,2.7,33.0,everton,14.0
-2021-12-06,Premier League,Mon,Home,W,2,1,Arsenal,1.1,1.3,37.0,everton,15.0
-2021-12-12,Premier League,Sun,Away,L,1,3,Crystal Palace,1.3,2.2,39.0,everton,16.0
-2021-12-16,Premier League,Thu,Away,D,1,1,Chelsea,0.5,3.0,20.0,everton,17.0
-2022-01-02,Premier League,Sun,Home,L,2,3,Brighton,1.9,1.7,50.0,everton,18.0
-2022-01-08,FA Cup,Sat,Away,W,3,2,Hull City,,,48.0,everton,
-2022-01-15,Premier League,Sat,Away,L,1,2,Norwich City,0.9,1.0,59.0,everton,19.0
-2022-01-22,Premier League,Sat,Home,L,0,1,Aston Villa,1.7,0.7,50.0,everton,20.0
-2022-02-05,FA Cup,Sat,Home,W,4,1,Brentford,,,56.0,everton,
-2022-02-08,Premier League,Tue,Away,L,1,3,Newcastle Utd,0.8,2.4,60.0,everton,21.0
-2022-02-12,Premier League,Sat,Home,W,3,0,Leeds United,2.7,0.4,42.0,everton,22.0
-2022-02-19,Premier League,Sat,Away,L,0,2,Southampton,0.3,2.5,45.0,everton,23.0
-2022-02-26,Premier League,Sat,Home,L,0,1,Manchester City,0.5,1.9,33.0,everton,24.0
-2022-03-03,FA Cup,Thu,Home,W,2,0,Boreham Wood,,,80.0,everton,
-2022-03-07,Premier League,Mon,Away,L,0,5,Tottenham,0.3,2.4,45.0,everton,25.0
-2022-03-13,Premier League,Sun,Home,L,0,1,Wolves,0.4,1.0,39.0,everton,26.0
-2022-03-17,Premier League,Thu,Home,W,1,0,Newcastle Utd,0.6,1.3,39.0,everton,27.0
-2022-03-20,FA Cup,Sun,Away,L,0,4,Crystal Palace,,,48.0,everton,
-2022-04-03,Premier League,Sun,Away,L,1,2,West Ham,0.8,1.7,45.0,everton,28.0
-2022-04-06,Premier League,Wed,Away,L,2,3,Burnley,2.8,2.0,48.0,everton,29.0
-2022-04-09,Premier League,Sat,Home,W,1,0,Manchester Utd,0.5,1.1,33.0,everton,30.0
-2022-04-20,Premier League,Wed,Home,D,1,1,Leicester City,2.0,1.2,37.0,everton,31.0
-2022-04-24,Premier League,Sun,Away,L,0,2,Liverpool,0.6,1.9,18.0,everton,32.0
-2022-05-01,Premier League,Sun,Home,W,1,0,Chelsea,2.0,1.2,23.0,everton,33.0
-2022-05-08,Premier League,Sun,Away,W,2,1,Leicester City,1.1,1.2,34.0,everton,34.0
-2022-05-11,Premier League,Wed,Away,D,0,0,Watford,1.1,0.4,52.0,everton,35.0
-2022-05-15,Premier League,Sun,Home,L,2,3,Brentford,2.0,1.6,28.0,everton,36.0
-2022-05-19,Premier League,Thu,Home,W,3,2,Crystal Palace,0.9,1.4,43.0,everton,37.0
-2022-05-22,Premier League,Sun,Away,L,1,5,Arsenal,1.1,4.1,27.0,everton,38.0
-2021-08-14,Premier League,Sat,Away,L,1,5,Manchester Utd,0.6,2.5,51.0,leeds,1.0
-2021-08-21,Premier League,Sat,Home,D,2,2,Everton,1.4,2.0,69.0,leeds,2.0
-2021-08-24,EFL Cup,Tue,Home,W,3,0,Crewe Alexandra,,,73.0,leeds,
-2021-08-29,Premier League,Sun,Away,D,1,1,Burnley,1.6,1.1,64.0,leeds,3.0
-2021-09-12,Premier League,Sun,Home,L,0,3,Liverpool,1.1,4.4,44.0,leeds,4.0
-2021-09-17,Premier League,Fri,Away,D,1,1,Newcastle Utd,1.8,1.6,65.0,leeds,5.0
-2021-09-21,EFL Cup,Tue,Away,D,0 (6),0 (5),Fulham,,,62.0,leeds,
-2021-09-25,Premier League,Sat,Home,L,1,2,West Ham,1.3,2.2,53.0,leeds,6.0
-2021-10-02,Premier League,Sat,Home,W,1,0,Watford,2.1,0.2,66.0,leeds,7.0
-2021-10-16,Premier League,Sat,Away,L,0,1,Southampton,0.1,2.3,54.0,leeds,8.0
-2021-10-23,Premier League,Sat,Home,D,1,1,Wolves,1.9,1.0,62.0,leeds,9.0
-2021-10-26,EFL Cup,Tue,Away,L,0,2,Arsenal,,,56.0,leeds,
-2021-10-31,Premier League,Sun,Away,W,2,1,Norwich City,1.2,0.9,52.0,leeds,10.0
-2021-11-07,Premier League,Sun,Home,D,1,1,Leicester City,1.6,0.9,56.0,leeds,11.0
-2021-11-21,Premier League,Sun,Away,L,1,2,Tottenham,1.7,1.7,57.0,leeds,12.0
-2021-11-27,Premier League,Sat,Away,D,0,0,Brighton,0.9,2.5,43.0,leeds,13.0
-2021-11-30,Premier League,Tue,Home,W,1,0,Crystal Palace,1.6,1.3,61.0,leeds,14.0
-2021-12-05,Premier League,Sun,Home,D,2,2,Brentford,1.1,1.0,63.0,leeds,15.0
-2021-12-11,Premier League,Sat,Away,L,2,3,Chelsea,1.8,2.6,43.0,leeds,16.0
-2021-12-14,Premier League,Tue,Away,L,0,7,Manchester City,0.3,3.2,37.0,leeds,17.0
-2021-12-18,Premier League,Sat,Home,L,1,4,Arsenal,1.6,3.4,51.0,leeds,18.0
-2022-01-02,Premier League,Sun,Home,W,3,1,Burnley,2.0,0.9,55.0,leeds,19.0
-2022-01-09,FA Cup,Sun,Away,L,0,2,West Ham,,,52.0,leeds,
-2022-01-16,Premier League,Sun,Away,W,3,2,West Ham,2.6,2.5,52.0,leeds,20.0
-2022-01-22,Premier League,Sat,Home,L,0,1,Newcastle Utd,1.3,1.0,62.0,leeds,21.0
-2022-02-09,Premier League,Wed,Away,D,3,3,Aston Villa,1.8,2.1,60.0,leeds,22.0
-2022-02-12,Premier League,Sat,Away,L,0,3,Everton,0.4,2.7,58.0,leeds,23.0
-2022-02-20,Premier League,Sun,Home,L,2,4,Manchester Utd,1.6,2.5,54.0,leeds,24.0
-2022-02-23,Premier League,Wed,Away,L,0,6,Liverpool,0.2,5.4,37.0,leeds,25.0
-2022-02-26,Premier League,Sat,Home,L,0,4,Tottenham,1.9,2.3,50.0,leeds,26.0
-2022-03-05,Premier League,Sat,Away,L,0,1,Leicester City,2.0,0.5,49.0,leeds,27.0
-2022-03-10,Premier League,Thu,Home,L,0,3,Aston Villa,0.2,1.3,51.0,leeds,28.0
-2022-03-13,Premier League,Sun,Home,W,2,1,Norwich City,2.4,1.4,52.0,leeds,29.0
-2022-03-18,Premier League,Fri,Away,W,3,2,Wolves,2.2,1.1,52.0,leeds,30.0
-2022-04-02,Premier League,Sat,Home,D,1,1,Southampton,1.4,1.5,56.0,leeds,31.0
-2022-04-09,Premier League,Sat,Away,W,3,0,Watford,0.7,1.1,51.0,leeds,32.0
-2022-04-25,Premier League,Mon,Away,D,0,0,Crystal Palace,0.6,2.1,47.0,leeds,33.0
-2022-04-30,Premier League,Sat,Home,L,0,4,Manchester City,1.3,2.5,42.0,leeds,34.0
-2022-05-08,Premier League,Sun,Away,L,1,2,Arsenal,0.5,2.5,36.0,leeds,35.0
-2022-05-11,Premier League,Wed,Home,L,0,3,Chelsea,0.4,1.6,33.0,leeds,36.0
-2022-05-15,Premier League,Sun,Home,D,1,1,Brighton,1.9,2.4,50.0,leeds,37.0
-2022-05-22,Premier League,Sun,Away,W,2,1,Brentford,1.4,1.2,51.0,leeds,38.0
-2021-08-07,Community Shield,Sat,Neutral,W,1,0,Manchester City,,,43.0,leicester,
-2021-08-14,Premier League,Sat,Home,W,1,0,Wolves,0.7,1.5,56.0,leicester,1.0
-2021-08-23,Premier League,Mon,Away,L,1,4,West Ham,0.6,2.8,48.0,leicester,2.0
-2021-08-28,Premier League,Sat,Away,W,2,1,Norwich City,1.3,1.6,55.0,leicester,3.0
-2021-09-11,Premier League,Sat,Home,L,0,1,Manchester City,0.6,3.3,39.0,leicester,4.0
-2021-09-16,Europa Lg,Thu,Home,D,2,2,it Napoli,0.7,2.1,46.0,leicester,
-2021-09-19,Premier League,Sun,Away,L,1,2,Brighton,1.5,1.7,63.0,leicester,5.0
-2021-09-22,EFL Cup,Wed,Away,W,2,0,Millwall,,,71.0,leicester,
-2021-09-25,Premier League,Sat,Home,D,2,2,Burnley,2.6,0.5,66.0,leicester,6.0
-2021-09-30,Europa Lg,Thu,Away,L,0,1,pl Legia Warsaw,1.9,0.9,63.0,leicester,
-2021-10-03,Premier League,Sun,Away,D,2,2,Crystal Palace,1.4,1.8,40.0,leicester,7.0
-2021-10-16,Premier League,Sat,Home,W,4,2,Manchester Utd,3.1,1.5,49.0,leicester,8.0
-2021-10-20,Europa Lg,Wed,Away,W,4,3,ru Spartak Moscow,3.2,1.5,57.0,leicester,
-2021-10-24,Premier League,Sun,Away,W,2,1,Brentford,1.5,1.4,46.0,leicester,9.0
-2021-10-27,EFL Cup,Wed,Home,D,2 (4),2 (2),Brighton,,,43.0,leicester,
-2021-10-30,Premier League,Sat,Home,L,0,2,Arsenal,1.4,0.9,64.0,leicester,10.0
-2021-11-04,Europa Lg,Thu,Home,D,1,1,ru Spartak Moscow,1.8,0.3,77.0,leicester,
-2021-11-07,Premier League,Sun,Away,D,1,1,Leeds United,0.9,1.6,44.0,leicester,11.0
-2021-11-20,Premier League,Sat,Home,L,0,3,Chelsea,0.3,2.1,39.0,leicester,12.0
-2021-11-25,Europa Lg,Thu,Home,W,3,1,pl Legia Warsaw,1.8,1.3,58.0,leicester,
-2021-11-28,Premier League,Sun,Home,W,4,2,Watford,2.2,2.6,56.0,leicester,13.0
-2021-12-01,Premier League,Wed,Away,D,2,2,Southampton,2.0,1.7,55.0,leicester,14.0
-2021-12-05,Premier League,Sun,Away,L,1,2,Aston Villa,1.2,2.3,59.0,leicester,15.0
-2021-12-09,Europa Lg,Thu,Away,L,2,3,it Napoli,2.0,1.6,53.0,leicester,
-2021-12-12,Premier League,Sun,Home,W,4,0,Newcastle Utd,2.9,1.3,47.0,leicester,16.0
-2021-12-22,EFL Cup,Wed,Away,D,3 (4),3 (5),Liverpool,,,34.0,leicester,
-2021-12-26,Premier League,Sun,Away,L,3,6,Manchester City,2.4,3.9,28.0,leicester,17.0
-2021-12-28,Premier League,Tue,Home,W,1,0,Liverpool,0.6,2.7,37.0,leicester,18.0
-2022-01-08,FA Cup,Sat,Home,W,4,1,Watford,,,52.0,leicester,
-2022-01-19,Premier League,Wed,Home,L,2,3,Tottenham,1.3,4.1,49.0,leicester,19.0
-2022-01-23,Premier League,Sun,Home,D,1,1,Brighton,1.7,1.5,44.0,leicester,20.0
-2022-02-06,FA Cup,Sun,Away,L,1,4,Nott'ham Forest,,,62.0,leicester,
-2022-02-10,Premier League,Thu,Away,L,0,2,Liverpool,0.6,2.2,36.0,leicester,21.0
-2022-02-13,Premier League,Sun,Home,D,2,2,West Ham,1.6,1.0,55.0,leicester,22.0
-2022-02-17,Conf Lg,Thu,Home,W,4,1,dk Randers,4.4,0.6,65.0,leicester,
-2022-02-20,Premier League,Sun,Away,L,1,2,Wolves,1.7,1.3,63.0,leicester,23.0
-2022-02-24,Conf Lg,Thu,Away,W,3,1,dk Randers,0.7,3.3,55.0,leicester,
-2022-03-01,Premier League,Tue,Away,W,2,0,Burnley,1.8,1.1,55.0,leicester,24.0
-2022-03-05,Premier League,Sat,Home,W,1,0,Leeds United,0.5,2.0,51.0,leicester,25.0
-2022-03-10,Conf Lg,Thu,Home,W,2,0,fr Rennes,1.1,1.2,50.0,leicester,
-2022-03-13,Premier League,Sun,Away,L,0,2,Arsenal,0.5,2.8,54.0,leicester,26.0
-2022-03-17,Conf Lg,Thu,Away,L,1,2,fr Rennes,1.1,1.9,32.0,leicester,
-2022-03-20,Premier League,Sun,Home,W,2,1,Brentford,1.0,1.7,52.0,leicester,27.0
-2022-04-02,Premier League,Sat,Away,D,1,1,Manchester Utd,0.9,1.0,46.0,leicester,28.0
-2022-04-07,Conf Lg,Thu,Home,D,0,0,nl PSV Eindhoven,0.8,0.5,58.0,leicester,
-2022-04-10,Premier League,Sun,Home,W,2,1,Crystal Palace,1.3,1.6,51.0,leicester,29.0
-2022-04-14,Conf Lg,Thu,Away,W,2,1,nl PSV Eindhoven,2.7,1.1,57.0,leicester,
-2022-04-17,Premier League,Sun,Away,L,1,2,Newcastle Utd,0.9,1.8,68.0,leicester,30.0
-2022-04-20,Premier League,Wed,Away,D,1,1,Everton,1.2,2.0,63.0,leicester,31.0
-2022-04-23,Premier League,Sat,Home,D,0,0,Aston Villa,0.3,1.2,64.0,leicester,32.0
-2022-04-28,Conf Lg,Thu,Home,D,1,1,it Roma,1.6,0.5,67.0,leicester,
-2022-05-01,Premier League,Sun,Away,L,1,3,Tottenham,0.5,1.5,60.0,leicester,33.0
-2022-05-05,Conf Lg,Thu,Away,L,0,1,it Roma,0.5,0.9,63.0,leicester,
-2022-05-08,Premier League,Sun,Home,L,1,2,Everton,1.2,1.1,66.0,leicester,34.0
-2022-05-11,Premier League,Wed,Home,W,3,0,Norwich City,2.2,1.1,65.0,leicester,35.0
-2022-05-15,Premier League,Sun,Away,W,5,1,Watford,2.4,1.7,59.0,leicester,36.0
-2022-05-19,Premier League,Thu,Away,D,1,1,Chelsea,0.1,1.8,33.0,leicester,37.0
-2022-05-22,Premier League,Sun,Home,W,4,1,Southampton,3.1,1.2,51.0,leicester,38.0
-2021-08-14,Premier League,Sat,Away,W,3,0,Norwich City,1.7,1.4,50.0,liverpool,1.0
-2021-08-21,Premier League,Sat,Home,W,2,0,Burnley,2.8,1.0,65.0,liverpool,2.0
-2021-08-28,Premier League,Sat,Home,D,1,1,Chelsea,2.4,0.7,65.0,liverpool,3.0
-2021-09-12,Premier League,Sun,Away,W,3,0,Leeds United,4.4,1.1,56.0,liverpool,4.0
-2021-09-15,Champions Lg,Wed,Home,W,3,2,it Milan,2.5,1.6,60.0,liverpool,
-2021-09-18,Premier League,Sat,Home,W,3,0,Crystal Palace,3.3,1.0,59.0,liverpool,5.0
-2021-09-21,EFL Cup,Tue,Away,W,3,0,Norwich City,,,53.0,liverpool,
-2021-09-25,Premier League,Sat,Away,D,3,3,Brentford,2.6,2.2,67.0,liverpool,6.0
-2021-09-28,Champions Lg,Tue,Away,W,5,1,pt Porto,3.4,0.9,66.0,liverpool,
-2021-10-03,Premier League,Sun,Home,D,2,2,Manchester City,0.8,1.7,49.0,liverpool,7.0
-2021-10-16,Premier League,Sat,Away,W,5,0,Watford,3.6,0.5,75.0,liverpool,8.0
-2021-10-19,Champions Lg,Tue,Away,W,3,2,es Atlético Madrid,1.3,2.2,68.0,liverpool,
-2021-10-24,Premier League,Sun,Away,W,5,0,Manchester Utd,3.2,1.7,62.0,liverpool,9.0
-2021-10-27,EFL Cup,Wed,Away,W,2,0,Preston,,,73.0,liverpool,
-2021-10-30,Premier League,Sat,Home,D,2,2,Brighton,1.5,1.1,58.0,liverpool,10.0
-2021-11-03,Champions Lg,Wed,Home,W,2,0,es Atlético Madrid,3.0,0.2,71.0,liverpool,
-2021-11-07,Premier League,Sun,Away,L,2,3,West Ham,1.5,0.9,69.0,liverpool,11.0
-2021-11-20,Premier League,Sat,Home,W,4,0,Arsenal,3.8,0.6,62.0,liverpool,12.0
-2021-11-24,Champions Lg,Wed,Home,W,2,0,pt Porto,0.6,1.1,58.0,liverpool,
-2021-11-27,Premier League,Sat,Home,W,4,0,Southampton,3.1,1.0,64.0,liverpool,13.0
-2021-12-01,Premier League,Wed,Away,W,4,1,Everton,2.7,1.3,67.0,liverpool,14.0
-2021-12-04,Premier League,Sat,Away,W,1,0,Wolves,2.6,0.1,66.0,liverpool,15.0
-2021-12-07,Champions Lg,Tue,Away,W,2,1,it Milan,1.9,1.4,52.0,liverpool,
-2021-12-11,Premier League,Sat,Home,W,1,0,Aston Villa,2.6,0.2,62.0,liverpool,16.0
-2021-12-16,Premier League,Thu,Home,W,3,1,Newcastle Utd,3.0,0.3,74.0,liverpool,17.0
-2021-12-19,Premier League,Sun,Away,D,2,2,Tottenham,1.4,2.6,56.0,liverpool,18.0
-2021-12-22,EFL Cup,Wed,Home,D,3 (5),3 (4),Leicester City,,,66.0,liverpool,
-2021-12-28,Premier League,Tue,Away,L,0,1,Leicester City,2.7,0.6,63.0,liverpool,19.0
-2022-01-02,Premier League,Sun,Away,D,2,2,Chelsea,1.7,1.5,46.0,liverpool,20.0
-2022-01-09,FA Cup,Sun,Home,W,4,1,Shrewsbury,,,83.0,liverpool,
-2022-01-13,EFL Cup,Thu,Home,D,0,0,Arsenal,,,78.0,liverpool,
-2022-01-16,Premier League,Sun,Home,W,3,0,Brentford,3.2,0.7,68.0,liverpool,21.0
-2022-01-20,EFL Cup,Thu,Away,W,2,0,Arsenal,,,54.0,liverpool,
-2022-01-23,Premier League,Sun,Away,W,3,1,Crystal Palace,1.8,2.4,57.0,liverpool,22.0
-2022-02-06,FA Cup,Sun,Home,W,3,1,Cardiff City,,,80.0,liverpool,
-2022-02-10,Premier League,Thu,Home,W,2,0,Leicester City,2.2,0.6,64.0,liverpool,23.0
-2022-02-13,Premier League,Sun,Away,W,1,0,Burnley,1.8,1.0,66.0,liverpool,24.0
-2022-02-16,Champions Lg,Wed,Away,W,2,0,it Inter,1.0,0.6,54.0,liverpool,
-2022-02-19,Premier League,Sat,Home,W,3,1,Norwich City,4.4,0.7,69.0,liverpool,25.0
-2022-02-23,Premier League,Wed,Home,W,6,0,Leeds United,5.4,0.2,63.0,liverpool,26.0
-2022-02-27,EFL Cup,Sun,Away,D,0 (11),0 (10),Chelsea,,,55.0,liverpool,
-2022-03-02,FA Cup,Wed,Home,W,2,1,Norwich City,,,65.0,liverpool,
-2022-03-05,Premier League,Sat,Home,W,1,0,West Ham,2.6,1.2,68.0,liverpool,27.0
-2022-03-08,Champions Lg,Tue,Home,L,0,1,it Inter,1.8,0.5,62.0,liverpool,
-2022-03-12,Premier League,Sat,Away,W,2,0,Brighton,2.3,0.6,48.0,liverpool,28.0
-2022-03-16,Premier League,Wed,Away,W,2,0,Arsenal,1.6,0.7,51.0,liverpool,29.0
-2022-03-20,FA Cup,Sun,Away,W,1,0,Nott'ham Forest,,,65.0,liverpool,
-2022-04-02,Premier League,Sat,Home,W,2,0,Watford,2.5,0.9,73.0,liverpool,30.0
-2022-04-05,Champions Lg,Tue,Away,W,3,1,pt Benfica,3.9,1.2,65.0,liverpool,
-2022-04-10,Premier League,Sun,Away,D,2,2,Manchester City,1.2,1.6,45.0,liverpool,31.0
-2022-04-13,Champions Lg,Wed,Home,D,3,3,pt Benfica,1.8,1.2,66.0,liverpool,
-2022-04-16,FA Cup,Sat,Away,W,3,2,Manchester City,,,51.0,liverpool,
-2022-04-19,Premier League,Tue,Home,W,4,0,Manchester Utd,2.2,0.1,71.0,liverpool,32.0
-2022-04-24,Premier League,Sun,Home,W,2,0,Everton,1.9,0.6,82.0,liverpool,33.0
-2022-04-27,Champions Lg,Wed,Home,W,2,0,es Villarreal,1.6,0.1,73.0,liverpool,
-2022-04-30,Premier League,Sat,Away,W,1,0,Newcastle Utd,2.4,0.3,64.0,liverpool,34.0
-2022-05-03,Champions Lg,Tue,Away,W,3,2,es Villarreal,2.5,1.2,55.0,liverpool,
-2022-05-07,Premier League,Sat,Home,D,1,1,Tottenham,1.4,1.2,64.0,liverpool,35.0
-2022-05-10,Premier League,Tue,Away,W,2,1,Aston Villa,2.2,1.4,60.0,liverpool,36.0
-2022-05-14,FA Cup,Sat,Away,D,0 (6),0 (5),Chelsea,,,53.0,liverpool,
-2022-05-17,Premier League,Tue,Away,W,2,1,Southampton,1.5,0.1,70.0,liverpool,37.0
-2022-05-22,Premier League,Sun,Home,W,3,1,Wolves,3.1,1.4,63.0,liverpool,38.0
-2022-05-28,Champions Lg,Sat,Neutral,L,0,1,es Real Madrid,2.2,0.9,54.0,liverpool,
-2021-08-15,Premier League,Sun,Home,L,2,4,West Ham,2.1,2.6,46.0,newcastle,1.0
-2021-08-21,Premier League,Sat,Away,L,0,2,Aston Villa,0.9,1.3,53.0,newcastle,2.0
-2021-08-25,EFL Cup,Wed,Home,D,0 (3),0 (4),Burnley,,,54.0,newcastle,
-2021-08-28,Premier League,Sat,Home,D,2,2,Southampton,1.1,3.7,37.0,newcastle,3.0
-2021-09-11,Premier League,Sat,Away,L,1,4,Manchester Utd,0.7,2.6,37.0,newcastle,4.0
-2021-09-17,Premier League,Fri,Home,D,1,1,Leeds United,1.6,1.8,35.0,newcastle,5.0
-2021-09-25,Premier League,Sat,Away,D,1,1,Watford,2.4,1.1,47.0,newcastle,6.0
-2021-10-02,Premier League,Sat,Away,L,1,2,Wolves,0.7,1.1,48.0,newcastle,7.0
-2021-10-17,Premier League,Sun,Home,L,2,3,Tottenham,0.4,1.9,36.0,newcastle,8.0
-2021-10-23,Premier League,Sat,Away,D,1,1,Crystal Palace,0.5,1.8,26.0,newcastle,9.0
-2021-10-30,Premier League,Sat,Home,L,0,3,Chelsea,0.4,2.4,21.0,newcastle,10.0
-2021-11-06,Premier League,Sat,Away,D,1,1,Brighton,0.4,2.0,35.0,newcastle,11.0
-2021-11-20,Premier League,Sat,Home,D,3,3,Brentford,1.9,0.9,53.0,newcastle,12.0
-2021-11-27,Premier League,Sat,Away,L,0,2,Arsenal,0.4,2.8,34.0,newcastle,13.0
-2021-11-30,Premier League,Tue,Home,D,1,1,Norwich City,1.2,1.3,32.0,newcastle,14.0
-2021-12-04,Premier League,Sat,Home,W,1,0,Burnley,1.2,0.8,48.0,newcastle,15.0
-2021-12-12,Premier League,Sun,Away,L,0,4,Leicester City,1.3,2.9,53.0,newcastle,16.0
-2021-12-16,Premier League,Thu,Away,L,1,3,Liverpool,0.3,3.0,26.0,newcastle,17.0
-2021-12-19,Premier League,Sun,Home,L,0,4,Manchester City,0.4,2.9,29.0,newcastle,18.0
-2021-12-27,Premier League,Mon,Home,D,1,1,Manchester Utd,1.2,1.8,32.0,newcastle,19.0
-2022-01-08,FA Cup,Sat,Home,L,0,1,Cambridge Utd,,,58.0,newcastle,
-2022-01-15,Premier League,Sat,Home,D,1,1,Watford,1.3,1.3,52.0,newcastle,20.0
-2022-01-22,Premier League,Sat,Away,W,1,0,Leeds United,1.0,1.3,38.0,newcastle,21.0
-2022-02-08,Premier League,Tue,Home,W,3,1,Everton,2.4,0.8,40.0,newcastle,22.0
-2022-02-13,Premier League,Sun,Home,W,1,0,Aston Villa,0.6,0.8,38.0,newcastle,23.0
-2022-02-19,Premier League,Sat,Away,D,1,1,West Ham,0.9,0.8,53.0,newcastle,24.0
-2022-02-26,Premier League,Sat,Away,W,2,0,Brentford,3.1,0.5,63.0,newcastle,25.0
-2022-03-05,Premier League,Sat,Home,W,2,1,Brighton,1.7,1.7,32.0,newcastle,26.0
-2022-03-10,Premier League,Thu,Away,W,2,1,Southampton,0.7,1.1,33.0,newcastle,27.0
-2022-03-13,Premier League,Sun,Away,L,0,1,Chelsea,0.5,1.0,29.0,newcastle,28.0
-2022-03-17,Premier League,Thu,Away,L,0,1,Everton,1.3,0.6,61.0,newcastle,29.0
-2022-04-03,Premier League,Sun,Away,L,1,5,Tottenham,0.6,3.2,40.0,newcastle,30.0
-2022-04-08,Premier League,Fri,Home,W,1,0,Wolves,1.7,0.3,42.0,newcastle,31.0
-2022-04-17,Premier League,Sun,Home,W,2,1,Leicester City,1.8,0.9,32.0,newcastle,32.0
-2022-04-20,Premier League,Wed,Home,W,1,0,Crystal Palace,1.2,0.6,37.0,newcastle,33.0
-2022-04-23,Premier League,Sat,Away,W,3,0,Norwich City,1.7,0.5,54.0,newcastle,34.0
-2022-04-30,Premier League,Sat,Home,L,0,1,Liverpool,0.3,2.4,36.0,newcastle,35.0
-2022-05-08,Premier League,Sun,Away,L,0,5,Manchester City,0.8,3.3,29.0,newcastle,36.0
-2022-05-16,Premier League,Mon,Home,W,2,0,Arsenal,1.7,0.7,51.0,newcastle,37.0
-2022-05-22,Premier League,Sun,Away,W,2,1,Burnley,1.9,1.8,48.0,newcastle,38.0
-2021-08-14,Premier League,Sat,Home,L,0,3,Liverpool,1.4,1.7,50.0,norwich,1.0
-2021-08-21,Premier League,Sat,Away,L,0,5,Manchester City,0.1,2.7,33.0,norwich,2.0
-2021-08-24,EFL Cup,Tue,Home,W,6,0,Bournemouth,,,49.0,norwich,
-2021-08-28,Premier League,Sat,Home,L,1,2,Leicester City,1.6,1.3,45.0,norwich,3.0
-2021-09-11,Premier League,Sat,Away,L,0,1,Arsenal,0.8,3.2,49.0,norwich,4.0
-2021-09-18,Premier League,Sat,Home,L,1,3,Watford,1.1,2.0,49.0,norwich,5.0
-2021-09-21,EFL Cup,Tue,Home,L,0,3,Liverpool,,,47.0,norwich,
-2021-09-25,Premier League,Sat,Away,L,0,2,Everton,0.7,2.0,53.0,norwich,6.0
-2021-10-02,Premier League,Sat,Away,D,0,0,Burnley,0.5,1.2,44.0,norwich,7.0
-2021-10-16,Premier League,Sat,Home,D,0,0,Brighton,1.6,1.0,36.0,norwich,8.0
-2021-10-23,Premier League,Sat,Away,L,0,7,Chelsea,0.2,3.0,38.0,norwich,9.0
-2021-10-31,Premier League,Sun,Home,L,1,2,Leeds United,0.9,1.2,48.0,norwich,10.0
-2021-11-06,Premier League,Sat,Away,W,2,1,Brentford,1.3,2.6,36.0,norwich,11.0
-2021-11-20,Premier League,Sat,Home,W,2,1,Southampton,0.5,1.3,38.0,norwich,12.0
-2021-11-27,Premier League,Sat,Home,D,0,0,Wolves,1.7,0.3,43.0,norwich,13.0
-2021-11-30,Premier League,Tue,Away,D,1,1,Newcastle Utd,1.3,1.2,68.0,norwich,14.0
-2021-12-05,Premier League,Sun,Away,L,0,3,Tottenham,1.4,2.2,59.0,norwich,15.0
-2021-12-11,Premier League,Sat,Home,L,0,1,Manchester Utd,1.3,2.1,48.0,norwich,16.0
-2021-12-14,Premier League,Tue,Home,L,0,2,Aston Villa,0.6,2.2,50.0,norwich,17.0
-2021-12-26,Premier League,Sun,Home,L,0,5,Arsenal,0.2,2.7,36.0,norwich,18.0
-2021-12-28,Premier League,Tue,Away,L,0,3,Crystal Palace,1.1,2.3,49.0,norwich,19.0
-2022-01-09,FA Cup,Sun,Away,W,1,0,Charlton Ath,,,49.0,norwich,
-2022-01-12,Premier League,Wed,Away,L,0,2,West Ham,0.5,2.5,38.0,norwich,20.0
-2022-01-15,Premier League,Sat,Home,W,2,1,Everton,1.0,0.9,41.0,norwich,21.0
-2022-01-21,Premier League,Fri,Away,W,3,0,Watford,0.9,1.2,33.0,norwich,22.0
-2022-02-05,FA Cup,Sat,Away,W,1,0,Wolves,,,35.0,norwich,
-2022-02-09,Premier League,Wed,Home,D,1,1,Crystal Palace,0.5,1.4,30.0,norwich,23.0
-2022-02-12,Premier League,Sat,Home,L,0,4,Manchester City,0.5,4.9,29.0,norwich,24.0
-2022-02-19,Premier League,Sat,Away,L,1,3,Liverpool,0.7,4.4,31.0,norwich,25.0
-2022-02-25,Premier League,Fri,Away,L,0,2,Southampton,0.5,3.2,42.0,norwich,26.0
-2022-03-02,FA Cup,Wed,Away,L,1,2,Liverpool,,,35.0,norwich,
-2022-03-05,Premier League,Sat,Home,L,1,3,Brentford,1.3,2.0,60.0,norwich,27.0
-2022-03-10,Premier League,Thu,Home,L,1,3,Chelsea,1.1,2.2,34.0,norwich,28.0
-2022-03-13,Premier League,Sun,Away,L,1,2,Leeds United,1.4,2.4,48.0,norwich,29.0
-2022-04-02,Premier League,Sat,Away,D,0,0,Brighton,0.4,2.9,37.0,norwich,30.0
-2022-04-10,Premier League,Sun,Home,W,2,0,Burnley,2.0,1.9,45.0,norwich,31.0
-2022-04-16,Premier League,Sat,Away,L,2,3,Manchester Utd,2.0,2.2,39.0,norwich,32.0
-2022-04-23,Premier League,Sat,Home,L,0,3,Newcastle Utd,0.5,1.7,46.0,norwich,33.0
-2022-04-30,Premier League,Sat,Away,L,0,2,Aston Villa,0.5,2.6,55.0,norwich,34.0
-2022-05-08,Premier League,Sun,Home,L,0,4,West Ham,0.9,3.1,37.0,norwich,35.0
-2022-05-11,Premier League,Wed,Away,L,0,3,Leicester City,1.1,2.2,35.0,norwich,36.0
-2022-05-15,Premier League,Sun,Away,D,1,1,Wolves,1.3,1.0,36.0,norwich,37.0
-2022-05-22,Premier League,Sun,Home,L,0,5,Tottenham,0.5,3.4,41.0,norwich,38.0
-2021-08-14,Premier League,Sat,Away,L,0,3,Chelsea,0.4,0.8,38.0,palace,1.0
-2021-08-21,Premier League,Sat,Home,D,0,0,Brentford,0.8,1.0,53.0,palace,2.0
-2021-08-24,EFL Cup,Tue,Away,L,0,1,Watford,,,66.0,palace,
-2021-08-28,Premier League,Sat,Away,D,2,2,West Ham,1.1,1.9,53.0,palace,3.0
-2021-09-11,Premier League,Sat,Home,W,3,0,Tottenham,2.6,0.1,62.0,palace,4.0
-2021-09-18,Premier League,Sat,Away,L,0,3,Liverpool,1.0,3.3,41.0,palace,5.0
-2021-09-27,Premier League,Mon,Home,D,1,1,Brighton,1.4,0.8,47.0,palace,6.0
-2021-10-03,Premier League,Sun,Home,D,2,2,Leicester City,1.8,1.4,60.0,palace,7.0
-2021-10-18,Premier League,Mon,Away,D,2,2,Arsenal,0.9,1.9,46.0,palace,8.0
-2021-10-23,Premier League,Sat,Home,D,1,1,Newcastle Utd,1.8,0.5,74.0,palace,9.0
-2021-10-30,Premier League,Sat,Away,W,2,0,Manchester City,0.8,1.1,32.0,palace,10.0
-2021-11-06,Premier League,Sat,Home,W,2,0,Wolves,2.2,0.4,60.0,palace,11.0
-2021-11-20,Premier League,Sat,Away,D,3,3,Burnley,2.3,1.6,60.0,palace,12.0
-2021-11-27,Premier League,Sat,Home,L,1,2,Aston Villa,0.8,0.5,64.0,palace,13.0
-2021-11-30,Premier League,Tue,Away,L,0,1,Leeds United,1.3,1.6,39.0,palace,14.0
-2021-12-05,Premier League,Sun,Away,L,0,1,Manchester Utd,0.6,1.1,39.0,palace,15.0
-2021-12-12,Premier League,Sun,Home,W,3,1,Everton,2.2,1.3,61.0,palace,16.0
-2021-12-15,Premier League,Wed,Home,D,2,2,Southampton,1.2,0.9,59.0,palace,17.0
-2021-12-26,Premier League,Sun,Away,L,0,3,Tottenham,0.2,2.3,40.0,palace,18.0
-2021-12-28,Premier League,Tue,Home,W,3,0,Norwich City,2.3,1.1,51.0,palace,19.0
-2022-01-01,Premier League,Sat,Home,L,2,3,West Ham,2.7,2.3,62.0,palace,20.0
-2022-01-08,FA Cup,Sat,Away,W,2,1,Millwall,,,57.0,palace,
-2022-01-14,Premier League,Fri,Away,D,1,1,Brighton,0.4,2.1,37.0,palace,21.0
-2022-01-23,Premier League,Sun,Home,L,1,3,Liverpool,2.4,1.8,43.0,palace,22.0
-2022-02-05,FA Cup,Sat,Home,W,2,0,Hartlepool Utd,,,60.0,palace,
-2022-02-09,Premier League,Wed,Away,D,1,1,Norwich City,1.4,0.5,70.0,palace,23.0
-2022-02-12,Premier League,Sat,Away,D,0,0,Brentford,0.4,1.6,58.0,palace,24.0
-2022-02-19,Premier League,Sat,Home,L,0,1,Chelsea,0.9,1.1,42.0,palace,25.0
-2022-02-23,Premier League,Wed,Away,W,4,1,Watford,1.3,1.2,54.0,palace,26.0
-2022-02-26,Premier League,Sat,Home,D,1,1,Burnley,1.1,0.3,59.0,palace,27.0
-2022-03-01,FA Cup,Tue,Home,W,2,1,Stoke City,,,60.0,palace,
-2022-03-05,Premier League,Sat,Away,W,2,0,Wolves,2.8,0.7,37.0,palace,28.0
-2022-03-14,Premier League,Mon,Home,D,0,0,Manchester City,0.8,2.9,27.0,palace,29.0
-2022-03-20,FA Cup,Sun,Home,W,4,0,Everton,,,53.0,palace,
-2022-04-04,Premier League,Mon,Home,W,3,0,Arsenal,1.7,1.0,32.0,palace,30.0
-2022-04-10,Premier League,Sun,Away,L,1,2,Leicester City,1.6,1.3,49.0,palace,31.0
-2022-04-17,FA Cup,Sun,Away,L,0,2,Chelsea,,,33.0,palace,
-2022-04-20,Premier League,Wed,Away,L,0,1,Newcastle Utd,0.6,1.2,63.0,palace,32.0
-2022-04-25,Premier League,Mon,Home,D,0,0,Leeds United,2.1,0.6,53.0,palace,33.0
-2022-04-30,Premier League,Sat,Away,W,2,1,Southampton,1.6,0.7,62.0,palace,34.0
-2022-05-07,Premier League,Sat,Home,W,1,0,Watford,2.7,0.6,67.0,palace,35.0
-2022-05-15,Premier League,Sun,Away,D,1,1,Aston Villa,1.5,1.0,51.0,palace,36.0
-2022-05-19,Premier League,Thu,Away,L,2,3,Everton,1.4,0.9,57.0,palace,37.0
-2022-05-22,Premier League,Sun,Home,W,1,0,Manchester Utd,0.8,0.9,39.0,palace,38.0
-2021-08-14,Premier League,Sat,Away,L,1,3,Everton,0.9,2.3,52.0,southampton,1.0
-2021-08-22,Premier League,Sun,Home,D,1,1,Manchester Utd,0.7,1.8,37.0,southampton,2.0
-2021-08-25,EFL Cup,Wed,Away,W,8,0,Newport County,,,69.0,southampton,
-2021-08-28,Premier League,Sat,Away,D,2,2,Newcastle Utd,3.7,1.1,63.0,southampton,3.0
-2021-09-11,Premier League,Sat,Home,D,0,0,West Ham,0.8,0.9,42.0,southampton,4.0
-2021-09-18,Premier League,Sat,Away,D,0,0,Manchester City,0.5,1.2,36.0,southampton,5.0
-2021-09-21,EFL Cup,Tue,Away,D,2 (4),2 (2),Sheffield Utd,,,56.0,southampton,
-2021-09-26,Premier League,Sun,Home,L,0,1,Wolves,1.3,0.6,57.0,southampton,6.0
-2021-10-02,Premier League,Sat,Away,L,1,3,Chelsea,1.3,3.4,38.0,southampton,7.0
-2021-10-16,Premier League,Sat,Home,W,1,0,Leeds United,2.3,0.1,46.0,southampton,8.0
-2021-10-23,Premier League,Sat,Home,D,2,2,Burnley,1.9,0.8,61.0,southampton,9.0
-2021-10-26,EFL Cup,Tue,Away,D,1 (3),1 (4),Chelsea,,,37.0,southampton,
-2021-10-30,Premier League,Sat,Away,W,1,0,Watford,2.1,1.0,60.0,southampton,10.0
-2021-11-05,Premier League,Fri,Home,W,1,0,Aston Villa,0.8,0.9,56.0,southampton,11.0
-2021-11-20,Premier League,Sat,Away,L,1,2,Norwich City,1.3,0.5,62.0,southampton,12.0
-2021-11-27,Premier League,Sat,Away,L,0,4,Liverpool,1.0,3.1,36.0,southampton,13.0
-2021-12-01,Premier League,Wed,Home,D,2,2,Leicester City,1.7,2.0,45.0,southampton,14.0
-2021-12-04,Premier League,Sat,Home,D,1,1,Brighton,1.7,1.4,44.0,southampton,15.0
-2021-12-11,Premier League,Sat,Away,L,0,3,Arsenal,0.8,1.9,39.0,southampton,16.0
-2021-12-15,Premier League,Wed,Away,D,2,2,Crystal Palace,0.9,1.2,41.0,southampton,17.0
-2021-12-26,Premier League,Sun,Away,W,3,2,West Ham,1.3,1.9,44.0,southampton,18.0
-2021-12-28,Premier League,Tue,Home,D,1,1,Tottenham,0.5,2.5,35.0,southampton,19.0
-2022-01-08,FA Cup,Sat,Away,W,3,2,Swansea City,,,37.0,southampton,
-2022-01-11,Premier League,Tue,Home,W,4,1,Brentford,1.5,0.6,48.0,southampton,20.0
-2022-01-15,Premier League,Sat,Away,L,1,3,Wolves,0.8,2.5,57.0,southampton,21.0
-2022-01-22,Premier League,Sat,Home,D,1,1,Manchester City,0.7,1.9,26.0,southampton,22.0
-2022-02-05,FA Cup,Sat,Home,W,2,1,Coventry City,,,69.0,southampton,
-2022-02-09,Premier League,Wed,Away,W,3,2,Tottenham,2.3,1.2,52.0,southampton,23.0
-2022-02-12,Premier League,Sat,Away,D,1,1,Manchester Utd,1.1,2.7,47.0,southampton,24.0
-2022-02-19,Premier League,Sat,Home,W,2,0,Everton,2.5,0.3,55.0,southampton,25.0
-2022-02-25,Premier League,Fri,Home,W,2,0,Norwich City,3.2,0.5,58.0,southampton,26.0
-2022-03-02,FA Cup,Wed,Home,W,3,1,West Ham,,,48.0,southampton,
-2022-03-05,Premier League,Sat,Away,L,0,4,Aston Villa,1.1,2.5,62.0,southampton,27.0
-2022-03-10,Premier League,Thu,Home,L,1,2,Newcastle Utd,1.1,0.7,67.0,southampton,28.0
-2022-03-13,Premier League,Sun,Home,L,1,2,Watford,1.7,1.8,63.0,southampton,29.0
-2022-03-20,FA Cup,Sun,Home,L,1,4,Manchester City,,,36.0,southampton,
-2022-04-02,Premier League,Sat,Away,D,1,1,Leeds United,1.5,1.4,44.0,southampton,30.0
-2022-04-09,Premier League,Sat,Home,L,0,6,Chelsea,0.5,4.4,30.0,southampton,31.0
-2022-04-16,Premier League,Sat,Home,W,1,0,Arsenal,0.7,1.8,25.0,southampton,32.0
-2022-04-21,Premier League,Thu,Away,L,0,2,Burnley,1.0,1.8,56.0,southampton,33.0
-2022-04-24,Premier League,Sun,Away,D,2,2,Brighton,1.2,1.8,52.0,southampton,34.0
-2022-04-30,Premier League,Sat,Home,L,1,2,Crystal Palace,0.7,1.6,38.0,southampton,35.0
-2022-05-07,Premier League,Sat,Away,L,0,3,Brentford,1.5,2.8,59.0,southampton,36.0
-2022-05-17,Premier League,Tue,Home,L,1,2,Liverpool,0.1,1.5,30.0,southampton,37.0
-2022-05-22,Premier League,Sun,Away,L,1,4,Leicester City,1.2,3.1,49.0,southampton,38.0
-2021-08-15,Premier League,Sun,Home,W,1,0,Manchester City,1.0,2.0,35.0,tottenham,1.0
-2021-08-19,Conf Lg,Thu,Away,L,0,1,pt Paços,,,,tottenham,
-2021-08-22,Premier League,Sun,Away,W,1,0,Wolves,1.7,1.7,42.0,tottenham,2.0
-2021-08-26,Conf Lg,Thu,Home,W,3,0,pt Paços,,,,tottenham,
-2021-08-29,Premier League,Sun,Home,W,1,0,Watford,1.3,1.1,57.0,tottenham,3.0
-2021-09-11,Premier League,Sat,Away,L,0,3,Crystal Palace,0.1,2.6,38.0,tottenham,4.0
-2021-09-16,Conf Lg,Thu,Away,D,2,2,fr Rennes,1.3,2.0,58.0,tottenham,
-2021-09-19,Premier League,Sun,Home,L,0,3,Chelsea,0.6,2.7,47.0,tottenham,5.0
-2021-09-22,EFL Cup,Wed,Away,D,2 (3),2 (2),Wolves,,,49.0,tottenham,
-2021-09-26,Premier League,Sun,Away,L,1,3,Arsenal,1.0,1.1,54.0,tottenham,6.0
-2021-09-30,Conf Lg,Thu,Home,W,5,1,si NŠ Mura,2.4,0.2,66.0,tottenham,
-2021-10-03,Premier League,Sun,Home,W,2,1,Aston Villa,1.4,1.1,56.0,tottenham,7.0
-2021-10-17,Premier League,Sun,Away,W,3,2,Newcastle Utd,1.9,0.4,64.0,tottenham,8.0
-2021-10-21,Conf Lg,Thu,Away,L,0,1,nl Vitesse,0.4,0.6,53.0,tottenham,
-2021-10-24,Premier League,Sun,Away,L,0,1,West Ham,0.9,1.3,62.0,tottenham,9.0
-2021-10-27,EFL Cup,Wed,Away,W,1,0,Burnley,,,62.0,tottenham,
-2021-10-30,Premier League,Sat,Home,L,0,3,Manchester Utd,0.9,1.1,58.0,tottenham,10.0
-2021-11-04,Conf Lg,Thu,Home,W,3,2,nl Vitesse,2.3,1.0,52.0,tottenham,
-2021-11-07,Premier League,Sun,Away,D,0,0,Everton,1.1,0.8,55.0,tottenham,11.0
-2021-11-21,Premier League,Sun,Home,W,2,1,Leeds United,1.7,1.7,43.0,tottenham,12.0
-2021-11-25,Conf Lg,Thu,Away,L,1,2,si NŠ Mura,1.2,0.5,58.0,tottenham,
-2021-12-02,Premier League,Thu,Home,W,2,0,Brentford,2.2,0.4,47.0,tottenham,13.0
-2021-12-05,Premier League,Sun,Home,W,3,0,Norwich City,2.2,1.4,41.0,tottenham,14.0
-2021-12-09,Conf Lg,Thu,Home,L,0,3,fr Rennes,,,,tottenham,
-2021-12-19,Premier League,Sun,Home,D,2,2,Liverpool,2.6,1.4,44.0,tottenham,15.0
-2021-12-22,EFL Cup,Wed,Home,W,2,1,West Ham,,,43.0,tottenham,
-2021-12-26,Premier League,Sun,Home,W,3,0,Crystal Palace,2.3,0.2,60.0,tottenham,16.0
-2021-12-28,Premier League,Tue,Away,D,1,1,Southampton,2.5,0.5,65.0,tottenham,17.0
-2022-01-01,Premier League,Sat,Away,W,1,0,Watford,2.1,0.3,74.0,tottenham,18.0
-2022-01-05,EFL Cup,Wed,Away,L,0,2,Chelsea,,,36.0,tottenham,
-2022-01-09,FA Cup,Sun,Home,W,3,1,Morecambe,,,79.0,tottenham,
-2022-01-12,EFL Cup,Wed,Home,L,0,1,Chelsea,,,36.0,tottenham,
-2022-01-19,Premier League,Wed,Away,W,3,2,Leicester City,4.1,1.3,51.0,tottenham,19.0
-2022-01-23,Premier League,Sun,Away,L,0,2,Chelsea,0.7,1.3,36.0,tottenham,20.0
-2022-02-05,FA Cup,Sat,Home,W,3,1,Brighton,,,43.0,tottenham,
-2022-02-09,Premier League,Wed,Home,L,2,3,Southampton,1.2,2.3,48.0,tottenham,21.0
-2022-02-13,Premier League,Sun,Home,L,0,2,Wolves,1.8,1.7,58.0,tottenham,22.0
-2022-02-19,Premier League,Sat,Away,W,3,2,Manchester City,1.1,2.6,29.0,tottenham,23.0
-2022-02-23,Premier League,Wed,Away,L,0,1,Burnley,1.0,1.3,66.0,tottenham,24.0
-2022-02-26,Premier League,Sat,Away,W,4,0,Leeds United,2.3,1.9,50.0,tottenham,25.0
-2022-03-01,FA Cup,Tue,Away,L,0,1,Middlesbrough,,,49.0,tottenham,
-2022-03-07,Premier League,Mon,Home,W,5,0,Everton,2.4,0.3,55.0,tottenham,26.0
-2022-03-12,Premier League,Sat,Away,L,2,3,Manchester Utd,1.7,1.0,57.0,tottenham,27.0
-2022-03-16,Premier League,Wed,Away,W,2,0,Brighton,2.9,0.9,52.0,tottenham,28.0
-2022-03-20,Premier League,Sun,Home,W,3,1,West Ham,3.0,0.8,53.0,tottenham,29.0
-2022-04-03,Premier League,Sun,Home,W,5,1,Newcastle Utd,3.2,0.6,60.0,tottenham,30.0
-2022-04-09,Premier League,Sat,Away,W,4,0,Aston Villa,1.2,1.8,48.0,tottenham,31.0
-2022-04-16,Premier League,Sat,Home,L,0,1,Brighton,0.5,0.8,49.0,tottenham,32.0
-2022-04-23,Premier League,Sat,Away,D,0,0,Brentford,0.8,1.0,56.0,tottenham,33.0
-2022-05-01,Premier League,Sun,Home,W,3,1,Leicester City,1.5,0.5,40.0,tottenham,34.0
-2022-05-07,Premier League,Sat,Away,D,1,1,Liverpool,1.2,1.4,36.0,tottenham,35.0
-2022-05-12,Premier League,Thu,Home,W,3,0,Arsenal,3.0,0.6,57.0,tottenham,36.0
-2022-05-15,Premier League,Sun,Home,W,1,0,Burnley,2.3,0.8,68.0,tottenham,37.0
-2022-05-22,Premier League,Sun,Away,W,5,0,Norwich City,3.4,0.5,59.0,tottenham,38.0
-2021-08-14,Premier League,Sat,Home,W,5,1,Leeds United,2.5,0.6,49.0,united,1.0
-2021-08-22,Premier League,Sun,Away,D,1,1,Southampton,1.8,0.7,63.0,united,2.0
-2021-08-29,Premier League,Sun,Away,W,1,0,Wolves,0.7,2.5,56.0,united,3.0
-2021-09-11,Premier League,Sat,Home,W,4,1,Newcastle Utd,2.6,0.7,63.0,united,4.0
-2021-09-14,Champions Lg,Tue,Away,L,1,2,ch Young Boys,0.5,1.4,46.0,united,
-2021-09-19,Premier League,Sun,Away,W,2,1,West Ham,2.0,1.7,60.0,united,5.0
-2021-09-22,EFL Cup,Wed,Home,L,0,1,West Ham,,,61.0,united,
-2021-09-25,Premier League,Sat,Home,L,0,1,Aston Villa,2.5,1.2,59.0,united,6.0
-2021-09-29,Champions Lg,Wed,Home,W,2,1,es Villarreal,1.1,2.3,56.0,united,
-2021-10-02,Premier League,Sat,Home,D,1,1,Everton,1.1,1.4,72.0,united,7.0
-2021-10-16,Premier League,Sat,Away,L,2,4,Leicester City,1.5,3.1,51.0,united,8.0
-2021-10-20,Champions Lg,Wed,Home,W,3,2,it Atalanta,2.8,1.6,56.0,united,
-2021-10-24,Premier League,Sun,Home,L,0,5,Liverpool,1.7,3.2,38.0,united,9.0
-2021-10-30,Premier League,Sat,Away,W,3,0,Tottenham,1.1,0.9,42.0,united,10.0
-2021-11-02,Champions Lg,Tue,Away,D,2,2,it Atalanta,1.1,1.5,53.0,united,
-2021-11-06,Premier League,Sat,Home,L,0,2,Manchester City,0.8,2.3,33.0,united,11.0
-2021-11-20,Premier League,Sat,Away,L,1,4,Watford,1.7,3.2,61.0,united,12.0
-2021-11-23,Champions Lg,Tue,Away,W,2,0,es Villarreal,1.2,0.6,49.0,united,
-2021-11-28,Premier League,Sun,Away,D,1,1,Chelsea,0.7,3.1,35.0,united,13.0
-2021-12-02,Premier League,Thu,Home,W,3,2,Arsenal,1.9,1.7,44.0,united,14.0
-2021-12-05,Premier League,Sun,Home,W,1,0,Crystal Palace,1.1,0.6,61.0,united,15.0
-2021-12-08,Champions Lg,Wed,Home,D,1,1,ch Young Boys,1.2,1.3,49.0,united,
-2021-12-11,Premier League,Sat,Away,W,1,0,Norwich City,2.1,1.3,52.0,united,16.0
-2021-12-27,Premier League,Mon,Away,D,1,1,Newcastle Utd,1.8,1.2,68.0,united,17.0
-2021-12-30,Premier League,Thu,Home,W,3,1,Burnley,2.3,1.0,57.0,united,18.0
-2022-01-03,Premier League,Mon,Home,L,0,1,Wolves,0.9,1.1,51.0,united,19.0
-2022-01-10,FA Cup,Mon,Home,W,1,0,Aston Villa,,,54.0,united,
-2022-01-15,Premier League,Sat,Away,D,2,2,Aston Villa,1.3,1.8,46.0,united,20.0
-2022-01-19,Premier League,Wed,Away,W,3,1,Brentford,2.2,2.5,56.0,united,21.0
-2022-01-22,Premier League,Sat,Home,W,1,0,West Ham,1.9,0.4,57.0,united,22.0
-2022-02-04,FA Cup,Fri,Home,D,1 (7),1 (8),Middlesbrough,,,71.0,united,
-2022-02-08,Premier League,Tue,Away,D,1,1,Burnley,2.4,0.5,63.0,united,23.0
-2022-02-12,Premier League,Sat,Home,D,1,1,Southampton,2.7,1.1,53.0,united,24.0
-2022-02-15,Premier League,Tue,Home,W,2,0,Brighton,1.8,0.9,50.0,united,25.0
-2022-02-20,Premier League,Sun,Away,W,4,2,Leeds United,2.5,1.6,46.0,united,26.0
-2022-02-23,Champions Lg,Wed,Away,D,1,1,es Atlético Madrid,0.6,1.3,62.0,united,
-2022-02-26,Premier League,Sat,Home,D,0,0,Watford,3.2,0.7,67.0,united,27.0
-2022-03-06,Premier League,Sun,Away,L,1,4,Manchester City,0.5,3.1,31.0,united,28.0
-2022-03-12,Premier League,Sat,Home,W,3,2,Tottenham,1.0,1.7,43.0,united,29.0
-2022-03-15,Champions Lg,Tue,Home,L,0,1,es Atlético Madrid,1.0,0.5,60.0,united,
-2022-04-02,Premier League,Sat,Home,D,1,1,Leicester City,1.0,0.9,54.0,united,30.0
-2022-04-09,Premier League,Sat,Away,L,0,1,Everton,1.1,0.5,67.0,united,31.0
-2022-04-16,Premier League,Sat,Home,W,3,2,Norwich City,2.2,2.0,61.0,united,32.0
-2022-04-19,Premier League,Tue,Away,L,0,4,Liverpool,0.1,2.2,29.0,united,33.0
-2022-04-23,Premier League,Sat,Away,L,1,3,Arsenal,2.1,2.4,46.0,united,34.0
-2022-04-28,Premier League,Thu,Home,D,1,1,Chelsea,0.5,2.2,36.0,united,35.0
-2022-05-02,Premier League,Mon,Home,W,3,0,Brentford,2.2,0.6,63.0,united,36.0
-2022-05-07,Premier League,Sat,Away,L,0,4,Brighton,1.2,2.5,58.0,united,37.0
-2022-05-22,Premier League,Sun,Away,L,0,1,Crystal Palace,0.9,0.8,61.0,united,38.0
-2021-08-14,Premier League,Sat,Home,W,3,2,Aston Villa,1.3,1.3,38.0,watford,1.0
-2021-08-21,Premier League,Sat,Away,L,0,2,Brighton,1.0,1.3,44.0,watford,2.0
-2021-08-24,EFL Cup,Tue,Home,W,1,0,Crystal Palace,,,34.0,watford,
-2021-08-29,Premier League,Sun,Away,L,0,1,Tottenham,1.1,1.3,43.0,watford,3.0
-2021-09-11,Premier League,Sat,Home,L,0,2,Wolves,0.3,2.1,45.0,watford,4.0
-2021-09-18,Premier League,Sat,Away,W,3,1,Norwich City,2.0,1.1,51.0,watford,5.0
-2021-09-21,EFL Cup,Tue,Home,L,1,3,Stoke City,,,52.0,watford,
-2021-09-25,Premier League,Sat,Home,D,1,1,Newcastle Utd,1.1,2.4,53.0,watford,6.0
-2021-10-02,Premier League,Sat,Away,L,0,1,Leeds United,0.2,2.1,34.0,watford,7.0
-2021-10-16,Premier League,Sat,Home,L,0,5,Liverpool,0.5,3.6,25.0,watford,8.0
-2021-10-23,Premier League,Sat,Away,W,5,2,Everton,3.3,1.5,51.0,watford,9.0
-2021-10-30,Premier League,Sat,Home,L,0,1,Southampton,1.0,2.1,40.0,watford,10.0
-2021-11-07,Premier League,Sun,Away,L,0,1,Arsenal,0.9,1.9,40.0,watford,11.0
-2021-11-20,Premier League,Sat,Home,W,4,1,Manchester Utd,3.2,1.7,39.0,watford,12.0
-2021-11-28,Premier League,Sun,Away,L,2,4,Leicester City,2.6,2.2,44.0,watford,13.0
-2021-12-01,Premier League,Wed,Home,L,1,2,Chelsea,1.1,1.2,51.0,watford,14.0
-2021-12-04,Premier League,Sat,Home,L,1,3,Manchester City,0.9,3.5,23.0,watford,15.0
-2021-12-10,Premier League,Fri,Away,L,1,2,Brentford,0.7,1.7,37.0,watford,16.0
-2021-12-28,Premier League,Tue,Home,L,1,4,West Ham,1.7,3.5,43.0,watford,17.0
-2022-01-01,Premier League,Sat,Home,L,0,1,Tottenham,0.3,2.1,26.0,watford,18.0
-2022-01-08,FA Cup,Sat,Away,L,1,4,Leicester City,,,48.0,watford,
-2022-01-15,Premier League,Sat,Away,D,1,1,Newcastle Utd,1.3,1.3,48.0,watford,19.0
-2022-01-21,Premier League,Fri,Home,L,0,3,Norwich City,1.2,0.9,67.0,watford,20.0
-2022-02-05,Premier League,Sat,Away,D,0,0,Burnley,1.2,1.0,47.0,watford,21.0
-2022-02-08,Premier League,Tue,Away,L,0,1,West Ham,0.4,0.9,36.0,watford,22.0
-2022-02-12,Premier League,Sat,Home,L,0,2,Brighton,0.6,1.6,36.0,watford,23.0
-2022-02-19,Premier League,Sat,Away,W,1,0,Aston Villa,1.3,1.7,41.0,watford,24.0
-2022-02-23,Premier League,Wed,Home,L,1,4,Crystal Palace,1.2,1.3,46.0,watford,25.0
-2022-02-26,Premier League,Sat,Away,D,0,0,Manchester Utd,0.7,3.2,33.0,watford,26.0
-2022-03-06,Premier League,Sun,Home,L,2,3,Arsenal,1.3,1.4,44.0,watford,27.0
-2022-03-10,Premier League,Thu,Away,L,0,4,Wolves,0.9,0.9,34.0,watford,28.0
-2022-03-13,Premier League,Sun,Away,W,2,1,Southampton,1.8,1.7,37.0,watford,29.0
-2022-04-02,Premier League,Sat,Away,L,0,2,Liverpool,0.9,2.5,27.0,watford,30.0
-2022-04-09,Premier League,Sat,Home,L,0,3,Leeds United,1.1,0.7,49.0,watford,31.0
-2022-04-16,Premier League,Sat,Home,L,1,2,Brentford,1.8,1.8,50.0,watford,32.0
-2022-04-23,Premier League,Sat,Away,L,1,5,Manchester City,0.4,3.9,27.0,watford,33.0
-2022-04-30,Premier League,Sat,Home,L,1,2,Burnley,1.4,2.3,47.0,watford,34.0
-2022-05-07,Premier League,Sat,Away,L,0,1,Crystal Palace,0.6,2.7,33.0,watford,35.0
-2022-05-11,Premier League,Wed,Home,D,0,0,Everton,0.4,1.1,48.0,watford,36.0
-2022-05-15,Premier League,Sun,Home,L,1,5,Leicester City,1.7,2.4,41.0,watford,37.0
-2022-05-22,Premier League,Sun,Away,L,1,2,Chelsea,0.8,2.7,29.0,watford,38.0
-2021-08-15,Premier League,Sun,Away,W,4,2,Newcastle Utd,2.6,2.1,54.0,west-ham,1.0
-2021-08-23,Premier League,Mon,Home,W,4,1,Leicester City,2.8,0.6,52.0,west-ham,2.0
-2021-08-28,Premier League,Sat,Home,D,2,2,Crystal Palace,1.9,1.1,47.0,west-ham,3.0
-2021-09-11,Premier League,Sat,Away,D,0,0,Southampton,0.9,0.8,58.0,west-ham,4.0
-2021-09-16,Europa Lg,Thu,Away,W,2,0,hr Dinamo Zagreb,1.9,0.4,50.0,west-ham,
-2021-09-19,Premier League,Sun,Home,L,1,2,Manchester Utd,1.7,2.0,40.0,west-ham,5.0
-2021-09-22,EFL Cup,Wed,Away,W,1,0,Manchester Utd,,,39.0,west-ham,
-2021-09-25,Premier League,Sat,Away,W,2,1,Leeds United,2.2,1.3,47.0,west-ham,6.0
-2021-09-30,Europa Lg,Thu,Home,W,2,0,at Rapid Wien,2.6,0.5,48.0,west-ham,
-2021-10-03,Premier League,Sun,Home,L,1,2,Brentford,1.7,1.3,59.0,west-ham,7.0
-2021-10-17,Premier League,Sun,Away,W,1,0,Everton,1.4,1.1,61.0,west-ham,8.0
-2021-10-21,Europa Lg,Thu,Home,W,3,0,be Genk,1.4,1.4,63.0,west-ham,
-2021-10-24,Premier League,Sun,Home,W,1,0,Tottenham,1.3,0.9,38.0,west-ham,9.0
-2021-10-27,EFL Cup,Wed,Home,D,0 (5),0 (3),Manchester City,,,36.0,west-ham,
-2021-10-31,Premier League,Sun,Away,W,4,1,Aston Villa,2.7,0.8,57.0,west-ham,10.0
-2021-11-04,Europa Lg,Thu,Away,D,2,2,be Genk,2.6,1.3,50.0,west-ham,
-2021-11-07,Premier League,Sun,Home,W,3,2,Liverpool,0.9,1.5,31.0,west-ham,11.0
-2021-11-20,Premier League,Sat,Away,L,0,1,Wolves,0.6,1.1,48.0,west-ham,12.0
-2021-11-25,Europa Lg,Thu,Away,W,2,0,at Rapid Wien,3.7,0.8,61.0,west-ham,
-2021-11-28,Premier League,Sun,Away,L,1,2,Manchester City,0.2,2.4,32.0,west-ham,13.0
-2021-12-01,Premier League,Wed,Home,D,1,1,Brighton,1.4,1.4,35.0,west-ham,14.0
-2021-12-04,Premier League,Sat,Home,W,3,2,Chelsea,2.2,1.3,37.0,west-ham,15.0
-2021-12-09,Europa Lg,Thu,Home,L,0,1,hr Dinamo Zagreb,0.7,1.1,49.0,west-ham,
-2021-12-12,Premier League,Sun,Away,D,0,0,Burnley,1.0,1.0,60.0,west-ham,16.0
-2021-12-15,Premier League,Wed,Away,L,0,2,Arsenal,0.4,3.1,45.0,west-ham,17.0
-2021-12-22,EFL Cup,Wed,Away,L,1,2,Tottenham,,,58.0,west-ham,
-2021-12-26,Premier League,Sun,Home,L,2,3,Southampton,1.9,1.3,56.0,west-ham,18.0
-2021-12-28,Premier League,Tue,Away,W,4,1,Watford,3.5,1.7,57.0,west-ham,19.0
-2022-01-01,Premier League,Sat,Away,W,3,2,Crystal Palace,2.3,2.7,38.0,west-ham,20.0
-2022-01-09,FA Cup,Sun,Home,W,2,0,Leeds United,,,48.0,west-ham,
-2022-01-12,Premier League,Wed,Home,W,2,0,Norwich City,2.5,0.5,62.0,west-ham,21.0
-2022-01-16,Premier League,Sun,Home,L,2,3,Leeds United,2.5,2.6,48.0,west-ham,22.0
-2022-01-22,Premier League,Sat,Away,L,0,1,Manchester Utd,0.4,1.9,43.0,west-ham,23.0
-2022-02-05,FA Cup,Sat,Away,W,2,1,Kidderminster,,,73.0,west-ham,
-2022-02-08,Premier League,Tue,Home,W,1,0,Watford,0.9,0.4,64.0,west-ham,24.0
-2022-02-13,Premier League,Sun,Away,D,2,2,Leicester City,1.0,1.6,45.0,west-ham,25.0
-2022-02-19,Premier League,Sat,Home,D,1,1,Newcastle Utd,0.8,0.9,47.0,west-ham,26.0
-2022-02-27,Premier League,Sun,Home,W,1,0,Wolves,1.8,0.9,39.0,west-ham,27.0
-2022-03-02,FA Cup,Wed,Away,L,1,3,Southampton,,,52.0,west-ham,
-2022-03-05,Premier League,Sat,Away,L,0,1,Liverpool,1.2,2.6,32.0,west-ham,28.0
-2022-03-10,Europa Lg,Thu,Away,L,0,1,es Sevilla,1.1,1.4,44.0,west-ham,
-2022-03-13,Premier League,Sun,Home,W,2,1,Aston Villa,1.5,1.2,47.0,west-ham,29.0
-2022-03-17,Europa Lg,Thu,Home,W,2,0,es Sevilla,2.4,1.1,45.0,west-ham,
-2022-03-20,Premier League,Sun,Away,L,1,3,Tottenham,0.8,3.0,47.0,west-ham,30.0
-2022-04-03,Premier League,Sun,Home,W,2,1,Everton,1.7,0.8,55.0,west-ham,31.0
-2022-04-07,Europa Lg,Thu,Home,D,1,1,fr Lyon,0.4,2.9,29.0,west-ham,
-2022-04-10,Premier League,Sun,Away,L,0,2,Brentford,0.4,1.5,53.0,west-ham,32.0
-2022-04-14,Europa Lg,Thu,Away,W,3,0,fr Lyon,1.3,1.7,33.0,west-ham,
-2022-04-17,Premier League,Sun,Home,D,1,1,Burnley,2.5,1.3,61.0,west-ham,33.0
-2022-04-24,Premier League,Sun,Away,L,0,1,Chelsea,0.7,2.9,34.0,west-ham,34.0
-2022-04-28,Europa Lg,Thu,Home,L,1,2,de Eint Frankfurt,2.4,1.6,54.0,west-ham,
-2022-05-01,Premier League,Sun,Home,L,1,2,Arsenal,0.6,0.9,57.0,west-ham,35.0
-2022-05-05,Europa Lg,Thu,Away,L,0,1,de Eint Frankfurt,1.6,1.1,37.0,west-ham,
-2022-05-08,Premier League,Sun,Away,W,4,0,Norwich City,3.1,0.9,63.0,west-ham,36.0
-2022-05-15,Premier League,Sun,Home,D,2,2,Manchester City,1.8,2.9,22.0,west-ham,37.0
-2022-05-22,Premier League,Sun,Away,L,1,3,Brighton,0.4,1.9,50.0,west-ham,38.0
-2021-08-14,Premier League,Sat,Away,L,0,1,Leicester City,1.5,0.7,44.0,wolves,1.0
-2021-08-22,Premier League,Sun,Home,L,0,1,Tottenham,1.7,1.7,58.0,wolves,2.0
-2021-08-24,EFL Cup,Tue,Away,W,4,0,Nott'ham Forest,,,74.0,wolves,
-2021-08-29,Premier League,Sun,Home,L,0,1,Manchester Utd,2.5,0.7,44.0,wolves,3.0
-2021-09-11,Premier League,Sat,Away,W,2,0,Watford,2.1,0.3,55.0,wolves,4.0
-2021-09-18,Premier League,Sat,Home,L,0,2,Brentford,0.7,2.5,62.0,wolves,5.0
-2021-09-22,EFL Cup,Wed,Home,D,2 (2),2 (3),Tottenham,,,51.0,wolves,
-2021-09-26,Premier League,Sun,Away,W,1,0,Southampton,0.6,1.3,43.0,wolves,6.0
-2021-10-02,Premier League,Sat,Home,W,2,1,Newcastle Utd,1.1,0.7,52.0,wolves,7.0
-2021-10-16,Premier League,Sat,Away,W,3,2,Aston Villa,1.9,1.2,52.0,wolves,8.0
-2021-10-23,Premier League,Sat,Away,D,1,1,Leeds United,1.0,1.9,38.0,wolves,9.0
-2021-11-01,Premier League,Mon,Home,W,2,1,Everton,1.6,1.6,61.0,wolves,10.0
-2021-11-06,Premier League,Sat,Away,L,0,2,Crystal Palace,0.4,2.2,40.0,wolves,11.0
-2021-11-20,Premier League,Sat,Home,W,1,0,West Ham,1.1,0.6,52.0,wolves,12.0
-2021-11-27,Premier League,Sat,Away,D,0,0,Norwich City,0.3,1.7,57.0,wolves,13.0
-2021-12-01,Premier League,Wed,Home,D,0,0,Burnley,0.9,0.2,65.0,wolves,14.0
-2021-12-04,Premier League,Sat,Home,L,0,1,Liverpool,0.1,2.6,34.0,wolves,15.0
-2021-12-11,Premier League,Sat,Away,L,0,1,Manchester City,0.1,3.5,29.0,wolves,16.0
-2021-12-15,Premier League,Wed,Away,W,1,0,Brighton,1.2,1.4,41.0,wolves,17.0
-2021-12-19,Premier League,Sun,Home,D,0,0,Chelsea,0.3,1.0,37.0,wolves,18.0
-2022-01-03,Premier League,Mon,Away,W,1,0,Manchester Utd,1.1,0.9,49.0,wolves,19.0
-2022-01-09,FA Cup,Sun,Home,W,3,0,Sheffield Utd,,,50.0,wolves,
-2022-01-15,Premier League,Sat,Home,W,3,1,Southampton,2.5,0.8,43.0,wolves,20.0
-2022-01-22,Premier League,Sat,Away,W,2,1,Brentford,0.3,1.4,50.0,wolves,21.0
-2022-02-05,FA Cup,Sat,Home,L,0,1,Norwich City,,,65.0,wolves,
-2022-02-10,Premier League,Thu,Home,L,0,1,Arsenal,0.9,1.9,58.0,wolves,22.0
-2022-02-13,Premier League,Sun,Away,W,2,0,Tottenham,1.7,1.8,42.0,wolves,23.0
-2022-02-20,Premier League,Sun,Home,W,2,1,Leicester City,1.3,1.7,37.0,wolves,24.0
-2022-02-24,Premier League,Thu,Away,L,1,2,Arsenal,1.3,3.6,44.0,wolves,25.0
-2022-02-27,Premier League,Sun,Away,L,0,1,West Ham,0.9,1.8,61.0,wolves,26.0
-2022-03-05,Premier League,Sat,Home,L,0,2,Crystal Palace,0.7,2.8,63.0,wolves,27.0
-2022-03-10,Premier League,Thu,Home,W,4,0,Watford,0.9,0.9,66.0,wolves,28.0
-2022-03-13,Premier League,Sun,Away,W,1,0,Everton,1.0,0.4,61.0,wolves,29.0
-2022-03-18,Premier League,Fri,Home,L,2,3,Leeds United,1.1,2.2,48.0,wolves,30.0
-2022-04-02,Premier League,Sat,Home,W,2,1,Aston Villa,1.4,2.0,49.0,wolves,31.0
-2022-04-08,Premier League,Fri,Away,L,0,1,Newcastle Utd,0.3,1.7,58.0,wolves,32.0
-2022-04-24,Premier League,Sun,Away,L,0,1,Burnley,0.7,1.6,64.0,wolves,33.0
-2022-04-30,Premier League,Sat,Home,L,0,3,Brighton,0.8,2.8,49.0,wolves,34.0
-2022-05-07,Premier League,Sat,Away,D,2,2,Chelsea,2.1,2.4,41.0,wolves,35.0
-2022-05-11,Premier League,Wed,Home,L,1,5,Manchester City,0.5,2.8,34.0,wolves,36.0
-2022-05-15,Premier League,Sun,Home,D,1,1,Norwich City,1.0,1.3,64.0,wolves,37.0
-2022-05-22,Premier League,Sun,Away,L,1,3,Liverpool,1.4,3.1,37.0,wolves,38.0
+Date,Comp,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,team
+2021-08-13,Premier League,Fri,Away,L,0,2,Brentford,1.6,1.6,64.0,arsenal
+2021-08-22,Premier League,Sun,Home,L,0,2,Chelsea,0.3,3.0,35.0,arsenal
+2021-08-25,EFL Cup,Wed,Away,W,6,0,West Brom,,,75.0,arsenal
+2021-08-28,Premier League,Sat,Away,L,0,5,Manchester City,0.2,4.0,20.0,arsenal
+2021-09-11,Premier League,Sat,Home,W,1,0,Norwich City,3.2,0.8,51.0,arsenal
+2021-09-18,Premier League,Sat,Away,W,1,0,Burnley,1.0,1.3,54.0,arsenal
+2021-09-22,EFL Cup,Wed,Home,W,3,0,AFC Wimbledon,,,62.0,arsenal
+2021-09-26,Premier League,Sun,Home,W,3,1,Tottenham,1.1,1.0,46.0,arsenal
+2021-10-02,Premier League,Sat,Away,D,0,0,Brighton,0.6,1.6,42.0,arsenal
+2021-10-18,Premier League,Mon,Home,D,2,2,Crystal Palace,1.9,0.9,54.0,arsenal
+2021-10-22,Premier League,Fri,Home,W,3,1,Aston Villa,3.1,1.4,53.0,arsenal
+2021-10-26,EFL Cup,Tue,Home,W,2,0,Leeds United,,,45.0,arsenal
+2021-10-30,Premier League,Sat,Away,W,2,0,Leicester City,0.9,1.4,36.0,arsenal
+2021-11-07,Premier League,Sun,Home,W,1,0,Watford,1.9,0.9,60.0,arsenal
+2021-11-20,Premier League,Sat,Away,L,0,4,Liverpool,0.6,3.8,38.0,arsenal
+2021-11-27,Premier League,Sat,Home,W,2,0,Newcastle Utd,2.8,0.4,66.0,arsenal
+2021-12-02,Premier League,Thu,Away,L,2,3,Manchester Utd,1.7,1.9,56.0,arsenal
+2021-12-06,Premier League,Mon,Away,L,1,2,Everton,1.3,1.1,63.0,arsenal
+2021-12-11,Premier League,Sat,Home,W,3,0,Southampton,1.9,0.8,61.0,arsenal
+2021-12-15,Premier League,Wed,Home,W,2,0,West Ham,3.1,0.4,55.0,arsenal
+2021-12-18,Premier League,Sat,Away,W,4,1,Leeds United,3.4,1.6,49.0,arsenal
+2021-12-21,EFL Cup,Tue,Home,W,5,1,Sunderland,,,68.0,arsenal
+2021-12-26,Premier League,Sun,Away,W,5,0,Norwich City,2.7,0.2,64.0,arsenal
+2022-01-01,Premier League,Sat,Home,L,1,2,Manchester City,0.9,2.2,29.0,arsenal
+2022-01-09,FA Cup,Sun,Away,L,0,1,Nott'ham Forest,,,67.0,arsenal
+2022-01-13,EFL Cup,Thu,Away,D,0,0,Liverpool,,,22.0,arsenal
+2022-01-20,EFL Cup,Thu,Home,L,0,2,Liverpool,,,46.0,arsenal
+2022-01-23,Premier League,Sun,Home,D,0,0,Burnley,1.5,0.7,75.0,arsenal
+2022-02-10,Premier League,Thu,Away,W,1,0,Wolves,1.9,0.9,42.0,arsenal
+2022-02-19,Premier League,Sat,Home,W,2,1,Brentford,2.2,0.9,66.0,arsenal
+2022-02-24,Premier League,Thu,Home,W,2,1,Wolves,3.6,1.3,56.0,arsenal
+2022-03-06,Premier League,Sun,Away,W,3,2,Watford,1.4,1.3,56.0,arsenal
+2022-03-13,Premier League,Sun,Home,W,2,0,Leicester City,2.8,0.5,46.0,arsenal
+2022-03-16,Premier League,Wed,Home,L,0,2,Liverpool,0.7,1.6,49.0,arsenal
+2022-03-19,Premier League,Sat,Away,W,1,0,Aston Villa,1.5,0.5,53.0,arsenal
+2022-04-04,Premier League,Mon,Away,L,0,3,Crystal Palace,1.0,1.7,68.0,arsenal
+2022-04-09,Premier League,Sat,Home,L,1,2,Brighton,2.0,0.8,64.0,arsenal
+2022-04-16,Premier League,Sat,Away,L,0,1,Southampton,1.8,0.7,75.0,arsenal
+2022-04-20,Premier League,Wed,Away,W,4,2,Chelsea,1.8,1.1,33.0,arsenal
+2022-04-23,Premier League,Sat,Home,W,3,1,Manchester Utd,2.4,2.1,54.0,arsenal
+2022-05-01,Premier League,Sun,Away,W,2,1,West Ham,0.9,0.6,43.0,arsenal
+2022-05-08,Premier League,Sun,Home,W,2,1,Leeds United,2.5,0.5,64.0,arsenal
+2022-05-12,Premier League,Thu,Away,L,0,3,Tottenham,0.6,3.0,43.0,arsenal
+2022-05-16,Premier League,Mon,Away,L,0,2,Newcastle Utd,0.7,1.7,49.0,arsenal
+2022-05-22,Premier League,Sun,Home,W,5,1,Everton,4.1,1.1,73.0,arsenal
+2021-08-14,Premier League,Sat,Away,L,2,3,Watford,1.3,1.3,62.0,aston-villa
+2021-08-21,Premier League,Sat,Home,W,2,0,Newcastle Utd,1.3,0.9,47.0,aston-villa
+2021-08-24,EFL Cup,Tue,Away,W,6,0,Barrow,,,68.0,aston-villa
+2021-08-28,Premier League,Sat,Home,D,1,1,Brentford,0.8,1.0,46.0,aston-villa
+2021-09-11,Premier League,Sat,Away,L,0,3,Chelsea,1.3,1.0,43.0,aston-villa
+2021-09-18,Premier League,Sat,Home,W,3,0,Everton,1.0,1.0,55.0,aston-villa
+2021-09-22,EFL Cup,Wed,Away,D,1 (3),1 (4),Chelsea,,,32.0,aston-villa
+2021-09-25,Premier League,Sat,Away,W,1,0,Manchester Utd,1.2,2.5,41.0,aston-villa
+2021-10-03,Premier League,Sun,Away,L,1,2,Tottenham,1.1,1.4,44.0,aston-villa
+2021-10-16,Premier League,Sat,Home,L,2,3,Wolves,1.2,1.9,48.0,aston-villa
+2021-10-22,Premier League,Fri,Away,L,1,3,Arsenal,1.4,3.1,47.0,aston-villa
+2021-10-31,Premier League,Sun,Home,L,1,4,West Ham,0.8,2.7,43.0,aston-villa
+2021-11-05,Premier League,Fri,Away,L,0,1,Southampton,0.9,0.8,44.0,aston-villa
+2021-11-20,Premier League,Sat,Home,W,2,0,Brighton,0.8,0.5,38.0,aston-villa
+2021-11-27,Premier League,Sat,Away,W,2,1,Crystal Palace,0.5,0.8,36.0,aston-villa
+2021-12-01,Premier League,Wed,Home,L,1,2,Manchester City,0.9,1.2,36.0,aston-villa
+2021-12-05,Premier League,Sun,Home,W,2,1,Leicester City,2.3,1.2,41.0,aston-villa
+2021-12-11,Premier League,Sat,Away,L,0,1,Liverpool,0.2,2.6,38.0,aston-villa
+2021-12-14,Premier League,Tue,Away,W,2,0,Norwich City,2.2,0.6,50.0,aston-villa
+2021-12-26,Premier League,Sun,Home,L,1,3,Chelsea,0.6,2.7,42.0,aston-villa
+2022-01-02,Premier League,Sun,Away,L,1,2,Brentford,1.2,0.8,55.0,aston-villa
+2022-01-10,FA Cup,Mon,Away,L,0,1,Manchester Utd,,,46.0,aston-villa
+2022-01-15,Premier League,Sat,Home,D,2,2,Manchester Utd,1.8,1.3,54.0,aston-villa
+2022-01-22,Premier League,Sat,Away,W,1,0,Everton,0.7,1.7,50.0,aston-villa
+2022-02-09,Premier League,Wed,Home,D,3,3,Leeds United,2.1,1.8,40.0,aston-villa
+2022-02-13,Premier League,Sun,Away,L,0,1,Newcastle Utd,0.8,0.6,62.0,aston-villa
+2022-02-19,Premier League,Sat,Home,L,0,1,Watford,1.7,1.3,59.0,aston-villa
+2022-02-26,Premier League,Sat,Away,W,2,0,Brighton,1.0,0.9,34.0,aston-villa
+2022-03-05,Premier League,Sat,Home,W,4,0,Southampton,2.5,1.1,38.0,aston-villa
+2022-03-10,Premier League,Thu,Away,W,3,0,Leeds United,1.3,0.2,49.0,aston-villa
+2022-03-13,Premier League,Sun,Away,L,1,2,West Ham,1.2,1.5,53.0,aston-villa
+2022-03-19,Premier League,Sat,Home,L,0,1,Arsenal,0.5,1.5,47.0,aston-villa
+2022-04-02,Premier League,Sat,Away,L,1,2,Wolves,2.0,1.4,51.0,aston-villa
+2022-04-09,Premier League,Sat,Home,L,0,4,Tottenham,1.8,1.2,52.0,aston-villa
+2022-04-23,Premier League,Sat,Away,D,0,0,Leicester City,1.2,0.3,36.0,aston-villa
+2022-04-30,Premier League,Sat,Home,W,2,0,Norwich City,2.6,0.5,45.0,aston-villa
+2022-05-07,Premier League,Sat,Away,W,3,1,Burnley,1.6,2.0,51.0,aston-villa
+2022-05-10,Premier League,Tue,Home,L,1,2,Liverpool,1.4,2.2,40.0,aston-villa
+2022-05-15,Premier League,Sun,Home,D,1,1,Crystal Palace,1.0,1.5,49.0,aston-villa
+2022-05-19,Premier League,Thu,Home,D,1,1,Burnley,1.6,1.8,71.0,aston-villa
+2022-05-22,Premier League,Sun,Away,L,2,3,Manchester City,0.3,3.7,29.0,aston-villa
+2021-08-13,Premier League,Fri,Home,W,2,0,Arsenal,1.6,1.6,36.0,brentford
+2021-08-21,Premier League,Sat,Away,D,0,0,Crystal Palace,1.0,0.8,47.0,brentford
+2021-08-24,EFL Cup,Tue,Home,W,3,1,FG Rovers,,,57.0,brentford
+2021-08-28,Premier League,Sat,Away,D,1,1,Aston Villa,1.0,0.8,54.0,brentford
+2021-09-11,Premier League,Sat,Home,L,0,1,Brighton,0.4,0.3,41.0,brentford
+2021-09-18,Premier League,Sat,Away,W,2,0,Wolves,2.5,0.7,38.0,brentford
+2021-09-21,EFL Cup,Tue,Home,W,7,0,Oldham Athletic,,,72.0,brentford
+2021-09-25,Premier League,Sat,Home,D,3,3,Liverpool,2.2,2.6,33.0,brentford
+2021-10-03,Premier League,Sun,Away,W,2,1,West Ham,1.3,1.7,41.0,brentford
+2021-10-16,Premier League,Sat,Home,L,0,1,Chelsea,1.5,0.4,45.0,brentford
+2021-10-24,Premier League,Sun,Home,L,1,2,Leicester City,1.4,1.5,54.0,brentford
+2021-10-27,EFL Cup,Wed,Away,W,2,1,Stoke City,,,54.0,brentford
+2021-10-30,Premier League,Sat,Away,L,1,3,Burnley,0.9,2.5,59.0,brentford
+2021-11-06,Premier League,Sat,Home,L,1,2,Norwich City,2.6,1.3,64.0,brentford
+2021-11-20,Premier League,Sat,Away,D,3,3,Newcastle Utd,0.9,1.9,47.0,brentford
+2021-11-28,Premier League,Sun,Home,W,1,0,Everton,1.3,1.3,40.0,brentford
+2021-12-02,Premier League,Thu,Away,L,0,2,Tottenham,0.4,2.2,53.0,brentford
+2021-12-05,Premier League,Sun,Away,D,2,2,Leeds United,1.0,1.1,37.0,brentford
+2021-12-10,Premier League,Fri,Home,W,2,1,Watford,1.7,0.7,63.0,brentford
+2021-12-22,EFL Cup,Wed,Home,L,0,2,Chelsea,,,33.0,brentford
+2021-12-26,Premier League,Sun,Away,L,0,2,Brighton,1.0,1.1,50.0,brentford
+2021-12-29,Premier League,Wed,Home,L,0,1,Manchester City,0.6,1.0,24.0,brentford
+2022-01-02,Premier League,Sun,Home,W,2,1,Aston Villa,0.8,1.2,45.0,brentford
+2022-01-08,FA Cup,Sat,Away,W,4,1,Port Vale,,,55.0,brentford
+2022-01-11,Premier League,Tue,Away,L,1,4,Southampton,0.6,1.5,52.0,brentford
+2022-01-16,Premier League,Sun,Away,L,0,3,Liverpool,0.7,3.2,32.0,brentford
+2022-01-19,Premier League,Wed,Home,L,1,3,Manchester Utd,2.5,2.2,44.0,brentford
+2022-01-22,Premier League,Sat,Home,L,1,2,Wolves,1.4,0.3,50.0,brentford
+2022-02-05,FA Cup,Sat,Away,L,1,4,Everton,,,44.0,brentford
+2022-02-09,Premier League,Wed,Away,L,0,2,Manchester City,0.6,1.8,26.0,brentford
+2022-02-12,Premier League,Sat,Home,D,0,0,Crystal Palace,1.6,0.4,42.0,brentford
+2022-02-19,Premier League,Sat,Away,L,1,2,Arsenal,0.9,2.2,34.0,brentford
+2022-02-26,Premier League,Sat,Home,L,0,2,Newcastle Utd,0.5,3.1,37.0,brentford
+2022-03-05,Premier League,Sat,Away,W,3,1,Norwich City,2.0,1.3,40.0,brentford
+2022-03-12,Premier League,Sat,Home,W,2,0,Burnley,2.0,0.6,55.0,brentford
+2022-03-20,Premier League,Sun,Away,L,1,2,Leicester City,1.7,1.0,48.0,brentford
+2022-04-02,Premier League,Sat,Away,W,4,1,Chelsea,2.2,1.7,30.0,brentford
+2022-04-10,Premier League,Sun,Home,W,2,0,West Ham,1.5,0.4,47.0,brentford
+2022-04-16,Premier League,Sat,Away,W,2,1,Watford,1.8,1.8,50.0,brentford
+2022-04-23,Premier League,Sat,Home,D,0,0,Tottenham,1.0,0.8,44.0,brentford
+2022-05-02,Premier League,Mon,Away,L,0,3,Manchester Utd,0.6,2.2,37.0,brentford
+2022-05-07,Premier League,Sat,Home,W,3,0,Southampton,2.8,1.5,41.0,brentford
+2022-05-15,Premier League,Sun,Away,W,3,2,Everton,1.6,2.0,72.0,brentford
+2022-05-22,Premier League,Sun,Home,L,1,2,Leeds United,1.2,1.4,49.0,brentford
+2021-08-14,Premier League,Sat,Away,W,2,1,Burnley,1.4,1.4,63.0,brighton
+2021-08-21,Premier League,Sat,Home,W,2,0,Watford,1.3,1.0,56.0,brighton
+2021-08-24,EFL Cup,Tue,Away,W,2,0,Cardiff City,,,54.0,brighton
+2021-08-28,Premier League,Sat,Home,L,0,2,Everton,1.0,1.7,65.0,brighton
+2021-09-11,Premier League,Sat,Away,W,1,0,Brentford,0.3,0.4,59.0,brighton
+2021-09-19,Premier League,Sun,Home,W,2,1,Leicester City,1.7,1.5,37.0,brighton
+2021-09-22,EFL Cup,Wed,Home,W,2,0,Swansea City,,,53.0,brighton
+2021-09-27,Premier League,Mon,Away,D,1,1,Crystal Palace,0.8,1.4,53.0,brighton
+2021-10-02,Premier League,Sat,Home,D,0,0,Arsenal,1.6,0.6,58.0,brighton
+2021-10-16,Premier League,Sat,Away,D,0,0,Norwich City,1.0,1.6,64.0,brighton
+2021-10-23,Premier League,Sat,Home,L,1,4,Manchester City,1.4,4.0,48.0,brighton
+2021-10-27,EFL Cup,Wed,Away,D,2 (2),2 (4),Leicester City,,,57.0,brighton
+2021-10-30,Premier League,Sat,Away,D,2,2,Liverpool,1.1,1.5,42.0,brighton
+2021-11-06,Premier League,Sat,Home,D,1,1,Newcastle Utd,2.0,0.4,65.0,brighton
+2021-11-20,Premier League,Sat,Away,L,0,2,Aston Villa,0.5,0.8,62.0,brighton
+2021-11-27,Premier League,Sat,Home,D,0,0,Leeds United,2.5,0.9,57.0,brighton
+2021-12-01,Premier League,Wed,Away,D,1,1,West Ham,1.4,1.4,65.0,brighton
+2021-12-04,Premier League,Sat,Away,D,1,1,Southampton,1.4,1.7,56.0,brighton
+2021-12-15,Premier League,Wed,Home,L,0,1,Wolves,1.4,1.2,59.0,brighton
+2021-12-26,Premier League,Sun,Home,W,2,0,Brentford,1.1,1.0,50.0,brighton
+2021-12-29,Premier League,Wed,Away,D,1,1,Chelsea,1.4,1.1,53.0,brighton
+2022-01-02,Premier League,Sun,Away,W,3,2,Everton,1.7,1.9,50.0,brighton
+2022-01-08,FA Cup,Sat,Away,W,2,1,West Brom,,,70.0,brighton
+2022-01-14,Premier League,Fri,Home,D,1,1,Crystal Palace,2.1,0.4,63.0,brighton
+2022-01-18,Premier League,Tue,Home,D,1,1,Chelsea,1.0,0.8,44.0,brighton
+2022-01-23,Premier League,Sun,Away,D,1,1,Leicester City,1.5,1.7,56.0,brighton
+2022-02-05,FA Cup,Sat,Away,L,1,3,Tottenham,,,57.0,brighton
+2022-02-12,Premier League,Sat,Away,W,2,0,Watford,1.6,0.6,64.0,brighton
+2022-02-15,Premier League,Tue,Away,L,0,2,Manchester Utd,0.9,1.8,50.0,brighton
+2022-02-19,Premier League,Sat,Home,L,0,3,Burnley,0.8,1.0,68.0,brighton
+2022-02-26,Premier League,Sat,Home,L,0,2,Aston Villa,0.9,1.0,66.0,brighton
+2022-03-05,Premier League,Sat,Away,L,1,2,Newcastle Utd,1.7,1.7,68.0,brighton
+2022-03-12,Premier League,Sat,Home,L,0,2,Liverpool,0.6,2.3,52.0,brighton
+2022-03-16,Premier League,Wed,Home,L,0,2,Tottenham,0.9,2.9,48.0,brighton
+2022-04-02,Premier League,Sat,Home,D,0,0,Norwich City,2.9,0.4,63.0,brighton
+2022-04-09,Premier League,Sat,Away,W,2,1,Arsenal,0.8,2.0,36.0,brighton
+2022-04-16,Premier League,Sat,Away,W,1,0,Tottenham,0.8,0.5,51.0,brighton
+2022-04-20,Premier League,Wed,Away,L,0,3,Manchester City,0.2,1.6,35.0,brighton
+2022-04-24,Premier League,Sun,Home,D,2,2,Southampton,1.8,1.2,48.0,brighton
+2022-04-30,Premier League,Sat,Away,W,3,0,Wolves,2.8,0.8,51.0,brighton
+2022-05-07,Premier League,Sat,Home,W,4,0,Manchester Utd,2.5,1.2,42.0,brighton
+2022-05-15,Premier League,Sun,Away,D,1,1,Leeds United,2.4,1.9,50.0,brighton
+2022-05-22,Premier League,Sun,Home,W,3,1,West Ham,1.9,0.4,50.0,brighton
+2021-08-14,Premier League,Sat,Home,L,1,2,Brighton,1.4,1.4,37.0,burnley
+2021-08-21,Premier League,Sat,Away,L,0,2,Liverpool,1.0,2.8,35.0,burnley
+2021-08-25,EFL Cup,Wed,Away,D,0 (4),0 (3),Newcastle Utd,,,46.0,burnley
+2021-08-29,Premier League,Sun,Home,D,1,1,Leeds United,1.1,1.6,36.0,burnley
+2021-09-13,Premier League,Mon,Away,L,1,3,Everton,1.3,1.4,48.0,burnley
+2021-09-18,Premier League,Sat,Home,L,0,1,Arsenal,1.3,1.0,46.0,burnley
+2021-09-21,EFL Cup,Tue,Home,W,4,1,Rochdale,,,53.0,burnley
+2021-09-25,Premier League,Sat,Away,D,2,2,Leicester City,0.5,2.6,34.0,burnley
+2021-10-02,Premier League,Sat,Home,D,0,0,Norwich City,1.2,0.5,56.0,burnley
+2021-10-16,Premier League,Sat,Away,L,0,2,Manchester City,0.8,2.2,30.0,burnley
+2021-10-23,Premier League,Sat,Away,D,2,2,Southampton,0.8,1.9,39.0,burnley
+2021-10-27,EFL Cup,Wed,Home,L,0,1,Tottenham,,,38.0,burnley
+2021-10-30,Premier League,Sat,Home,W,3,1,Brentford,2.5,0.9,41.0,burnley
+2021-11-06,Premier League,Sat,Away,D,1,1,Chelsea,0.6,2.3,30.0,burnley
+2021-11-20,Premier League,Sat,Home,D,3,3,Crystal Palace,1.6,2.3,40.0,burnley
+2021-12-01,Premier League,Wed,Away,D,0,0,Wolves,0.2,0.9,35.0,burnley
+2021-12-04,Premier League,Sat,Away,L,0,1,Newcastle Utd,0.8,1.2,52.0,burnley
+2021-12-12,Premier League,Sun,Home,D,0,0,West Ham,1.0,1.0,40.0,burnley
+2021-12-30,Premier League,Thu,Away,L,1,3,Manchester Utd,1.0,2.3,43.0,burnley
+2022-01-02,Premier League,Sun,Away,L,1,3,Leeds United,0.9,2.0,45.0,burnley
+2022-01-08,FA Cup,Sat,Home,L,1,2,Huddersfield,,,49.0,burnley
+2022-01-23,Premier League,Sun,Away,D,0,0,Arsenal,0.7,1.5,25.0,burnley
+2022-02-05,Premier League,Sat,Home,D,0,0,Watford,1.0,1.2,53.0,burnley
+2022-02-08,Premier League,Tue,Home,D,1,1,Manchester Utd,0.5,2.4,37.0,burnley
+2022-02-13,Premier League,Sun,Home,L,0,1,Liverpool,1.0,1.8,34.0,burnley
+2022-02-19,Premier League,Sat,Away,W,3,0,Brighton,1.0,0.8,32.0,burnley
+2022-02-23,Premier League,Wed,Home,W,1,0,Tottenham,1.3,1.0,34.0,burnley
+2022-02-26,Premier League,Sat,Away,D,1,1,Crystal Palace,0.3,1.1,41.0,burnley
+2022-03-01,Premier League,Tue,Home,L,0,2,Leicester City,1.1,1.8,45.0,burnley
+2022-03-05,Premier League,Sat,Home,L,0,4,Chelsea,0.9,2.2,28.0,burnley
+2022-03-12,Premier League,Sat,Away,L,0,2,Brentford,0.6,2.0,45.0,burnley
+2022-04-02,Premier League,Sat,Home,L,0,2,Manchester City,0.1,2.0,24.0,burnley
+2022-04-06,Premier League,Wed,Home,W,3,2,Everton,2.0,2.8,52.0,burnley
+2022-04-10,Premier League,Sun,Away,L,0,2,Norwich City,1.9,2.0,55.0,burnley
+2022-04-17,Premier League,Sun,Away,D,1,1,West Ham,1.3,2.5,39.0,burnley
+2022-04-21,Premier League,Thu,Home,W,2,0,Southampton,1.8,1.0,44.0,burnley
+2022-04-24,Premier League,Sun,Home,W,1,0,Wolves,1.6,0.7,36.0,burnley
+2022-04-30,Premier League,Sat,Away,W,2,1,Watford,2.3,1.4,53.0,burnley
+2022-05-07,Premier League,Sat,Home,L,1,3,Aston Villa,2.0,1.6,49.0,burnley
+2022-05-15,Premier League,Sun,Away,L,0,1,Tottenham,0.8,2.3,32.0,burnley
+2022-05-19,Premier League,Thu,Away,D,1,1,Aston Villa,1.8,1.6,29.0,burnley
+2022-05-22,Premier League,Sun,Home,L,1,2,Newcastle Utd,1.8,1.9,52.0,burnley
+2021-08-11,Super Cup,Wed,Home,D,1 (6),1 (5),es Villarreal,,,62.0,chelsea
+2021-08-14,Premier League,Sat,Home,W,3,0,Crystal Palace,0.8,0.4,62.0,chelsea
+2021-08-22,Premier League,Sun,Away,W,2,0,Arsenal,3.0,0.3,65.0,chelsea
+2021-08-28,Premier League,Sat,Away,D,1,1,Liverpool,0.7,2.4,35.0,chelsea
+2021-09-11,Premier League,Sat,Home,W,3,0,Aston Villa,1.0,1.3,57.0,chelsea
+2021-09-14,Champions Lg,Tue,Home,W,1,0,ru Zenit,0.7,0.9,66.0,chelsea
+2021-09-19,Premier League,Sun,Away,W,3,0,Tottenham,2.7,0.6,53.0,chelsea
+2021-09-22,EFL Cup,Wed,Home,D,1 (4),1 (3),Aston Villa,,,68.0,chelsea
+2021-09-25,Premier League,Sat,Home,L,0,1,Manchester City,0.2,1.4,41.0,chelsea
+2021-09-29,Champions Lg,Wed,Away,L,0,1,it Juventus,1.3,0.9,72.0,chelsea
+2021-10-02,Premier League,Sat,Home,W,3,1,Southampton,3.4,1.3,62.0,chelsea
+2021-10-16,Premier League,Sat,Away,W,1,0,Brentford,0.4,1.5,55.0,chelsea
+2021-10-20,Champions Lg,Wed,Home,W,4,0,se Malmö,2.6,0.1,72.0,chelsea
+2021-10-23,Premier League,Sat,Home,W,7,0,Norwich City,3.0,0.2,62.0,chelsea
+2021-10-26,EFL Cup,Tue,Home,D,1 (4),1 (3),Southampton,,,63.0,chelsea
+2021-10-30,Premier League,Sat,Away,W,3,0,Newcastle Utd,2.4,0.4,79.0,chelsea
+2021-11-02,Champions Lg,Tue,Away,W,1,0,se Malmö,2.5,0.2,72.0,chelsea
+2021-11-06,Premier League,Sat,Home,D,1,1,Burnley,2.3,0.6,70.0,chelsea
+2021-11-20,Premier League,Sat,Away,W,3,0,Leicester City,2.1,0.3,61.0,chelsea
+2021-11-23,Champions Lg,Tue,Home,W,4,0,it Juventus,3.0,0.7,54.0,chelsea
+2021-11-28,Premier League,Sun,Home,D,1,1,Manchester Utd,3.1,0.7,65.0,chelsea
+2021-12-01,Premier League,Wed,Away,W,2,1,Watford,1.2,1.1,49.0,chelsea
+2021-12-04,Premier League,Sat,Away,L,2,3,West Ham,1.3,2.2,63.0,chelsea
+2021-12-08,Champions Lg,Wed,Away,D,3,3,ru Zenit,2.7,2.6,54.0,chelsea
+2021-12-11,Premier League,Sat,Home,W,3,2,Leeds United,2.6,1.8,57.0,chelsea
+2021-12-16,Premier League,Thu,Home,D,1,1,Everton,3.0,0.5,80.0,chelsea
+2021-12-19,Premier League,Sun,Away,D,0,0,Wolves,1.0,0.3,63.0,chelsea
+2021-12-22,EFL Cup,Wed,Away,W,2,0,Brentford,,,67.0,chelsea
+2021-12-26,Premier League,Sun,Away,W,3,1,Aston Villa,2.7,0.6,58.0,chelsea
+2021-12-29,Premier League,Wed,Home,D,1,1,Brighton,1.1,1.4,47.0,chelsea
+2022-01-02,Premier League,Sun,Home,D,2,2,Liverpool,1.5,1.7,54.0,chelsea
+2022-01-05,EFL Cup,Wed,Home,W,2,0,Tottenham,,,64.0,chelsea
+2022-01-08,FA Cup,Sat,Home,W,5,1,Chesterfield,,,67.0,chelsea
+2022-01-12,EFL Cup,Wed,Away,W,1,0,Tottenham,,,64.0,chelsea
+2022-01-15,Premier League,Sat,Away,L,0,1,Manchester City,0.4,0.9,44.0,chelsea
+2022-01-18,Premier League,Tue,Away,D,1,1,Brighton,0.8,1.0,56.0,chelsea
+2022-01-23,Premier League,Sun,Home,W,2,0,Tottenham,1.3,0.7,64.0,chelsea
+2022-02-05,FA Cup,Sat,Home,W,2,1,Plymouth Argyle,,,72.0,chelsea
+2022-02-19,Premier League,Sat,Away,W,1,0,Crystal Palace,1.1,0.9,58.0,chelsea
+2022-02-22,Champions Lg,Tue,Home,W,2,0,fr Lille,1.2,0.8,50.0,chelsea
+2022-02-27,EFL Cup,Sun,Home,D,0 (10),0 (11),Liverpool,,,46.0,chelsea
+2022-03-02,FA Cup,Wed,Away,W,3,2,Luton Town,,,75.0,chelsea
+2022-03-05,Premier League,Sat,Away,W,4,0,Burnley,2.2,0.9,72.0,chelsea
+2022-03-10,Premier League,Thu,Away,W,3,1,Norwich City,2.2,1.1,66.0,chelsea
+2022-03-13,Premier League,Sun,Home,W,1,0,Newcastle Utd,1.0,0.5,71.0,chelsea
+2022-03-16,Champions Lg,Wed,Away,W,2,1,fr Lille,1.0,1.7,56.0,chelsea
+2022-03-19,FA Cup,Sat,Away,W,2,0,Middlesbrough,,,61.0,chelsea
+2022-04-02,Premier League,Sat,Home,L,1,4,Brentford,1.7,2.2,70.0,chelsea
+2022-04-06,Champions Lg,Wed,Home,L,1,3,es Real Madrid,1.3,1.8,57.0,chelsea
+2022-04-09,Premier League,Sat,Away,W,6,0,Southampton,4.4,0.5,70.0,chelsea
+2022-04-12,Champions Lg,Tue,Away,W,3,2,es Real Madrid,2.7,1.2,57.0,chelsea
+2022-04-17,FA Cup,Sun,Home,W,2,0,Crystal Palace,,,67.0,chelsea
+2022-04-20,Premier League,Wed,Home,L,2,4,Arsenal,1.1,1.8,67.0,chelsea
+2022-04-24,Premier League,Sun,Home,W,1,0,West Ham,2.9,0.7,66.0,chelsea
+2022-04-28,Premier League,Thu,Away,D,1,1,Manchester Utd,2.2,0.5,64.0,chelsea
+2022-05-01,Premier League,Sun,Away,L,0,1,Everton,1.2,2.0,77.0,chelsea
+2022-05-07,Premier League,Sat,Home,D,2,2,Wolves,2.4,2.1,59.0,chelsea
+2022-05-11,Premier League,Wed,Away,W,3,0,Leeds United,1.6,0.4,67.0,chelsea
+2022-05-14,FA Cup,Sat,Home,D,0 (5),0 (6),Liverpool,,,47.0,chelsea
+2022-05-19,Premier League,Thu,Home,D,1,1,Leicester City,1.8,0.1,67.0,chelsea
+2022-05-22,Premier League,Sun,Home,W,2,1,Watford,2.7,0.8,71.0,chelsea
+2021-08-07,Community Shield,Sat,Neutral,L,0,1,Leicester City,,,57.0,city
+2021-08-15,Premier League,Sun,Away,L,0,1,Tottenham,2.0,1.0,65.0,city
+2021-08-21,Premier League,Sat,Home,W,5,0,Norwich City,2.7,0.1,67.0,city
+2021-08-28,Premier League,Sat,Home,W,5,0,Arsenal,4.0,0.2,80.0,city
+2021-09-11,Premier League,Sat,Away,W,1,0,Leicester City,3.3,0.6,61.0,city
+2021-09-15,Champions Lg,Wed,Home,W,6,3,de RB Leipzig,2.3,1.3,50.0,city
+2021-09-18,Premier League,Sat,Home,D,0,0,Southampton,1.2,0.5,64.0,city
+2021-09-21,EFL Cup,Tue,Home,W,6,1,Wycombe,,,79.0,city
+2021-09-25,Premier League,Sat,Away,W,1,0,Chelsea,1.4,0.2,59.0,city
+2021-09-28,Champions Lg,Tue,Away,L,0,2,fr Paris S-G,1.9,0.4,54.0,city
+2021-10-03,Premier League,Sun,Away,D,2,2,Liverpool,1.7,0.8,51.0,city
+2021-10-16,Premier League,Sat,Home,W,2,0,Burnley,2.2,0.8,70.0,city
+2021-10-19,Champions Lg,Tue,Away,W,5,1,be Club Brugge,4.7,0.6,63.0,city
+2021-10-23,Premier League,Sat,Away,W,4,1,Brighton,4.0,1.4,52.0,city
+2021-10-27,EFL Cup,Wed,Away,D,0 (3),0 (5),West Ham,,,64.0,city
+2021-10-30,Premier League,Sat,Home,L,0,2,Crystal Palace,1.1,0.8,68.0,city
+2021-11-03,Champions Lg,Wed,Home,W,4,1,be Club Brugge,4.6,0.8,70.0,city
+2021-11-06,Premier League,Sat,Away,W,2,0,Manchester Utd,2.3,0.8,67.0,city
+2021-11-21,Premier League,Sun,Home,W,3,0,Everton,2.6,0.2,77.0,city
+2021-11-24,Champions Lg,Wed,Home,W,2,1,fr Paris S-G,2.1,1.0,54.0,city
+2021-11-28,Premier League,Sun,Home,W,2,1,West Ham,2.4,0.2,68.0,city
+2021-12-01,Premier League,Wed,Away,W,2,1,Aston Villa,1.2,0.9,64.0,city
+2021-12-04,Premier League,Sat,Away,W,3,1,Watford,3.5,0.9,77.0,city
+2021-12-07,Champions Lg,Tue,Away,L,1,2,de RB Leipzig,1.2,1.7,56.0,city
+2021-12-11,Premier League,Sat,Home,W,1,0,Wolves,3.5,0.1,71.0,city
+2021-12-14,Premier League,Tue,Home,W,7,0,Leeds United,3.2,0.3,63.0,city
+2021-12-19,Premier League,Sun,Away,W,4,0,Newcastle Utd,2.9,0.4,71.0,city
+2021-12-26,Premier League,Sun,Home,W,6,3,Leicester City,3.9,2.4,72.0,city
+2021-12-29,Premier League,Wed,Away,W,1,0,Brentford,1.0,0.6,76.0,city
+2022-01-01,Premier League,Sat,Away,W,2,1,Arsenal,2.2,0.9,71.0,city
+2022-01-07,FA Cup,Fri,Away,W,4,1,Swindon Town,,,77.0,city
+2022-01-15,Premier League,Sat,Home,W,1,0,Chelsea,0.9,0.4,56.0,city
+2022-01-22,Premier League,Sat,Away,D,1,1,Southampton,1.9,0.7,74.0,city
+2022-02-05,FA Cup,Sat,Home,W,4,1,Fulham,,,61.0,city
+2022-02-09,Premier League,Wed,Home,W,2,0,Brentford,1.8,0.6,74.0,city
+2022-02-12,Premier League,Sat,Away,W,4,0,Norwich City,4.9,0.5,71.0,city
+2022-02-15,Champions Lg,Tue,Away,W,5,0,pt Sporting CP,2.1,0.1,63.0,city
+2022-02-19,Premier League,Sat,Home,L,2,3,Tottenham,2.6,1.1,71.0,city
+2022-02-26,Premier League,Sat,Away,W,1,0,Everton,1.9,0.5,67.0,city
+2022-03-01,FA Cup,Tue,Away,W,2,0,P'borough Utd,,,76.0,city
+2022-03-06,Premier League,Sun,Home,W,4,1,Manchester Utd,3.1,0.5,69.0,city
+2022-03-09,Champions Lg,Wed,Home,D,0,0,pt Sporting CP,1.5,0.8,68.0,city
+2022-03-14,Premier League,Mon,Away,D,0,0,Crystal Palace,2.9,0.8,73.0,city
+2022-03-20,FA Cup,Sun,Away,W,4,1,Southampton,,,65.0,city
+2022-04-02,Premier League,Sat,Away,W,2,0,Burnley,2.0,0.1,76.0,city
+2022-04-05,Champions Lg,Tue,Home,W,1,0,es Atlético Madrid,1.0,0.0,70.0,city
+2022-04-10,Premier League,Sun,Home,D,2,2,Liverpool,1.6,1.2,55.0,city
+2022-04-13,Champions Lg,Wed,Away,D,0,0,es Atlético Madrid,1.2,0.8,59.0,city
+2022-04-16,FA Cup,Sat,Home,L,2,3,Liverpool,,,49.0,city
+2022-04-20,Premier League,Wed,Home,W,3,0,Brighton,1.6,0.2,65.0,city
+2022-04-23,Premier League,Sat,Home,W,5,1,Watford,3.9,0.4,73.0,city
+2022-04-26,Champions Lg,Tue,Home,W,4,3,es Real Madrid,2.7,1.6,59.0,city
+2022-04-30,Premier League,Sat,Away,W,4,0,Leeds United,2.5,1.3,58.0,city
+2022-05-04,Champions Lg,Wed,Away,L,1,3,es Real Madrid,1.4,2.3,55.0,city
+2022-05-08,Premier League,Sun,Home,W,5,0,Newcastle Utd,3.3,0.8,71.0,city
+2022-05-11,Premier League,Wed,Away,W,5,1,Wolves,2.8,0.5,66.0,city
+2022-05-15,Premier League,Sun,Away,D,2,2,West Ham,2.9,1.8,78.0,city
+2022-05-22,Premier League,Sun,Home,W,3,2,Aston Villa,3.7,0.3,71.0,city
+2021-08-14,Premier League,Sat,Home,W,3,1,Southampton,2.3,0.9,48.0,everton
+2021-08-21,Premier League,Sat,Away,D,2,2,Leeds United,2.0,1.4,31.0,everton
+2021-08-24,EFL Cup,Tue,Away,W,2,1,Huddersfield,,,48.0,everton
+2021-08-28,Premier League,Sat,Away,W,2,0,Brighton,1.7,1.0,35.0,everton
+2021-09-13,Premier League,Mon,Home,W,3,1,Burnley,1.4,1.3,52.0,everton
+2021-09-18,Premier League,Sat,Away,L,0,3,Aston Villa,1.0,1.0,45.0,everton
+2021-09-21,EFL Cup,Tue,Away,D,2 (7),2 (8),QPR,,,39.0,everton
+2021-09-25,Premier League,Sat,Home,W,2,0,Norwich City,2.0,0.7,47.0,everton
+2021-10-02,Premier League,Sat,Away,D,1,1,Manchester Utd,1.4,1.1,28.0,everton
+2021-10-17,Premier League,Sun,Home,L,0,1,West Ham,1.1,1.4,39.0,everton
+2021-10-23,Premier League,Sat,Home,L,2,5,Watford,1.5,3.3,49.0,everton
+2021-11-01,Premier League,Mon,Away,L,1,2,Wolves,1.6,1.6,39.0,everton
+2021-11-07,Premier League,Sun,Home,D,0,0,Tottenham,0.8,1.1,45.0,everton
+2021-11-21,Premier League,Sun,Away,L,0,3,Manchester City,0.2,2.6,23.0,everton
+2021-11-28,Premier League,Sun,Away,L,0,1,Brentford,1.3,1.3,60.0,everton
+2021-12-01,Premier League,Wed,Home,L,1,4,Liverpool,1.3,2.7,33.0,everton
+2021-12-06,Premier League,Mon,Home,W,2,1,Arsenal,1.1,1.3,37.0,everton
+2021-12-12,Premier League,Sun,Away,L,1,3,Crystal Palace,1.3,2.2,39.0,everton
+2021-12-16,Premier League,Thu,Away,D,1,1,Chelsea,0.5,3.0,20.0,everton
+2022-01-02,Premier League,Sun,Home,L,2,3,Brighton,1.9,1.7,50.0,everton
+2022-01-08,FA Cup,Sat,Away,W,3,2,Hull City,,,48.0,everton
+2022-01-15,Premier League,Sat,Away,L,1,2,Norwich City,0.9,1.0,59.0,everton
+2022-01-22,Premier League,Sat,Home,L,0,1,Aston Villa,1.7,0.7,50.0,everton
+2022-02-05,FA Cup,Sat,Home,W,4,1,Brentford,,,56.0,everton
+2022-02-08,Premier League,Tue,Away,L,1,3,Newcastle Utd,0.8,2.4,60.0,everton
+2022-02-12,Premier League,Sat,Home,W,3,0,Leeds United,2.7,0.4,42.0,everton
+2022-02-19,Premier League,Sat,Away,L,0,2,Southampton,0.3,2.5,45.0,everton
+2022-02-26,Premier League,Sat,Home,L,0,1,Manchester City,0.5,1.9,33.0,everton
+2022-03-03,FA Cup,Thu,Home,W,2,0,Boreham Wood,,,80.0,everton
+2022-03-07,Premier League,Mon,Away,L,0,5,Tottenham,0.3,2.4,45.0,everton
+2022-03-13,Premier League,Sun,Home,L,0,1,Wolves,0.4,1.0,39.0,everton
+2022-03-17,Premier League,Thu,Home,W,1,0,Newcastle Utd,0.6,1.3,39.0,everton
+2022-03-20,FA Cup,Sun,Away,L,0,4,Crystal Palace,,,48.0,everton
+2022-04-03,Premier League,Sun,Away,L,1,2,West Ham,0.8,1.7,45.0,everton
+2022-04-06,Premier League,Wed,Away,L,2,3,Burnley,2.8,2.0,48.0,everton
+2022-04-09,Premier League,Sat,Home,W,1,0,Manchester Utd,0.5,1.1,33.0,everton
+2022-04-20,Premier League,Wed,Home,D,1,1,Leicester City,2.0,1.2,37.0,everton
+2022-04-24,Premier League,Sun,Away,L,0,2,Liverpool,0.6,1.9,18.0,everton
+2022-05-01,Premier League,Sun,Home,W,1,0,Chelsea,2.0,1.2,23.0,everton
+2022-05-08,Premier League,Sun,Away,W,2,1,Leicester City,1.1,1.2,34.0,everton
+2022-05-11,Premier League,Wed,Away,D,0,0,Watford,1.1,0.4,52.0,everton
+2022-05-15,Premier League,Sun,Home,L,2,3,Brentford,2.0,1.6,28.0,everton
+2022-05-19,Premier League,Thu,Home,W,3,2,Crystal Palace,0.9,1.4,43.0,everton
+2022-05-22,Premier League,Sun,Away,L,1,5,Arsenal,1.1,4.1,27.0,everton
+2021-08-14,Premier League,Sat,Away,L,1,5,Manchester Utd,0.6,2.5,51.0,leeds
+2021-08-21,Premier League,Sat,Home,D,2,2,Everton,1.4,2.0,69.0,leeds
+2021-08-24,EFL Cup,Tue,Home,W,3,0,Crewe Alexandra,,,73.0,leeds
+2021-08-29,Premier League,Sun,Away,D,1,1,Burnley,1.6,1.1,64.0,leeds
+2021-09-12,Premier League,Sun,Home,L,0,3,Liverpool,1.1,4.4,44.0,leeds
+2021-09-17,Premier League,Fri,Away,D,1,1,Newcastle Utd,1.8,1.6,65.0,leeds
+2021-09-21,EFL Cup,Tue,Away,D,0 (6),0 (5),Fulham,,,62.0,leeds
+2021-09-25,Premier League,Sat,Home,L,1,2,West Ham,1.3,2.2,53.0,leeds
+2021-10-02,Premier League,Sat,Home,W,1,0,Watford,2.1,0.2,66.0,leeds
+2021-10-16,Premier League,Sat,Away,L,0,1,Southampton,0.1,2.3,54.0,leeds
+2021-10-23,Premier League,Sat,Home,D,1,1,Wolves,1.9,1.0,62.0,leeds
+2021-10-26,EFL Cup,Tue,Away,L,0,2,Arsenal,,,56.0,leeds
+2021-10-31,Premier League,Sun,Away,W,2,1,Norwich City,1.2,0.9,52.0,leeds
+2021-11-07,Premier League,Sun,Home,D,1,1,Leicester City,1.6,0.9,56.0,leeds
+2021-11-21,Premier League,Sun,Away,L,1,2,Tottenham,1.7,1.7,57.0,leeds
+2021-11-27,Premier League,Sat,Away,D,0,0,Brighton,0.9,2.5,43.0,leeds
+2021-11-30,Premier League,Tue,Home,W,1,0,Crystal Palace,1.6,1.3,61.0,leeds
+2021-12-05,Premier League,Sun,Home,D,2,2,Brentford,1.1,1.0,63.0,leeds
+2021-12-11,Premier League,Sat,Away,L,2,3,Chelsea,1.8,2.6,43.0,leeds
+2021-12-14,Premier League,Tue,Away,L,0,7,Manchester City,0.3,3.2,37.0,leeds
+2021-12-18,Premier League,Sat,Home,L,1,4,Arsenal,1.6,3.4,51.0,leeds
+2022-01-02,Premier League,Sun,Home,W,3,1,Burnley,2.0,0.9,55.0,leeds
+2022-01-09,FA Cup,Sun,Away,L,0,2,West Ham,,,52.0,leeds
+2022-01-16,Premier League,Sun,Away,W,3,2,West Ham,2.6,2.5,52.0,leeds
+2022-01-22,Premier League,Sat,Home,L,0,1,Newcastle Utd,1.3,1.0,62.0,leeds
+2022-02-09,Premier League,Wed,Away,D,3,3,Aston Villa,1.8,2.1,60.0,leeds
+2022-02-12,Premier League,Sat,Away,L,0,3,Everton,0.4,2.7,58.0,leeds
+2022-02-20,Premier League,Sun,Home,L,2,4,Manchester Utd,1.6,2.5,54.0,leeds
+2022-02-23,Premier League,Wed,Away,L,0,6,Liverpool,0.2,5.4,37.0,leeds
+2022-02-26,Premier League,Sat,Home,L,0,4,Tottenham,1.9,2.3,50.0,leeds
+2022-03-05,Premier League,Sat,Away,L,0,1,Leicester City,2.0,0.5,49.0,leeds
+2022-03-10,Premier League,Thu,Home,L,0,3,Aston Villa,0.2,1.3,51.0,leeds
+2022-03-13,Premier League,Sun,Home,W,2,1,Norwich City,2.4,1.4,52.0,leeds
+2022-03-18,Premier League,Fri,Away,W,3,2,Wolves,2.2,1.1,52.0,leeds
+2022-04-02,Premier League,Sat,Home,D,1,1,Southampton,1.4,1.5,56.0,leeds
+2022-04-09,Premier League,Sat,Away,W,3,0,Watford,0.7,1.1,51.0,leeds
+2022-04-25,Premier League,Mon,Away,D,0,0,Crystal Palace,0.6,2.1,47.0,leeds
+2022-04-30,Premier League,Sat,Home,L,0,4,Manchester City,1.3,2.5,42.0,leeds
+2022-05-08,Premier League,Sun,Away,L,1,2,Arsenal,0.5,2.5,36.0,leeds
+2022-05-11,Premier League,Wed,Home,L,0,3,Chelsea,0.4,1.6,33.0,leeds
+2022-05-15,Premier League,Sun,Home,D,1,1,Brighton,1.9,2.4,50.0,leeds
+2022-05-22,Premier League,Sun,Away,W,2,1,Brentford,1.4,1.2,51.0,leeds
+2021-08-07,Community Shield,Sat,Neutral,W,1,0,Manchester City,,,43.0,leicester
+2021-08-14,Premier League,Sat,Home,W,1,0,Wolves,0.7,1.5,56.0,leicester
+2021-08-23,Premier League,Mon,Away,L,1,4,West Ham,0.6,2.8,48.0,leicester
+2021-08-28,Premier League,Sat,Away,W,2,1,Norwich City,1.3,1.6,55.0,leicester
+2021-09-11,Premier League,Sat,Home,L,0,1,Manchester City,0.6,3.3,39.0,leicester
+2021-09-16,Europa Lg,Thu,Home,D,2,2,it Napoli,0.7,2.1,46.0,leicester
+2021-09-19,Premier League,Sun,Away,L,1,2,Brighton,1.5,1.7,63.0,leicester
+2021-09-22,EFL Cup,Wed,Away,W,2,0,Millwall,,,71.0,leicester
+2021-09-25,Premier League,Sat,Home,D,2,2,Burnley,2.6,0.5,66.0,leicester
+2021-09-30,Europa Lg,Thu,Away,L,0,1,pl Legia Warsaw,1.9,0.9,63.0,leicester
+2021-10-03,Premier League,Sun,Away,D,2,2,Crystal Palace,1.4,1.8,40.0,leicester
+2021-10-16,Premier League,Sat,Home,W,4,2,Manchester Utd,3.1,1.5,49.0,leicester
+2021-10-20,Europa Lg,Wed,Away,W,4,3,ru Spartak Moscow,3.2,1.5,57.0,leicester
+2021-10-24,Premier League,Sun,Away,W,2,1,Brentford,1.5,1.4,46.0,leicester
+2021-10-27,EFL Cup,Wed,Home,D,2 (4),2 (2),Brighton,,,43.0,leicester
+2021-10-30,Premier League,Sat,Home,L,0,2,Arsenal,1.4,0.9,64.0,leicester
+2021-11-04,Europa Lg,Thu,Home,D,1,1,ru Spartak Moscow,1.8,0.3,77.0,leicester
+2021-11-07,Premier League,Sun,Away,D,1,1,Leeds United,0.9,1.6,44.0,leicester
+2021-11-20,Premier League,Sat,Home,L,0,3,Chelsea,0.3,2.1,39.0,leicester
+2021-11-25,Europa Lg,Thu,Home,W,3,1,pl Legia Warsaw,1.8,1.3,58.0,leicester
+2021-11-28,Premier League,Sun,Home,W,4,2,Watford,2.2,2.6,56.0,leicester
+2021-12-01,Premier League,Wed,Away,D,2,2,Southampton,2.0,1.7,55.0,leicester
+2021-12-05,Premier League,Sun,Away,L,1,2,Aston Villa,1.2,2.3,59.0,leicester
+2021-12-09,Europa Lg,Thu,Away,L,2,3,it Napoli,2.0,1.6,53.0,leicester
+2021-12-12,Premier League,Sun,Home,W,4,0,Newcastle Utd,2.9,1.3,47.0,leicester
+2021-12-22,EFL Cup,Wed,Away,D,3 (4),3 (5),Liverpool,,,34.0,leicester
+2021-12-26,Premier League,Sun,Away,L,3,6,Manchester City,2.4,3.9,28.0,leicester
+2021-12-28,Premier League,Tue,Home,W,1,0,Liverpool,0.6,2.7,37.0,leicester
+2022-01-08,FA Cup,Sat,Home,W,4,1,Watford,,,52.0,leicester
+2022-01-19,Premier League,Wed,Home,L,2,3,Tottenham,1.3,4.1,49.0,leicester
+2022-01-23,Premier League,Sun,Home,D,1,1,Brighton,1.7,1.5,44.0,leicester
+2022-02-06,FA Cup,Sun,Away,L,1,4,Nott'ham Forest,,,62.0,leicester
+2022-02-10,Premier League,Thu,Away,L,0,2,Liverpool,0.6,2.2,36.0,leicester
+2022-02-13,Premier League,Sun,Home,D,2,2,West Ham,1.6,1.0,55.0,leicester
+2022-02-17,Conf Lg,Thu,Home,W,4,1,dk Randers,4.4,0.6,65.0,leicester
+2022-02-20,Premier League,Sun,Away,L,1,2,Wolves,1.7,1.3,63.0,leicester
+2022-02-24,Conf Lg,Thu,Away,W,3,1,dk Randers,0.7,3.3,55.0,leicester
+2022-03-01,Premier League,Tue,Away,W,2,0,Burnley,1.8,1.1,55.0,leicester
+2022-03-05,Premier League,Sat,Home,W,1,0,Leeds United,0.5,2.0,51.0,leicester
+2022-03-10,Conf Lg,Thu,Home,W,2,0,fr Rennes,1.1,1.2,50.0,leicester
+2022-03-13,Premier League,Sun,Away,L,0,2,Arsenal,0.5,2.8,54.0,leicester
+2022-03-17,Conf Lg,Thu,Away,L,1,2,fr Rennes,1.1,1.9,32.0,leicester
+2022-03-20,Premier League,Sun,Home,W,2,1,Brentford,1.0,1.7,52.0,leicester
+2022-04-02,Premier League,Sat,Away,D,1,1,Manchester Utd,0.9,1.0,46.0,leicester
+2022-04-07,Conf Lg,Thu,Home,D,0,0,nl PSV Eindhoven,0.8,0.5,58.0,leicester
+2022-04-10,Premier League,Sun,Home,W,2,1,Crystal Palace,1.3,1.6,51.0,leicester
+2022-04-14,Conf Lg,Thu,Away,W,2,1,nl PSV Eindhoven,2.7,1.1,57.0,leicester
+2022-04-17,Premier League,Sun,Away,L,1,2,Newcastle Utd,0.9,1.8,68.0,leicester
+2022-04-20,Premier League,Wed,Away,D,1,1,Everton,1.2,2.0,63.0,leicester
+2022-04-23,Premier League,Sat,Home,D,0,0,Aston Villa,0.3,1.2,64.0,leicester
+2022-04-28,Conf Lg,Thu,Home,D,1,1,it Roma,1.6,0.5,67.0,leicester
+2022-05-01,Premier League,Sun,Away,L,1,3,Tottenham,0.5,1.5,60.0,leicester
+2022-05-05,Conf Lg,Thu,Away,L,0,1,it Roma,0.5,0.9,63.0,leicester
+2022-05-08,Premier League,Sun,Home,L,1,2,Everton,1.2,1.1,66.0,leicester
+2022-05-11,Premier League,Wed,Home,W,3,0,Norwich City,2.2,1.1,65.0,leicester
+2022-05-15,Premier League,Sun,Away,W,5,1,Watford,2.4,1.7,59.0,leicester
+2022-05-19,Premier League,Thu,Away,D,1,1,Chelsea,0.1,1.8,33.0,leicester
+2022-05-22,Premier League,Sun,Home,W,4,1,Southampton,3.1,1.2,51.0,leicester
+2021-08-14,Premier League,Sat,Away,W,3,0,Norwich City,1.7,1.4,50.0,liverpool
+2021-08-21,Premier League,Sat,Home,W,2,0,Burnley,2.8,1.0,65.0,liverpool
+2021-08-28,Premier League,Sat,Home,D,1,1,Chelsea,2.4,0.7,65.0,liverpool
+2021-09-12,Premier League,Sun,Away,W,3,0,Leeds United,4.4,1.1,56.0,liverpool
+2021-09-15,Champions Lg,Wed,Home,W,3,2,it Milan,2.5,1.6,60.0,liverpool
+2021-09-18,Premier League,Sat,Home,W,3,0,Crystal Palace,3.3,1.0,59.0,liverpool
+2021-09-21,EFL Cup,Tue,Away,W,3,0,Norwich City,,,53.0,liverpool
+2021-09-25,Premier League,Sat,Away,D,3,3,Brentford,2.6,2.2,67.0,liverpool
+2021-09-28,Champions Lg,Tue,Away,W,5,1,pt Porto,3.4,0.9,66.0,liverpool
+2021-10-03,Premier League,Sun,Home,D,2,2,Manchester City,0.8,1.7,49.0,liverpool
+2021-10-16,Premier League,Sat,Away,W,5,0,Watford,3.6,0.5,75.0,liverpool
+2021-10-19,Champions Lg,Tue,Away,W,3,2,es Atlético Madrid,1.3,2.2,68.0,liverpool
+2021-10-24,Premier League,Sun,Away,W,5,0,Manchester Utd,3.2,1.7,62.0,liverpool
+2021-10-27,EFL Cup,Wed,Away,W,2,0,Preston,,,73.0,liverpool
+2021-10-30,Premier League,Sat,Home,D,2,2,Brighton,1.5,1.1,58.0,liverpool
+2021-11-03,Champions Lg,Wed,Home,W,2,0,es Atlético Madrid,3.0,0.2,71.0,liverpool
+2021-11-07,Premier League,Sun,Away,L,2,3,West Ham,1.5,0.9,69.0,liverpool
+2021-11-20,Premier League,Sat,Home,W,4,0,Arsenal,3.8,0.6,62.0,liverpool
+2021-11-24,Champions Lg,Wed,Home,W,2,0,pt Porto,0.6,1.1,58.0,liverpool
+2021-11-27,Premier League,Sat,Home,W,4,0,Southampton,3.1,1.0,64.0,liverpool
+2021-12-01,Premier League,Wed,Away,W,4,1,Everton,2.7,1.3,67.0,liverpool
+2021-12-04,Premier League,Sat,Away,W,1,0,Wolves,2.6,0.1,66.0,liverpool
+2021-12-07,Champions Lg,Tue,Away,W,2,1,it Milan,1.9,1.4,52.0,liverpool
+2021-12-11,Premier League,Sat,Home,W,1,0,Aston Villa,2.6,0.2,62.0,liverpool
+2021-12-16,Premier League,Thu,Home,W,3,1,Newcastle Utd,3.0,0.3,74.0,liverpool
+2021-12-19,Premier League,Sun,Away,D,2,2,Tottenham,1.4,2.6,56.0,liverpool
+2021-12-22,EFL Cup,Wed,Home,D,3 (5),3 (4),Leicester City,,,66.0,liverpool
+2021-12-28,Premier League,Tue,Away,L,0,1,Leicester City,2.7,0.6,63.0,liverpool
+2022-01-02,Premier League,Sun,Away,D,2,2,Chelsea,1.7,1.5,46.0,liverpool
+2022-01-09,FA Cup,Sun,Home,W,4,1,Shrewsbury,,,83.0,liverpool
+2022-01-13,EFL Cup,Thu,Home,D,0,0,Arsenal,,,78.0,liverpool
+2022-01-16,Premier League,Sun,Home,W,3,0,Brentford,3.2,0.7,68.0,liverpool
+2022-01-20,EFL Cup,Thu,Away,W,2,0,Arsenal,,,54.0,liverpool
+2022-01-23,Premier League,Sun,Away,W,3,1,Crystal Palace,1.8,2.4,57.0,liverpool
+2022-02-06,FA Cup,Sun,Home,W,3,1,Cardiff City,,,80.0,liverpool
+2022-02-10,Premier League,Thu,Home,W,2,0,Leicester City,2.2,0.6,64.0,liverpool
+2022-02-13,Premier League,Sun,Away,W,1,0,Burnley,1.8,1.0,66.0,liverpool
+2022-02-16,Champions Lg,Wed,Away,W,2,0,it Inter,1.0,0.6,54.0,liverpool
+2022-02-19,Premier League,Sat,Home,W,3,1,Norwich City,4.4,0.7,69.0,liverpool
+2022-02-23,Premier League,Wed,Home,W,6,0,Leeds United,5.4,0.2,63.0,liverpool
+2022-02-27,EFL Cup,Sun,Away,D,0 (11),0 (10),Chelsea,,,55.0,liverpool
+2022-03-02,FA Cup,Wed,Home,W,2,1,Norwich City,,,65.0,liverpool
+2022-03-05,Premier League,Sat,Home,W,1,0,West Ham,2.6,1.2,68.0,liverpool
+2022-03-08,Champions Lg,Tue,Home,L,0,1,it Inter,1.8,0.5,62.0,liverpool
+2022-03-12,Premier League,Sat,Away,W,2,0,Brighton,2.3,0.6,48.0,liverpool
+2022-03-16,Premier League,Wed,Away,W,2,0,Arsenal,1.6,0.7,51.0,liverpool
+2022-03-20,FA Cup,Sun,Away,W,1,0,Nott'ham Forest,,,65.0,liverpool
+2022-04-02,Premier League,Sat,Home,W,2,0,Watford,2.5,0.9,73.0,liverpool
+2022-04-05,Champions Lg,Tue,Away,W,3,1,pt Benfica,3.9,1.2,65.0,liverpool
+2022-04-10,Premier League,Sun,Away,D,2,2,Manchester City,1.2,1.6,45.0,liverpool
+2022-04-13,Champions Lg,Wed,Home,D,3,3,pt Benfica,1.8,1.2,66.0,liverpool
+2022-04-16,FA Cup,Sat,Away,W,3,2,Manchester City,,,51.0,liverpool
+2022-04-19,Premier League,Tue,Home,W,4,0,Manchester Utd,2.2,0.1,71.0,liverpool
+2022-04-24,Premier League,Sun,Home,W,2,0,Everton,1.9,0.6,82.0,liverpool
+2022-04-27,Champions Lg,Wed,Home,W,2,0,es Villarreal,1.6,0.1,73.0,liverpool
+2022-04-30,Premier League,Sat,Away,W,1,0,Newcastle Utd,2.4,0.3,64.0,liverpool
+2022-05-03,Champions Lg,Tue,Away,W,3,2,es Villarreal,2.5,1.2,55.0,liverpool
+2022-05-07,Premier League,Sat,Home,D,1,1,Tottenham,1.4,1.2,64.0,liverpool
+2022-05-10,Premier League,Tue,Away,W,2,1,Aston Villa,2.2,1.4,60.0,liverpool
+2022-05-14,FA Cup,Sat,Away,D,0 (6),0 (5),Chelsea,,,53.0,liverpool
+2022-05-17,Premier League,Tue,Away,W,2,1,Southampton,1.5,0.1,70.0,liverpool
+2022-05-22,Premier League,Sun,Home,W,3,1,Wolves,3.1,1.4,63.0,liverpool
+2022-05-28,Champions Lg,Sat,Neutral,L,0,1,es Real Madrid,2.2,0.9,54.0,liverpool
+2021-08-15,Premier League,Sun,Home,L,2,4,West Ham,2.1,2.6,46.0,newcastle
+2021-08-21,Premier League,Sat,Away,L,0,2,Aston Villa,0.9,1.3,53.0,newcastle
+2021-08-25,EFL Cup,Wed,Home,D,0 (3),0 (4),Burnley,,,54.0,newcastle
+2021-08-28,Premier League,Sat,Home,D,2,2,Southampton,1.1,3.7,37.0,newcastle
+2021-09-11,Premier League,Sat,Away,L,1,4,Manchester Utd,0.7,2.6,37.0,newcastle
+2021-09-17,Premier League,Fri,Home,D,1,1,Leeds United,1.6,1.8,35.0,newcastle
+2021-09-25,Premier League,Sat,Away,D,1,1,Watford,2.4,1.1,47.0,newcastle
+2021-10-02,Premier League,Sat,Away,L,1,2,Wolves,0.7,1.1,48.0,newcastle
+2021-10-17,Premier League,Sun,Home,L,2,3,Tottenham,0.4,1.9,36.0,newcastle
+2021-10-23,Premier League,Sat,Away,D,1,1,Crystal Palace,0.5,1.8,26.0,newcastle
+2021-10-30,Premier League,Sat,Home,L,0,3,Chelsea,0.4,2.4,21.0,newcastle
+2021-11-06,Premier League,Sat,Away,D,1,1,Brighton,0.4,2.0,35.0,newcastle
+2021-11-20,Premier League,Sat,Home,D,3,3,Brentford,1.9,0.9,53.0,newcastle
+2021-11-27,Premier League,Sat,Away,L,0,2,Arsenal,0.4,2.8,34.0,newcastle
+2021-11-30,Premier League,Tue,Home,D,1,1,Norwich City,1.2,1.3,32.0,newcastle
+2021-12-04,Premier League,Sat,Home,W,1,0,Burnley,1.2,0.8,48.0,newcastle
+2021-12-12,Premier League,Sun,Away,L,0,4,Leicester City,1.3,2.9,53.0,newcastle
+2021-12-16,Premier League,Thu,Away,L,1,3,Liverpool,0.3,3.0,26.0,newcastle
+2021-12-19,Premier League,Sun,Home,L,0,4,Manchester City,0.4,2.9,29.0,newcastle
+2021-12-27,Premier League,Mon,Home,D,1,1,Manchester Utd,1.2,1.8,32.0,newcastle
+2022-01-08,FA Cup,Sat,Home,L,0,1,Cambridge Utd,,,58.0,newcastle
+2022-01-15,Premier League,Sat,Home,D,1,1,Watford,1.3,1.3,52.0,newcastle
+2022-01-22,Premier League,Sat,Away,W,1,0,Leeds United,1.0,1.3,38.0,newcastle
+2022-02-08,Premier League,Tue,Home,W,3,1,Everton,2.4,0.8,40.0,newcastle
+2022-02-13,Premier League,Sun,Home,W,1,0,Aston Villa,0.6,0.8,38.0,newcastle
+2022-02-19,Premier League,Sat,Away,D,1,1,West Ham,0.9,0.8,53.0,newcastle
+2022-02-26,Premier League,Sat,Away,W,2,0,Brentford,3.1,0.5,63.0,newcastle
+2022-03-05,Premier League,Sat,Home,W,2,1,Brighton,1.7,1.7,32.0,newcastle
+2022-03-10,Premier League,Thu,Away,W,2,1,Southampton,0.7,1.1,33.0,newcastle
+2022-03-13,Premier League,Sun,Away,L,0,1,Chelsea,0.5,1.0,29.0,newcastle
+2022-03-17,Premier League,Thu,Away,L,0,1,Everton,1.3,0.6,61.0,newcastle
+2022-04-03,Premier League,Sun,Away,L,1,5,Tottenham,0.6,3.2,40.0,newcastle
+2022-04-08,Premier League,Fri,Home,W,1,0,Wolves,1.7,0.3,42.0,newcastle
+2022-04-17,Premier League,Sun,Home,W,2,1,Leicester City,1.8,0.9,32.0,newcastle
+2022-04-20,Premier League,Wed,Home,W,1,0,Crystal Palace,1.2,0.6,37.0,newcastle
+2022-04-23,Premier League,Sat,Away,W,3,0,Norwich City,1.7,0.5,54.0,newcastle
+2022-04-30,Premier League,Sat,Home,L,0,1,Liverpool,0.3,2.4,36.0,newcastle
+2022-05-08,Premier League,Sun,Away,L,0,5,Manchester City,0.8,3.3,29.0,newcastle
+2022-05-16,Premier League,Mon,Home,W,2,0,Arsenal,1.7,0.7,51.0,newcastle
+2022-05-22,Premier League,Sun,Away,W,2,1,Burnley,1.9,1.8,48.0,newcastle
+2021-08-14,Premier League,Sat,Home,L,0,3,Liverpool,1.4,1.7,50.0,norwich
+2021-08-21,Premier League,Sat,Away,L,0,5,Manchester City,0.1,2.7,33.0,norwich
+2021-08-24,EFL Cup,Tue,Home,W,6,0,Bournemouth,,,49.0,norwich
+2021-08-28,Premier League,Sat,Home,L,1,2,Leicester City,1.6,1.3,45.0,norwich
+2021-09-11,Premier League,Sat,Away,L,0,1,Arsenal,0.8,3.2,49.0,norwich
+2021-09-18,Premier League,Sat,Home,L,1,3,Watford,1.1,2.0,49.0,norwich
+2021-09-21,EFL Cup,Tue,Home,L,0,3,Liverpool,,,47.0,norwich
+2021-09-25,Premier League,Sat,Away,L,0,2,Everton,0.7,2.0,53.0,norwich
+2021-10-02,Premier League,Sat,Away,D,0,0,Burnley,0.5,1.2,44.0,norwich
+2021-10-16,Premier League,Sat,Home,D,0,0,Brighton,1.6,1.0,36.0,norwich
+2021-10-23,Premier League,Sat,Away,L,0,7,Chelsea,0.2,3.0,38.0,norwich
+2021-10-31,Premier League,Sun,Home,L,1,2,Leeds United,0.9,1.2,48.0,norwich
+2021-11-06,Premier League,Sat,Away,W,2,1,Brentford,1.3,2.6,36.0,norwich
+2021-11-20,Premier League,Sat,Home,W,2,1,Southampton,0.5,1.3,38.0,norwich
+2021-11-27,Premier League,Sat,Home,D,0,0,Wolves,1.7,0.3,43.0,norwich
+2021-11-30,Premier League,Tue,Away,D,1,1,Newcastle Utd,1.3,1.2,68.0,norwich
+2021-12-05,Premier League,Sun,Away,L,0,3,Tottenham,1.4,2.2,59.0,norwich
+2021-12-11,Premier League,Sat,Home,L,0,1,Manchester Utd,1.3,2.1,48.0,norwich
+2021-12-14,Premier League,Tue,Home,L,0,2,Aston Villa,0.6,2.2,50.0,norwich
+2021-12-26,Premier League,Sun,Home,L,0,5,Arsenal,0.2,2.7,36.0,norwich
+2021-12-28,Premier League,Tue,Away,L,0,3,Crystal Palace,1.1,2.3,49.0,norwich
+2022-01-09,FA Cup,Sun,Away,W,1,0,Charlton Ath,,,49.0,norwich
+2022-01-12,Premier League,Wed,Away,L,0,2,West Ham,0.5,2.5,38.0,norwich
+2022-01-15,Premier League,Sat,Home,W,2,1,Everton,1.0,0.9,41.0,norwich
+2022-01-21,Premier League,Fri,Away,W,3,0,Watford,0.9,1.2,33.0,norwich
+2022-02-05,FA Cup,Sat,Away,W,1,0,Wolves,,,35.0,norwich
+2022-02-09,Premier League,Wed,Home,D,1,1,Crystal Palace,0.5,1.4,30.0,norwich
+2022-02-12,Premier League,Sat,Home,L,0,4,Manchester City,0.5,4.9,29.0,norwich
+2022-02-19,Premier League,Sat,Away,L,1,3,Liverpool,0.7,4.4,31.0,norwich
+2022-02-25,Premier League,Fri,Away,L,0,2,Southampton,0.5,3.2,42.0,norwich
+2022-03-02,FA Cup,Wed,Away,L,1,2,Liverpool,,,35.0,norwich
+2022-03-05,Premier League,Sat,Home,L,1,3,Brentford,1.3,2.0,60.0,norwich
+2022-03-10,Premier League,Thu,Home,L,1,3,Chelsea,1.1,2.2,34.0,norwich
+2022-03-13,Premier League,Sun,Away,L,1,2,Leeds United,1.4,2.4,48.0,norwich
+2022-04-02,Premier League,Sat,Away,D,0,0,Brighton,0.4,2.9,37.0,norwich
+2022-04-10,Premier League,Sun,Home,W,2,0,Burnley,2.0,1.9,45.0,norwich
+2022-04-16,Premier League,Sat,Away,L,2,3,Manchester Utd,2.0,2.2,39.0,norwich
+2022-04-23,Premier League,Sat,Home,L,0,3,Newcastle Utd,0.5,1.7,46.0,norwich
+2022-04-30,Premier League,Sat,Away,L,0,2,Aston Villa,0.5,2.6,55.0,norwich
+2022-05-08,Premier League,Sun,Home,L,0,4,West Ham,0.9,3.1,37.0,norwich
+2022-05-11,Premier League,Wed,Away,L,0,3,Leicester City,1.1,2.2,35.0,norwich
+2022-05-15,Premier League,Sun,Away,D,1,1,Wolves,1.3,1.0,36.0,norwich
+2022-05-22,Premier League,Sun,Home,L,0,5,Tottenham,0.5,3.4,41.0,norwich
+2021-08-14,Premier League,Sat,Away,L,0,3,Chelsea,0.4,0.8,38.0,palace
+2021-08-21,Premier League,Sat,Home,D,0,0,Brentford,0.8,1.0,53.0,palace
+2021-08-24,EFL Cup,Tue,Away,L,0,1,Watford,,,66.0,palace
+2021-08-28,Premier League,Sat,Away,D,2,2,West Ham,1.1,1.9,53.0,palace
+2021-09-11,Premier League,Sat,Home,W,3,0,Tottenham,2.6,0.1,62.0,palace
+2021-09-18,Premier League,Sat,Away,L,0,3,Liverpool,1.0,3.3,41.0,palace
+2021-09-27,Premier League,Mon,Home,D,1,1,Brighton,1.4,0.8,47.0,palace
+2021-10-03,Premier League,Sun,Home,D,2,2,Leicester City,1.8,1.4,60.0,palace
+2021-10-18,Premier League,Mon,Away,D,2,2,Arsenal,0.9,1.9,46.0,palace
+2021-10-23,Premier League,Sat,Home,D,1,1,Newcastle Utd,1.8,0.5,74.0,palace
+2021-10-30,Premier League,Sat,Away,W,2,0,Manchester City,0.8,1.1,32.0,palace
+2021-11-06,Premier League,Sat,Home,W,2,0,Wolves,2.2,0.4,60.0,palace
+2021-11-20,Premier League,Sat,Away,D,3,3,Burnley,2.3,1.6,60.0,palace
+2021-11-27,Premier League,Sat,Home,L,1,2,Aston Villa,0.8,0.5,64.0,palace
+2021-11-30,Premier League,Tue,Away,L,0,1,Leeds United,1.3,1.6,39.0,palace
+2021-12-05,Premier League,Sun,Away,L,0,1,Manchester Utd,0.6,1.1,39.0,palace
+2021-12-12,Premier League,Sun,Home,W,3,1,Everton,2.2,1.3,61.0,palace
+2021-12-15,Premier League,Wed,Home,D,2,2,Southampton,1.2,0.9,59.0,palace
+2021-12-26,Premier League,Sun,Away,L,0,3,Tottenham,0.2,2.3,40.0,palace
+2021-12-28,Premier League,Tue,Home,W,3,0,Norwich City,2.3,1.1,51.0,palace
+2022-01-01,Premier League,Sat,Home,L,2,3,West Ham,2.7,2.3,62.0,palace
+2022-01-08,FA Cup,Sat,Away,W,2,1,Millwall,,,57.0,palace
+2022-01-14,Premier League,Fri,Away,D,1,1,Brighton,0.4,2.1,37.0,palace
+2022-01-23,Premier League,Sun,Home,L,1,3,Liverpool,2.4,1.8,43.0,palace
+2022-02-05,FA Cup,Sat,Home,W,2,0,Hartlepool Utd,,,60.0,palace
+2022-02-09,Premier League,Wed,Away,D,1,1,Norwich City,1.4,0.5,70.0,palace
+2022-02-12,Premier League,Sat,Away,D,0,0,Brentford,0.4,1.6,58.0,palace
+2022-02-19,Premier League,Sat,Home,L,0,1,Chelsea,0.9,1.1,42.0,palace
+2022-02-23,Premier League,Wed,Away,W,4,1,Watford,1.3,1.2,54.0,palace
+2022-02-26,Premier League,Sat,Home,D,1,1,Burnley,1.1,0.3,59.0,palace
+2022-03-01,FA Cup,Tue,Home,W,2,1,Stoke City,,,60.0,palace
+2022-03-05,Premier League,Sat,Away,W,2,0,Wolves,2.8,0.7,37.0,palace
+2022-03-14,Premier League,Mon,Home,D,0,0,Manchester City,0.8,2.9,27.0,palace
+2022-03-20,FA Cup,Sun,Home,W,4,0,Everton,,,53.0,palace
+2022-04-04,Premier League,Mon,Home,W,3,0,Arsenal,1.7,1.0,32.0,palace
+2022-04-10,Premier League,Sun,Away,L,1,2,Leicester City,1.6,1.3,49.0,palace
+2022-04-17,FA Cup,Sun,Away,L,0,2,Chelsea,,,33.0,palace
+2022-04-20,Premier League,Wed,Away,L,0,1,Newcastle Utd,0.6,1.2,63.0,palace
+2022-04-25,Premier League,Mon,Home,D,0,0,Leeds United,2.1,0.6,53.0,palace
+2022-04-30,Premier League,Sat,Away,W,2,1,Southampton,1.6,0.7,62.0,palace
+2022-05-07,Premier League,Sat,Home,W,1,0,Watford,2.7,0.6,67.0,palace
+2022-05-15,Premier League,Sun,Away,D,1,1,Aston Villa,1.5,1.0,51.0,palace
+2022-05-19,Premier League,Thu,Away,L,2,3,Everton,1.4,0.9,57.0,palace
+2022-05-22,Premier League,Sun,Home,W,1,0,Manchester Utd,0.8,0.9,39.0,palace
+2021-08-14,Premier League,Sat,Away,L,1,3,Everton,0.9,2.3,52.0,southampton
+2021-08-22,Premier League,Sun,Home,D,1,1,Manchester Utd,0.7,1.8,37.0,southampton
+2021-08-25,EFL Cup,Wed,Away,W,8,0,Newport County,,,69.0,southampton
+2021-08-28,Premier League,Sat,Away,D,2,2,Newcastle Utd,3.7,1.1,63.0,southampton
+2021-09-11,Premier League,Sat,Home,D,0,0,West Ham,0.8,0.9,42.0,southampton
+2021-09-18,Premier League,Sat,Away,D,0,0,Manchester City,0.5,1.2,36.0,southampton
+2021-09-21,EFL Cup,Tue,Away,D,2 (4),2 (2),Sheffield Utd,,,56.0,southampton
+2021-09-26,Premier League,Sun,Home,L,0,1,Wolves,1.3,0.6,57.0,southampton
+2021-10-02,Premier League,Sat,Away,L,1,3,Chelsea,1.3,3.4,38.0,southampton
+2021-10-16,Premier League,Sat,Home,W,1,0,Leeds United,2.3,0.1,46.0,southampton
+2021-10-23,Premier League,Sat,Home,D,2,2,Burnley,1.9,0.8,61.0,southampton
+2021-10-26,EFL Cup,Tue,Away,D,1 (3),1 (4),Chelsea,,,37.0,southampton
+2021-10-30,Premier League,Sat,Away,W,1,0,Watford,2.1,1.0,60.0,southampton
+2021-11-05,Premier League,Fri,Home,W,1,0,Aston Villa,0.8,0.9,56.0,southampton
+2021-11-20,Premier League,Sat,Away,L,1,2,Norwich City,1.3,0.5,62.0,southampton
+2021-11-27,Premier League,Sat,Away,L,0,4,Liverpool,1.0,3.1,36.0,southampton
+2021-12-01,Premier League,Wed,Home,D,2,2,Leicester City,1.7,2.0,45.0,southampton
+2021-12-04,Premier League,Sat,Home,D,1,1,Brighton,1.7,1.4,44.0,southampton
+2021-12-11,Premier League,Sat,Away,L,0,3,Arsenal,0.8,1.9,39.0,southampton
+2021-12-15,Premier League,Wed,Away,D,2,2,Crystal Palace,0.9,1.2,41.0,southampton
+2021-12-26,Premier League,Sun,Away,W,3,2,West Ham,1.3,1.9,44.0,southampton
+2021-12-28,Premier League,Tue,Home,D,1,1,Tottenham,0.5,2.5,35.0,southampton
+2022-01-08,FA Cup,Sat,Away,W,3,2,Swansea City,,,37.0,southampton
+2022-01-11,Premier League,Tue,Home,W,4,1,Brentford,1.5,0.6,48.0,southampton
+2022-01-15,Premier League,Sat,Away,L,1,3,Wolves,0.8,2.5,57.0,southampton
+2022-01-22,Premier League,Sat,Home,D,1,1,Manchester City,0.7,1.9,26.0,southampton
+2022-02-05,FA Cup,Sat,Home,W,2,1,Coventry City,,,69.0,southampton
+2022-02-09,Premier League,Wed,Away,W,3,2,Tottenham,2.3,1.2,52.0,southampton
+2022-02-12,Premier League,Sat,Away,D,1,1,Manchester Utd,1.1,2.7,47.0,southampton
+2022-02-19,Premier League,Sat,Home,W,2,0,Everton,2.5,0.3,55.0,southampton
+2022-02-25,Premier League,Fri,Home,W,2,0,Norwich City,3.2,0.5,58.0,southampton
+2022-03-02,FA Cup,Wed,Home,W,3,1,West Ham,,,48.0,southampton
+2022-03-05,Premier League,Sat,Away,L,0,4,Aston Villa,1.1,2.5,62.0,southampton
+2022-03-10,Premier League,Thu,Home,L,1,2,Newcastle Utd,1.1,0.7,67.0,southampton
+2022-03-13,Premier League,Sun,Home,L,1,2,Watford,1.7,1.8,63.0,southampton
+2022-03-20,FA Cup,Sun,Home,L,1,4,Manchester City,,,36.0,southampton
+2022-04-02,Premier League,Sat,Away,D,1,1,Leeds United,1.5,1.4,44.0,southampton
+2022-04-09,Premier League,Sat,Home,L,0,6,Chelsea,0.5,4.4,30.0,southampton
+2022-04-16,Premier League,Sat,Home,W,1,0,Arsenal,0.7,1.8,25.0,southampton
+2022-04-21,Premier League,Thu,Away,L,0,2,Burnley,1.0,1.8,56.0,southampton
+2022-04-24,Premier League,Sun,Away,D,2,2,Brighton,1.2,1.8,52.0,southampton
+2022-04-30,Premier League,Sat,Home,L,1,2,Crystal Palace,0.7,1.6,38.0,southampton
+2022-05-07,Premier League,Sat,Away,L,0,3,Brentford,1.5,2.8,59.0,southampton
+2022-05-17,Premier League,Tue,Home,L,1,2,Liverpool,0.1,1.5,30.0,southampton
+2022-05-22,Premier League,Sun,Away,L,1,4,Leicester City,1.2,3.1,49.0,southampton
+2021-08-15,Premier League,Sun,Home,W,1,0,Manchester City,1.0,2.0,35.0,tottenham
+2021-08-19,Conf Lg,Thu,Away,L,0,1,pt Paços,,,,tottenham
+2021-08-22,Premier League,Sun,Away,W,1,0,Wolves,1.7,1.7,42.0,tottenham
+2021-08-26,Conf Lg,Thu,Home,W,3,0,pt Paços,,,,tottenham
+2021-08-29,Premier League,Sun,Home,W,1,0,Watford,1.3,1.1,57.0,tottenham
+2021-09-11,Premier League,Sat,Away,L,0,3,Crystal Palace,0.1,2.6,38.0,tottenham
+2021-09-16,Conf Lg,Thu,Away,D,2,2,fr Rennes,1.3,2.0,58.0,tottenham
+2021-09-19,Premier League,Sun,Home,L,0,3,Chelsea,0.6,2.7,47.0,tottenham
+2021-09-22,EFL Cup,Wed,Away,D,2 (3),2 (2),Wolves,,,49.0,tottenham
+2021-09-26,Premier League,Sun,Away,L,1,3,Arsenal,1.0,1.1,54.0,tottenham
+2021-09-30,Conf Lg,Thu,Home,W,5,1,si NŠ Mura,2.4,0.2,66.0,tottenham
+2021-10-03,Premier League,Sun,Home,W,2,1,Aston Villa,1.4,1.1,56.0,tottenham
+2021-10-17,Premier League,Sun,Away,W,3,2,Newcastle Utd,1.9,0.4,64.0,tottenham
+2021-10-21,Conf Lg,Thu,Away,L,0,1,nl Vitesse,0.4,0.6,53.0,tottenham
+2021-10-24,Premier League,Sun,Away,L,0,1,West Ham,0.9,1.3,62.0,tottenham
+2021-10-27,EFL Cup,Wed,Away,W,1,0,Burnley,,,62.0,tottenham
+2021-10-30,Premier League,Sat,Home,L,0,3,Manchester Utd,0.9,1.1,58.0,tottenham
+2021-11-04,Conf Lg,Thu,Home,W,3,2,nl Vitesse,2.3,1.0,52.0,tottenham
+2021-11-07,Premier League,Sun,Away,D,0,0,Everton,1.1,0.8,55.0,tottenham
+2021-11-21,Premier League,Sun,Home,W,2,1,Leeds United,1.7,1.7,43.0,tottenham
+2021-11-25,Conf Lg,Thu,Away,L,1,2,si NŠ Mura,1.2,0.5,58.0,tottenham
+2021-12-02,Premier League,Thu,Home,W,2,0,Brentford,2.2,0.4,47.0,tottenham
+2021-12-05,Premier League,Sun,Home,W,3,0,Norwich City,2.2,1.4,41.0,tottenham
+2021-12-09,Conf Lg,Thu,Home,L,0,3,fr Rennes,,,,tottenham
+2021-12-19,Premier League,Sun,Home,D,2,2,Liverpool,2.6,1.4,44.0,tottenham
+2021-12-22,EFL Cup,Wed,Home,W,2,1,West Ham,,,43.0,tottenham
+2021-12-26,Premier League,Sun,Home,W,3,0,Crystal Palace,2.3,0.2,60.0,tottenham
+2021-12-28,Premier League,Tue,Away,D,1,1,Southampton,2.5,0.5,65.0,tottenham
+2022-01-01,Premier League,Sat,Away,W,1,0,Watford,2.1,0.3,74.0,tottenham
+2022-01-05,EFL Cup,Wed,Away,L,0,2,Chelsea,,,36.0,tottenham
+2022-01-09,FA Cup,Sun,Home,W,3,1,Morecambe,,,79.0,tottenham
+2022-01-12,EFL Cup,Wed,Home,L,0,1,Chelsea,,,36.0,tottenham
+2022-01-19,Premier League,Wed,Away,W,3,2,Leicester City,4.1,1.3,51.0,tottenham
+2022-01-23,Premier League,Sun,Away,L,0,2,Chelsea,0.7,1.3,36.0,tottenham
+2022-02-05,FA Cup,Sat,Home,W,3,1,Brighton,,,43.0,tottenham
+2022-02-09,Premier League,Wed,Home,L,2,3,Southampton,1.2,2.3,48.0,tottenham
+2022-02-13,Premier League,Sun,Home,L,0,2,Wolves,1.8,1.7,58.0,tottenham
+2022-02-19,Premier League,Sat,Away,W,3,2,Manchester City,1.1,2.6,29.0,tottenham
+2022-02-23,Premier League,Wed,Away,L,0,1,Burnley,1.0,1.3,66.0,tottenham
+2022-02-26,Premier League,Sat,Away,W,4,0,Leeds United,2.3,1.9,50.0,tottenham
+2022-03-01,FA Cup,Tue,Away,L,0,1,Middlesbrough,,,49.0,tottenham
+2022-03-07,Premier League,Mon,Home,W,5,0,Everton,2.4,0.3,55.0,tottenham
+2022-03-12,Premier League,Sat,Away,L,2,3,Manchester Utd,1.7,1.0,57.0,tottenham
+2022-03-16,Premier League,Wed,Away,W,2,0,Brighton,2.9,0.9,52.0,tottenham
+2022-03-20,Premier League,Sun,Home,W,3,1,West Ham,3.0,0.8,53.0,tottenham
+2022-04-03,Premier League,Sun,Home,W,5,1,Newcastle Utd,3.2,0.6,60.0,tottenham
+2022-04-09,Premier League,Sat,Away,W,4,0,Aston Villa,1.2,1.8,48.0,tottenham
+2022-04-16,Premier League,Sat,Home,L,0,1,Brighton,0.5,0.8,49.0,tottenham
+2022-04-23,Premier League,Sat,Away,D,0,0,Brentford,0.8,1.0,56.0,tottenham
+2022-05-01,Premier League,Sun,Home,W,3,1,Leicester City,1.5,0.5,40.0,tottenham
+2022-05-07,Premier League,Sat,Away,D,1,1,Liverpool,1.2,1.4,36.0,tottenham
+2022-05-12,Premier League,Thu,Home,W,3,0,Arsenal,3.0,0.6,57.0,tottenham
+2022-05-15,Premier League,Sun,Home,W,1,0,Burnley,2.3,0.8,68.0,tottenham
+2022-05-22,Premier League,Sun,Away,W,5,0,Norwich City,3.4,0.5,59.0,tottenham
+2021-08-14,Premier League,Sat,Home,W,5,1,Leeds United,2.5,0.6,49.0,united
+2021-08-22,Premier League,Sun,Away,D,1,1,Southampton,1.8,0.7,63.0,united
+2021-08-29,Premier League,Sun,Away,W,1,0,Wolves,0.7,2.5,56.0,united
+2021-09-11,Premier League,Sat,Home,W,4,1,Newcastle Utd,2.6,0.7,63.0,united
+2021-09-14,Champions Lg,Tue,Away,L,1,2,ch Young Boys,0.5,1.4,46.0,united
+2021-09-19,Premier League,Sun,Away,W,2,1,West Ham,2.0,1.7,60.0,united
+2021-09-22,EFL Cup,Wed,Home,L,0,1,West Ham,,,61.0,united
+2021-09-25,Premier League,Sat,Home,L,0,1,Aston Villa,2.5,1.2,59.0,united
+2021-09-29,Champions Lg,Wed,Home,W,2,1,es Villarreal,1.1,2.3,56.0,united
+2021-10-02,Premier League,Sat,Home,D,1,1,Everton,1.1,1.4,72.0,united
+2021-10-16,Premier League,Sat,Away,L,2,4,Leicester City,1.5,3.1,51.0,united
+2021-10-20,Champions Lg,Wed,Home,W,3,2,it Atalanta,2.8,1.6,56.0,united
+2021-10-24,Premier League,Sun,Home,L,0,5,Liverpool,1.7,3.2,38.0,united
+2021-10-30,Premier League,Sat,Away,W,3,0,Tottenham,1.1,0.9,42.0,united
+2021-11-02,Champions Lg,Tue,Away,D,2,2,it Atalanta,1.1,1.5,53.0,united
+2021-11-06,Premier League,Sat,Home,L,0,2,Manchester City,0.8,2.3,33.0,united
+2021-11-20,Premier League,Sat,Away,L,1,4,Watford,1.7,3.2,61.0,united
+2021-11-23,Champions Lg,Tue,Away,W,2,0,es Villarreal,1.2,0.6,49.0,united
+2021-11-28,Premier League,Sun,Away,D,1,1,Chelsea,0.7,3.1,35.0,united
+2021-12-02,Premier League,Thu,Home,W,3,2,Arsenal,1.9,1.7,44.0,united
+2021-12-05,Premier League,Sun,Home,W,1,0,Crystal Palace,1.1,0.6,61.0,united
+2021-12-08,Champions Lg,Wed,Home,D,1,1,ch Young Boys,1.2,1.3,49.0,united
+2021-12-11,Premier League,Sat,Away,W,1,0,Norwich City,2.1,1.3,52.0,united
+2021-12-27,Premier League,Mon,Away,D,1,1,Newcastle Utd,1.8,1.2,68.0,united
+2021-12-30,Premier League,Thu,Home,W,3,1,Burnley,2.3,1.0,57.0,united
+2022-01-03,Premier League,Mon,Home,L,0,1,Wolves,0.9,1.1,51.0,united
+2022-01-10,FA Cup,Mon,Home,W,1,0,Aston Villa,,,54.0,united
+2022-01-15,Premier League,Sat,Away,D,2,2,Aston Villa,1.3,1.8,46.0,united
+2022-01-19,Premier League,Wed,Away,W,3,1,Brentford,2.2,2.5,56.0,united
+2022-01-22,Premier League,Sat,Home,W,1,0,West Ham,1.9,0.4,57.0,united
+2022-02-04,FA Cup,Fri,Home,D,1 (7),1 (8),Middlesbrough,,,71.0,united
+2022-02-08,Premier League,Tue,Away,D,1,1,Burnley,2.4,0.5,63.0,united
+2022-02-12,Premier League,Sat,Home,D,1,1,Southampton,2.7,1.1,53.0,united
+2022-02-15,Premier League,Tue,Home,W,2,0,Brighton,1.8,0.9,50.0,united
+2022-02-20,Premier League,Sun,Away,W,4,2,Leeds United,2.5,1.6,46.0,united
+2022-02-23,Champions Lg,Wed,Away,D,1,1,es Atlético Madrid,0.6,1.3,62.0,united
+2022-02-26,Premier League,Sat,Home,D,0,0,Watford,3.2,0.7,67.0,united
+2022-03-06,Premier League,Sun,Away,L,1,4,Manchester City,0.5,3.1,31.0,united
+2022-03-12,Premier League,Sat,Home,W,3,2,Tottenham,1.0,1.7,43.0,united
+2022-03-15,Champions Lg,Tue,Home,L,0,1,es Atlético Madrid,1.0,0.5,60.0,united
+2022-04-02,Premier League,Sat,Home,D,1,1,Leicester City,1.0,0.9,54.0,united
+2022-04-09,Premier League,Sat,Away,L,0,1,Everton,1.1,0.5,67.0,united
+2022-04-16,Premier League,Sat,Home,W,3,2,Norwich City,2.2,2.0,61.0,united
+2022-04-19,Premier League,Tue,Away,L,0,4,Liverpool,0.1,2.2,29.0,united
+2022-04-23,Premier League,Sat,Away,L,1,3,Arsenal,2.1,2.4,46.0,united
+2022-04-28,Premier League,Thu,Home,D,1,1,Chelsea,0.5,2.2,36.0,united
+2022-05-02,Premier League,Mon,Home,W,3,0,Brentford,2.2,0.6,63.0,united
+2022-05-07,Premier League,Sat,Away,L,0,4,Brighton,1.2,2.5,58.0,united
+2022-05-22,Premier League,Sun,Away,L,0,1,Crystal Palace,0.9,0.8,61.0,united
+2021-08-14,Premier League,Sat,Home,W,3,2,Aston Villa,1.3,1.3,38.0,watford
+2021-08-21,Premier League,Sat,Away,L,0,2,Brighton,1.0,1.3,44.0,watford
+2021-08-24,EFL Cup,Tue,Home,W,1,0,Crystal Palace,,,34.0,watford
+2021-08-29,Premier League,Sun,Away,L,0,1,Tottenham,1.1,1.3,43.0,watford
+2021-09-11,Premier League,Sat,Home,L,0,2,Wolves,0.3,2.1,45.0,watford
+2021-09-18,Premier League,Sat,Away,W,3,1,Norwich City,2.0,1.1,51.0,watford
+2021-09-21,EFL Cup,Tue,Home,L,1,3,Stoke City,,,52.0,watford
+2021-09-25,Premier League,Sat,Home,D,1,1,Newcastle Utd,1.1,2.4,53.0,watford
+2021-10-02,Premier League,Sat,Away,L,0,1,Leeds United,0.2,2.1,34.0,watford
+2021-10-16,Premier League,Sat,Home,L,0,5,Liverpool,0.5,3.6,25.0,watford
+2021-10-23,Premier League,Sat,Away,W,5,2,Everton,3.3,1.5,51.0,watford
+2021-10-30,Premier League,Sat,Home,L,0,1,Southampton,1.0,2.1,40.0,watford
+2021-11-07,Premier League,Sun,Away,L,0,1,Arsenal,0.9,1.9,40.0,watford
+2021-11-20,Premier League,Sat,Home,W,4,1,Manchester Utd,3.2,1.7,39.0,watford
+2021-11-28,Premier League,Sun,Away,L,2,4,Leicester City,2.6,2.2,44.0,watford
+2021-12-01,Premier League,Wed,Home,L,1,2,Chelsea,1.1,1.2,51.0,watford
+2021-12-04,Premier League,Sat,Home,L,1,3,Manchester City,0.9,3.5,23.0,watford
+2021-12-10,Premier League,Fri,Away,L,1,2,Brentford,0.7,1.7,37.0,watford
+2021-12-28,Premier League,Tue,Home,L,1,4,West Ham,1.7,3.5,43.0,watford
+2022-01-01,Premier League,Sat,Home,L,0,1,Tottenham,0.3,2.1,26.0,watford
+2022-01-08,FA Cup,Sat,Away,L,1,4,Leicester City,,,48.0,watford
+2022-01-15,Premier League,Sat,Away,D,1,1,Newcastle Utd,1.3,1.3,48.0,watford
+2022-01-21,Premier League,Fri,Home,L,0,3,Norwich City,1.2,0.9,67.0,watford
+2022-02-05,Premier League,Sat,Away,D,0,0,Burnley,1.2,1.0,47.0,watford
+2022-02-08,Premier League,Tue,Away,L,0,1,West Ham,0.4,0.9,36.0,watford
+2022-02-12,Premier League,Sat,Home,L,0,2,Brighton,0.6,1.6,36.0,watford
+2022-02-19,Premier League,Sat,Away,W,1,0,Aston Villa,1.3,1.7,41.0,watford
+2022-02-23,Premier League,Wed,Home,L,1,4,Crystal Palace,1.2,1.3,46.0,watford
+2022-02-26,Premier League,Sat,Away,D,0,0,Manchester Utd,0.7,3.2,33.0,watford
+2022-03-06,Premier League,Sun,Home,L,2,3,Arsenal,1.3,1.4,44.0,watford
+2022-03-10,Premier League,Thu,Away,L,0,4,Wolves,0.9,0.9,34.0,watford
+2022-03-13,Premier League,Sun,Away,W,2,1,Southampton,1.8,1.7,37.0,watford
+2022-04-02,Premier League,Sat,Away,L,0,2,Liverpool,0.9,2.5,27.0,watford
+2022-04-09,Premier League,Sat,Home,L,0,3,Leeds United,1.1,0.7,49.0,watford
+2022-04-16,Premier League,Sat,Home,L,1,2,Brentford,1.8,1.8,50.0,watford
+2022-04-23,Premier League,Sat,Away,L,1,5,Manchester City,0.4,3.9,27.0,watford
+2022-04-30,Premier League,Sat,Home,L,1,2,Burnley,1.4,2.3,47.0,watford
+2022-05-07,Premier League,Sat,Away,L,0,1,Crystal Palace,0.6,2.7,33.0,watford
+2022-05-11,Premier League,Wed,Home,D,0,0,Everton,0.4,1.1,48.0,watford
+2022-05-15,Premier League,Sun,Home,L,1,5,Leicester City,1.7,2.4,41.0,watford
+2022-05-22,Premier League,Sun,Away,L,1,2,Chelsea,0.8,2.7,29.0,watford
+2021-08-15,Premier League,Sun,Away,W,4,2,Newcastle Utd,2.6,2.1,54.0,west-ham
+2021-08-23,Premier League,Mon,Home,W,4,1,Leicester City,2.8,0.6,52.0,west-ham
+2021-08-28,Premier League,Sat,Home,D,2,2,Crystal Palace,1.9,1.1,47.0,west-ham
+2021-09-11,Premier League,Sat,Away,D,0,0,Southampton,0.9,0.8,58.0,west-ham
+2021-09-16,Europa Lg,Thu,Away,W,2,0,hr Dinamo Zagreb,1.9,0.4,50.0,west-ham
+2021-09-19,Premier League,Sun,Home,L,1,2,Manchester Utd,1.7,2.0,40.0,west-ham
+2021-09-22,EFL Cup,Wed,Away,W,1,0,Manchester Utd,,,39.0,west-ham
+2021-09-25,Premier League,Sat,Away,W,2,1,Leeds United,2.2,1.3,47.0,west-ham
+2021-09-30,Europa Lg,Thu,Home,W,2,0,at Rapid Wien,2.6,0.5,48.0,west-ham
+2021-10-03,Premier League,Sun,Home,L,1,2,Brentford,1.7,1.3,59.0,west-ham
+2021-10-17,Premier League,Sun,Away,W,1,0,Everton,1.4,1.1,61.0,west-ham
+2021-10-21,Europa Lg,Thu,Home,W,3,0,be Genk,1.4,1.4,63.0,west-ham
+2021-10-24,Premier League,Sun,Home,W,1,0,Tottenham,1.3,0.9,38.0,west-ham
+2021-10-27,EFL Cup,Wed,Home,D,0 (5),0 (3),Manchester City,,,36.0,west-ham
+2021-10-31,Premier League,Sun,Away,W,4,1,Aston Villa,2.7,0.8,57.0,west-ham
+2021-11-04,Europa Lg,Thu,Away,D,2,2,be Genk,2.6,1.3,50.0,west-ham
+2021-11-07,Premier League,Sun,Home,W,3,2,Liverpool,0.9,1.5,31.0,west-ham
+2021-11-20,Premier League,Sat,Away,L,0,1,Wolves,0.6,1.1,48.0,west-ham
+2021-11-25,Europa Lg,Thu,Away,W,2,0,at Rapid Wien,3.7,0.8,61.0,west-ham
+2021-11-28,Premier League,Sun,Away,L,1,2,Manchester City,0.2,2.4,32.0,west-ham
+2021-12-01,Premier League,Wed,Home,D,1,1,Brighton,1.4,1.4,35.0,west-ham
+2021-12-04,Premier League,Sat,Home,W,3,2,Chelsea,2.2,1.3,37.0,west-ham
+2021-12-09,Europa Lg,Thu,Home,L,0,1,hr Dinamo Zagreb,0.7,1.1,49.0,west-ham
+2021-12-12,Premier League,Sun,Away,D,0,0,Burnley,1.0,1.0,60.0,west-ham
+2021-12-15,Premier League,Wed,Away,L,0,2,Arsenal,0.4,3.1,45.0,west-ham
+2021-12-22,EFL Cup,Wed,Away,L,1,2,Tottenham,,,58.0,west-ham
+2021-12-26,Premier League,Sun,Home,L,2,3,Southampton,1.9,1.3,56.0,west-ham
+2021-12-28,Premier League,Tue,Away,W,4,1,Watford,3.5,1.7,57.0,west-ham
+2022-01-01,Premier League,Sat,Away,W,3,2,Crystal Palace,2.3,2.7,38.0,west-ham
+2022-01-09,FA Cup,Sun,Home,W,2,0,Leeds United,,,48.0,west-ham
+2022-01-12,Premier League,Wed,Home,W,2,0,Norwich City,2.5,0.5,62.0,west-ham
+2022-01-16,Premier League,Sun,Home,L,2,3,Leeds United,2.5,2.6,48.0,west-ham
+2022-01-22,Premier League,Sat,Away,L,0,1,Manchester Utd,0.4,1.9,43.0,west-ham
+2022-02-05,FA Cup,Sat,Away,W,2,1,Kidderminster,,,73.0,west-ham
+2022-02-08,Premier League,Tue,Home,W,1,0,Watford,0.9,0.4,64.0,west-ham
+2022-02-13,Premier League,Sun,Away,D,2,2,Leicester City,1.0,1.6,45.0,west-ham
+2022-02-19,Premier League,Sat,Home,D,1,1,Newcastle Utd,0.8,0.9,47.0,west-ham
+2022-02-27,Premier League,Sun,Home,W,1,0,Wolves,1.8,0.9,39.0,west-ham
+2022-03-02,FA Cup,Wed,Away,L,1,3,Southampton,,,52.0,west-ham
+2022-03-05,Premier League,Sat,Away,L,0,1,Liverpool,1.2,2.6,32.0,west-ham
+2022-03-10,Europa Lg,Thu,Away,L,0,1,es Sevilla,1.1,1.4,44.0,west-ham
+2022-03-13,Premier League,Sun,Home,W,2,1,Aston Villa,1.5,1.2,47.0,west-ham
+2022-03-17,Europa Lg,Thu,Home,W,2,0,es Sevilla,2.4,1.1,45.0,west-ham
+2022-03-20,Premier League,Sun,Away,L,1,3,Tottenham,0.8,3.0,47.0,west-ham
+2022-04-03,Premier League,Sun,Home,W,2,1,Everton,1.7,0.8,55.0,west-ham
+2022-04-07,Europa Lg,Thu,Home,D,1,1,fr Lyon,0.4,2.9,29.0,west-ham
+2022-04-10,Premier League,Sun,Away,L,0,2,Brentford,0.4,1.5,53.0,west-ham
+2022-04-14,Europa Lg,Thu,Away,W,3,0,fr Lyon,1.3,1.7,33.0,west-ham
+2022-04-17,Premier League,Sun,Home,D,1,1,Burnley,2.5,1.3,61.0,west-ham
+2022-04-24,Premier League,Sun,Away,L,0,1,Chelsea,0.7,2.9,34.0,west-ham
+2022-04-28,Europa Lg,Thu,Home,L,1,2,de Eint Frankfurt,2.4,1.6,54.0,west-ham
+2022-05-01,Premier League,Sun,Home,L,1,2,Arsenal,0.6,0.9,57.0,west-ham
+2022-05-05,Europa Lg,Thu,Away,L,0,1,de Eint Frankfurt,1.6,1.1,37.0,west-ham
+2022-05-08,Premier League,Sun,Away,W,4,0,Norwich City,3.1,0.9,63.0,west-ham
+2022-05-15,Premier League,Sun,Home,D,2,2,Manchester City,1.8,2.9,22.0,west-ham
+2022-05-22,Premier League,Sun,Away,L,1,3,Brighton,0.4,1.9,50.0,west-ham
+2021-08-14,Premier League,Sat,Away,L,0,1,Leicester City,1.5,0.7,44.0,wolves
+2021-08-22,Premier League,Sun,Home,L,0,1,Tottenham,1.7,1.7,58.0,wolves
+2021-08-24,EFL Cup,Tue,Away,W,4,0,Nott'ham Forest,,,74.0,wolves
+2021-08-29,Premier League,Sun,Home,L,0,1,Manchester Utd,2.5,0.7,44.0,wolves
+2021-09-11,Premier League,Sat,Away,W,2,0,Watford,2.1,0.3,55.0,wolves
+2021-09-18,Premier League,Sat,Home,L,0,2,Brentford,0.7,2.5,62.0,wolves
+2021-09-22,EFL Cup,Wed,Home,D,2 (2),2 (3),Tottenham,,,51.0,wolves
+2021-09-26,Premier League,Sun,Away,W,1,0,Southampton,0.6,1.3,43.0,wolves
+2021-10-02,Premier League,Sat,Home,W,2,1,Newcastle Utd,1.1,0.7,52.0,wolves
+2021-10-16,Premier League,Sat,Away,W,3,2,Aston Villa,1.9,1.2,52.0,wolves
+2021-10-23,Premier League,Sat,Away,D,1,1,Leeds United,1.0,1.9,38.0,wolves
+2021-11-01,Premier League,Mon,Home,W,2,1,Everton,1.6,1.6,61.0,wolves
+2021-11-06,Premier League,Sat,Away,L,0,2,Crystal Palace,0.4,2.2,40.0,wolves
+2021-11-20,Premier League,Sat,Home,W,1,0,West Ham,1.1,0.6,52.0,wolves
+2021-11-27,Premier League,Sat,Away,D,0,0,Norwich City,0.3,1.7,57.0,wolves
+2021-12-01,Premier League,Wed,Home,D,0,0,Burnley,0.9,0.2,65.0,wolves
+2021-12-04,Premier League,Sat,Home,L,0,1,Liverpool,0.1,2.6,34.0,wolves
+2021-12-11,Premier League,Sat,Away,L,0,1,Manchester City,0.1,3.5,29.0,wolves
+2021-12-15,Premier League,Wed,Away,W,1,0,Brighton,1.2,1.4,41.0,wolves
+2021-12-19,Premier League,Sun,Home,D,0,0,Chelsea,0.3,1.0,37.0,wolves
+2022-01-03,Premier League,Mon,Away,W,1,0,Manchester Utd,1.1,0.9,49.0,wolves
+2022-01-09,FA Cup,Sun,Home,W,3,0,Sheffield Utd,,,50.0,wolves
+2022-01-15,Premier League,Sat,Home,W,3,1,Southampton,2.5,0.8,43.0,wolves
+2022-01-22,Premier League,Sat,Away,W,2,1,Brentford,0.3,1.4,50.0,wolves
+2022-02-05,FA Cup,Sat,Home,L,0,1,Norwich City,,,65.0,wolves
+2022-02-10,Premier League,Thu,Home,L,0,1,Arsenal,0.9,1.9,58.0,wolves
+2022-02-13,Premier League,Sun,Away,W,2,0,Tottenham,1.7,1.8,42.0,wolves
+2022-02-20,Premier League,Sun,Home,W,2,1,Leicester City,1.3,1.7,37.0,wolves
+2022-02-24,Premier League,Thu,Away,L,1,2,Arsenal,1.3,3.6,44.0,wolves
+2022-02-27,Premier League,Sun,Away,L,0,1,West Ham,0.9,1.8,61.0,wolves
+2022-03-05,Premier League,Sat,Home,L,0,2,Crystal Palace,0.7,2.8,63.0,wolves
+2022-03-10,Premier League,Thu,Home,W,4,0,Watford,0.9,0.9,66.0,wolves
+2022-03-13,Premier League,Sun,Away,W,1,0,Everton,1.0,0.4,61.0,wolves
+2022-03-18,Premier League,Fri,Home,L,2,3,Leeds United,1.1,2.2,48.0,wolves
+2022-04-02,Premier League,Sat,Home,W,2,1,Aston Villa,1.4,2.0,49.0,wolves
+2022-04-08,Premier League,Fri,Away,L,0,1,Newcastle Utd,0.3,1.7,58.0,wolves
+2022-04-24,Premier League,Sun,Away,L,0,1,Burnley,0.7,1.6,64.0,wolves
+2022-04-30,Premier League,Sat,Home,L,0,3,Brighton,0.8,2.8,49.0,wolves
+2022-05-07,Premier League,Sat,Away,D,2,2,Chelsea,2.1,2.4,41.0,wolves
+2022-05-11,Premier League,Wed,Home,L,1,5,Manchester City,0.5,2.8,34.0,wolves
+2022-05-15,Premier League,Sun,Home,D,1,1,Norwich City,1.0,1.3,64.0,wolves
+2022-05-22,Premier League,Sun,Away,L,1,3,Liverpool,1.4,3.1,37.0,wolves

@@ -1,825 +1,825 @@
-Date,Comp,Day,Venue,Result,GF,GA,Opponent,Poss,team,Match Number
-2013-08-17,Premier League,Sat,Home,L,1,3,Aston Villa,,arsenal,1.0
-2013-08-21,Champions Lg,Wed,Away,W,3,0,tr Fenerbahçe,,arsenal,
-2013-08-24,Premier League,Sat,Away,W,3,1,Fulham,,arsenal,2.0
-2013-08-27,Champions Lg,Tue,Home,W,2,0,tr Fenerbahçe,,arsenal,
-2013-09-01,Premier League,Sun,Home,W,1,0,Tottenham,,arsenal,3.0
-2013-09-14,Premier League,Sat,Away,W,3,1,Sunderland,,arsenal,4.0
-2013-09-18,Champions Lg,Wed,Away,W,2,1,fr Marseille,,arsenal,
-2013-09-22,Premier League,Sun,Home,W,3,1,Stoke City,,arsenal,5.0
-2013-09-28,Premier League,Sat,Away,W,2,1,Swansea City,,arsenal,6.0
-2013-10-01,Champions Lg,Tue,Home,W,2,0,it Napoli,,arsenal,
-2013-10-06,Premier League,Sun,Away,D,1,1,West Brom,,arsenal,7.0
-2013-10-19,Premier League,Sat,Home,W,4,1,Norwich City,,arsenal,8.0
-2013-10-22,Champions Lg,Tue,Home,L,1,2,de Dortmund,,arsenal,
-2013-10-26,Premier League,Sat,Away,W,2,0,Crystal Palace,,arsenal,9.0
-2013-11-02,Premier League,Sat,Home,W,2,0,Liverpool,,arsenal,10.0
-2013-11-06,Champions Lg,Wed,Away,W,1,0,de Dortmund,,arsenal,
-2013-11-10,Premier League,Sun,Away,L,0,1,Manchester Utd,,arsenal,11.0
-2013-11-23,Premier League,Sat,Home,W,2,0,Southampton,,arsenal,12.0
-2013-11-26,Champions Lg,Tue,Home,W,2,0,fr Marseille,,arsenal,
-2013-11-30,Premier League,Sat,Away,W,3,0,Cardiff City,,arsenal,13.0
-2013-12-04,Premier League,Wed,Home,W,2,0,Hull City,,arsenal,14.0
-2013-12-08,Premier League,Sun,Home,D,1,1,Everton,,arsenal,15.0
-2013-12-11,Champions Lg,Wed,Away,L,0,2,it Napoli,,arsenal,
-2013-12-14,Premier League,Sat,Away,L,3,6,Manchester City,,arsenal,16.0
-2013-12-23,Premier League,Mon,Home,D,0,0,Chelsea,,arsenal,17.0
-2013-12-26,Premier League,Thu,Away,W,3,1,West Ham,,arsenal,18.0
-2013-12-29,Premier League,Sun,Away,W,1,0,Newcastle Utd,,arsenal,19.0
-2014-01-01,Premier League,Wed,Home,W,2,0,Cardiff City,,arsenal,20.0
-2014-01-13,Premier League,Mon,Away,W,2,1,Aston Villa,,arsenal,21.0
-2014-01-18,Premier League,Sat,Home,W,2,0,Fulham,,arsenal,22.0
-2014-01-28,Premier League,Tue,Away,D,2,2,Southampton,,arsenal,23.0
-2014-02-02,Premier League,Sun,Home,W,2,0,Crystal Palace,,arsenal,24.0
-2014-02-08,Premier League,Sat,Away,L,1,5,Liverpool,,arsenal,25.0
-2014-02-12,Premier League,Wed,Home,D,0,0,Manchester Utd,,arsenal,26.0
-2014-02-19,Champions Lg,Wed,Home,L,0,2,de Bayern Munich,,arsenal,
-2014-02-22,Premier League,Sat,Home,W,4,1,Sunderland,,arsenal,27.0
-2014-03-01,Premier League,Sat,Away,L,0,1,Stoke City,,arsenal,28.0
-2014-03-11,Champions Lg,Tue,Away,D,1,1,de Bayern Munich,,arsenal,
-2014-03-16,Premier League,Sun,Away,W,1,0,Tottenham,,arsenal,29.0
-2014-03-22,Premier League,Sat,Away,L,0,6,Chelsea,,arsenal,30.0
-2014-03-25,Premier League,Tue,Home,D,2,2,Swansea City,,arsenal,31.0
-2014-03-29,Premier League,Sat,Home,D,1,1,Manchester City,,arsenal,32.0
-2014-04-06,Premier League,Sun,Away,L,0,3,Everton,,arsenal,33.0
-2014-04-15,Premier League,Tue,Home,W,3,1,West Ham,,arsenal,34.0
-2014-04-20,Premier League,Sun,Away,W,3,0,Hull City,,arsenal,35.0
-2014-04-28,Premier League,Mon,Home,W,3,0,Newcastle Utd,,arsenal,36.0
-2014-05-04,Premier League,Sun,Home,W,1,0,West Brom,,arsenal,37.0
-2014-05-11,Premier League,Sun,Away,W,2,0,Norwich City,,arsenal,38.0
-2013-08-17,Premier League,Sat,Away,W,3,1,Arsenal,,aston-villa,1.0
-2013-08-21,Premier League,Wed,Away,L,1,2,Chelsea,,aston-villa,2.0
-2013-08-24,Premier League,Sat,Home,L,0,1,Liverpool,,aston-villa,3.0
-2013-09-14,Premier League,Sat,Home,L,1,2,Newcastle Utd,,aston-villa,4.0
-2013-09-21,Premier League,Sat,Away,W,1,0,Norwich City,,aston-villa,5.0
-2013-09-28,Premier League,Sat,Home,W,3,2,Manchester City,,aston-villa,6.0
-2013-10-05,Premier League,Sat,Away,D,0,0,Hull City,,aston-villa,7.0
-2013-10-20,Premier League,Sun,Home,L,0,2,Tottenham,,aston-villa,8.0
-2013-10-26,Premier League,Sat,Home,L,0,2,Everton,,aston-villa,9.0
-2013-11-02,Premier League,Sat,Away,D,0,0,West Ham,,aston-villa,10.0
-2013-11-09,Premier League,Sat,Home,W,2,0,Cardiff City,,aston-villa,11.0
-2013-11-25,Premier League,Mon,Away,D,2,2,West Brom,,aston-villa,12.0
-2013-11-30,Premier League,Sat,Home,D,0,0,Sunderland,,aston-villa,13.0
-2013-12-04,Premier League,Wed,Away,W,3,2,Southampton,,aston-villa,14.0
-2013-12-08,Premier League,Sun,Away,L,0,2,Fulham,,aston-villa,15.0
-2013-12-15,Premier League,Sun,Home,L,0,3,Manchester Utd,,aston-villa,16.0
-2013-12-21,Premier League,Sat,Away,L,1,2,Stoke City,,aston-villa,17.0
-2013-12-26,Premier League,Thu,Home,L,0,1,Crystal Palace,,aston-villa,18.0
-2013-12-28,Premier League,Sat,Home,D,1,1,Swansea City,,aston-villa,19.0
-2014-01-01,Premier League,Wed,Away,W,1,0,Sunderland,,aston-villa,20.0
-2014-01-13,Premier League,Mon,Home,L,1,2,Arsenal,,aston-villa,21.0
-2014-01-18,Premier League,Sat,Away,D,2,2,Liverpool,,aston-villa,22.0
-2014-01-29,Premier League,Wed,Home,W,4,3,West Brom,,aston-villa,23.0
-2014-02-01,Premier League,Sat,Away,L,1,2,Everton,,aston-villa,24.0
-2014-02-08,Premier League,Sat,Home,L,0,2,West Ham,,aston-villa,25.0
-2014-02-11,Premier League,Tue,Away,D,0,0,Cardiff City,,aston-villa,26.0
-2014-02-23,Premier League,Sun,Away,L,0,1,Newcastle Utd,,aston-villa,27.0
-2014-03-02,Premier League,Sun,Home,W,4,1,Norwich City,,aston-villa,28.0
-2014-03-15,Premier League,Sat,Home,W,1,0,Chelsea,,aston-villa,29.0
-2014-03-23,Premier League,Sun,Home,L,1,4,Stoke City,,aston-villa,30.0
-2014-03-29,Premier League,Sat,Away,L,1,4,Manchester Utd,,aston-villa,31.0
-2014-04-05,Premier League,Sat,Home,L,1,2,Fulham,,aston-villa,32.0
-2014-04-12,Premier League,Sat,Away,L,0,1,Crystal Palace,,aston-villa,33.0
-2014-04-19,Premier League,Sat,Home,D,0,0,Southampton,,aston-villa,34.0
-2014-04-26,Premier League,Sat,Away,L,1,4,Swansea City,,aston-villa,35.0
-2014-05-03,Premier League,Sat,Home,W,3,1,Hull City,,aston-villa,36.0
-2014-05-07,Premier League,Wed,Away,L,0,4,Manchester City,,aston-villa,37.0
-2014-05-11,Premier League,Sun,Away,L,0,3,Tottenham,,aston-villa,38.0
-2013-08-17,Premier League,Sat,Away,L,0,2,West Ham,,cardiff,1.0
-2013-08-25,Premier League,Sun,Home,W,3,2,Manchester City,,cardiff,2.0
-2013-08-31,Premier League,Sat,Home,D,0,0,Everton,,cardiff,3.0
-2013-09-14,Premier League,Sat,Away,D,1,1,Hull City,,cardiff,4.0
-2013-09-22,Premier League,Sun,Home,L,0,1,Tottenham,,cardiff,5.0
-2013-09-28,Premier League,Sat,Away,W,2,1,Fulham,,cardiff,6.0
-2013-10-05,Premier League,Sat,Home,L,1,2,Newcastle Utd,,cardiff,7.0
-2013-10-19,Premier League,Sat,Away,L,1,4,Chelsea,,cardiff,8.0
-2013-10-26,Premier League,Sat,Away,D,0,0,Norwich City,,cardiff,9.0
-2013-11-03,Premier League,Sun,Home,W,1,0,Swansea City,,cardiff,10.0
-2013-11-09,Premier League,Sat,Away,L,0,2,Aston Villa,,cardiff,11.0
-2013-11-24,Premier League,Sun,Home,D,2,2,Manchester Utd,,cardiff,12.0
-2013-11-30,Premier League,Sat,Home,L,0,3,Arsenal,,cardiff,13.0
-2013-12-04,Premier League,Wed,Away,D,0,0,Stoke City,,cardiff,14.0
-2013-12-07,Premier League,Sat,Away,L,0,2,Crystal Palace,,cardiff,15.0
-2013-12-14,Premier League,Sat,Home,W,1,0,West Brom,,cardiff,16.0
-2013-12-21,Premier League,Sat,Away,L,1,3,Liverpool,,cardiff,17.0
-2013-12-26,Premier League,Thu,Home,L,0,3,Southampton,,cardiff,18.0
-2013-12-28,Premier League,Sat,Home,D,2,2,Sunderland,,cardiff,19.0
-2014-01-01,Premier League,Wed,Away,L,0,2,Arsenal,,cardiff,20.0
-2014-01-11,Premier League,Sat,Home,L,0,2,West Ham,,cardiff,21.0
-2014-01-18,Premier League,Sat,Away,L,2,4,Manchester City,,cardiff,22.0
-2014-01-28,Premier League,Tue,Away,L,0,2,Manchester Utd,,cardiff,23.0
-2014-02-01,Premier League,Sat,Home,W,2,1,Norwich City,,cardiff,24.0
-2014-02-08,Premier League,Sat,Away,L,0,3,Swansea City,,cardiff,25.0
-2014-02-11,Premier League,Tue,Home,D,0,0,Aston Villa,,cardiff,26.0
-2014-02-22,Premier League,Sat,Home,L,0,4,Hull City,,cardiff,27.0
-2014-03-02,Premier League,Sun,Away,L,0,1,Tottenham,,cardiff,28.0
-2014-03-08,Premier League,Sat,Home,W,3,1,Fulham,,cardiff,29.0
-2014-03-15,Premier League,Sat,Away,L,1,2,Everton,,cardiff,30.0
-2014-03-22,Premier League,Sat,Home,L,3,6,Liverpool,,cardiff,31.0
-2014-03-29,Premier League,Sat,Away,D,3,3,West Brom,,cardiff,32.0
-2014-04-05,Premier League,Sat,Home,L,0,3,Crystal Palace,,cardiff,33.0
-2014-04-12,Premier League,Sat,Away,W,1,0,Southampton,,cardiff,34.0
-2014-04-19,Premier League,Sat,Home,D,1,1,Stoke City,,cardiff,35.0
-2014-04-27,Premier League,Sun,Away,L,0,4,Sunderland,,cardiff,36.0
-2014-05-03,Premier League,Sat,Away,L,0,3,Newcastle Utd,,cardiff,37.0
-2014-05-11,Premier League,Sun,Home,L,1,2,Chelsea,,cardiff,38.0
-2013-08-18,Premier League,Sun,Home,W,2,0,Hull City,,chelsea,1.0
-2013-08-21,Premier League,Wed,Home,W,2,1,Aston Villa,,chelsea,2.0
-2013-08-26,Premier League,Mon,Away,D,0,0,Manchester Utd,,chelsea,3.0
-2013-09-14,Premier League,Sat,Away,L,0,1,Everton,,chelsea,4.0
-2013-09-18,Champions Lg,Wed,Home,L,1,2,ch Basel,,chelsea,
-2013-09-21,Premier League,Sat,Home,W,2,0,Fulham,,chelsea,5.0
-2013-09-28,Premier League,Sat,Away,D,1,1,Tottenham,,chelsea,6.0
-2013-10-01,Champions Lg,Tue,Away,W,4,0,ro Steaua,,chelsea,
-2013-10-06,Premier League,Sun,Away,W,3,1,Norwich City,,chelsea,7.0
-2013-10-19,Premier League,Sat,Home,W,4,1,Cardiff City,,chelsea,8.0
-2013-10-22,Champions Lg,Tue,Away,W,3,0,de Schalke 04,,chelsea,
-2013-10-27,Premier League,Sun,Home,W,2,1,Manchester City,,chelsea,9.0
-2013-11-02,Premier League,Sat,Away,L,0,2,Newcastle Utd,,chelsea,10.0
-2013-11-06,Champions Lg,Wed,Home,W,3,0,de Schalke 04,,chelsea,
-2013-11-09,Premier League,Sat,Home,D,2,2,West Brom,,chelsea,11.0
-2013-11-23,Premier League,Sat,Away,W,3,0,West Ham,,chelsea,12.0
-2013-11-26,Champions Lg,Tue,Away,L,0,1,ch Basel,,chelsea,
-2013-12-01,Premier League,Sun,Home,W,3,1,Southampton,,chelsea,13.0
-2013-12-04,Premier League,Wed,Away,W,4,3,Sunderland,,chelsea,14.0
-2013-12-07,Premier League,Sat,Away,L,2,3,Stoke City,,chelsea,15.0
-2013-12-11,Champions Lg,Wed,Home,W,1,0,ro Steaua,,chelsea,
-2013-12-14,Premier League,Sat,Home,W,2,1,Crystal Palace,,chelsea,16.0
-2013-12-23,Premier League,Mon,Away,D,0,0,Arsenal,,chelsea,17.0
-2013-12-26,Premier League,Thu,Home,W,1,0,Swansea City,,chelsea,18.0
-2013-12-29,Premier League,Sun,Home,W,2,1,Liverpool,,chelsea,19.0
-2014-01-01,Premier League,Wed,Away,W,3,0,Southampton,,chelsea,20.0
-2014-01-11,Premier League,Sat,Away,W,2,0,Hull City,,chelsea,21.0
-2014-01-19,Premier League,Sun,Home,W,3,1,Manchester Utd,,chelsea,22.0
-2014-01-29,Premier League,Wed,Home,D,0,0,West Ham,,chelsea,23.0
-2014-02-03,Premier League,Mon,Away,W,1,0,Manchester City,,chelsea,24.0
-2014-02-08,Premier League,Sat,Home,W,3,0,Newcastle Utd,,chelsea,25.0
-2014-02-11,Premier League,Tue,Away,D,1,1,West Brom,,chelsea,26.0
-2014-02-22,Premier League,Sat,Home,W,1,0,Everton,,chelsea,27.0
-2014-02-26,Champions Lg,Wed,Away,D,1,1,tr Galatasaray,,chelsea,
-2014-03-01,Premier League,Sat,Away,W,3,1,Fulham,,chelsea,28.0
-2014-03-08,Premier League,Sat,Home,W,4,0,Tottenham,,chelsea,29.0
-2014-03-15,Premier League,Sat,Away,L,0,1,Aston Villa,,chelsea,30.0
-2014-03-18,Champions Lg,Tue,Home,W,2,0,tr Galatasaray,,chelsea,
-2014-03-22,Premier League,Sat,Home,W,6,0,Arsenal,,chelsea,31.0
-2014-03-29,Premier League,Sat,Away,L,0,1,Crystal Palace,,chelsea,32.0
-2014-04-02,Champions Lg,Wed,Away,L,1,3,fr Paris S-G,,chelsea,
-2014-04-05,Premier League,Sat,Home,W,3,0,Stoke City,,chelsea,33.0
-2014-04-08,Champions Lg,Tue,Home,W,2,0,fr Paris S-G,,chelsea,
-2014-04-13,Premier League,Sun,Away,W,1,0,Swansea City,,chelsea,34.0
-2014-04-19,Premier League,Sat,Home,L,1,2,Sunderland,,chelsea,35.0
-2014-04-22,Champions Lg,Tue,Away,D,0,0,es Atlético Madrid,,chelsea,
-2014-04-27,Premier League,Sun,Away,W,2,0,Liverpool,,chelsea,36.0
-2014-04-30,Champions Lg,Wed,Home,L,1,3,es Atlético Madrid,,chelsea,
-2014-05-04,Premier League,Sun,Home,D,0,0,Norwich City,,chelsea,37.0
-2014-05-11,Premier League,Sun,Away,W,2,1,Cardiff City,,chelsea,38.0
-2013-08-19,Premier League,Mon,Home,W,4,0,Newcastle Utd,,city,1.0
-2013-08-25,Premier League,Sun,Away,L,2,3,Cardiff City,,city,2.0
-2013-08-31,Premier League,Sat,Home,W,2,0,Hull City,,city,3.0
-2013-09-14,Premier League,Sat,Away,D,0,0,Stoke City,,city,4.0
-2013-09-17,Champions Lg,Tue,Away,W,3,0,cz Viktoria Plzeň,,city,
-2013-09-22,Premier League,Sun,Home,W,4,1,Manchester Utd,,city,5.0
-2013-09-28,Premier League,Sat,Away,L,2,3,Aston Villa,,city,6.0
-2013-10-02,Champions Lg,Wed,Home,L,1,3,de Bayern Munich,,city,
-2013-10-05,Premier League,Sat,Home,W,3,1,Everton,,city,7.0
-2013-10-19,Premier League,Sat,Away,W,3,1,West Ham,,city,8.0
-2013-10-23,Champions Lg,Wed,Away,W,2,1,ru CSKA Moscow,,city,
-2013-10-27,Premier League,Sun,Away,L,1,2,Chelsea,,city,9.0
-2013-11-02,Premier League,Sat,Home,W,7,0,Norwich City,,city,10.0
-2013-11-05,Champions Lg,Tue,Home,W,5,2,ru CSKA Moscow,,city,
-2013-11-10,Premier League,Sun,Away,L,0,1,Sunderland,,city,11.0
-2013-11-24,Premier League,Sun,Home,W,6,0,Tottenham,,city,12.0
-2013-11-27,Champions Lg,Wed,Home,W,4,2,cz Viktoria Plzeň,,city,
-2013-12-01,Premier League,Sun,Home,W,3,0,Swansea City,,city,13.0
-2013-12-04,Premier League,Wed,Away,W,3,2,West Brom,,city,14.0
-2013-12-07,Premier League,Sat,Away,D,1,1,Southampton,,city,15.0
-2013-12-10,Champions Lg,Tue,Away,W,3,2,de Bayern Munich,,city,
-2013-12-14,Premier League,Sat,Home,W,6,3,Arsenal,,city,16.0
-2013-12-21,Premier League,Sat,Away,W,4,2,Fulham,,city,17.0
-2013-12-26,Premier League,Thu,Home,W,2,1,Liverpool,,city,18.0
-2013-12-28,Premier League,Sat,Home,W,1,0,Crystal Palace,,city,19.0
-2014-01-01,Premier League,Wed,Away,W,3,2,Swansea City,,city,20.0
-2014-01-12,Premier League,Sun,Away,W,2,0,Newcastle Utd,,city,21.0
-2014-01-18,Premier League,Sat,Home,W,4,2,Cardiff City,,city,22.0
-2014-01-29,Premier League,Wed,Away,W,5,1,Tottenham,,city,23.0
-2014-02-03,Premier League,Mon,Home,L,0,1,Chelsea,,city,24.0
-2014-02-08,Premier League,Sat,Away,D,0,0,Norwich City,,city,25.0
-2014-02-18,Champions Lg,Tue,Home,L,0,2,es Barcelona,,city,
-2014-02-22,Premier League,Sat,Home,W,1,0,Stoke City,,city,26.0
-2014-03-12,Champions Lg,Wed,Away,L,1,2,es Barcelona,,city,
-2014-03-15,Premier League,Sat,Away,W,2,0,Hull City,,city,27.0
-2014-03-22,Premier League,Sat,Home,W,5,0,Fulham,,city,28.0
-2014-03-25,Premier League,Tue,Away,W,3,0,Manchester Utd,,city,29.0
-2014-03-29,Premier League,Sat,Away,D,1,1,Arsenal,,city,30.0
-2014-04-05,Premier League,Sat,Home,W,4,1,Southampton,,city,31.0
-2014-04-13,Premier League,Sun,Away,L,2,3,Liverpool,,city,32.0
-2014-04-16,Premier League,Wed,Home,D,2,2,Sunderland,,city,33.0
-2014-04-21,Premier League,Mon,Home,W,3,1,West Brom,,city,34.0
-2014-04-27,Premier League,Sun,Away,W,2,0,Crystal Palace,,city,35.0
-2014-05-03,Premier League,Sat,Away,W,3,2,Everton,,city,36.0
-2014-05-07,Premier League,Wed,Home,W,4,0,Aston Villa,,city,37.0
-2014-05-11,Premier League,Sun,Home,W,2,0,West Ham,,city,38.0
-2013-08-17,Premier League,Sat,Away,D,2,2,Norwich City,,everton,1.0
-2013-08-24,Premier League,Sat,Home,D,0,0,West Brom,,everton,2.0
-2013-08-31,Premier League,Sat,Away,D,0,0,Cardiff City,,everton,3.0
-2013-09-14,Premier League,Sat,Home,W,1,0,Chelsea,,everton,4.0
-2013-09-21,Premier League,Sat,Away,W,3,2,West Ham,,everton,5.0
-2013-09-30,Premier League,Mon,Home,W,3,2,Newcastle Utd,,everton,6.0
-2013-10-05,Premier League,Sat,Away,L,1,3,Manchester City,,everton,7.0
-2013-10-19,Premier League,Sat,Home,W,2,1,Hull City,,everton,8.0
-2013-10-26,Premier League,Sat,Away,W,2,0,Aston Villa,,everton,9.0
-2013-11-03,Premier League,Sun,Home,D,0,0,Tottenham,,everton,10.0
-2013-11-09,Premier League,Sat,Away,D,0,0,Crystal Palace,,everton,11.0
-2013-11-23,Premier League,Sat,Home,D,3,3,Liverpool,,everton,12.0
-2013-11-30,Premier League,Sat,Home,W,4,0,Stoke City,,everton,13.0
-2013-12-04,Premier League,Wed,Away,W,1,0,Manchester Utd,,everton,14.0
-2013-12-08,Premier League,Sun,Away,D,1,1,Arsenal,,everton,15.0
-2013-12-14,Premier League,Sat,Home,W,4,1,Fulham,,everton,16.0
-2013-12-22,Premier League,Sun,Away,W,2,1,Swansea City,,everton,17.0
-2013-12-26,Premier League,Thu,Home,L,0,1,Sunderland,,everton,18.0
-2013-12-29,Premier League,Sun,Home,W,2,1,Southampton,,everton,19.0
-2014-01-01,Premier League,Wed,Away,D,1,1,Stoke City,,everton,20.0
-2014-01-11,Premier League,Sat,Home,W,2,0,Norwich City,,everton,21.0
-2014-01-20,Premier League,Mon,Away,D,1,1,West Brom,,everton,22.0
-2014-01-28,Premier League,Tue,Away,L,0,4,Liverpool,,everton,23.0
-2014-02-01,Premier League,Sat,Home,W,2,1,Aston Villa,,everton,24.0
-2014-02-09,Premier League,Sun,Away,L,0,1,Tottenham,,everton,25.0
-2014-02-22,Premier League,Sat,Away,L,0,1,Chelsea,,everton,26.0
-2014-03-01,Premier League,Sat,Home,W,1,0,West Ham,,everton,27.0
-2014-03-15,Premier League,Sat,Home,W,2,1,Cardiff City,,everton,28.0
-2014-03-22,Premier League,Sat,Home,W,3,2,Swansea City,,everton,29.0
-2014-03-25,Premier League,Tue,Away,W,3,0,Newcastle Utd,,everton,30.0
-2014-03-30,Premier League,Sun,Away,W,3,1,Fulham,,everton,31.0
-2014-04-06,Premier League,Sun,Home,W,3,0,Arsenal,,everton,32.0
-2014-04-12,Premier League,Sat,Away,W,1,0,Sunderland,,everton,33.0
-2014-04-16,Premier League,Wed,Home,L,2,3,Crystal Palace,,everton,34.0
-2014-04-20,Premier League,Sun,Home,W,2,0,Manchester Utd,,everton,35.0
-2014-04-26,Premier League,Sat,Away,L,0,2,Southampton,,everton,36.0
-2014-05-03,Premier League,Sat,Home,L,2,3,Manchester City,,everton,37.0
-2014-05-11,Premier League,Sun,Away,W,2,0,Hull City,,everton,38.0
-2013-08-17,Premier League,Sat,Away,W,1,0,Sunderland,,fulham,1.0
-2013-08-24,Premier League,Sat,Home,L,1,3,Arsenal,,fulham,2.0
-2013-08-31,Premier League,Sat,Away,L,0,1,Newcastle Utd,,fulham,3.0
-2013-09-14,Premier League,Sat,Home,D,1,1,West Brom,,fulham,4.0
-2013-09-21,Premier League,Sat,Away,L,0,2,Chelsea,,fulham,5.0
-2013-09-28,Premier League,Sat,Home,L,1,2,Cardiff City,,fulham,6.0
-2013-10-05,Premier League,Sat,Home,W,1,0,Stoke City,,fulham,7.0
-2013-10-21,Premier League,Mon,Away,W,4,1,Crystal Palace,,fulham,8.0
-2013-10-26,Premier League,Sat,Away,L,0,2,Southampton,,fulham,9.0
-2013-11-02,Premier League,Sat,Home,L,1,3,Manchester Utd,,fulham,10.0
-2013-11-09,Premier League,Sat,Away,L,0,4,Liverpool,,fulham,11.0
-2013-11-23,Premier League,Sat,Home,L,1,2,Swansea City,,fulham,12.0
-2013-11-30,Premier League,Sat,Away,L,0,3,West Ham,,fulham,13.0
-2013-12-04,Premier League,Wed,Home,L,1,2,Tottenham,,fulham,14.0
-2013-12-08,Premier League,Sun,Home,W,2,0,Aston Villa,,fulham,15.0
-2013-12-14,Premier League,Sat,Away,L,1,4,Everton,,fulham,16.0
-2013-12-21,Premier League,Sat,Home,L,2,4,Manchester City,,fulham,17.0
-2013-12-26,Premier League,Thu,Away,W,2,1,Norwich City,,fulham,18.0
-2013-12-28,Premier League,Sat,Away,L,0,6,Hull City,,fulham,19.0
-2014-01-01,Premier League,Wed,Home,W,2,1,West Ham,,fulham,20.0
-2014-01-11,Premier League,Sat,Home,L,1,4,Sunderland,,fulham,21.0
-2014-01-18,Premier League,Sat,Away,L,0,2,Arsenal,,fulham,22.0
-2014-01-28,Premier League,Tue,Away,L,0,2,Swansea City,,fulham,23.0
-2014-02-01,Premier League,Sat,Home,L,0,3,Southampton,,fulham,24.0
-2014-02-09,Premier League,Sun,Away,D,2,2,Manchester Utd,,fulham,25.0
-2014-02-12,Premier League,Wed,Home,L,2,3,Liverpool,,fulham,26.0
-2014-02-22,Premier League,Sat,Away,D,1,1,West Brom,,fulham,27.0
-2014-03-01,Premier League,Sat,Home,L,1,3,Chelsea,,fulham,28.0
-2014-03-08,Premier League,Sat,Away,L,1,3,Cardiff City,,fulham,29.0
-2014-03-15,Premier League,Sat,Home,W,1,0,Newcastle Utd,,fulham,30.0
-2014-03-22,Premier League,Sat,Away,L,0,5,Manchester City,,fulham,31.0
-2014-03-30,Premier League,Sun,Home,L,1,3,Everton,,fulham,32.0
-2014-04-05,Premier League,Sat,Away,W,2,1,Aston Villa,,fulham,33.0
-2014-04-12,Premier League,Sat,Home,W,1,0,Norwich City,,fulham,34.0
-2014-04-19,Premier League,Sat,Away,L,1,3,Tottenham,,fulham,35.0
-2014-04-26,Premier League,Sat,Home,D,2,2,Hull City,,fulham,36.0
-2014-05-03,Premier League,Sat,Away,L,1,4,Stoke City,,fulham,37.0
-2014-05-11,Premier League,Sun,Home,D,2,2,Crystal Palace,,fulham,38.0
-2013-08-18,Premier League,Sun,Away,L,0,2,Chelsea,,hull,1.0
-2013-08-24,Premier League,Sat,Home,W,1,0,Norwich City,,hull,2.0
-2013-08-31,Premier League,Sat,Away,L,0,2,Manchester City,,hull,3.0
-2013-09-14,Premier League,Sat,Home,D,1,1,Cardiff City,,hull,4.0
-2013-09-21,Premier League,Sat,Away,W,3,2,Newcastle Utd,,hull,5.0
-2013-09-28,Premier League,Sat,Home,W,1,0,West Ham,,hull,6.0
-2013-10-05,Premier League,Sat,Home,D,0,0,Aston Villa,,hull,7.0
-2013-10-19,Premier League,Sat,Away,L,1,2,Everton,,hull,8.0
-2013-10-27,Premier League,Sun,Away,L,0,1,Tottenham,,hull,9.0
-2013-11-02,Premier League,Sat,Home,W,1,0,Sunderland,,hull,10.0
-2013-11-09,Premier League,Sat,Away,L,1,4,Southampton,,hull,11.0
-2013-11-23,Premier League,Sat,Home,L,0,1,Crystal Palace,,hull,12.0
-2013-12-01,Premier League,Sun,Home,W,3,1,Liverpool,,hull,13.0
-2013-12-04,Premier League,Wed,Away,L,0,2,Arsenal,,hull,14.0
-2013-12-09,Premier League,Mon,Away,D,1,1,Swansea City,,hull,15.0
-2013-12-14,Premier League,Sat,Home,D,0,0,Stoke City,,hull,16.0
-2013-12-21,Premier League,Sat,Away,D,1,1,West Brom,,hull,17.0
-2013-12-26,Premier League,Thu,Home,L,2,3,Manchester Utd,,hull,18.0
-2013-12-28,Premier League,Sat,Home,W,6,0,Fulham,,hull,19.0
-2014-01-01,Premier League,Wed,Away,L,0,2,Liverpool,,hull,20.0
-2014-01-11,Premier League,Sat,Home,L,0,2,Chelsea,,hull,21.0
-2014-01-18,Premier League,Sat,Away,L,0,1,Norwich City,,hull,22.0
-2014-01-28,Premier League,Tue,Away,L,0,1,Crystal Palace,,hull,23.0
-2014-02-01,Premier League,Sat,Home,D,1,1,Tottenham,,hull,24.0
-2014-02-08,Premier League,Sat,Away,W,2,0,Sunderland,,hull,25.0
-2014-02-11,Premier League,Tue,Home,L,0,1,Southampton,,hull,26.0
-2014-02-22,Premier League,Sat,Away,W,4,0,Cardiff City,,hull,27.0
-2014-03-01,Premier League,Sat,Home,L,1,4,Newcastle Utd,,hull,28.0
-2014-03-15,Premier League,Sat,Home,L,0,2,Manchester City,,hull,29.0
-2014-03-22,Premier League,Sat,Home,W,2,0,West Brom,,hull,30.0
-2014-03-26,Premier League,Wed,Away,L,1,2,West Ham,,hull,31.0
-2014-03-29,Premier League,Sat,Away,L,0,1,Stoke City,,hull,32.0
-2014-04-05,Premier League,Sat,Home,W,1,0,Swansea City,,hull,33.0
-2014-04-20,Premier League,Sun,Home,L,0,3,Arsenal,,hull,34.0
-2014-04-26,Premier League,Sat,Away,D,2,2,Fulham,,hull,35.0
-2014-05-03,Premier League,Sat,Away,L,1,3,Aston Villa,,hull,36.0
-2014-05-06,Premier League,Tue,Away,L,1,3,Manchester Utd,,hull,37.0
-2014-05-11,Premier League,Sun,Home,L,0,2,Everton,,hull,38.0
-2013-08-17,Premier League,Sat,Home,W,1,0,Stoke City,,liverpool,1.0
-2013-08-24,Premier League,Sat,Away,W,1,0,Aston Villa,,liverpool,2.0
-2013-09-01,Premier League,Sun,Home,W,1,0,Manchester Utd,,liverpool,3.0
-2013-09-16,Premier League,Mon,Away,D,2,2,Swansea City,,liverpool,4.0
-2013-09-21,Premier League,Sat,Home,L,0,1,Southampton,,liverpool,5.0
-2013-09-29,Premier League,Sun,Away,W,3,1,Sunderland,,liverpool,6.0
-2013-10-05,Premier League,Sat,Home,W,3,1,Crystal Palace,,liverpool,7.0
-2013-10-19,Premier League,Sat,Away,D,2,2,Newcastle Utd,,liverpool,8.0
-2013-10-26,Premier League,Sat,Home,W,4,1,West Brom,,liverpool,9.0
-2013-11-02,Premier League,Sat,Away,L,0,2,Arsenal,,liverpool,10.0
-2013-11-09,Premier League,Sat,Home,W,4,0,Fulham,,liverpool,11.0
-2013-11-23,Premier League,Sat,Away,D,3,3,Everton,,liverpool,12.0
-2013-12-01,Premier League,Sun,Away,L,1,3,Hull City,,liverpool,13.0
-2013-12-04,Premier League,Wed,Home,W,5,1,Norwich City,,liverpool,14.0
-2013-12-07,Premier League,Sat,Home,W,4,1,West Ham,,liverpool,15.0
-2013-12-15,Premier League,Sun,Away,W,5,0,Tottenham,,liverpool,16.0
-2013-12-21,Premier League,Sat,Home,W,3,1,Cardiff City,,liverpool,17.0
-2013-12-26,Premier League,Thu,Away,L,1,2,Manchester City,,liverpool,18.0
-2013-12-29,Premier League,Sun,Away,L,1,2,Chelsea,,liverpool,19.0
-2014-01-01,Premier League,Wed,Home,W,2,0,Hull City,,liverpool,20.0
-2014-01-12,Premier League,Sun,Away,W,5,3,Stoke City,,liverpool,21.0
-2014-01-18,Premier League,Sat,Home,D,2,2,Aston Villa,,liverpool,22.0
-2014-01-28,Premier League,Tue,Home,W,4,0,Everton,,liverpool,23.0
-2014-02-02,Premier League,Sun,Away,D,1,1,West Brom,,liverpool,24.0
-2014-02-08,Premier League,Sat,Home,W,5,1,Arsenal,,liverpool,25.0
-2014-02-12,Premier League,Wed,Away,W,3,2,Fulham,,liverpool,26.0
-2014-02-23,Premier League,Sun,Home,W,4,3,Swansea City,,liverpool,27.0
-2014-03-01,Premier League,Sat,Away,W,3,0,Southampton,,liverpool,28.0
-2014-03-16,Premier League,Sun,Away,W,3,0,Manchester Utd,,liverpool,29.0
-2014-03-22,Premier League,Sat,Away,W,6,3,Cardiff City,,liverpool,30.0
-2014-03-26,Premier League,Wed,Home,W,2,1,Sunderland,,liverpool,31.0
-2014-03-30,Premier League,Sun,Home,W,4,0,Tottenham,,liverpool,32.0
-2014-04-06,Premier League,Sun,Away,W,2,1,West Ham,,liverpool,33.0
-2014-04-13,Premier League,Sun,Home,W,3,2,Manchester City,,liverpool,34.0
-2014-04-20,Premier League,Sun,Away,W,3,2,Norwich City,,liverpool,35.0
-2014-04-27,Premier League,Sun,Home,L,0,2,Chelsea,,liverpool,36.0
-2014-05-05,Premier League,Mon,Away,D,3,3,Crystal Palace,,liverpool,37.0
-2014-05-11,Premier League,Sun,Home,W,2,1,Newcastle Utd,,liverpool,38.0
-2013-08-19,Premier League,Mon,Away,L,0,4,Manchester City,,newcastle,1.0
-2013-08-24,Premier League,Sat,Home,D,0,0,West Ham,,newcastle,2.0
-2013-08-31,Premier League,Sat,Home,W,1,0,Fulham,,newcastle,3.0
-2013-09-14,Premier League,Sat,Away,W,2,1,Aston Villa,,newcastle,4.0
-2013-09-21,Premier League,Sat,Home,L,2,3,Hull City,,newcastle,5.0
-2013-09-30,Premier League,Mon,Away,L,2,3,Everton,,newcastle,6.0
-2013-10-05,Premier League,Sat,Away,W,2,1,Cardiff City,,newcastle,7.0
-2013-10-19,Premier League,Sat,Home,D,2,2,Liverpool,,newcastle,8.0
-2013-10-27,Premier League,Sun,Away,L,1,2,Sunderland,,newcastle,9.0
-2013-11-02,Premier League,Sat,Home,W,2,0,Chelsea,,newcastle,10.0
-2013-11-10,Premier League,Sun,Away,W,1,0,Tottenham,,newcastle,11.0
-2013-11-23,Premier League,Sat,Home,W,2,1,Norwich City,,newcastle,12.0
-2013-11-30,Premier League,Sat,Home,W,2,1,West Brom,,newcastle,13.0
-2013-12-04,Premier League,Wed,Away,L,0,3,Swansea City,,newcastle,14.0
-2013-12-07,Premier League,Sat,Away,W,1,0,Manchester Utd,,newcastle,15.0
-2013-12-14,Premier League,Sat,Home,D,1,1,Southampton,,newcastle,16.0
-2013-12-21,Premier League,Sat,Away,W,3,0,Crystal Palace,,newcastle,17.0
-2013-12-26,Premier League,Thu,Home,W,5,1,Stoke City,,newcastle,18.0
-2013-12-29,Premier League,Sun,Home,L,0,1,Arsenal,,newcastle,19.0
-2014-01-01,Premier League,Wed,Away,L,0,1,West Brom,,newcastle,20.0
-2014-01-12,Premier League,Sun,Home,L,0,2,Manchester City,,newcastle,21.0
-2014-01-18,Premier League,Sat,Away,W,3,1,West Ham,,newcastle,22.0
-2014-01-28,Premier League,Tue,Away,D,0,0,Norwich City,,newcastle,23.0
-2014-02-01,Premier League,Sat,Home,L,0,3,Sunderland,,newcastle,24.0
-2014-02-08,Premier League,Sat,Away,L,0,3,Chelsea,,newcastle,25.0
-2014-02-12,Premier League,Wed,Home,L,0,4,Tottenham,,newcastle,26.0
-2014-02-23,Premier League,Sun,Home,W,1,0,Aston Villa,,newcastle,27.0
-2014-03-01,Premier League,Sat,Away,W,4,1,Hull City,,newcastle,28.0
-2014-03-15,Premier League,Sat,Away,L,0,1,Fulham,,newcastle,29.0
-2014-03-22,Premier League,Sat,Home,W,1,0,Crystal Palace,,newcastle,30.0
-2014-03-25,Premier League,Tue,Home,L,0,3,Everton,,newcastle,31.0
-2014-03-29,Premier League,Sat,Away,L,0,4,Southampton,,newcastle,32.0
-2014-04-05,Premier League,Sat,Home,L,0,4,Manchester Utd,,newcastle,33.0
-2014-04-12,Premier League,Sat,Away,L,0,1,Stoke City,,newcastle,34.0
-2014-04-19,Premier League,Sat,Home,L,1,2,Swansea City,,newcastle,35.0
-2014-04-28,Premier League,Mon,Away,L,0,3,Arsenal,,newcastle,36.0
-2014-05-03,Premier League,Sat,Home,W,3,0,Cardiff City,,newcastle,37.0
-2014-05-11,Premier League,Sun,Away,L,1,2,Liverpool,,newcastle,38.0
-2013-08-17,Premier League,Sat,Home,D,2,2,Everton,,norwich,1.0
-2013-08-24,Premier League,Sat,Away,L,0,1,Hull City,,norwich,2.0
-2013-08-31,Premier League,Sat,Home,W,1,0,Southampton,,norwich,3.0
-2013-09-14,Premier League,Sat,Away,L,0,2,Tottenham,,norwich,4.0
-2013-09-21,Premier League,Sat,Home,L,0,1,Aston Villa,,norwich,5.0
-2013-09-29,Premier League,Sun,Away,W,1,0,Stoke City,,norwich,6.0
-2013-10-06,Premier League,Sun,Home,L,1,3,Chelsea,,norwich,7.0
-2013-10-19,Premier League,Sat,Away,L,1,4,Arsenal,,norwich,8.0
-2013-10-26,Premier League,Sat,Home,D,0,0,Cardiff City,,norwich,9.0
-2013-11-02,Premier League,Sat,Away,L,0,7,Manchester City,,norwich,10.0
-2013-11-09,Premier League,Sat,Home,W,3,1,West Ham,,norwich,11.0
-2013-11-23,Premier League,Sat,Away,L,1,2,Newcastle Utd,,norwich,12.0
-2013-11-30,Premier League,Sat,Home,W,1,0,Crystal Palace,,norwich,13.0
-2013-12-04,Premier League,Wed,Away,L,1,5,Liverpool,,norwich,14.0
-2013-12-07,Premier League,Sat,Away,W,2,0,West Brom,,norwich,15.0
-2013-12-15,Premier League,Sun,Home,D,1,1,Swansea City,,norwich,16.0
-2013-12-21,Premier League,Sat,Away,D,0,0,Sunderland,,norwich,17.0
-2013-12-26,Premier League,Thu,Home,L,1,2,Fulham,,norwich,18.0
-2013-12-28,Premier League,Sat,Home,L,0,1,Manchester Utd,,norwich,19.0
-2014-01-01,Premier League,Wed,Away,D,1,1,Crystal Palace,,norwich,20.0
-2014-01-11,Premier League,Sat,Away,L,0,2,Everton,,norwich,21.0
-2014-01-18,Premier League,Sat,Home,W,1,0,Hull City,,norwich,22.0
-2014-01-28,Premier League,Tue,Home,D,0,0,Newcastle Utd,,norwich,23.0
-2014-02-01,Premier League,Sat,Away,L,1,2,Cardiff City,,norwich,24.0
-2014-02-08,Premier League,Sat,Home,D,0,0,Manchester City,,norwich,25.0
-2014-02-11,Premier League,Tue,Away,L,0,2,West Ham,,norwich,26.0
-2014-02-23,Premier League,Sun,Home,W,1,0,Tottenham,,norwich,27.0
-2014-03-02,Premier League,Sun,Away,L,1,4,Aston Villa,,norwich,28.0
-2014-03-08,Premier League,Sat,Home,D,1,1,Stoke City,,norwich,29.0
-2014-03-15,Premier League,Sat,Away,L,2,4,Southampton,,norwich,30.0
-2014-03-22,Premier League,Sat,Home,W,2,0,Sunderland,,norwich,31.0
-2014-03-29,Premier League,Sat,Away,L,0,3,Swansea City,,norwich,32.0
-2014-04-05,Premier League,Sat,Home,L,0,1,West Brom,,norwich,33.0
-2014-04-12,Premier League,Sat,Away,L,0,1,Fulham,,norwich,34.0
-2014-04-20,Premier League,Sun,Home,L,2,3,Liverpool,,norwich,35.0
-2014-04-26,Premier League,Sat,Away,L,0,4,Manchester Utd,,norwich,36.0
-2014-05-04,Premier League,Sun,Away,D,0,0,Chelsea,,norwich,37.0
-2014-05-11,Premier League,Sun,Home,L,0,2,Arsenal,,norwich,38.0
-2013-08-18,Premier League,Sun,Home,L,0,1,Tottenham,,palace,1.0
-2013-08-24,Premier League,Sat,Away,L,1,2,Stoke City,,palace,2.0
-2013-08-31,Premier League,Sat,Home,W,3,1,Sunderland,,palace,3.0
-2013-09-14,Premier League,Sat,Away,L,0,2,Manchester Utd,,palace,4.0
-2013-09-22,Premier League,Sun,Home,L,0,2,Swansea City,,palace,5.0
-2013-09-28,Premier League,Sat,Away,L,0,2,Southampton,,palace,6.0
-2013-10-05,Premier League,Sat,Away,L,1,3,Liverpool,,palace,7.0
-2013-10-21,Premier League,Mon,Home,L,1,4,Fulham,,palace,8.0
-2013-10-26,Premier League,Sat,Home,L,0,2,Arsenal,,palace,9.0
-2013-11-02,Premier League,Sat,Away,L,0,2,West Brom,,palace,10.0
-2013-11-09,Premier League,Sat,Home,D,0,0,Everton,,palace,11.0
-2013-11-23,Premier League,Sat,Away,W,1,0,Hull City,,palace,12.0
-2013-11-30,Premier League,Sat,Away,L,0,1,Norwich City,,palace,13.0
-2013-12-03,Premier League,Tue,Home,W,1,0,West Ham,,palace,14.0
-2013-12-07,Premier League,Sat,Home,W,2,0,Cardiff City,,palace,15.0
-2013-12-14,Premier League,Sat,Away,L,1,2,Chelsea,,palace,16.0
-2013-12-21,Premier League,Sat,Home,L,0,3,Newcastle Utd,,palace,17.0
-2013-12-26,Premier League,Thu,Away,W,1,0,Aston Villa,,palace,18.0
-2013-12-28,Premier League,Sat,Away,L,0,1,Manchester City,,palace,19.0
-2014-01-01,Premier League,Wed,Home,D,1,1,Norwich City,,palace,20.0
-2014-01-11,Premier League,Sat,Away,L,0,2,Tottenham,,palace,21.0
-2014-01-18,Premier League,Sat,Home,W,1,0,Stoke City,,palace,22.0
-2014-01-28,Premier League,Tue,Home,W,1,0,Hull City,,palace,23.0
-2014-02-02,Premier League,Sun,Away,L,0,2,Arsenal,,palace,24.0
-2014-02-08,Premier League,Sat,Home,W,3,1,West Brom,,palace,25.0
-2014-02-22,Premier League,Sat,Home,L,0,2,Manchester Utd,,palace,26.0
-2014-03-02,Premier League,Sun,Away,D,1,1,Swansea City,,palace,27.0
-2014-03-08,Premier League,Sat,Home,L,0,1,Southampton,,palace,28.0
-2014-03-15,Premier League,Sat,Away,D,0,0,Sunderland,,palace,29.0
-2014-03-22,Premier League,Sat,Away,L,0,1,Newcastle Utd,,palace,30.0
-2014-03-29,Premier League,Sat,Home,W,1,0,Chelsea,,palace,31.0
-2014-04-05,Premier League,Sat,Away,W,3,0,Cardiff City,,palace,32.0
-2014-04-12,Premier League,Sat,Home,W,1,0,Aston Villa,,palace,33.0
-2014-04-16,Premier League,Wed,Away,W,3,2,Everton,,palace,34.0
-2014-04-19,Premier League,Sat,Away,W,1,0,West Ham,,palace,35.0
-2014-04-27,Premier League,Sun,Home,L,0,2,Manchester City,,palace,36.0
-2014-05-05,Premier League,Mon,Home,D,3,3,Liverpool,,palace,37.0
-2014-05-11,Premier League,Sun,Away,D,2,2,Fulham,,palace,38.0
-2013-08-17,Premier League,Sat,Away,W,1,0,West Brom,,southampton,1.0
-2013-08-24,Premier League,Sat,Home,D,1,1,Sunderland,,southampton,2.0
-2013-08-31,Premier League,Sat,Away,L,0,1,Norwich City,,southampton,3.0
-2013-09-15,Premier League,Sun,Home,D,0,0,West Ham,,southampton,4.0
-2013-09-21,Premier League,Sat,Away,W,1,0,Liverpool,,southampton,5.0
-2013-09-28,Premier League,Sat,Home,W,2,0,Crystal Palace,,southampton,6.0
-2013-10-06,Premier League,Sun,Home,W,2,0,Swansea City,,southampton,7.0
-2013-10-19,Premier League,Sat,Away,D,1,1,Manchester Utd,,southampton,8.0
-2013-10-26,Premier League,Sat,Home,W,2,0,Fulham,,southampton,9.0
-2013-11-02,Premier League,Sat,Away,D,1,1,Stoke City,,southampton,10.0
-2013-11-09,Premier League,Sat,Home,W,4,1,Hull City,,southampton,11.0
-2013-11-23,Premier League,Sat,Away,L,0,2,Arsenal,,southampton,12.0
-2013-12-01,Premier League,Sun,Away,L,1,3,Chelsea,,southampton,13.0
-2013-12-04,Premier League,Wed,Home,L,2,3,Aston Villa,,southampton,14.0
-2013-12-07,Premier League,Sat,Home,D,1,1,Manchester City,,southampton,15.0
-2013-12-14,Premier League,Sat,Away,D,1,1,Newcastle Utd,,southampton,16.0
-2013-12-22,Premier League,Sun,Home,L,2,3,Tottenham,,southampton,17.0
-2013-12-26,Premier League,Thu,Away,W,3,0,Cardiff City,,southampton,18.0
-2013-12-29,Premier League,Sun,Away,L,1,2,Everton,,southampton,19.0
-2014-01-01,Premier League,Wed,Home,L,0,3,Chelsea,,southampton,20.0
-2014-01-11,Premier League,Sat,Home,W,1,0,West Brom,,southampton,21.0
-2014-01-18,Premier League,Sat,Away,D,2,2,Sunderland,,southampton,22.0
-2014-01-28,Premier League,Tue,Home,D,2,2,Arsenal,,southampton,23.0
-2014-02-01,Premier League,Sat,Away,W,3,0,Fulham,,southampton,24.0
-2014-02-08,Premier League,Sat,Home,D,2,2,Stoke City,,southampton,25.0
-2014-02-11,Premier League,Tue,Away,W,1,0,Hull City,,southampton,26.0
-2014-02-22,Premier League,Sat,Away,L,1,3,West Ham,,southampton,27.0
-2014-03-01,Premier League,Sat,Home,L,0,3,Liverpool,,southampton,28.0
-2014-03-08,Premier League,Sat,Away,W,1,0,Crystal Palace,,southampton,29.0
-2014-03-15,Premier League,Sat,Home,W,4,2,Norwich City,,southampton,30.0
-2014-03-23,Premier League,Sun,Away,L,2,3,Tottenham,,southampton,31.0
-2014-03-29,Premier League,Sat,Home,W,4,0,Newcastle Utd,,southampton,32.0
-2014-04-05,Premier League,Sat,Away,L,1,4,Manchester City,,southampton,33.0
-2014-04-12,Premier League,Sat,Home,L,0,1,Cardiff City,,southampton,34.0
-2014-04-19,Premier League,Sat,Away,D,0,0,Aston Villa,,southampton,35.0
-2014-04-26,Premier League,Sat,Home,W,2,0,Everton,,southampton,36.0
-2014-05-03,Premier League,Sat,Away,W,1,0,Swansea City,,southampton,37.0
-2014-05-11,Premier League,Sun,Home,D,1,1,Manchester Utd,,southampton,38.0
-2013-08-17,Premier League,Sat,Away,L,0,1,Liverpool,,stoke,1.0
-2013-08-24,Premier League,Sat,Home,W,2,1,Crystal Palace,,stoke,2.0
-2013-08-31,Premier League,Sat,Away,W,1,0,West Ham,,stoke,3.0
-2013-09-14,Premier League,Sat,Home,D,0,0,Manchester City,,stoke,4.0
-2013-09-22,Premier League,Sun,Away,L,1,3,Arsenal,,stoke,5.0
-2013-09-29,Premier League,Sun,Home,L,0,1,Norwich City,,stoke,6.0
-2013-10-05,Premier League,Sat,Away,L,0,1,Fulham,,stoke,7.0
-2013-10-19,Premier League,Sat,Home,D,0,0,West Brom,,stoke,8.0
-2013-10-26,Premier League,Sat,Away,L,2,3,Manchester Utd,,stoke,9.0
-2013-11-02,Premier League,Sat,Home,D,1,1,Southampton,,stoke,10.0
-2013-11-10,Premier League,Sun,Away,D,3,3,Swansea City,,stoke,11.0
-2013-11-23,Premier League,Sat,Home,W,2,0,Sunderland,,stoke,12.0
-2013-11-30,Premier League,Sat,Away,L,0,4,Everton,,stoke,13.0
-2013-12-04,Premier League,Wed,Home,D,0,0,Cardiff City,,stoke,14.0
-2013-12-07,Premier League,Sat,Home,W,3,2,Chelsea,,stoke,15.0
-2013-12-14,Premier League,Sat,Away,D,0,0,Hull City,,stoke,16.0
-2013-12-21,Premier League,Sat,Home,W,2,1,Aston Villa,,stoke,17.0
-2013-12-26,Premier League,Thu,Away,L,1,5,Newcastle Utd,,stoke,18.0
-2013-12-29,Premier League,Sun,Away,L,0,3,Tottenham,,stoke,19.0
-2014-01-01,Premier League,Wed,Home,D,1,1,Everton,,stoke,20.0
-2014-01-12,Premier League,Sun,Home,L,3,5,Liverpool,,stoke,21.0
-2014-01-18,Premier League,Sat,Away,L,0,1,Crystal Palace,,stoke,22.0
-2014-01-29,Premier League,Wed,Away,L,0,1,Sunderland,,stoke,23.0
-2014-02-01,Premier League,Sat,Home,W,2,1,Manchester Utd,,stoke,24.0
-2014-02-08,Premier League,Sat,Away,D,2,2,Southampton,,stoke,25.0
-2014-02-12,Premier League,Wed,Home,D,1,1,Swansea City,,stoke,26.0
-2014-02-22,Premier League,Sat,Away,L,0,1,Manchester City,,stoke,27.0
-2014-03-01,Premier League,Sat,Home,W,1,0,Arsenal,,stoke,28.0
-2014-03-08,Premier League,Sat,Away,D,1,1,Norwich City,,stoke,29.0
-2014-03-15,Premier League,Sat,Home,W,3,1,West Ham,,stoke,30.0
-2014-03-23,Premier League,Sun,Away,W,4,1,Aston Villa,,stoke,31.0
-2014-03-29,Premier League,Sat,Home,W,1,0,Hull City,,stoke,32.0
-2014-04-05,Premier League,Sat,Away,L,0,3,Chelsea,,stoke,33.0
-2014-04-12,Premier League,Sat,Home,W,1,0,Newcastle Utd,,stoke,34.0
-2014-04-19,Premier League,Sat,Away,D,1,1,Cardiff City,,stoke,35.0
-2014-04-26,Premier League,Sat,Home,L,0,1,Tottenham,,stoke,36.0
-2014-05-03,Premier League,Sat,Home,W,4,1,Fulham,,stoke,37.0
-2014-05-11,Premier League,Sun,Away,W,2,1,West Brom,,stoke,38.0
-2013-08-17,Premier League,Sat,Home,L,0,1,Fulham,,sunderland,1.0
-2013-08-24,Premier League,Sat,Away,D,1,1,Southampton,,sunderland,2.0
-2013-08-31,Premier League,Sat,Away,L,1,3,Crystal Palace,,sunderland,3.0
-2013-09-14,Premier League,Sat,Home,L,1,3,Arsenal,,sunderland,4.0
-2013-09-21,Premier League,Sat,Away,L,0,3,West Brom,,sunderland,5.0
-2013-09-29,Premier League,Sun,Home,L,1,3,Liverpool,,sunderland,6.0
-2013-10-05,Premier League,Sat,Home,L,1,2,Manchester Utd,,sunderland,7.0
-2013-10-19,Premier League,Sat,Away,L,0,4,Swansea City,,sunderland,8.0
-2013-10-27,Premier League,Sun,Home,W,2,1,Newcastle Utd,,sunderland,9.0
-2013-11-02,Premier League,Sat,Away,L,0,1,Hull City,,sunderland,10.0
-2013-11-10,Premier League,Sun,Home,W,1,0,Manchester City,,sunderland,11.0
-2013-11-23,Premier League,Sat,Away,L,0,2,Stoke City,,sunderland,12.0
-2013-11-30,Premier League,Sat,Away,D,0,0,Aston Villa,,sunderland,13.0
-2013-12-04,Premier League,Wed,Home,L,3,4,Chelsea,,sunderland,14.0
-2013-12-07,Premier League,Sat,Home,L,1,2,Tottenham,,sunderland,15.0
-2013-12-14,Premier League,Sat,Away,D,0,0,West Ham,,sunderland,16.0
-2013-12-21,Premier League,Sat,Home,D,0,0,Norwich City,,sunderland,17.0
-2013-12-26,Premier League,Thu,Away,W,1,0,Everton,,sunderland,18.0
-2013-12-28,Premier League,Sat,Away,D,2,2,Cardiff City,,sunderland,19.0
-2014-01-01,Premier League,Wed,Home,L,0,1,Aston Villa,,sunderland,20.0
-2014-01-11,Premier League,Sat,Away,W,4,1,Fulham,,sunderland,21.0
-2014-01-18,Premier League,Sat,Home,D,2,2,Southampton,,sunderland,22.0
-2014-01-29,Premier League,Wed,Home,W,1,0,Stoke City,,sunderland,23.0
-2014-02-01,Premier League,Sat,Away,W,3,0,Newcastle Utd,,sunderland,24.0
-2014-02-08,Premier League,Sat,Home,L,0,2,Hull City,,sunderland,25.0
-2014-02-22,Premier League,Sat,Away,L,1,4,Arsenal,,sunderland,26.0
-2014-03-15,Premier League,Sat,Home,D,0,0,Crystal Palace,,sunderland,27.0
-2014-03-22,Premier League,Sat,Away,L,0,2,Norwich City,,sunderland,28.0
-2014-03-26,Premier League,Wed,Away,L,1,2,Liverpool,,sunderland,29.0
-2014-03-31,Premier League,Mon,Home,L,1,2,West Ham,,sunderland,30.0
-2014-04-07,Premier League,Mon,Away,L,1,5,Tottenham,,sunderland,31.0
-2014-04-12,Premier League,Sat,Home,L,0,1,Everton,,sunderland,32.0
-2014-04-16,Premier League,Wed,Away,D,2,2,Manchester City,,sunderland,33.0
-2014-04-19,Premier League,Sat,Away,W,2,1,Chelsea,,sunderland,34.0
-2014-04-27,Premier League,Sun,Home,W,4,0,Cardiff City,,sunderland,35.0
-2014-05-03,Premier League,Sat,Away,W,1,0,Manchester Utd,,sunderland,36.0
-2014-05-07,Premier League,Wed,Home,W,2,0,West Brom,,sunderland,37.0
-2014-05-11,Premier League,Sun,Home,L,1,3,Swansea City,,sunderland,38.0
-2013-08-01,Europa Lg,Thu,Home,W,4,0,se Malmö,,swansea,
-2013-08-08,Europa Lg,Thu,Away,D,0,0,se Malmö,,swansea,
-2013-08-17,Premier League,Sat,Home,L,1,4,Manchester Utd,,swansea,1.0
-2013-08-22,Europa Lg,Thu,Home,W,5,1,ro Petrolul,,swansea,
-2013-08-25,Premier League,Sun,Away,L,0,1,Tottenham,,swansea,2.0
-2013-08-29,Europa Lg,Thu,Away,L,1,2,ro Petrolul,,swansea,
-2013-09-01,Premier League,Sun,Away,W,2,0,West Brom,,swansea,3.0
-2013-09-16,Premier League,Mon,Home,D,2,2,Liverpool,,swansea,4.0
-2013-09-19,Europa Lg,Thu,Away,W,3,0,es Valencia,,swansea,
-2013-09-22,Premier League,Sun,Away,W,2,0,Crystal Palace,,swansea,5.0
-2013-09-28,Premier League,Sat,Home,L,1,2,Arsenal,,swansea,6.0
-2013-10-03,Europa Lg,Thu,Home,W,1,0,ch St. Gallen,,swansea,
-2013-10-06,Premier League,Sun,Away,L,0,2,Southampton,,swansea,7.0
-2013-10-19,Premier League,Sat,Home,W,4,0,Sunderland,,swansea,8.0
-2013-10-24,Europa Lg,Thu,Home,D,1,1,ru Kuban,,swansea,
-2013-10-27,Premier League,Sun,Home,D,0,0,West Ham,,swansea,9.0
-2013-11-03,Premier League,Sun,Away,L,0,1,Cardiff City,,swansea,10.0
-2013-11-07,Europa Lg,Thu,Away,D,1,1,ru Kuban,,swansea,
-2013-11-10,Premier League,Sun,Home,D,3,3,Stoke City,,swansea,11.0
-2013-11-23,Premier League,Sat,Away,W,2,1,Fulham,,swansea,12.0
-2013-11-28,Europa Lg,Thu,Home,L,0,1,es Valencia,,swansea,
-2013-12-01,Premier League,Sun,Away,L,0,3,Manchester City,,swansea,13.0
-2013-12-04,Premier League,Wed,Home,W,3,0,Newcastle Utd,,swansea,14.0
-2013-12-09,Premier League,Mon,Home,D,1,1,Hull City,,swansea,15.0
-2013-12-12,Europa Lg,Thu,Away,L,0,1,ch St. Gallen,,swansea,
-2013-12-15,Premier League,Sun,Away,D,1,1,Norwich City,,swansea,16.0
-2013-12-22,Premier League,Sun,Home,L,1,2,Everton,,swansea,17.0
-2013-12-26,Premier League,Thu,Away,L,0,1,Chelsea,,swansea,18.0
-2013-12-28,Premier League,Sat,Away,D,1,1,Aston Villa,,swansea,19.0
-2014-01-01,Premier League,Wed,Home,L,2,3,Manchester City,,swansea,20.0
-2014-01-11,Premier League,Sat,Away,L,0,2,Manchester Utd,,swansea,21.0
-2014-01-19,Premier League,Sun,Home,L,1,3,Tottenham,,swansea,22.0
-2014-01-28,Premier League,Tue,Home,W,2,0,Fulham,,swansea,23.0
-2014-02-01,Premier League,Sat,Away,L,0,2,West Ham,,swansea,24.0
-2014-02-08,Premier League,Sat,Home,W,3,0,Cardiff City,,swansea,25.0
-2014-02-12,Premier League,Wed,Away,D,1,1,Stoke City,,swansea,26.0
-2014-02-20,Europa Lg,Thu,Home,D,0,0,it Napoli,,swansea,
-2014-02-23,Premier League,Sun,Away,L,3,4,Liverpool,,swansea,27.0
-2014-02-27,Europa Lg,Thu,Away,L,1,3,it Napoli,,swansea,
-2014-03-02,Premier League,Sun,Home,D,1,1,Crystal Palace,,swansea,28.0
-2014-03-15,Premier League,Sat,Home,L,1,2,West Brom,,swansea,29.0
-2014-03-22,Premier League,Sat,Away,L,2,3,Everton,,swansea,30.0
-2014-03-25,Premier League,Tue,Away,D,2,2,Arsenal,,swansea,31.0
-2014-03-29,Premier League,Sat,Home,W,3,0,Norwich City,,swansea,32.0
-2014-04-05,Premier League,Sat,Away,L,0,1,Hull City,,swansea,33.0
-2014-04-13,Premier League,Sun,Home,L,0,1,Chelsea,,swansea,34.0
-2014-04-19,Premier League,Sat,Away,W,2,1,Newcastle Utd,,swansea,35.0
-2014-04-26,Premier League,Sat,Home,W,4,1,Aston Villa,,swansea,36.0
-2014-05-03,Premier League,Sat,Home,L,0,1,Southampton,,swansea,37.0
-2014-05-11,Premier League,Sun,Away,W,3,1,Sunderland,,swansea,38.0
-2013-08-18,Premier League,Sun,Away,W,1,0,Crystal Palace,,tottenham,1.0
-2013-08-22,Europa Lg,Thu,Away,W,5,0,ge Dinamo Tbilisi,,tottenham,
-2013-08-25,Premier League,Sun,Home,W,1,0,Swansea City,,tottenham,2.0
-2013-08-29,Europa Lg,Thu,Home,W,3,0,ge Dinamo Tbilisi,,tottenham,
-2013-09-01,Premier League,Sun,Away,L,0,1,Arsenal,,tottenham,3.0
-2013-09-14,Premier League,Sat,Home,W,2,0,Norwich City,,tottenham,4.0
-2013-09-19,Europa Lg,Thu,Home,W,3,0,no Tromsø,,tottenham,
-2013-09-22,Premier League,Sun,Away,W,1,0,Cardiff City,,tottenham,5.0
-2013-09-28,Premier League,Sat,Home,D,1,1,Chelsea,,tottenham,6.0
-2013-10-03,Europa Lg,Thu,Away,W,2,0,ru Anzhi,,tottenham,
-2013-10-06,Premier League,Sun,Home,L,0,3,West Ham,,tottenham,7.0
-2013-10-20,Premier League,Sun,Away,W,2,0,Aston Villa,,tottenham,8.0
-2013-10-24,Europa Lg,Thu,Away,W,2,0,md Sheriff Tiraspol,,tottenham,
-2013-10-27,Premier League,Sun,Home,W,1,0,Hull City,,tottenham,9.0
-2013-11-03,Premier League,Sun,Away,D,0,0,Everton,,tottenham,10.0
-2013-11-07,Europa Lg,Thu,Home,W,2,1,md Sheriff Tiraspol,,tottenham,
-2013-11-10,Premier League,Sun,Home,L,0,1,Newcastle Utd,,tottenham,11.0
-2013-11-24,Premier League,Sun,Away,L,0,6,Manchester City,,tottenham,12.0
-2013-11-28,Europa Lg,Thu,Away,W,2,0,no Tromsø,,tottenham,
-2013-12-01,Premier League,Sun,Home,D,2,2,Manchester Utd,,tottenham,13.0
-2013-12-04,Premier League,Wed,Away,W,2,1,Fulham,,tottenham,14.0
-2013-12-07,Premier League,Sat,Away,W,2,1,Sunderland,,tottenham,15.0
-2013-12-12,Europa Lg,Thu,Home,W,4,1,ru Anzhi,,tottenham,
-2013-12-15,Premier League,Sun,Home,L,0,5,Liverpool,,tottenham,16.0
-2013-12-22,Premier League,Sun,Away,W,3,2,Southampton,,tottenham,17.0
-2013-12-26,Premier League,Thu,Home,D,1,1,West Brom,,tottenham,18.0
-2013-12-29,Premier League,Sun,Home,W,3,0,Stoke City,,tottenham,19.0
-2014-01-01,Premier League,Wed,Away,W,2,1,Manchester Utd,,tottenham,20.0
-2014-01-11,Premier League,Sat,Home,W,2,0,Crystal Palace,,tottenham,21.0
-2014-01-19,Premier League,Sun,Away,W,3,1,Swansea City,,tottenham,22.0
-2014-01-29,Premier League,Wed,Home,L,1,5,Manchester City,,tottenham,23.0
-2014-02-01,Premier League,Sat,Away,D,1,1,Hull City,,tottenham,24.0
-2014-02-09,Premier League,Sun,Home,W,1,0,Everton,,tottenham,25.0
-2014-02-12,Premier League,Wed,Away,W,4,0,Newcastle Utd,,tottenham,26.0
-2014-02-20,Europa Lg,Thu,Away,L,0,1,ua Dnipro,,tottenham,
-2014-02-23,Premier League,Sun,Away,L,0,1,Norwich City,,tottenham,27.0
-2014-02-27,Europa Lg,Thu,Home,W,3,1,ua Dnipro,,tottenham,
-2014-03-02,Premier League,Sun,Home,W,1,0,Cardiff City,,tottenham,28.0
-2014-03-08,Premier League,Sat,Away,L,0,4,Chelsea,,tottenham,29.0
-2014-03-13,Europa Lg,Thu,Home,L,1,3,pt Benfica,,tottenham,
-2014-03-16,Premier League,Sun,Home,L,0,1,Arsenal,,tottenham,30.0
-2014-03-20,Europa Lg,Thu,Away,D,2,2,pt Benfica,,tottenham,
-2014-03-23,Premier League,Sun,Home,W,3,2,Southampton,,tottenham,31.0
-2014-03-30,Premier League,Sun,Away,L,0,4,Liverpool,,tottenham,32.0
-2014-04-07,Premier League,Mon,Home,W,5,1,Sunderland,,tottenham,33.0
-2014-04-12,Premier League,Sat,Away,D,3,3,West Brom,,tottenham,34.0
-2014-04-19,Premier League,Sat,Home,W,3,1,Fulham,,tottenham,35.0
-2014-04-26,Premier League,Sat,Away,W,1,0,Stoke City,,tottenham,36.0
-2014-05-03,Premier League,Sat,Away,L,0,2,West Ham,,tottenham,37.0
-2014-05-11,Premier League,Sun,Home,W,3,0,Aston Villa,,tottenham,38.0
-2013-08-17,Premier League,Sat,Away,W,4,1,Swansea City,,united,1.0
-2013-08-26,Premier League,Mon,Home,D,0,0,Chelsea,,united,2.0
-2013-09-01,Premier League,Sun,Away,L,0,1,Liverpool,,united,3.0
-2013-09-14,Premier League,Sat,Home,W,2,0,Crystal Palace,,united,4.0
-2013-09-17,Champions Lg,Tue,Home,W,4,2,de Leverkusen,,united,
-2013-09-22,Premier League,Sun,Away,L,1,4,Manchester City,,united,5.0
-2013-09-28,Premier League,Sat,Home,L,1,2,West Brom,,united,6.0
-2013-10-02,Champions Lg,Wed,Away,D,1,1,ua Shakhtar,,united,
-2013-10-05,Premier League,Sat,Away,W,2,1,Sunderland,,united,7.0
-2013-10-19,Premier League,Sat,Home,D,1,1,Southampton,,united,8.0
-2013-10-23,Champions Lg,Wed,Home,W,1,0,es Real Sociedad,,united,
-2013-10-26,Premier League,Sat,Home,W,3,2,Stoke City,,united,9.0
-2013-11-02,Premier League,Sat,Away,W,3,1,Fulham,,united,10.0
-2013-11-05,Champions Lg,Tue,Away,D,0,0,es Real Sociedad,,united,
-2013-11-10,Premier League,Sun,Home,W,1,0,Arsenal,,united,11.0
-2013-11-24,Premier League,Sun,Away,D,2,2,Cardiff City,,united,12.0
-2013-11-27,Champions Lg,Wed,Away,W,5,0,de Leverkusen,,united,
-2013-12-01,Premier League,Sun,Away,D,2,2,Tottenham,,united,13.0
-2013-12-04,Premier League,Wed,Home,L,0,1,Everton,,united,14.0
-2013-12-07,Premier League,Sat,Home,L,0,1,Newcastle Utd,,united,15.0
-2013-12-10,Champions Lg,Tue,Home,W,1,0,ua Shakhtar,,united,
-2013-12-15,Premier League,Sun,Away,W,3,0,Aston Villa,,united,16.0
-2013-12-21,Premier League,Sat,Home,W,3,1,West Ham,,united,17.0
-2013-12-26,Premier League,Thu,Away,W,3,2,Hull City,,united,18.0
-2013-12-28,Premier League,Sat,Away,W,1,0,Norwich City,,united,19.0
-2014-01-01,Premier League,Wed,Home,L,1,2,Tottenham,,united,20.0
-2014-01-11,Premier League,Sat,Home,W,2,0,Swansea City,,united,21.0
-2014-01-19,Premier League,Sun,Away,L,1,3,Chelsea,,united,22.0
-2014-01-28,Premier League,Tue,Home,W,2,0,Cardiff City,,united,23.0
-2014-02-01,Premier League,Sat,Away,L,1,2,Stoke City,,united,24.0
-2014-02-09,Premier League,Sun,Home,D,2,2,Fulham,,united,25.0
-2014-02-12,Premier League,Wed,Away,D,0,0,Arsenal,,united,26.0
-2014-02-22,Premier League,Sat,Away,W,2,0,Crystal Palace,,united,27.0
-2014-02-25,Champions Lg,Tue,Away,L,0,2,gr Olympiacos,,united,
-2014-03-08,Premier League,Sat,Away,W,3,0,West Brom,,united,28.0
-2014-03-16,Premier League,Sun,Home,L,0,3,Liverpool,,united,29.0
-2014-03-19,Champions Lg,Wed,Home,W,3,0,gr Olympiacos,,united,
-2014-03-22,Premier League,Sat,Away,W,2,0,West Ham,,united,30.0
-2014-03-25,Premier League,Tue,Home,L,0,3,Manchester City,,united,31.0
-2014-03-29,Premier League,Sat,Home,W,4,1,Aston Villa,,united,32.0
-2014-04-01,Champions Lg,Tue,Home,D,1,1,de Bayern Munich,,united,
-2014-04-05,Premier League,Sat,Away,W,4,0,Newcastle Utd,,united,33.0
-2014-04-09,Champions Lg,Wed,Away,L,1,3,de Bayern Munich,,united,
-2014-04-20,Premier League,Sun,Away,L,0,2,Everton,,united,34.0
-2014-04-26,Premier League,Sat,Home,W,4,0,Norwich City,,united,35.0
-2014-05-03,Premier League,Sat,Home,L,0,1,Sunderland,,united,36.0
-2014-05-06,Premier League,Tue,Home,W,3,1,Hull City,,united,37.0
-2014-05-11,Premier League,Sun,Away,D,1,1,Southampton,,united,38.0
-2013-08-17,Premier League,Sat,Home,L,0,1,Southampton,,west-brom,1.0
-2013-08-24,Premier League,Sat,Away,D,0,0,Everton,,west-brom,2.0
-2013-09-01,Premier League,Sun,Home,L,0,2,Swansea City,,west-brom,3.0
-2013-09-14,Premier League,Sat,Away,D,1,1,Fulham,,west-brom,4.0
-2013-09-21,Premier League,Sat,Home,W,3,0,Sunderland,,west-brom,5.0
-2013-09-28,Premier League,Sat,Away,W,2,1,Manchester Utd,,west-brom,6.0
-2013-10-06,Premier League,Sun,Home,D,1,1,Arsenal,,west-brom,7.0
-2013-10-19,Premier League,Sat,Away,D,0,0,Stoke City,,west-brom,8.0
-2013-10-26,Premier League,Sat,Away,L,1,4,Liverpool,,west-brom,9.0
-2013-11-02,Premier League,Sat,Home,W,2,0,Crystal Palace,,west-brom,10.0
-2013-11-09,Premier League,Sat,Away,D,2,2,Chelsea,,west-brom,11.0
-2013-11-25,Premier League,Mon,Home,D,2,2,Aston Villa,,west-brom,12.0
-2013-11-30,Premier League,Sat,Away,L,1,2,Newcastle Utd,,west-brom,13.0
-2013-12-04,Premier League,Wed,Home,L,2,3,Manchester City,,west-brom,14.0
-2013-12-07,Premier League,Sat,Home,L,0,2,Norwich City,,west-brom,15.0
-2013-12-14,Premier League,Sat,Away,L,0,1,Cardiff City,,west-brom,16.0
-2013-12-21,Premier League,Sat,Home,D,1,1,Hull City,,west-brom,17.0
-2013-12-26,Premier League,Thu,Away,D,1,1,Tottenham,,west-brom,18.0
-2013-12-28,Premier League,Sat,Away,D,3,3,West Ham,,west-brom,19.0
-2014-01-01,Premier League,Wed,Home,W,1,0,Newcastle Utd,,west-brom,20.0
-2014-01-11,Premier League,Sat,Away,L,0,1,Southampton,,west-brom,21.0
-2014-01-20,Premier League,Mon,Home,D,1,1,Everton,,west-brom,22.0
-2014-01-29,Premier League,Wed,Away,L,3,4,Aston Villa,,west-brom,23.0
-2014-02-02,Premier League,Sun,Home,D,1,1,Liverpool,,west-brom,24.0
-2014-02-08,Premier League,Sat,Away,L,1,3,Crystal Palace,,west-brom,25.0
-2014-02-11,Premier League,Tue,Home,D,1,1,Chelsea,,west-brom,26.0
-2014-02-22,Premier League,Sat,Home,D,1,1,Fulham,,west-brom,27.0
-2014-03-08,Premier League,Sat,Home,L,0,3,Manchester Utd,,west-brom,28.0
-2014-03-15,Premier League,Sat,Away,W,2,1,Swansea City,,west-brom,29.0
-2014-03-22,Premier League,Sat,Away,L,0,2,Hull City,,west-brom,30.0
-2014-03-29,Premier League,Sat,Home,D,3,3,Cardiff City,,west-brom,31.0
-2014-04-05,Premier League,Sat,Away,W,1,0,Norwich City,,west-brom,32.0
-2014-04-12,Premier League,Sat,Home,D,3,3,Tottenham,,west-brom,33.0
-2014-04-21,Premier League,Mon,Away,L,1,3,Manchester City,,west-brom,34.0
-2014-04-26,Premier League,Sat,Home,W,1,0,West Ham,,west-brom,35.0
-2014-05-04,Premier League,Sun,Away,L,0,1,Arsenal,,west-brom,36.0
-2014-05-07,Premier League,Wed,Away,L,0,2,Sunderland,,west-brom,37.0
-2014-05-11,Premier League,Sun,Home,L,1,2,Stoke City,,west-brom,38.0
-2013-08-17,Premier League,Sat,Home,W,2,0,Cardiff City,,west-ham,1.0
-2013-08-24,Premier League,Sat,Away,D,0,0,Newcastle Utd,,west-ham,2.0
-2013-08-31,Premier League,Sat,Home,L,0,1,Stoke City,,west-ham,3.0
-2013-09-15,Premier League,Sun,Away,D,0,0,Southampton,,west-ham,4.0
-2013-09-21,Premier League,Sat,Home,L,2,3,Everton,,west-ham,5.0
-2013-09-28,Premier League,Sat,Away,L,0,1,Hull City,,west-ham,6.0
-2013-10-06,Premier League,Sun,Away,W,3,0,Tottenham,,west-ham,7.0
-2013-10-19,Premier League,Sat,Home,L,1,3,Manchester City,,west-ham,8.0
-2013-10-27,Premier League,Sun,Away,D,0,0,Swansea City,,west-ham,9.0
-2013-11-02,Premier League,Sat,Home,D,0,0,Aston Villa,,west-ham,10.0
-2013-11-09,Premier League,Sat,Away,L,1,3,Norwich City,,west-ham,11.0
-2013-11-23,Premier League,Sat,Home,L,0,3,Chelsea,,west-ham,12.0
-2013-11-30,Premier League,Sat,Home,W,3,0,Fulham,,west-ham,13.0
-2013-12-03,Premier League,Tue,Away,L,0,1,Crystal Palace,,west-ham,14.0
-2013-12-07,Premier League,Sat,Away,L,1,4,Liverpool,,west-ham,15.0
-2013-12-14,Premier League,Sat,Home,D,0,0,Sunderland,,west-ham,16.0
-2013-12-21,Premier League,Sat,Away,L,1,3,Manchester Utd,,west-ham,17.0
-2013-12-26,Premier League,Thu,Home,L,1,3,Arsenal,,west-ham,18.0
-2013-12-28,Premier League,Sat,Home,D,3,3,West Brom,,west-ham,19.0
-2014-01-01,Premier League,Wed,Away,L,1,2,Fulham,,west-ham,20.0
-2014-01-11,Premier League,Sat,Away,W,2,0,Cardiff City,,west-ham,21.0
-2014-01-18,Premier League,Sat,Home,L,1,3,Newcastle Utd,,west-ham,22.0
-2014-01-29,Premier League,Wed,Away,D,0,0,Chelsea,,west-ham,23.0
-2014-02-01,Premier League,Sat,Home,W,2,0,Swansea City,,west-ham,24.0
-2014-02-08,Premier League,Sat,Away,W,2,0,Aston Villa,,west-ham,25.0
-2014-02-11,Premier League,Tue,Home,W,2,0,Norwich City,,west-ham,26.0
-2014-02-22,Premier League,Sat,Home,W,3,1,Southampton,,west-ham,27.0
-2014-03-01,Premier League,Sat,Away,L,0,1,Everton,,west-ham,28.0
-2014-03-15,Premier League,Sat,Away,L,1,3,Stoke City,,west-ham,29.0
-2014-03-22,Premier League,Sat,Home,L,0,2,Manchester Utd,,west-ham,30.0
-2014-03-26,Premier League,Wed,Home,W,2,1,Hull City,,west-ham,31.0
-2014-03-31,Premier League,Mon,Away,W,2,1,Sunderland,,west-ham,32.0
-2014-04-06,Premier League,Sun,Home,L,1,2,Liverpool,,west-ham,33.0
-2014-04-15,Premier League,Tue,Away,L,1,3,Arsenal,,west-ham,34.0
-2014-04-19,Premier League,Sat,Home,L,0,1,Crystal Palace,,west-ham,35.0
-2014-04-26,Premier League,Sat,Away,L,0,1,West Brom,,west-ham,36.0
-2014-05-03,Premier League,Sat,Home,W,2,0,Tottenham,,west-ham,37.0
-2014-05-11,Premier League,Sun,Away,L,0,2,Manchester City,,west-ham,38.0
+Date,Comp,Day,Venue,Result,GF,GA,Opponent,Poss,team
+2013-08-17,Premier League,Sat,Home,L,1,3,Aston Villa,,arsenal
+2013-08-21,Champions Lg,Wed,Away,W,3,0,tr Fenerbahçe,,arsenal
+2013-08-24,Premier League,Sat,Away,W,3,1,Fulham,,arsenal
+2013-08-27,Champions Lg,Tue,Home,W,2,0,tr Fenerbahçe,,arsenal
+2013-09-01,Premier League,Sun,Home,W,1,0,Tottenham,,arsenal
+2013-09-14,Premier League,Sat,Away,W,3,1,Sunderland,,arsenal
+2013-09-18,Champions Lg,Wed,Away,W,2,1,fr Marseille,,arsenal
+2013-09-22,Premier League,Sun,Home,W,3,1,Stoke City,,arsenal
+2013-09-28,Premier League,Sat,Away,W,2,1,Swansea City,,arsenal
+2013-10-01,Champions Lg,Tue,Home,W,2,0,it Napoli,,arsenal
+2013-10-06,Premier League,Sun,Away,D,1,1,West Brom,,arsenal
+2013-10-19,Premier League,Sat,Home,W,4,1,Norwich City,,arsenal
+2013-10-22,Champions Lg,Tue,Home,L,1,2,de Dortmund,,arsenal
+2013-10-26,Premier League,Sat,Away,W,2,0,Crystal Palace,,arsenal
+2013-11-02,Premier League,Sat,Home,W,2,0,Liverpool,,arsenal
+2013-11-06,Champions Lg,Wed,Away,W,1,0,de Dortmund,,arsenal
+2013-11-10,Premier League,Sun,Away,L,0,1,Manchester Utd,,arsenal
+2013-11-23,Premier League,Sat,Home,W,2,0,Southampton,,arsenal
+2013-11-26,Champions Lg,Tue,Home,W,2,0,fr Marseille,,arsenal
+2013-11-30,Premier League,Sat,Away,W,3,0,Cardiff City,,arsenal
+2013-12-04,Premier League,Wed,Home,W,2,0,Hull City,,arsenal
+2013-12-08,Premier League,Sun,Home,D,1,1,Everton,,arsenal
+2013-12-11,Champions Lg,Wed,Away,L,0,2,it Napoli,,arsenal
+2013-12-14,Premier League,Sat,Away,L,3,6,Manchester City,,arsenal
+2013-12-23,Premier League,Mon,Home,D,0,0,Chelsea,,arsenal
+2013-12-26,Premier League,Thu,Away,W,3,1,West Ham,,arsenal
+2013-12-29,Premier League,Sun,Away,W,1,0,Newcastle Utd,,arsenal
+2014-01-01,Premier League,Wed,Home,W,2,0,Cardiff City,,arsenal
+2014-01-13,Premier League,Mon,Away,W,2,1,Aston Villa,,arsenal
+2014-01-18,Premier League,Sat,Home,W,2,0,Fulham,,arsenal
+2014-01-28,Premier League,Tue,Away,D,2,2,Southampton,,arsenal
+2014-02-02,Premier League,Sun,Home,W,2,0,Crystal Palace,,arsenal
+2014-02-08,Premier League,Sat,Away,L,1,5,Liverpool,,arsenal
+2014-02-12,Premier League,Wed,Home,D,0,0,Manchester Utd,,arsenal
+2014-02-19,Champions Lg,Wed,Home,L,0,2,de Bayern Munich,,arsenal
+2014-02-22,Premier League,Sat,Home,W,4,1,Sunderland,,arsenal
+2014-03-01,Premier League,Sat,Away,L,0,1,Stoke City,,arsenal
+2014-03-11,Champions Lg,Tue,Away,D,1,1,de Bayern Munich,,arsenal
+2014-03-16,Premier League,Sun,Away,W,1,0,Tottenham,,arsenal
+2014-03-22,Premier League,Sat,Away,L,0,6,Chelsea,,arsenal
+2014-03-25,Premier League,Tue,Home,D,2,2,Swansea City,,arsenal
+2014-03-29,Premier League,Sat,Home,D,1,1,Manchester City,,arsenal
+2014-04-06,Premier League,Sun,Away,L,0,3,Everton,,arsenal
+2014-04-15,Premier League,Tue,Home,W,3,1,West Ham,,arsenal
+2014-04-20,Premier League,Sun,Away,W,3,0,Hull City,,arsenal
+2014-04-28,Premier League,Mon,Home,W,3,0,Newcastle Utd,,arsenal
+2014-05-04,Premier League,Sun,Home,W,1,0,West Brom,,arsenal
+2014-05-11,Premier League,Sun,Away,W,2,0,Norwich City,,arsenal
+2013-08-17,Premier League,Sat,Away,W,3,1,Arsenal,,aston-villa
+2013-08-21,Premier League,Wed,Away,L,1,2,Chelsea,,aston-villa
+2013-08-24,Premier League,Sat,Home,L,0,1,Liverpool,,aston-villa
+2013-09-14,Premier League,Sat,Home,L,1,2,Newcastle Utd,,aston-villa
+2013-09-21,Premier League,Sat,Away,W,1,0,Norwich City,,aston-villa
+2013-09-28,Premier League,Sat,Home,W,3,2,Manchester City,,aston-villa
+2013-10-05,Premier League,Sat,Away,D,0,0,Hull City,,aston-villa
+2013-10-20,Premier League,Sun,Home,L,0,2,Tottenham,,aston-villa
+2013-10-26,Premier League,Sat,Home,L,0,2,Everton,,aston-villa
+2013-11-02,Premier League,Sat,Away,D,0,0,West Ham,,aston-villa
+2013-11-09,Premier League,Sat,Home,W,2,0,Cardiff City,,aston-villa
+2013-11-25,Premier League,Mon,Away,D,2,2,West Brom,,aston-villa
+2013-11-30,Premier League,Sat,Home,D,0,0,Sunderland,,aston-villa
+2013-12-04,Premier League,Wed,Away,W,3,2,Southampton,,aston-villa
+2013-12-08,Premier League,Sun,Away,L,0,2,Fulham,,aston-villa
+2013-12-15,Premier League,Sun,Home,L,0,3,Manchester Utd,,aston-villa
+2013-12-21,Premier League,Sat,Away,L,1,2,Stoke City,,aston-villa
+2013-12-26,Premier League,Thu,Home,L,0,1,Crystal Palace,,aston-villa
+2013-12-28,Premier League,Sat,Home,D,1,1,Swansea City,,aston-villa
+2014-01-01,Premier League,Wed,Away,W,1,0,Sunderland,,aston-villa
+2014-01-13,Premier League,Mon,Home,L,1,2,Arsenal,,aston-villa
+2014-01-18,Premier League,Sat,Away,D,2,2,Liverpool,,aston-villa
+2014-01-29,Premier League,Wed,Home,W,4,3,West Brom,,aston-villa
+2014-02-01,Premier League,Sat,Away,L,1,2,Everton,,aston-villa
+2014-02-08,Premier League,Sat,Home,L,0,2,West Ham,,aston-villa
+2014-02-11,Premier League,Tue,Away,D,0,0,Cardiff City,,aston-villa
+2014-02-23,Premier League,Sun,Away,L,0,1,Newcastle Utd,,aston-villa
+2014-03-02,Premier League,Sun,Home,W,4,1,Norwich City,,aston-villa
+2014-03-15,Premier League,Sat,Home,W,1,0,Chelsea,,aston-villa
+2014-03-23,Premier League,Sun,Home,L,1,4,Stoke City,,aston-villa
+2014-03-29,Premier League,Sat,Away,L,1,4,Manchester Utd,,aston-villa
+2014-04-05,Premier League,Sat,Home,L,1,2,Fulham,,aston-villa
+2014-04-12,Premier League,Sat,Away,L,0,1,Crystal Palace,,aston-villa
+2014-04-19,Premier League,Sat,Home,D,0,0,Southampton,,aston-villa
+2014-04-26,Premier League,Sat,Away,L,1,4,Swansea City,,aston-villa
+2014-05-03,Premier League,Sat,Home,W,3,1,Hull City,,aston-villa
+2014-05-07,Premier League,Wed,Away,L,0,4,Manchester City,,aston-villa
+2014-05-11,Premier League,Sun,Away,L,0,3,Tottenham,,aston-villa
+2013-08-17,Premier League,Sat,Away,L,0,2,West Ham,,cardiff
+2013-08-25,Premier League,Sun,Home,W,3,2,Manchester City,,cardiff
+2013-08-31,Premier League,Sat,Home,D,0,0,Everton,,cardiff
+2013-09-14,Premier League,Sat,Away,D,1,1,Hull City,,cardiff
+2013-09-22,Premier League,Sun,Home,L,0,1,Tottenham,,cardiff
+2013-09-28,Premier League,Sat,Away,W,2,1,Fulham,,cardiff
+2013-10-05,Premier League,Sat,Home,L,1,2,Newcastle Utd,,cardiff
+2013-10-19,Premier League,Sat,Away,L,1,4,Chelsea,,cardiff
+2013-10-26,Premier League,Sat,Away,D,0,0,Norwich City,,cardiff
+2013-11-03,Premier League,Sun,Home,W,1,0,Swansea City,,cardiff
+2013-11-09,Premier League,Sat,Away,L,0,2,Aston Villa,,cardiff
+2013-11-24,Premier League,Sun,Home,D,2,2,Manchester Utd,,cardiff
+2013-11-30,Premier League,Sat,Home,L,0,3,Arsenal,,cardiff
+2013-12-04,Premier League,Wed,Away,D,0,0,Stoke City,,cardiff
+2013-12-07,Premier League,Sat,Away,L,0,2,Crystal Palace,,cardiff
+2013-12-14,Premier League,Sat,Home,W,1,0,West Brom,,cardiff
+2013-12-21,Premier League,Sat,Away,L,1,3,Liverpool,,cardiff
+2013-12-26,Premier League,Thu,Home,L,0,3,Southampton,,cardiff
+2013-12-28,Premier League,Sat,Home,D,2,2,Sunderland,,cardiff
+2014-01-01,Premier League,Wed,Away,L,0,2,Arsenal,,cardiff
+2014-01-11,Premier League,Sat,Home,L,0,2,West Ham,,cardiff
+2014-01-18,Premier League,Sat,Away,L,2,4,Manchester City,,cardiff
+2014-01-28,Premier League,Tue,Away,L,0,2,Manchester Utd,,cardiff
+2014-02-01,Premier League,Sat,Home,W,2,1,Norwich City,,cardiff
+2014-02-08,Premier League,Sat,Away,L,0,3,Swansea City,,cardiff
+2014-02-11,Premier League,Tue,Home,D,0,0,Aston Villa,,cardiff
+2014-02-22,Premier League,Sat,Home,L,0,4,Hull City,,cardiff
+2014-03-02,Premier League,Sun,Away,L,0,1,Tottenham,,cardiff
+2014-03-08,Premier League,Sat,Home,W,3,1,Fulham,,cardiff
+2014-03-15,Premier League,Sat,Away,L,1,2,Everton,,cardiff
+2014-03-22,Premier League,Sat,Home,L,3,6,Liverpool,,cardiff
+2014-03-29,Premier League,Sat,Away,D,3,3,West Brom,,cardiff
+2014-04-05,Premier League,Sat,Home,L,0,3,Crystal Palace,,cardiff
+2014-04-12,Premier League,Sat,Away,W,1,0,Southampton,,cardiff
+2014-04-19,Premier League,Sat,Home,D,1,1,Stoke City,,cardiff
+2014-04-27,Premier League,Sun,Away,L,0,4,Sunderland,,cardiff
+2014-05-03,Premier League,Sat,Away,L,0,3,Newcastle Utd,,cardiff
+2014-05-11,Premier League,Sun,Home,L,1,2,Chelsea,,cardiff
+2013-08-18,Premier League,Sun,Home,W,2,0,Hull City,,chelsea
+2013-08-21,Premier League,Wed,Home,W,2,1,Aston Villa,,chelsea
+2013-08-26,Premier League,Mon,Away,D,0,0,Manchester Utd,,chelsea
+2013-09-14,Premier League,Sat,Away,L,0,1,Everton,,chelsea
+2013-09-18,Champions Lg,Wed,Home,L,1,2,ch Basel,,chelsea
+2013-09-21,Premier League,Sat,Home,W,2,0,Fulham,,chelsea
+2013-09-28,Premier League,Sat,Away,D,1,1,Tottenham,,chelsea
+2013-10-01,Champions Lg,Tue,Away,W,4,0,ro Steaua,,chelsea
+2013-10-06,Premier League,Sun,Away,W,3,1,Norwich City,,chelsea
+2013-10-19,Premier League,Sat,Home,W,4,1,Cardiff City,,chelsea
+2013-10-22,Champions Lg,Tue,Away,W,3,0,de Schalke 04,,chelsea
+2013-10-27,Premier League,Sun,Home,W,2,1,Manchester City,,chelsea
+2013-11-02,Premier League,Sat,Away,L,0,2,Newcastle Utd,,chelsea
+2013-11-06,Champions Lg,Wed,Home,W,3,0,de Schalke 04,,chelsea
+2013-11-09,Premier League,Sat,Home,D,2,2,West Brom,,chelsea
+2013-11-23,Premier League,Sat,Away,W,3,0,West Ham,,chelsea
+2013-11-26,Champions Lg,Tue,Away,L,0,1,ch Basel,,chelsea
+2013-12-01,Premier League,Sun,Home,W,3,1,Southampton,,chelsea
+2013-12-04,Premier League,Wed,Away,W,4,3,Sunderland,,chelsea
+2013-12-07,Premier League,Sat,Away,L,2,3,Stoke City,,chelsea
+2013-12-11,Champions Lg,Wed,Home,W,1,0,ro Steaua,,chelsea
+2013-12-14,Premier League,Sat,Home,W,2,1,Crystal Palace,,chelsea
+2013-12-23,Premier League,Mon,Away,D,0,0,Arsenal,,chelsea
+2013-12-26,Premier League,Thu,Home,W,1,0,Swansea City,,chelsea
+2013-12-29,Premier League,Sun,Home,W,2,1,Liverpool,,chelsea
+2014-01-01,Premier League,Wed,Away,W,3,0,Southampton,,chelsea
+2014-01-11,Premier League,Sat,Away,W,2,0,Hull City,,chelsea
+2014-01-19,Premier League,Sun,Home,W,3,1,Manchester Utd,,chelsea
+2014-01-29,Premier League,Wed,Home,D,0,0,West Ham,,chelsea
+2014-02-03,Premier League,Mon,Away,W,1,0,Manchester City,,chelsea
+2014-02-08,Premier League,Sat,Home,W,3,0,Newcastle Utd,,chelsea
+2014-02-11,Premier League,Tue,Away,D,1,1,West Brom,,chelsea
+2014-02-22,Premier League,Sat,Home,W,1,0,Everton,,chelsea
+2014-02-26,Champions Lg,Wed,Away,D,1,1,tr Galatasaray,,chelsea
+2014-03-01,Premier League,Sat,Away,W,3,1,Fulham,,chelsea
+2014-03-08,Premier League,Sat,Home,W,4,0,Tottenham,,chelsea
+2014-03-15,Premier League,Sat,Away,L,0,1,Aston Villa,,chelsea
+2014-03-18,Champions Lg,Tue,Home,W,2,0,tr Galatasaray,,chelsea
+2014-03-22,Premier League,Sat,Home,W,6,0,Arsenal,,chelsea
+2014-03-29,Premier League,Sat,Away,L,0,1,Crystal Palace,,chelsea
+2014-04-02,Champions Lg,Wed,Away,L,1,3,fr Paris S-G,,chelsea
+2014-04-05,Premier League,Sat,Home,W,3,0,Stoke City,,chelsea
+2014-04-08,Champions Lg,Tue,Home,W,2,0,fr Paris S-G,,chelsea
+2014-04-13,Premier League,Sun,Away,W,1,0,Swansea City,,chelsea
+2014-04-19,Premier League,Sat,Home,L,1,2,Sunderland,,chelsea
+2014-04-22,Champions Lg,Tue,Away,D,0,0,es Atlético Madrid,,chelsea
+2014-04-27,Premier League,Sun,Away,W,2,0,Liverpool,,chelsea
+2014-04-30,Champions Lg,Wed,Home,L,1,3,es Atlético Madrid,,chelsea
+2014-05-04,Premier League,Sun,Home,D,0,0,Norwich City,,chelsea
+2014-05-11,Premier League,Sun,Away,W,2,1,Cardiff City,,chelsea
+2013-08-19,Premier League,Mon,Home,W,4,0,Newcastle Utd,,city
+2013-08-25,Premier League,Sun,Away,L,2,3,Cardiff City,,city
+2013-08-31,Premier League,Sat,Home,W,2,0,Hull City,,city
+2013-09-14,Premier League,Sat,Away,D,0,0,Stoke City,,city
+2013-09-17,Champions Lg,Tue,Away,W,3,0,cz Viktoria Plzeň,,city
+2013-09-22,Premier League,Sun,Home,W,4,1,Manchester Utd,,city
+2013-09-28,Premier League,Sat,Away,L,2,3,Aston Villa,,city
+2013-10-02,Champions Lg,Wed,Home,L,1,3,de Bayern Munich,,city
+2013-10-05,Premier League,Sat,Home,W,3,1,Everton,,city
+2013-10-19,Premier League,Sat,Away,W,3,1,West Ham,,city
+2013-10-23,Champions Lg,Wed,Away,W,2,1,ru CSKA Moscow,,city
+2013-10-27,Premier League,Sun,Away,L,1,2,Chelsea,,city
+2013-11-02,Premier League,Sat,Home,W,7,0,Norwich City,,city
+2013-11-05,Champions Lg,Tue,Home,W,5,2,ru CSKA Moscow,,city
+2013-11-10,Premier League,Sun,Away,L,0,1,Sunderland,,city
+2013-11-24,Premier League,Sun,Home,W,6,0,Tottenham,,city
+2013-11-27,Champions Lg,Wed,Home,W,4,2,cz Viktoria Plzeň,,city
+2013-12-01,Premier League,Sun,Home,W,3,0,Swansea City,,city
+2013-12-04,Premier League,Wed,Away,W,3,2,West Brom,,city
+2013-12-07,Premier League,Sat,Away,D,1,1,Southampton,,city
+2013-12-10,Champions Lg,Tue,Away,W,3,2,de Bayern Munich,,city
+2013-12-14,Premier League,Sat,Home,W,6,3,Arsenal,,city
+2013-12-21,Premier League,Sat,Away,W,4,2,Fulham,,city
+2013-12-26,Premier League,Thu,Home,W,2,1,Liverpool,,city
+2013-12-28,Premier League,Sat,Home,W,1,0,Crystal Palace,,city
+2014-01-01,Premier League,Wed,Away,W,3,2,Swansea City,,city
+2014-01-12,Premier League,Sun,Away,W,2,0,Newcastle Utd,,city
+2014-01-18,Premier League,Sat,Home,W,4,2,Cardiff City,,city
+2014-01-29,Premier League,Wed,Away,W,5,1,Tottenham,,city
+2014-02-03,Premier League,Mon,Home,L,0,1,Chelsea,,city
+2014-02-08,Premier League,Sat,Away,D,0,0,Norwich City,,city
+2014-02-18,Champions Lg,Tue,Home,L,0,2,es Barcelona,,city
+2014-02-22,Premier League,Sat,Home,W,1,0,Stoke City,,city
+2014-03-12,Champions Lg,Wed,Away,L,1,2,es Barcelona,,city
+2014-03-15,Premier League,Sat,Away,W,2,0,Hull City,,city
+2014-03-22,Premier League,Sat,Home,W,5,0,Fulham,,city
+2014-03-25,Premier League,Tue,Away,W,3,0,Manchester Utd,,city
+2014-03-29,Premier League,Sat,Away,D,1,1,Arsenal,,city
+2014-04-05,Premier League,Sat,Home,W,4,1,Southampton,,city
+2014-04-13,Premier League,Sun,Away,L,2,3,Liverpool,,city
+2014-04-16,Premier League,Wed,Home,D,2,2,Sunderland,,city
+2014-04-21,Premier League,Mon,Home,W,3,1,West Brom,,city
+2014-04-27,Premier League,Sun,Away,W,2,0,Crystal Palace,,city
+2014-05-03,Premier League,Sat,Away,W,3,2,Everton,,city
+2014-05-07,Premier League,Wed,Home,W,4,0,Aston Villa,,city
+2014-05-11,Premier League,Sun,Home,W,2,0,West Ham,,city
+2013-08-17,Premier League,Sat,Away,D,2,2,Norwich City,,everton
+2013-08-24,Premier League,Sat,Home,D,0,0,West Brom,,everton
+2013-08-31,Premier League,Sat,Away,D,0,0,Cardiff City,,everton
+2013-09-14,Premier League,Sat,Home,W,1,0,Chelsea,,everton
+2013-09-21,Premier League,Sat,Away,W,3,2,West Ham,,everton
+2013-09-30,Premier League,Mon,Home,W,3,2,Newcastle Utd,,everton
+2013-10-05,Premier League,Sat,Away,L,1,3,Manchester City,,everton
+2013-10-19,Premier League,Sat,Home,W,2,1,Hull City,,everton
+2013-10-26,Premier League,Sat,Away,W,2,0,Aston Villa,,everton
+2013-11-03,Premier League,Sun,Home,D,0,0,Tottenham,,everton
+2013-11-09,Premier League,Sat,Away,D,0,0,Crystal Palace,,everton
+2013-11-23,Premier League,Sat,Home,D,3,3,Liverpool,,everton
+2013-11-30,Premier League,Sat,Home,W,4,0,Stoke City,,everton
+2013-12-04,Premier League,Wed,Away,W,1,0,Manchester Utd,,everton
+2013-12-08,Premier League,Sun,Away,D,1,1,Arsenal,,everton
+2013-12-14,Premier League,Sat,Home,W,4,1,Fulham,,everton
+2013-12-22,Premier League,Sun,Away,W,2,1,Swansea City,,everton
+2013-12-26,Premier League,Thu,Home,L,0,1,Sunderland,,everton
+2013-12-29,Premier League,Sun,Home,W,2,1,Southampton,,everton
+2014-01-01,Premier League,Wed,Away,D,1,1,Stoke City,,everton
+2014-01-11,Premier League,Sat,Home,W,2,0,Norwich City,,everton
+2014-01-20,Premier League,Mon,Away,D,1,1,West Brom,,everton
+2014-01-28,Premier League,Tue,Away,L,0,4,Liverpool,,everton
+2014-02-01,Premier League,Sat,Home,W,2,1,Aston Villa,,everton
+2014-02-09,Premier League,Sun,Away,L,0,1,Tottenham,,everton
+2014-02-22,Premier League,Sat,Away,L,0,1,Chelsea,,everton
+2014-03-01,Premier League,Sat,Home,W,1,0,West Ham,,everton
+2014-03-15,Premier League,Sat,Home,W,2,1,Cardiff City,,everton
+2014-03-22,Premier League,Sat,Home,W,3,2,Swansea City,,everton
+2014-03-25,Premier League,Tue,Away,W,3,0,Newcastle Utd,,everton
+2014-03-30,Premier League,Sun,Away,W,3,1,Fulham,,everton
+2014-04-06,Premier League,Sun,Home,W,3,0,Arsenal,,everton
+2014-04-12,Premier League,Sat,Away,W,1,0,Sunderland,,everton
+2014-04-16,Premier League,Wed,Home,L,2,3,Crystal Palace,,everton
+2014-04-20,Premier League,Sun,Home,W,2,0,Manchester Utd,,everton
+2014-04-26,Premier League,Sat,Away,L,0,2,Southampton,,everton
+2014-05-03,Premier League,Sat,Home,L,2,3,Manchester City,,everton
+2014-05-11,Premier League,Sun,Away,W,2,0,Hull City,,everton
+2013-08-17,Premier League,Sat,Away,W,1,0,Sunderland,,fulham
+2013-08-24,Premier League,Sat,Home,L,1,3,Arsenal,,fulham
+2013-08-31,Premier League,Sat,Away,L,0,1,Newcastle Utd,,fulham
+2013-09-14,Premier League,Sat,Home,D,1,1,West Brom,,fulham
+2013-09-21,Premier League,Sat,Away,L,0,2,Chelsea,,fulham
+2013-09-28,Premier League,Sat,Home,L,1,2,Cardiff City,,fulham
+2013-10-05,Premier League,Sat,Home,W,1,0,Stoke City,,fulham
+2013-10-21,Premier League,Mon,Away,W,4,1,Crystal Palace,,fulham
+2013-10-26,Premier League,Sat,Away,L,0,2,Southampton,,fulham
+2013-11-02,Premier League,Sat,Home,L,1,3,Manchester Utd,,fulham
+2013-11-09,Premier League,Sat,Away,L,0,4,Liverpool,,fulham
+2013-11-23,Premier League,Sat,Home,L,1,2,Swansea City,,fulham
+2013-11-30,Premier League,Sat,Away,L,0,3,West Ham,,fulham
+2013-12-04,Premier League,Wed,Home,L,1,2,Tottenham,,fulham
+2013-12-08,Premier League,Sun,Home,W,2,0,Aston Villa,,fulham
+2013-12-14,Premier League,Sat,Away,L,1,4,Everton,,fulham
+2013-12-21,Premier League,Sat,Home,L,2,4,Manchester City,,fulham
+2013-12-26,Premier League,Thu,Away,W,2,1,Norwich City,,fulham
+2013-12-28,Premier League,Sat,Away,L,0,6,Hull City,,fulham
+2014-01-01,Premier League,Wed,Home,W,2,1,West Ham,,fulham
+2014-01-11,Premier League,Sat,Home,L,1,4,Sunderland,,fulham
+2014-01-18,Premier League,Sat,Away,L,0,2,Arsenal,,fulham
+2014-01-28,Premier League,Tue,Away,L,0,2,Swansea City,,fulham
+2014-02-01,Premier League,Sat,Home,L,0,3,Southampton,,fulham
+2014-02-09,Premier League,Sun,Away,D,2,2,Manchester Utd,,fulham
+2014-02-12,Premier League,Wed,Home,L,2,3,Liverpool,,fulham
+2014-02-22,Premier League,Sat,Away,D,1,1,West Brom,,fulham
+2014-03-01,Premier League,Sat,Home,L,1,3,Chelsea,,fulham
+2014-03-08,Premier League,Sat,Away,L,1,3,Cardiff City,,fulham
+2014-03-15,Premier League,Sat,Home,W,1,0,Newcastle Utd,,fulham
+2014-03-22,Premier League,Sat,Away,L,0,5,Manchester City,,fulham
+2014-03-30,Premier League,Sun,Home,L,1,3,Everton,,fulham
+2014-04-05,Premier League,Sat,Away,W,2,1,Aston Villa,,fulham
+2014-04-12,Premier League,Sat,Home,W,1,0,Norwich City,,fulham
+2014-04-19,Premier League,Sat,Away,L,1,3,Tottenham,,fulham
+2014-04-26,Premier League,Sat,Home,D,2,2,Hull City,,fulham
+2014-05-03,Premier League,Sat,Away,L,1,4,Stoke City,,fulham
+2014-05-11,Premier League,Sun,Home,D,2,2,Crystal Palace,,fulham
+2013-08-18,Premier League,Sun,Away,L,0,2,Chelsea,,hull
+2013-08-24,Premier League,Sat,Home,W,1,0,Norwich City,,hull
+2013-08-31,Premier League,Sat,Away,L,0,2,Manchester City,,hull
+2013-09-14,Premier League,Sat,Home,D,1,1,Cardiff City,,hull
+2013-09-21,Premier League,Sat,Away,W,3,2,Newcastle Utd,,hull
+2013-09-28,Premier League,Sat,Home,W,1,0,West Ham,,hull
+2013-10-05,Premier League,Sat,Home,D,0,0,Aston Villa,,hull
+2013-10-19,Premier League,Sat,Away,L,1,2,Everton,,hull
+2013-10-27,Premier League,Sun,Away,L,0,1,Tottenham,,hull
+2013-11-02,Premier League,Sat,Home,W,1,0,Sunderland,,hull
+2013-11-09,Premier League,Sat,Away,L,1,4,Southampton,,hull
+2013-11-23,Premier League,Sat,Home,L,0,1,Crystal Palace,,hull
+2013-12-01,Premier League,Sun,Home,W,3,1,Liverpool,,hull
+2013-12-04,Premier League,Wed,Away,L,0,2,Arsenal,,hull
+2013-12-09,Premier League,Mon,Away,D,1,1,Swansea City,,hull
+2013-12-14,Premier League,Sat,Home,D,0,0,Stoke City,,hull
+2013-12-21,Premier League,Sat,Away,D,1,1,West Brom,,hull
+2013-12-26,Premier League,Thu,Home,L,2,3,Manchester Utd,,hull
+2013-12-28,Premier League,Sat,Home,W,6,0,Fulham,,hull
+2014-01-01,Premier League,Wed,Away,L,0,2,Liverpool,,hull
+2014-01-11,Premier League,Sat,Home,L,0,2,Chelsea,,hull
+2014-01-18,Premier League,Sat,Away,L,0,1,Norwich City,,hull
+2014-01-28,Premier League,Tue,Away,L,0,1,Crystal Palace,,hull
+2014-02-01,Premier League,Sat,Home,D,1,1,Tottenham,,hull
+2014-02-08,Premier League,Sat,Away,W,2,0,Sunderland,,hull
+2014-02-11,Premier League,Tue,Home,L,0,1,Southampton,,hull
+2014-02-22,Premier League,Sat,Away,W,4,0,Cardiff City,,hull
+2014-03-01,Premier League,Sat,Home,L,1,4,Newcastle Utd,,hull
+2014-03-15,Premier League,Sat,Home,L,0,2,Manchester City,,hull
+2014-03-22,Premier League,Sat,Home,W,2,0,West Brom,,hull
+2014-03-26,Premier League,Wed,Away,L,1,2,West Ham,,hull
+2014-03-29,Premier League,Sat,Away,L,0,1,Stoke City,,hull
+2014-04-05,Premier League,Sat,Home,W,1,0,Swansea City,,hull
+2014-04-20,Premier League,Sun,Home,L,0,3,Arsenal,,hull
+2014-04-26,Premier League,Sat,Away,D,2,2,Fulham,,hull
+2014-05-03,Premier League,Sat,Away,L,1,3,Aston Villa,,hull
+2014-05-06,Premier League,Tue,Away,L,1,3,Manchester Utd,,hull
+2014-05-11,Premier League,Sun,Home,L,0,2,Everton,,hull
+2013-08-17,Premier League,Sat,Home,W,1,0,Stoke City,,liverpool
+2013-08-24,Premier League,Sat,Away,W,1,0,Aston Villa,,liverpool
+2013-09-01,Premier League,Sun,Home,W,1,0,Manchester Utd,,liverpool
+2013-09-16,Premier League,Mon,Away,D,2,2,Swansea City,,liverpool
+2013-09-21,Premier League,Sat,Home,L,0,1,Southampton,,liverpool
+2013-09-29,Premier League,Sun,Away,W,3,1,Sunderland,,liverpool
+2013-10-05,Premier League,Sat,Home,W,3,1,Crystal Palace,,liverpool
+2013-10-19,Premier League,Sat,Away,D,2,2,Newcastle Utd,,liverpool
+2013-10-26,Premier League,Sat,Home,W,4,1,West Brom,,liverpool
+2013-11-02,Premier League,Sat,Away,L,0,2,Arsenal,,liverpool
+2013-11-09,Premier League,Sat,Home,W,4,0,Fulham,,liverpool
+2013-11-23,Premier League,Sat,Away,D,3,3,Everton,,liverpool
+2013-12-01,Premier League,Sun,Away,L,1,3,Hull City,,liverpool
+2013-12-04,Premier League,Wed,Home,W,5,1,Norwich City,,liverpool
+2013-12-07,Premier League,Sat,Home,W,4,1,West Ham,,liverpool
+2013-12-15,Premier League,Sun,Away,W,5,0,Tottenham,,liverpool
+2013-12-21,Premier League,Sat,Home,W,3,1,Cardiff City,,liverpool
+2013-12-26,Premier League,Thu,Away,L,1,2,Manchester City,,liverpool
+2013-12-29,Premier League,Sun,Away,L,1,2,Chelsea,,liverpool
+2014-01-01,Premier League,Wed,Home,W,2,0,Hull City,,liverpool
+2014-01-12,Premier League,Sun,Away,W,5,3,Stoke City,,liverpool
+2014-01-18,Premier League,Sat,Home,D,2,2,Aston Villa,,liverpool
+2014-01-28,Premier League,Tue,Home,W,4,0,Everton,,liverpool
+2014-02-02,Premier League,Sun,Away,D,1,1,West Brom,,liverpool
+2014-02-08,Premier League,Sat,Home,W,5,1,Arsenal,,liverpool
+2014-02-12,Premier League,Wed,Away,W,3,2,Fulham,,liverpool
+2014-02-23,Premier League,Sun,Home,W,4,3,Swansea City,,liverpool
+2014-03-01,Premier League,Sat,Away,W,3,0,Southampton,,liverpool
+2014-03-16,Premier League,Sun,Away,W,3,0,Manchester Utd,,liverpool
+2014-03-22,Premier League,Sat,Away,W,6,3,Cardiff City,,liverpool
+2014-03-26,Premier League,Wed,Home,W,2,1,Sunderland,,liverpool
+2014-03-30,Premier League,Sun,Home,W,4,0,Tottenham,,liverpool
+2014-04-06,Premier League,Sun,Away,W,2,1,West Ham,,liverpool
+2014-04-13,Premier League,Sun,Home,W,3,2,Manchester City,,liverpool
+2014-04-20,Premier League,Sun,Away,W,3,2,Norwich City,,liverpool
+2014-04-27,Premier League,Sun,Home,L,0,2,Chelsea,,liverpool
+2014-05-05,Premier League,Mon,Away,D,3,3,Crystal Palace,,liverpool
+2014-05-11,Premier League,Sun,Home,W,2,1,Newcastle Utd,,liverpool
+2013-08-19,Premier League,Mon,Away,L,0,4,Manchester City,,newcastle
+2013-08-24,Premier League,Sat,Home,D,0,0,West Ham,,newcastle
+2013-08-31,Premier League,Sat,Home,W,1,0,Fulham,,newcastle
+2013-09-14,Premier League,Sat,Away,W,2,1,Aston Villa,,newcastle
+2013-09-21,Premier League,Sat,Home,L,2,3,Hull City,,newcastle
+2013-09-30,Premier League,Mon,Away,L,2,3,Everton,,newcastle
+2013-10-05,Premier League,Sat,Away,W,2,1,Cardiff City,,newcastle
+2013-10-19,Premier League,Sat,Home,D,2,2,Liverpool,,newcastle
+2013-10-27,Premier League,Sun,Away,L,1,2,Sunderland,,newcastle
+2013-11-02,Premier League,Sat,Home,W,2,0,Chelsea,,newcastle
+2013-11-10,Premier League,Sun,Away,W,1,0,Tottenham,,newcastle
+2013-11-23,Premier League,Sat,Home,W,2,1,Norwich City,,newcastle
+2013-11-30,Premier League,Sat,Home,W,2,1,West Brom,,newcastle
+2013-12-04,Premier League,Wed,Away,L,0,3,Swansea City,,newcastle
+2013-12-07,Premier League,Sat,Away,W,1,0,Manchester Utd,,newcastle
+2013-12-14,Premier League,Sat,Home,D,1,1,Southampton,,newcastle
+2013-12-21,Premier League,Sat,Away,W,3,0,Crystal Palace,,newcastle
+2013-12-26,Premier League,Thu,Home,W,5,1,Stoke City,,newcastle
+2013-12-29,Premier League,Sun,Home,L,0,1,Arsenal,,newcastle
+2014-01-01,Premier League,Wed,Away,L,0,1,West Brom,,newcastle
+2014-01-12,Premier League,Sun,Home,L,0,2,Manchester City,,newcastle
+2014-01-18,Premier League,Sat,Away,W,3,1,West Ham,,newcastle
+2014-01-28,Premier League,Tue,Away,D,0,0,Norwich City,,newcastle
+2014-02-01,Premier League,Sat,Home,L,0,3,Sunderland,,newcastle
+2014-02-08,Premier League,Sat,Away,L,0,3,Chelsea,,newcastle
+2014-02-12,Premier League,Wed,Home,L,0,4,Tottenham,,newcastle
+2014-02-23,Premier League,Sun,Home,W,1,0,Aston Villa,,newcastle
+2014-03-01,Premier League,Sat,Away,W,4,1,Hull City,,newcastle
+2014-03-15,Premier League,Sat,Away,L,0,1,Fulham,,newcastle
+2014-03-22,Premier League,Sat,Home,W,1,0,Crystal Palace,,newcastle
+2014-03-25,Premier League,Tue,Home,L,0,3,Everton,,newcastle
+2014-03-29,Premier League,Sat,Away,L,0,4,Southampton,,newcastle
+2014-04-05,Premier League,Sat,Home,L,0,4,Manchester Utd,,newcastle
+2014-04-12,Premier League,Sat,Away,L,0,1,Stoke City,,newcastle
+2014-04-19,Premier League,Sat,Home,L,1,2,Swansea City,,newcastle
+2014-04-28,Premier League,Mon,Away,L,0,3,Arsenal,,newcastle
+2014-05-03,Premier League,Sat,Home,W,3,0,Cardiff City,,newcastle
+2014-05-11,Premier League,Sun,Away,L,1,2,Liverpool,,newcastle
+2013-08-17,Premier League,Sat,Home,D,2,2,Everton,,norwich
+2013-08-24,Premier League,Sat,Away,L,0,1,Hull City,,norwich
+2013-08-31,Premier League,Sat,Home,W,1,0,Southampton,,norwich
+2013-09-14,Premier League,Sat,Away,L,0,2,Tottenham,,norwich
+2013-09-21,Premier League,Sat,Home,L,0,1,Aston Villa,,norwich
+2013-09-29,Premier League,Sun,Away,W,1,0,Stoke City,,norwich
+2013-10-06,Premier League,Sun,Home,L,1,3,Chelsea,,norwich
+2013-10-19,Premier League,Sat,Away,L,1,4,Arsenal,,norwich
+2013-10-26,Premier League,Sat,Home,D,0,0,Cardiff City,,norwich
+2013-11-02,Premier League,Sat,Away,L,0,7,Manchester City,,norwich
+2013-11-09,Premier League,Sat,Home,W,3,1,West Ham,,norwich
+2013-11-23,Premier League,Sat,Away,L,1,2,Newcastle Utd,,norwich
+2013-11-30,Premier League,Sat,Home,W,1,0,Crystal Palace,,norwich
+2013-12-04,Premier League,Wed,Away,L,1,5,Liverpool,,norwich
+2013-12-07,Premier League,Sat,Away,W,2,0,West Brom,,norwich
+2013-12-15,Premier League,Sun,Home,D,1,1,Swansea City,,norwich
+2013-12-21,Premier League,Sat,Away,D,0,0,Sunderland,,norwich
+2013-12-26,Premier League,Thu,Home,L,1,2,Fulham,,norwich
+2013-12-28,Premier League,Sat,Home,L,0,1,Manchester Utd,,norwich
+2014-01-01,Premier League,Wed,Away,D,1,1,Crystal Palace,,norwich
+2014-01-11,Premier League,Sat,Away,L,0,2,Everton,,norwich
+2014-01-18,Premier League,Sat,Home,W,1,0,Hull City,,norwich
+2014-01-28,Premier League,Tue,Home,D,0,0,Newcastle Utd,,norwich
+2014-02-01,Premier League,Sat,Away,L,1,2,Cardiff City,,norwich
+2014-02-08,Premier League,Sat,Home,D,0,0,Manchester City,,norwich
+2014-02-11,Premier League,Tue,Away,L,0,2,West Ham,,norwich
+2014-02-23,Premier League,Sun,Home,W,1,0,Tottenham,,norwich
+2014-03-02,Premier League,Sun,Away,L,1,4,Aston Villa,,norwich
+2014-03-08,Premier League,Sat,Home,D,1,1,Stoke City,,norwich
+2014-03-15,Premier League,Sat,Away,L,2,4,Southampton,,norwich
+2014-03-22,Premier League,Sat,Home,W,2,0,Sunderland,,norwich
+2014-03-29,Premier League,Sat,Away,L,0,3,Swansea City,,norwich
+2014-04-05,Premier League,Sat,Home,L,0,1,West Brom,,norwich
+2014-04-12,Premier League,Sat,Away,L,0,1,Fulham,,norwich
+2014-04-20,Premier League,Sun,Home,L,2,3,Liverpool,,norwich
+2014-04-26,Premier League,Sat,Away,L,0,4,Manchester Utd,,norwich
+2014-05-04,Premier League,Sun,Away,D,0,0,Chelsea,,norwich
+2014-05-11,Premier League,Sun,Home,L,0,2,Arsenal,,norwich
+2013-08-18,Premier League,Sun,Home,L,0,1,Tottenham,,palace
+2013-08-24,Premier League,Sat,Away,L,1,2,Stoke City,,palace
+2013-08-31,Premier League,Sat,Home,W,3,1,Sunderland,,palace
+2013-09-14,Premier League,Sat,Away,L,0,2,Manchester Utd,,palace
+2013-09-22,Premier League,Sun,Home,L,0,2,Swansea City,,palace
+2013-09-28,Premier League,Sat,Away,L,0,2,Southampton,,palace
+2013-10-05,Premier League,Sat,Away,L,1,3,Liverpool,,palace
+2013-10-21,Premier League,Mon,Home,L,1,4,Fulham,,palace
+2013-10-26,Premier League,Sat,Home,L,0,2,Arsenal,,palace
+2013-11-02,Premier League,Sat,Away,L,0,2,West Brom,,palace
+2013-11-09,Premier League,Sat,Home,D,0,0,Everton,,palace
+2013-11-23,Premier League,Sat,Away,W,1,0,Hull City,,palace
+2013-11-30,Premier League,Sat,Away,L,0,1,Norwich City,,palace
+2013-12-03,Premier League,Tue,Home,W,1,0,West Ham,,palace
+2013-12-07,Premier League,Sat,Home,W,2,0,Cardiff City,,palace
+2013-12-14,Premier League,Sat,Away,L,1,2,Chelsea,,palace
+2013-12-21,Premier League,Sat,Home,L,0,3,Newcastle Utd,,palace
+2013-12-26,Premier League,Thu,Away,W,1,0,Aston Villa,,palace
+2013-12-28,Premier League,Sat,Away,L,0,1,Manchester City,,palace
+2014-01-01,Premier League,Wed,Home,D,1,1,Norwich City,,palace
+2014-01-11,Premier League,Sat,Away,L,0,2,Tottenham,,palace
+2014-01-18,Premier League,Sat,Home,W,1,0,Stoke City,,palace
+2014-01-28,Premier League,Tue,Home,W,1,0,Hull City,,palace
+2014-02-02,Premier League,Sun,Away,L,0,2,Arsenal,,palace
+2014-02-08,Premier League,Sat,Home,W,3,1,West Brom,,palace
+2014-02-22,Premier League,Sat,Home,L,0,2,Manchester Utd,,palace
+2014-03-02,Premier League,Sun,Away,D,1,1,Swansea City,,palace
+2014-03-08,Premier League,Sat,Home,L,0,1,Southampton,,palace
+2014-03-15,Premier League,Sat,Away,D,0,0,Sunderland,,palace
+2014-03-22,Premier League,Sat,Away,L,0,1,Newcastle Utd,,palace
+2014-03-29,Premier League,Sat,Home,W,1,0,Chelsea,,palace
+2014-04-05,Premier League,Sat,Away,W,3,0,Cardiff City,,palace
+2014-04-12,Premier League,Sat,Home,W,1,0,Aston Villa,,palace
+2014-04-16,Premier League,Wed,Away,W,3,2,Everton,,palace
+2014-04-19,Premier League,Sat,Away,W,1,0,West Ham,,palace
+2014-04-27,Premier League,Sun,Home,L,0,2,Manchester City,,palace
+2014-05-05,Premier League,Mon,Home,D,3,3,Liverpool,,palace
+2014-05-11,Premier League,Sun,Away,D,2,2,Fulham,,palace
+2013-08-17,Premier League,Sat,Away,W,1,0,West Brom,,southampton
+2013-08-24,Premier League,Sat,Home,D,1,1,Sunderland,,southampton
+2013-08-31,Premier League,Sat,Away,L,0,1,Norwich City,,southampton
+2013-09-15,Premier League,Sun,Home,D,0,0,West Ham,,southampton
+2013-09-21,Premier League,Sat,Away,W,1,0,Liverpool,,southampton
+2013-09-28,Premier League,Sat,Home,W,2,0,Crystal Palace,,southampton
+2013-10-06,Premier League,Sun,Home,W,2,0,Swansea City,,southampton
+2013-10-19,Premier League,Sat,Away,D,1,1,Manchester Utd,,southampton
+2013-10-26,Premier League,Sat,Home,W,2,0,Fulham,,southampton
+2013-11-02,Premier League,Sat,Away,D,1,1,Stoke City,,southampton
+2013-11-09,Premier League,Sat,Home,W,4,1,Hull City,,southampton
+2013-11-23,Premier League,Sat,Away,L,0,2,Arsenal,,southampton
+2013-12-01,Premier League,Sun,Away,L,1,3,Chelsea,,southampton
+2013-12-04,Premier League,Wed,Home,L,2,3,Aston Villa,,southampton
+2013-12-07,Premier League,Sat,Home,D,1,1,Manchester City,,southampton
+2013-12-14,Premier League,Sat,Away,D,1,1,Newcastle Utd,,southampton
+2013-12-22,Premier League,Sun,Home,L,2,3,Tottenham,,southampton
+2013-12-26,Premier League,Thu,Away,W,3,0,Cardiff City,,southampton
+2013-12-29,Premier League,Sun,Away,L,1,2,Everton,,southampton
+2014-01-01,Premier League,Wed,Home,L,0,3,Chelsea,,southampton
+2014-01-11,Premier League,Sat,Home,W,1,0,West Brom,,southampton
+2014-01-18,Premier League,Sat,Away,D,2,2,Sunderland,,southampton
+2014-01-28,Premier League,Tue,Home,D,2,2,Arsenal,,southampton
+2014-02-01,Premier League,Sat,Away,W,3,0,Fulham,,southampton
+2014-02-08,Premier League,Sat,Home,D,2,2,Stoke City,,southampton
+2014-02-11,Premier League,Tue,Away,W,1,0,Hull City,,southampton
+2014-02-22,Premier League,Sat,Away,L,1,3,West Ham,,southampton
+2014-03-01,Premier League,Sat,Home,L,0,3,Liverpool,,southampton
+2014-03-08,Premier League,Sat,Away,W,1,0,Crystal Palace,,southampton
+2014-03-15,Premier League,Sat,Home,W,4,2,Norwich City,,southampton
+2014-03-23,Premier League,Sun,Away,L,2,3,Tottenham,,southampton
+2014-03-29,Premier League,Sat,Home,W,4,0,Newcastle Utd,,southampton
+2014-04-05,Premier League,Sat,Away,L,1,4,Manchester City,,southampton
+2014-04-12,Premier League,Sat,Home,L,0,1,Cardiff City,,southampton
+2014-04-19,Premier League,Sat,Away,D,0,0,Aston Villa,,southampton
+2014-04-26,Premier League,Sat,Home,W,2,0,Everton,,southampton
+2014-05-03,Premier League,Sat,Away,W,1,0,Swansea City,,southampton
+2014-05-11,Premier League,Sun,Home,D,1,1,Manchester Utd,,southampton
+2013-08-17,Premier League,Sat,Away,L,0,1,Liverpool,,stoke
+2013-08-24,Premier League,Sat,Home,W,2,1,Crystal Palace,,stoke
+2013-08-31,Premier League,Sat,Away,W,1,0,West Ham,,stoke
+2013-09-14,Premier League,Sat,Home,D,0,0,Manchester City,,stoke
+2013-09-22,Premier League,Sun,Away,L,1,3,Arsenal,,stoke
+2013-09-29,Premier League,Sun,Home,L,0,1,Norwich City,,stoke
+2013-10-05,Premier League,Sat,Away,L,0,1,Fulham,,stoke
+2013-10-19,Premier League,Sat,Home,D,0,0,West Brom,,stoke
+2013-10-26,Premier League,Sat,Away,L,2,3,Manchester Utd,,stoke
+2013-11-02,Premier League,Sat,Home,D,1,1,Southampton,,stoke
+2013-11-10,Premier League,Sun,Away,D,3,3,Swansea City,,stoke
+2013-11-23,Premier League,Sat,Home,W,2,0,Sunderland,,stoke
+2013-11-30,Premier League,Sat,Away,L,0,4,Everton,,stoke
+2013-12-04,Premier League,Wed,Home,D,0,0,Cardiff City,,stoke
+2013-12-07,Premier League,Sat,Home,W,3,2,Chelsea,,stoke
+2013-12-14,Premier League,Sat,Away,D,0,0,Hull City,,stoke
+2013-12-21,Premier League,Sat,Home,W,2,1,Aston Villa,,stoke
+2013-12-26,Premier League,Thu,Away,L,1,5,Newcastle Utd,,stoke
+2013-12-29,Premier League,Sun,Away,L,0,3,Tottenham,,stoke
+2014-01-01,Premier League,Wed,Home,D,1,1,Everton,,stoke
+2014-01-12,Premier League,Sun,Home,L,3,5,Liverpool,,stoke
+2014-01-18,Premier League,Sat,Away,L,0,1,Crystal Palace,,stoke
+2014-01-29,Premier League,Wed,Away,L,0,1,Sunderland,,stoke
+2014-02-01,Premier League,Sat,Home,W,2,1,Manchester Utd,,stoke
+2014-02-08,Premier League,Sat,Away,D,2,2,Southampton,,stoke
+2014-02-12,Premier League,Wed,Home,D,1,1,Swansea City,,stoke
+2014-02-22,Premier League,Sat,Away,L,0,1,Manchester City,,stoke
+2014-03-01,Premier League,Sat,Home,W,1,0,Arsenal,,stoke
+2014-03-08,Premier League,Sat,Away,D,1,1,Norwich City,,stoke
+2014-03-15,Premier League,Sat,Home,W,3,1,West Ham,,stoke
+2014-03-23,Premier League,Sun,Away,W,4,1,Aston Villa,,stoke
+2014-03-29,Premier League,Sat,Home,W,1,0,Hull City,,stoke
+2014-04-05,Premier League,Sat,Away,L,0,3,Chelsea,,stoke
+2014-04-12,Premier League,Sat,Home,W,1,0,Newcastle Utd,,stoke
+2014-04-19,Premier League,Sat,Away,D,1,1,Cardiff City,,stoke
+2014-04-26,Premier League,Sat,Home,L,0,1,Tottenham,,stoke
+2014-05-03,Premier League,Sat,Home,W,4,1,Fulham,,stoke
+2014-05-11,Premier League,Sun,Away,W,2,1,West Brom,,stoke
+2013-08-17,Premier League,Sat,Home,L,0,1,Fulham,,sunderland
+2013-08-24,Premier League,Sat,Away,D,1,1,Southampton,,sunderland
+2013-08-31,Premier League,Sat,Away,L,1,3,Crystal Palace,,sunderland
+2013-09-14,Premier League,Sat,Home,L,1,3,Arsenal,,sunderland
+2013-09-21,Premier League,Sat,Away,L,0,3,West Brom,,sunderland
+2013-09-29,Premier League,Sun,Home,L,1,3,Liverpool,,sunderland
+2013-10-05,Premier League,Sat,Home,L,1,2,Manchester Utd,,sunderland
+2013-10-19,Premier League,Sat,Away,L,0,4,Swansea City,,sunderland
+2013-10-27,Premier League,Sun,Home,W,2,1,Newcastle Utd,,sunderland
+2013-11-02,Premier League,Sat,Away,L,0,1,Hull City,,sunderland
+2013-11-10,Premier League,Sun,Home,W,1,0,Manchester City,,sunderland
+2013-11-23,Premier League,Sat,Away,L,0,2,Stoke City,,sunderland
+2013-11-30,Premier League,Sat,Away,D,0,0,Aston Villa,,sunderland
+2013-12-04,Premier League,Wed,Home,L,3,4,Chelsea,,sunderland
+2013-12-07,Premier League,Sat,Home,L,1,2,Tottenham,,sunderland
+2013-12-14,Premier League,Sat,Away,D,0,0,West Ham,,sunderland
+2013-12-21,Premier League,Sat,Home,D,0,0,Norwich City,,sunderland
+2013-12-26,Premier League,Thu,Away,W,1,0,Everton,,sunderland
+2013-12-28,Premier League,Sat,Away,D,2,2,Cardiff City,,sunderland
+2014-01-01,Premier League,Wed,Home,L,0,1,Aston Villa,,sunderland
+2014-01-11,Premier League,Sat,Away,W,4,1,Fulham,,sunderland
+2014-01-18,Premier League,Sat,Home,D,2,2,Southampton,,sunderland
+2014-01-29,Premier League,Wed,Home,W,1,0,Stoke City,,sunderland
+2014-02-01,Premier League,Sat,Away,W,3,0,Newcastle Utd,,sunderland
+2014-02-08,Premier League,Sat,Home,L,0,2,Hull City,,sunderland
+2014-02-22,Premier League,Sat,Away,L,1,4,Arsenal,,sunderland
+2014-03-15,Premier League,Sat,Home,D,0,0,Crystal Palace,,sunderland
+2014-03-22,Premier League,Sat,Away,L,0,2,Norwich City,,sunderland
+2014-03-26,Premier League,Wed,Away,L,1,2,Liverpool,,sunderland
+2014-03-31,Premier League,Mon,Home,L,1,2,West Ham,,sunderland
+2014-04-07,Premier League,Mon,Away,L,1,5,Tottenham,,sunderland
+2014-04-12,Premier League,Sat,Home,L,0,1,Everton,,sunderland
+2014-04-16,Premier League,Wed,Away,D,2,2,Manchester City,,sunderland
+2014-04-19,Premier League,Sat,Away,W,2,1,Chelsea,,sunderland
+2014-04-27,Premier League,Sun,Home,W,4,0,Cardiff City,,sunderland
+2014-05-03,Premier League,Sat,Away,W,1,0,Manchester Utd,,sunderland
+2014-05-07,Premier League,Wed,Home,W,2,0,West Brom,,sunderland
+2014-05-11,Premier League,Sun,Home,L,1,3,Swansea City,,sunderland
+2013-08-01,Europa Lg,Thu,Home,W,4,0,se Malmö,,swansea
+2013-08-08,Europa Lg,Thu,Away,D,0,0,se Malmö,,swansea
+2013-08-17,Premier League,Sat,Home,L,1,4,Manchester Utd,,swansea
+2013-08-22,Europa Lg,Thu,Home,W,5,1,ro Petrolul,,swansea
+2013-08-25,Premier League,Sun,Away,L,0,1,Tottenham,,swansea
+2013-08-29,Europa Lg,Thu,Away,L,1,2,ro Petrolul,,swansea
+2013-09-01,Premier League,Sun,Away,W,2,0,West Brom,,swansea
+2013-09-16,Premier League,Mon,Home,D,2,2,Liverpool,,swansea
+2013-09-19,Europa Lg,Thu,Away,W,3,0,es Valencia,,swansea
+2013-09-22,Premier League,Sun,Away,W,2,0,Crystal Palace,,swansea
+2013-09-28,Premier League,Sat,Home,L,1,2,Arsenal,,swansea
+2013-10-03,Europa Lg,Thu,Home,W,1,0,ch St. Gallen,,swansea
+2013-10-06,Premier League,Sun,Away,L,0,2,Southampton,,swansea
+2013-10-19,Premier League,Sat,Home,W,4,0,Sunderland,,swansea
+2013-10-24,Europa Lg,Thu,Home,D,1,1,ru Kuban,,swansea
+2013-10-27,Premier League,Sun,Home,D,0,0,West Ham,,swansea
+2013-11-03,Premier League,Sun,Away,L,0,1,Cardiff City,,swansea
+2013-11-07,Europa Lg,Thu,Away,D,1,1,ru Kuban,,swansea
+2013-11-10,Premier League,Sun,Home,D,3,3,Stoke City,,swansea
+2013-11-23,Premier League,Sat,Away,W,2,1,Fulham,,swansea
+2013-11-28,Europa Lg,Thu,Home,L,0,1,es Valencia,,swansea
+2013-12-01,Premier League,Sun,Away,L,0,3,Manchester City,,swansea
+2013-12-04,Premier League,Wed,Home,W,3,0,Newcastle Utd,,swansea
+2013-12-09,Premier League,Mon,Home,D,1,1,Hull City,,swansea
+2013-12-12,Europa Lg,Thu,Away,L,0,1,ch St. Gallen,,swansea
+2013-12-15,Premier League,Sun,Away,D,1,1,Norwich City,,swansea
+2013-12-22,Premier League,Sun,Home,L,1,2,Everton,,swansea
+2013-12-26,Premier League,Thu,Away,L,0,1,Chelsea,,swansea
+2013-12-28,Premier League,Sat,Away,D,1,1,Aston Villa,,swansea
+2014-01-01,Premier League,Wed,Home,L,2,3,Manchester City,,swansea
+2014-01-11,Premier League,Sat,Away,L,0,2,Manchester Utd,,swansea
+2014-01-19,Premier League,Sun,Home,L,1,3,Tottenham,,swansea
+2014-01-28,Premier League,Tue,Home,W,2,0,Fulham,,swansea
+2014-02-01,Premier League,Sat,Away,L,0,2,West Ham,,swansea
+2014-02-08,Premier League,Sat,Home,W,3,0,Cardiff City,,swansea
+2014-02-12,Premier League,Wed,Away,D,1,1,Stoke City,,swansea
+2014-02-20,Europa Lg,Thu,Home,D,0,0,it Napoli,,swansea
+2014-02-23,Premier League,Sun,Away,L,3,4,Liverpool,,swansea
+2014-02-27,Europa Lg,Thu,Away,L,1,3,it Napoli,,swansea
+2014-03-02,Premier League,Sun,Home,D,1,1,Crystal Palace,,swansea
+2014-03-15,Premier League,Sat,Home,L,1,2,West Brom,,swansea
+2014-03-22,Premier League,Sat,Away,L,2,3,Everton,,swansea
+2014-03-25,Premier League,Tue,Away,D,2,2,Arsenal,,swansea
+2014-03-29,Premier League,Sat,Home,W,3,0,Norwich City,,swansea
+2014-04-05,Premier League,Sat,Away,L,0,1,Hull City,,swansea
+2014-04-13,Premier League,Sun,Home,L,0,1,Chelsea,,swansea
+2014-04-19,Premier League,Sat,Away,W,2,1,Newcastle Utd,,swansea
+2014-04-26,Premier League,Sat,Home,W,4,1,Aston Villa,,swansea
+2014-05-03,Premier League,Sat,Home,L,0,1,Southampton,,swansea
+2014-05-11,Premier League,Sun,Away,W,3,1,Sunderland,,swansea
+2013-08-18,Premier League,Sun,Away,W,1,0,Crystal Palace,,tottenham
+2013-08-22,Europa Lg,Thu,Away,W,5,0,ge Dinamo Tbilisi,,tottenham
+2013-08-25,Premier League,Sun,Home,W,1,0,Swansea City,,tottenham
+2013-08-29,Europa Lg,Thu,Home,W,3,0,ge Dinamo Tbilisi,,tottenham
+2013-09-01,Premier League,Sun,Away,L,0,1,Arsenal,,tottenham
+2013-09-14,Premier League,Sat,Home,W,2,0,Norwich City,,tottenham
+2013-09-19,Europa Lg,Thu,Home,W,3,0,no Tromsø,,tottenham
+2013-09-22,Premier League,Sun,Away,W,1,0,Cardiff City,,tottenham
+2013-09-28,Premier League,Sat,Home,D,1,1,Chelsea,,tottenham
+2013-10-03,Europa Lg,Thu,Away,W,2,0,ru Anzhi,,tottenham
+2013-10-06,Premier League,Sun,Home,L,0,3,West Ham,,tottenham
+2013-10-20,Premier League,Sun,Away,W,2,0,Aston Villa,,tottenham
+2013-10-24,Europa Lg,Thu,Away,W,2,0,md Sheriff Tiraspol,,tottenham
+2013-10-27,Premier League,Sun,Home,W,1,0,Hull City,,tottenham
+2013-11-03,Premier League,Sun,Away,D,0,0,Everton,,tottenham
+2013-11-07,Europa Lg,Thu,Home,W,2,1,md Sheriff Tiraspol,,tottenham
+2013-11-10,Premier League,Sun,Home,L,0,1,Newcastle Utd,,tottenham
+2013-11-24,Premier League,Sun,Away,L,0,6,Manchester City,,tottenham
+2013-11-28,Europa Lg,Thu,Away,W,2,0,no Tromsø,,tottenham
+2013-12-01,Premier League,Sun,Home,D,2,2,Manchester Utd,,tottenham
+2013-12-04,Premier League,Wed,Away,W,2,1,Fulham,,tottenham
+2013-12-07,Premier League,Sat,Away,W,2,1,Sunderland,,tottenham
+2013-12-12,Europa Lg,Thu,Home,W,4,1,ru Anzhi,,tottenham
+2013-12-15,Premier League,Sun,Home,L,0,5,Liverpool,,tottenham
+2013-12-22,Premier League,Sun,Away,W,3,2,Southampton,,tottenham
+2013-12-26,Premier League,Thu,Home,D,1,1,West Brom,,tottenham
+2013-12-29,Premier League,Sun,Home,W,3,0,Stoke City,,tottenham
+2014-01-01,Premier League,Wed,Away,W,2,1,Manchester Utd,,tottenham
+2014-01-11,Premier League,Sat,Home,W,2,0,Crystal Palace,,tottenham
+2014-01-19,Premier League,Sun,Away,W,3,1,Swansea City,,tottenham
+2014-01-29,Premier League,Wed,Home,L,1,5,Manchester City,,tottenham
+2014-02-01,Premier League,Sat,Away,D,1,1,Hull City,,tottenham
+2014-02-09,Premier League,Sun,Home,W,1,0,Everton,,tottenham
+2014-02-12,Premier League,Wed,Away,W,4,0,Newcastle Utd,,tottenham
+2014-02-20,Europa Lg,Thu,Away,L,0,1,ua Dnipro,,tottenham
+2014-02-23,Premier League,Sun,Away,L,0,1,Norwich City,,tottenham
+2014-02-27,Europa Lg,Thu,Home,W,3,1,ua Dnipro,,tottenham
+2014-03-02,Premier League,Sun,Home,W,1,0,Cardiff City,,tottenham
+2014-03-08,Premier League,Sat,Away,L,0,4,Chelsea,,tottenham
+2014-03-13,Europa Lg,Thu,Home,L,1,3,pt Benfica,,tottenham
+2014-03-16,Premier League,Sun,Home,L,0,1,Arsenal,,tottenham
+2014-03-20,Europa Lg,Thu,Away,D,2,2,pt Benfica,,tottenham
+2014-03-23,Premier League,Sun,Home,W,3,2,Southampton,,tottenham
+2014-03-30,Premier League,Sun,Away,L,0,4,Liverpool,,tottenham
+2014-04-07,Premier League,Mon,Home,W,5,1,Sunderland,,tottenham
+2014-04-12,Premier League,Sat,Away,D,3,3,West Brom,,tottenham
+2014-04-19,Premier League,Sat,Home,W,3,1,Fulham,,tottenham
+2014-04-26,Premier League,Sat,Away,W,1,0,Stoke City,,tottenham
+2014-05-03,Premier League,Sat,Away,L,0,2,West Ham,,tottenham
+2014-05-11,Premier League,Sun,Home,W,3,0,Aston Villa,,tottenham
+2013-08-17,Premier League,Sat,Away,W,4,1,Swansea City,,united
+2013-08-26,Premier League,Mon,Home,D,0,0,Chelsea,,united
+2013-09-01,Premier League,Sun,Away,L,0,1,Liverpool,,united
+2013-09-14,Premier League,Sat,Home,W,2,0,Crystal Palace,,united
+2013-09-17,Champions Lg,Tue,Home,W,4,2,de Leverkusen,,united
+2013-09-22,Premier League,Sun,Away,L,1,4,Manchester City,,united
+2013-09-28,Premier League,Sat,Home,L,1,2,West Brom,,united
+2013-10-02,Champions Lg,Wed,Away,D,1,1,ua Shakhtar,,united
+2013-10-05,Premier League,Sat,Away,W,2,1,Sunderland,,united
+2013-10-19,Premier League,Sat,Home,D,1,1,Southampton,,united
+2013-10-23,Champions Lg,Wed,Home,W,1,0,es Real Sociedad,,united
+2013-10-26,Premier League,Sat,Home,W,3,2,Stoke City,,united
+2013-11-02,Premier League,Sat,Away,W,3,1,Fulham,,united
+2013-11-05,Champions Lg,Tue,Away,D,0,0,es Real Sociedad,,united
+2013-11-10,Premier League,Sun,Home,W,1,0,Arsenal,,united
+2013-11-24,Premier League,Sun,Away,D,2,2,Cardiff City,,united
+2013-11-27,Champions Lg,Wed,Away,W,5,0,de Leverkusen,,united
+2013-12-01,Premier League,Sun,Away,D,2,2,Tottenham,,united
+2013-12-04,Premier League,Wed,Home,L,0,1,Everton,,united
+2013-12-07,Premier League,Sat,Home,L,0,1,Newcastle Utd,,united
+2013-12-10,Champions Lg,Tue,Home,W,1,0,ua Shakhtar,,united
+2013-12-15,Premier League,Sun,Away,W,3,0,Aston Villa,,united
+2013-12-21,Premier League,Sat,Home,W,3,1,West Ham,,united
+2013-12-26,Premier League,Thu,Away,W,3,2,Hull City,,united
+2013-12-28,Premier League,Sat,Away,W,1,0,Norwich City,,united
+2014-01-01,Premier League,Wed,Home,L,1,2,Tottenham,,united
+2014-01-11,Premier League,Sat,Home,W,2,0,Swansea City,,united
+2014-01-19,Premier League,Sun,Away,L,1,3,Chelsea,,united
+2014-01-28,Premier League,Tue,Home,W,2,0,Cardiff City,,united
+2014-02-01,Premier League,Sat,Away,L,1,2,Stoke City,,united
+2014-02-09,Premier League,Sun,Home,D,2,2,Fulham,,united
+2014-02-12,Premier League,Wed,Away,D,0,0,Arsenal,,united
+2014-02-22,Premier League,Sat,Away,W,2,0,Crystal Palace,,united
+2014-02-25,Champions Lg,Tue,Away,L,0,2,gr Olympiacos,,united
+2014-03-08,Premier League,Sat,Away,W,3,0,West Brom,,united
+2014-03-16,Premier League,Sun,Home,L,0,3,Liverpool,,united
+2014-03-19,Champions Lg,Wed,Home,W,3,0,gr Olympiacos,,united
+2014-03-22,Premier League,Sat,Away,W,2,0,West Ham,,united
+2014-03-25,Premier League,Tue,Home,L,0,3,Manchester City,,united
+2014-03-29,Premier League,Sat,Home,W,4,1,Aston Villa,,united
+2014-04-01,Champions Lg,Tue,Home,D,1,1,de Bayern Munich,,united
+2014-04-05,Premier League,Sat,Away,W,4,0,Newcastle Utd,,united
+2014-04-09,Champions Lg,Wed,Away,L,1,3,de Bayern Munich,,united
+2014-04-20,Premier League,Sun,Away,L,0,2,Everton,,united
+2014-04-26,Premier League,Sat,Home,W,4,0,Norwich City,,united
+2014-05-03,Premier League,Sat,Home,L,0,1,Sunderland,,united
+2014-05-06,Premier League,Tue,Home,W,3,1,Hull City,,united
+2014-05-11,Premier League,Sun,Away,D,1,1,Southampton,,united
+2013-08-17,Premier League,Sat,Home,L,0,1,Southampton,,west-brom
+2013-08-24,Premier League,Sat,Away,D,0,0,Everton,,west-brom
+2013-09-01,Premier League,Sun,Home,L,0,2,Swansea City,,west-brom
+2013-09-14,Premier League,Sat,Away,D,1,1,Fulham,,west-brom
+2013-09-21,Premier League,Sat,Home,W,3,0,Sunderland,,west-brom
+2013-09-28,Premier League,Sat,Away,W,2,1,Manchester Utd,,west-brom
+2013-10-06,Premier League,Sun,Home,D,1,1,Arsenal,,west-brom
+2013-10-19,Premier League,Sat,Away,D,0,0,Stoke City,,west-brom
+2013-10-26,Premier League,Sat,Away,L,1,4,Liverpool,,west-brom
+2013-11-02,Premier League,Sat,Home,W,2,0,Crystal Palace,,west-brom
+2013-11-09,Premier League,Sat,Away,D,2,2,Chelsea,,west-brom
+2013-11-25,Premier League,Mon,Home,D,2,2,Aston Villa,,west-brom
+2013-11-30,Premier League,Sat,Away,L,1,2,Newcastle Utd,,west-brom
+2013-12-04,Premier League,Wed,Home,L,2,3,Manchester City,,west-brom
+2013-12-07,Premier League,Sat,Home,L,0,2,Norwich City,,west-brom
+2013-12-14,Premier League,Sat,Away,L,0,1,Cardiff City,,west-brom
+2013-12-21,Premier League,Sat,Home,D,1,1,Hull City,,west-brom
+2013-12-26,Premier League,Thu,Away,D,1,1,Tottenham,,west-brom
+2013-12-28,Premier League,Sat,Away,D,3,3,West Ham,,west-brom
+2014-01-01,Premier League,Wed,Home,W,1,0,Newcastle Utd,,west-brom
+2014-01-11,Premier League,Sat,Away,L,0,1,Southampton,,west-brom
+2014-01-20,Premier League,Mon,Home,D,1,1,Everton,,west-brom
+2014-01-29,Premier League,Wed,Away,L,3,4,Aston Villa,,west-brom
+2014-02-02,Premier League,Sun,Home,D,1,1,Liverpool,,west-brom
+2014-02-08,Premier League,Sat,Away,L,1,3,Crystal Palace,,west-brom
+2014-02-11,Premier League,Tue,Home,D,1,1,Chelsea,,west-brom
+2014-02-22,Premier League,Sat,Home,D,1,1,Fulham,,west-brom
+2014-03-08,Premier League,Sat,Home,L,0,3,Manchester Utd,,west-brom
+2014-03-15,Premier League,Sat,Away,W,2,1,Swansea City,,west-brom
+2014-03-22,Premier League,Sat,Away,L,0,2,Hull City,,west-brom
+2014-03-29,Premier League,Sat,Home,D,3,3,Cardiff City,,west-brom
+2014-04-05,Premier League,Sat,Away,W,1,0,Norwich City,,west-brom
+2014-04-12,Premier League,Sat,Home,D,3,3,Tottenham,,west-brom
+2014-04-21,Premier League,Mon,Away,L,1,3,Manchester City,,west-brom
+2014-04-26,Premier League,Sat,Home,W,1,0,West Ham,,west-brom
+2014-05-04,Premier League,Sun,Away,L,0,1,Arsenal,,west-brom
+2014-05-07,Premier League,Wed,Away,L,0,2,Sunderland,,west-brom
+2014-05-11,Premier League,Sun,Home,L,1,2,Stoke City,,west-brom
+2013-08-17,Premier League,Sat,Home,W,2,0,Cardiff City,,west-ham
+2013-08-24,Premier League,Sat,Away,D,0,0,Newcastle Utd,,west-ham
+2013-08-31,Premier League,Sat,Home,L,0,1,Stoke City,,west-ham
+2013-09-15,Premier League,Sun,Away,D,0,0,Southampton,,west-ham
+2013-09-21,Premier League,Sat,Home,L,2,3,Everton,,west-ham
+2013-09-28,Premier League,Sat,Away,L,0,1,Hull City,,west-ham
+2013-10-06,Premier League,Sun,Away,W,3,0,Tottenham,,west-ham
+2013-10-19,Premier League,Sat,Home,L,1,3,Manchester City,,west-ham
+2013-10-27,Premier League,Sun,Away,D,0,0,Swansea City,,west-ham
+2013-11-02,Premier League,Sat,Home,D,0,0,Aston Villa,,west-ham
+2013-11-09,Premier League,Sat,Away,L,1,3,Norwich City,,west-ham
+2013-11-23,Premier League,Sat,Home,L,0,3,Chelsea,,west-ham
+2013-11-30,Premier League,Sat,Home,W,3,0,Fulham,,west-ham
+2013-12-03,Premier League,Tue,Away,L,0,1,Crystal Palace,,west-ham
+2013-12-07,Premier League,Sat,Away,L,1,4,Liverpool,,west-ham
+2013-12-14,Premier League,Sat,Home,D,0,0,Sunderland,,west-ham
+2013-12-21,Premier League,Sat,Away,L,1,3,Manchester Utd,,west-ham
+2013-12-26,Premier League,Thu,Home,L,1,3,Arsenal,,west-ham
+2013-12-28,Premier League,Sat,Home,D,3,3,West Brom,,west-ham
+2014-01-01,Premier League,Wed,Away,L,1,2,Fulham,,west-ham
+2014-01-11,Premier League,Sat,Away,W,2,0,Cardiff City,,west-ham
+2014-01-18,Premier League,Sat,Home,L,1,3,Newcastle Utd,,west-ham
+2014-01-29,Premier League,Wed,Away,D,0,0,Chelsea,,west-ham
+2014-02-01,Premier League,Sat,Home,W,2,0,Swansea City,,west-ham
+2014-02-08,Premier League,Sat,Away,W,2,0,Aston Villa,,west-ham
+2014-02-11,Premier League,Tue,Home,W,2,0,Norwich City,,west-ham
+2014-02-22,Premier League,Sat,Home,W,3,1,Southampton,,west-ham
+2014-03-01,Premier League,Sat,Away,L,0,1,Everton,,west-ham
+2014-03-15,Premier League,Sat,Away,L,1,3,Stoke City,,west-ham
+2014-03-22,Premier League,Sat,Home,L,0,2,Manchester Utd,,west-ham
+2014-03-26,Premier League,Wed,Home,W,2,1,Hull City,,west-ham
+2014-03-31,Premier League,Mon,Away,W,2,1,Sunderland,,west-ham
+2014-04-06,Premier League,Sun,Home,L,1,2,Liverpool,,west-ham
+2014-04-15,Premier League,Tue,Away,L,1,3,Arsenal,,west-ham
+2014-04-19,Premier League,Sat,Home,L,0,1,Crystal Palace,,west-ham
+2014-04-26,Premier League,Sat,Away,L,0,1,West Brom,,west-ham
+2014-05-03,Premier League,Sat,Home,W,2,0,Tottenham,,west-ham
+2014-05-11,Premier League,Sun,Away,L,0,2,Manchester City,,west-ham
