@@ -30,6 +30,8 @@
   "Mid": ["HMid", "AMid"],
   "Att": ["HAtt", "AAtt"],
   "Ovr": ["HOvr", "AOvr"],
+  "LastSeasonRank": ["HRank", "ARank"],
+  "PromotedMatchup": ["HPromoted", "APromoted"],
   "WinnerOdd": ["B365H", "B365A"],
   "Round": ["HTRound", "ATRound"]
 }
